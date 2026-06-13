@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: #0b0e14;
+  color: #e6e9f0;
+}
+
+body {
+  font-feature-settings: "tnum" 1; /* tabular numbers for analytics */
+}
+
+/* Subtle focus ring for keyboard-driven flow */
+*:focus-visible {
+  outline: 2px solid #4f8cff;
+  outline-offset: 2px;
+}

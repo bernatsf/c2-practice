@@ -1,0 +1,617 @@
+[
+  {
+    "id": "p1-01",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Despite what the advertisement claimed, the ____ cost of the holiday was almost double the quoted price.",
+    "options": [
+      "actual",
+      "current",
+      "topical",
+      "punctual"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "actual",
+    "explanation": "Catalan/Spanish 'actual' means 'current', so you instinctively reject 'actual' here. But English 'actual' means 'real/genuine' — exactly the sense required. 'Current' would mean 'present-day', which is wrong."
+  },
+  {
+    "id": "p1-02",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "More than 2,000 people are expected to ____ the trade fair in Madrid this weekend.",
+    "options": [
+      "assist",
+      "attend",
+      "assess",
+      "attain"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "attend",
+    "explanation": "'Asistir a un evento' = to attend. 'Assist' is a false friend meaning 'to help'. You attend a fair; you don't 'assist' it."
+  },
+  {
+    "id": "p1-03",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "He's far too ____ to share his feelings with strangers; the slightest remark can upset him.",
+    "options": [
+      "sensible",
+      "sensitive",
+      "conscious",
+      "conscientious"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sensitive",
+    "explanation": "Spanish/Catalan 'sensible' = English 'sensitive'. English 'sensible' means 'sensato/with good judgement' — the opposite of what's needed."
+  },
+  {
+    "id": "p1-04",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "I hadn't seen him for years, so it took me a moment to ____ who he was.",
+    "options": [
+      "realise",
+      "carry out",
+      "perform",
+      "fulfil"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "realise",
+    "explanation": "'Realizar' tempts you toward 'carry out/perform'. But here you need 'realise' = darse cuenta. The Spanish verb 'realizar' (to carry out) is the actual false friend."
+  },
+  {
+    "id": "p1-05",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The new evidence ____ serious doubt on the reliability of the witness.",
+    "options": [
+      "casts",
+      "throws",
+      "puts",
+      "lays"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "casts",
+    "explanation": "Collocation, not logic. 'Sembrar dudas' loosely tempts a translation, but English fixes 'cast doubt on'. 'Throw/put/lay doubt' are all wrong — collocations don't translate."
+  },
+  {
+    "id": "p1-06",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "I don't know how you ____ his constant complaining; I'd have lost my temper long ago.",
+    "options": [
+      "put up with",
+      "put on with",
+      "stand up to",
+      "hold on to"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "put up with",
+    "explanation": "'Soportar/aguantar' is a single verb in Spanish, so the three-part 'put up with' feels redundant and you drop a particle. 'Stand up to' means to confront, not to tolerate."
+  },
+  {
+    "id": "p1-07",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Young children are particularly ____ to ear infections during the winter months.",
+    "options": [
+      "prone",
+      "willing",
+      "devoted",
+      "addicted"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "prone",
+    "explanation": "'Propenso a' = 'prone to'. The trap is reaching for a positive-leaning word. 'Addicted to' needs a habit, not an ailment; 'devoted/willing' don't take this object at all."
+  },
+  {
+    "id": "p1-08",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "After months of negotiation, the two clubs ____ reached an agreement over the transfer fee.",
+    "options": [
+      "eventually",
+      "actually",
+      "punctually",
+      "occasionally"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "eventually",
+    "explanation": "Spanish 'eventualmente' means 'possibly/occasionally', so you may pick 'occasionally'. English 'eventually' = finalmente/al final. A complete reversal of meaning."
+  },
+  {
+    "id": "p1-09",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "When questioned by the police, the suspect ____ all knowledge of the robbery.",
+    "options": [
+      "denied",
+      "refused",
+      "declined",
+      "negated"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "denied",
+    "explanation": "'Negar' looks like 'negate', but 'negate' means to nullify/cancel out. To say something isn't true = 'deny'. 'Refuse/decline' answer requests, not facts."
+  },
+  {
+    "id": "p1-10",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "It took the researchers years to ____ a vaccine that was both safe and effective.",
+    "options": [
+      "come up with",
+      "come round to",
+      "come down with",
+      "come in for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "come up with",
+    "explanation": "'Come up with' = to devise/produce an idea. 'Come down with' = to fall ill (a tempting trap given 'vaccine'). The particles carry the entire meaning — there is no one-to-one Spanish verb."
+  },
+  {
+    "id": "p1-11",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "I went to the ____ to borrow a few novels for the summer.",
+    "options": [
+      "library",
+      "bookshop",
+      "stationer's",
+      "newsagent's"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "library",
+    "explanation": "'Librería' = bookshop (where you buy). 'Biblioteca' = library (where you borrow). 'Borrow' is the giveaway: you can't borrow from a shop."
+  },
+  {
+    "id": "p1-12",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Before launching the product, the company ____ extensive market research.",
+    "options": [
+      "carried out",
+      "made",
+      "took",
+      "realised"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "carried out",
+    "explanation": "'Hacer/realizar una investigación' tempts 'made' or 'realised'. Research is 'carried out' or 'conducted' — never 'made'. 'Realised' here is the realizar false friend again."
+  },
+  {
+    "id": "p1-13",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "These tyres are designed to ____ extreme temperatures without losing their grip.",
+    "options": [
+      "withstand",
+      "support",
+      "sustain",
+      "hold"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "withstand",
+    "explanation": "'Soportar' = to withstand/endure physically. English 'support' means to hold up or to back/endorse — it does NOT mean 'tolerate/endure'. The classic soportar→support trap."
+  },
+  {
+    "id": "p2-01",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The selection panel will consist ____ three judges and a chairperson.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Consistir EN' makes you write 'in'. English is 'consist OF'. 'Consist in' exists but means 'to have as its essence' — a different structure entirely."
+  },
+  {
+    "id": "p2-02",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The coach insisted ____ training even though half the squad was injured.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Insistir EN' pushes you to 'in'. English fixes 'insist ON', and it must be followed by a gerund, never an infinitive."
+  },
+  {
+    "id": "p2-03",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "His speech was completely devoid ____ any real substance.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Devoid' has no obvious Spanish cognate, so learners guess 'from/in'. It is always 'devoid OF' = carente de."
+  },
+  {
+    "id": "p2-04",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "We finally arrived ____ the stadium just minutes before kick-off.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "at",
+    "explanation": "'Llegar A' pushes you to 'to'. Never 'arrive to'. It is 'arrive AT' (a point/place) or 'arrive IN' (a country/city)."
+  },
+  {
+    "id": "p2-05",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Not only ____ the team lose the final, but they also lost their captain to injury.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "After a fronted negative ('Not only') you must invert: auxiliary before subject. Spanish has no such inversion, so learners write 'Not only the team lost'."
+  },
+  {
+    "id": "p2-06",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "I had no idea she was capable ____ such cruelty.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Capaz DE' = 'capable OF'. The de→of mapping happens to work, but learners often default to 'to' by false analogy with 'able to'."
+  },
+  {
+    "id": "p2-07",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The proposal, the details ____ which are still confidential, has been approved in principle.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'The details OF which' = cuyos detalles. Learners try 'whose' or 'that', but formal relative clauses require preposition + which."
+  },
+  {
+    "id": "p2-08",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Having lived abroad for a decade, she had grown accustomed ____ doing things differently.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Accustomed TO' + gerund. The trap: this 'to' is a preposition, so it MUST be followed by -ing, not the infinitive. Spanish 'acostumbrado a hacer' reinforces the wrong infinitive."
+  },
+  {
+    "id": "p2-09",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "It was ____ a controversial decision that the referee needed a police escort to leave the pitch.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "such",
+    "explanation": "'Such + a + adjective + noun'. Learners overuse 'so' ('so controversial decision') because Spanish 'tan' covers both. With a noun phrase you need 'such'."
+  },
+  {
+    "id": "p2-10",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The newspaper accused the federation ____ covering up the scandal.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Acusar DE' = 'accuse OF', followed by '+ -ing'. Learners write 'accuse for', confusing it with 'blame for'."
+  },
+  {
+    "id": "p2-11",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "By no ____ should this information be released before the official announcement.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "means",
+    "explanation": "'By no means' = de ninguna manera, and it triggers inversion ('should this...'). 'Way/form/manner' won't fit the fixed phrase."
+  },
+  {
+    "id": "p2-12",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "After several failed attempts, they finally succeeded ____ qualifying for the tournament.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'Conseguir/lograr' translates as a plain verb, so learners drop the preposition or use 'to'. 'Succeed IN + -ing' is fixed."
+  },
+  {
+    "id": "p3-01",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Many learners struggle with the correct ____ of these vowel sounds.",
+    "options": null,
+    "baseWord": "PRONOUNCE",
+    "targetSentence": null,
+    "correctAnswer": "pronunciation",
+    "explanation": "The classic trap: the verb is 'pronOUNce' but the noun DROPS the 'o' → 'pronUNciation'. Spanish 'pronunciación' has no such drop, so learners write 'pronounciation'."
+  },
+  {
+    "id": "p3-02",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The government introduced new measures to ____ border security.",
+    "options": null,
+    "baseWord": "STRONG",
+    "targetSentence": null,
+    "correctAnswer": "strengthen",
+    "explanation": "'Reforzar' = strengthen. Adjective 'strong' → noun 'strength' → verb 'strengthen'. Learners write 'strongthen' or try to use 'strong' as a verb (Spanish verbifies adjectives more freely)."
+  },
+  {
+    "id": "p3-03",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "He offered no ____ for his sudden absence.",
+    "options": null,
+    "baseWord": "EXPLAIN",
+    "targetSentence": null,
+    "correctAnswer": "explanation",
+    "explanation": "'Explain' loses its 'i' in the noun: 'explanation', not 'explaination'. Spanish 'explicación' gives no warning about the dropped letter."
+  },
+  {
+    "id": "p3-04",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The team's ____ first half cost them the championship.",
+    "options": null,
+    "baseWord": "DISASTER",
+    "targetSentence": null,
+    "correctAnswer": "disastrous",
+    "explanation": "The adjective drops the 'e': 'disastrous', not 'disasterous'. Spanish 'desastroso' keeps a vowel there, reinforcing the error."
+  },
+  {
+    "id": "p3-05",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Buying in bulk is far more ____ than purchasing items individually.",
+    "options": null,
+    "baseWord": "ECONOMY",
+    "targetSentence": null,
+    "correctAnswer": "economical",
+    "explanation": "Two adjectives exist: 'economic' (relating to the economy) and 'economical' (money-saving). Here you need 'economical'. Spanish 'económico' collapses both, so learners pick the wrong one."
+  },
+  {
+    "id": "p3-06",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The building has fallen into disrepair through years of poor ____.",
+    "options": null,
+    "baseWord": "MAINTAIN",
+    "targetSentence": null,
+    "correctAnswer": "maintenance",
+    "explanation": "Verb 'maintain' → noun 'maintenance': the 'ai' becomes 'e' and the ending is '-ance'. Spanish 'mantenimiento' gives no clue; learners write 'maintainance'."
+  },
+  {
+    "id": "p3-07",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The long wait for the results filled her with ____.",
+    "options": null,
+    "baseWord": "ANXIOUS",
+    "targetSentence": null,
+    "correctAnswer": "anxiety",
+    "explanation": "Adjective 'anxious' → noun 'anxiety' (irregular). Learners build 'anxiousness' by analogy. Spanish 'ansiedad' should hint, but the spelling shift trips people up."
+  },
+  {
+    "id": "p3-08",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "They decided to ____ the contract by a further two years.",
+    "options": null,
+    "baseWord": "LENGTH",
+    "targetSentence": null,
+    "correctAnswer": "lengthen",
+    "explanation": "Noun 'length' → verb 'lengthen' (= alargar/prolongar). Learners say 'longer' or use 'long' as a verb. Note 'length' already changes vowel from 'long' — a step Spanish doesn't require."
+  },
+  {
+    "id": "p3-09",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "He behaved with complete ____ when he abandoned the project halfway through.",
+    "options": null,
+    "baseWord": "RESPONSIBLE",
+    "targetSentence": null,
+    "correctAnswer": "irresponsibility",
+    "explanation": "Needs the prefix 'ir-' (not 'in-' before 'r') AND the noun ending: 'irresponsibility'. Spanish 'irresponsabilidad' helps with the prefix, but learners misplace the double 'r' or wrongly use 'un-'."
+  },
+  {
+    "id": "p3-10",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The string of defeats began to ____ even the most loyal fans.",
+    "options": null,
+    "baseWord": "HEART",
+    "targetSentence": null,
+    "correctAnswer": "dishearten",
+    "explanation": "'Desanimar' = to dishearten. The negative prefix is 'dis-', and the base 'heart' becomes a verb. Learners rarely treat 'heart' as verbal; Spanish builds this from 'ánimo', an unrelated root."
+  },
+  {
+    "id": "p3-11",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "She is a recognised authority with deep ____ of medieval history.",
+    "options": null,
+    "baseWord": "KNOW",
+    "targetSentence": null,
+    "correctAnswer": "knowledge",
+    "explanation": "'Know' → 'knowledge' (keep the 'w', add '-ledge'). Learners write 'knowlege' or 'knowladge'. Spanish 'conocimiento' offers no guidance on the spelling."
+  },
+  {
+    "id": "p3-12",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The security measures were ____ ahead of the state visit.",
+    "options": null,
+    "baseWord": "HIGH",
+    "targetSentence": null,
+    "correctAnswer": "heightened",
+    "explanation": "'High' → noun 'height' → verb 'heighten'. The 'gh' is silent and the vowel shifts; learners produce 'highten' or 'highed'. Spanish 'intensificar' is unrelated, removing any anchor."
+  },
+  {
+    "id": "p3-13",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "She is a remarkably ____ worker who checks every detail twice.",
+    "options": null,
+    "baseWord": "SCIENCE",
+    "targetSentence": null,
+    "correctAnswer": "conscientious",
+    "explanation": "Trap! 'Science' → 'conscientious' (= concienzudo/diligente), not 'scientific'. The link is etymological (con + science). Learners pick 'scientific' from the obvious surface form."
+  },
+  {
+    "id": "p4-01",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I really don't mind which restaurant we go to.",
+    "options": null,
+    "baseWord": "DIFFERENCE",
+    "targetSentence": "It ____ to me which restaurant we go to.",
+    "correctAnswer": "makes no difference",
+    "explanation": "'Me da igual' tempts a literal 'is the same to me'. The idiomatic English is 'it makes no difference to me'. The key word forces the noun construction learners rarely produce."
+  },
+  {
+    "id": "p4-02",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The Catalan Football Federation will probably announce the decision tomorrow.",
+    "options": null,
+    "baseWord": "LIKELY",
+    "targetSentence": "The Catalan Football Federation ____ the decision tomorrow.",
+    "correctAnswer": "is likely to announce",
+    "explanation": "'Probablemente anunciará' invites 'will probably'. With 'likely' you need 'is likely to + infinitive' — a predicative-adjective structure with no direct Spanish mirror."
+  },
+  {
+    "id": "p4-03",
+    "part": 4,
+    "category": "Phrasal Verb",
+    "questionText": "Nobody had expected the team to perform so badly.",
+    "options": null,
+    "baseWord": "TAKEN",
+    "targetSentence": "Everyone ____ by how badly the team performed.",
+    "correctAnswer": "was taken aback",
+    "explanation": "'Sorprenderse' has no particle; the English idiom 'be taken aback (by)' does. Learners omit 'aback' or add the wrong preposition."
+  },
+  {
+    "id": "p4-04",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "You shouldn't have told her my secret.",
+    "options": null,
+    "baseWord": "GIVEN",
+    "targetSentence": "You ____ my secret away.",
+    "correctAnswer": "should not have given",
+    "explanation": "'No deberías haber' maps to 'should not have + past participle'. Spanish uses one compound verb; English needs modal + perfect infinitive, and learners drop 'have'."
+  },
+  {
+    "id": "p4-05",
+    "part": 4,
+    "category": "Phrasal Verb",
+    "questionText": "The match was cancelled because of the storm.",
+    "options": null,
+    "baseWord": "CALLED",
+    "targetSentence": "The match ____ because of the storm.",
+    "correctAnswer": "was called off",
+    "explanation": "'Suspender/cancelar' is one verb; English 'call off' needs the particle. Learners write 'was cancelled off' or drop 'off' entirely."
+  },
+  {
+    "id": "p4-06",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "He apologised because he had arrived late.",
+    "options": null,
+    "baseWord": "APOLOGISED",
+    "targetSentence": "He ____ late.",
+    "correctAnswer": "apologised for arriving",
+    "explanation": "'Disculparse POR' → 'apologise FOR + -ing'. Learners use 'apologise for arrive' (infinitive) or 'apologise to arrive'. The preposition demands a gerund."
+  },
+  {
+    "id": "p4-07",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It's possible that she missed the train.",
+    "options": null,
+    "baseWord": "MIGHT",
+    "targetSentence": "She ____ the train.",
+    "correctAnswer": "might have missed",
+    "explanation": "Past speculation = 'might have + past participle'. Spanish 'puede que perdiera' uses the subjunctive; learners produce 'might missed' or 'might to miss'."
+  },
+  {
+    "id": "p4-08",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "However much he earns, he never manages to save anything.",
+    "options": null,
+    "baseWord": "MATTER",
+    "targetSentence": "____ how much he earns, he never manages to save anything.",
+    "correctAnswer": "No matter",
+    "explanation": "'Por mucho que' tempts a clause with 'although'. The fixed concessive is 'No matter how much'. Learners invent 'No mind how much' or 'Despite how much'."
+  },
+  {
+    "id": "p4-09",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I'd prefer you not to smoke in the office.",
+    "options": null,
+    "baseWord": "RATHER",
+    "targetSentence": "I ____ in the office.",
+    "correctAnswer": "would rather you did not smoke",
+    "explanation": "'Preferiría que no fumaras' → 'would rather + past subjunctive (you did not smoke)'. Learners write 'would rather you not smoke' or 'would rather you don't smoke'; the past tense after 'rather' has no Spanish equivalent."
+  },
+  {
+    "id": "p4-10",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "Whether we play on Sunday is conditional on the weather.",
+    "options": null,
+    "baseWord": "DEPENDS",
+    "targetSentence": "Whether we play on Sunday ____ the weather.",
+    "correctAnswer": "depends on",
+    "explanation": "'Depender DE' = 'depend ON', never 'depend of'. The de→of literal translation is the single most common preposition error for Spanish speakers."
+  },
+  {
+    "id": "p4-11",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The journalist couldn't help laughing during the press conference.",
+    "options": null,
+    "baseWord": "STOP",
+    "targetSentence": "The journalist ____ during the press conference.",
+    "correctAnswer": "could not stop laughing",
+    "explanation": "'No pudo evitar reír' → 'couldn't stop/help laughing' + gerund. Learners use the infinitive ('stop to laugh'), which in English means the opposite — pausing in order to laugh."
+  },
+  {
+    "id": "p4-12",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "When I first moved to Barcelona, eating dinner at ten felt very strange.",
+    "options": null,
+    "baseWord": "USED",
+    "targetSentence": "When I first moved to Barcelona, I ____ dinner at ten.",
+    "correctAnswer": "was not used to having",
+    "explanation": "'No estaba acostumbrado a cenar' → 'was not used to + -ing'. The deadly trap: 'used to + infinitive' (past habit) vs 'be used to + -ing' (familiarity). Learners conflate the two."
+  }
+]
