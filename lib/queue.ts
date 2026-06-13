@@ -1,5 +1,5 @@
 import type { Part, Question, SessionMode } from "./types";
-import { SEED_BANK } from "./seed";
+import { SEED_BANK, withShuffledOptions } from "./seed";
 import { localRepository } from "./localRepository";
 import { selectNextSrsId } from "./srs";
 
@@ -61,7 +61,8 @@ export class QuestionQueue {
       return null;
     }
     this.lastId = id;
-    return this.byId.get(id) ?? null;
+    const q = this.byId.get(id);
+    return q ? withShuffledOptions(q) : null;
   }
 
   next(): Question | null {
@@ -75,7 +76,7 @@ export class QuestionQueue {
       q = this.buffer.pop()!;
     }
     this.lastId = q.id;
-    return q;
+    return withShuffledOptions(q);
   }
 
   size() {

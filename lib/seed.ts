@@ -87,3 +87,27 @@ function toQuestion(r: RawItem): Question {
 }
 
 export const SEED_BANK: Question[] = (rawData as RawItem[]).map(toQuestion);
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// Randomise the position of Part 1 options each time a question is presented,
+// then reassign A–D keys, so the correct answer isn't always in the same slot
+// (the authored JSON tends to list it first). Grading keys off the recomputed
+// answer, so correctness is preserved. Non–Part-1 questions pass through.
+export function withShuffledOptions(q: Question): Question {
+  if (q.part !== 1 || !q.options) return q;
+  const correctText = q.options.find((o) => o.key === q.answers[0])?.text;
+  const options = shuffle(q.options.map((o) => o.text)).map((text, i) => ({
+    key: OPTION_KEYS[i],
+    text,
+  }));
+  const correctKey = options.find((o) => o.text === correctText)?.key ?? q.answers[0];
+  return { ...q, options, answers: [correctKey] };
+}
