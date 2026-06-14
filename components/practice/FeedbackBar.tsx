@@ -45,7 +45,11 @@ export function FeedbackBar({
         </button>
       </div>
 
-      {!correct && (
+      {/* Parts 2–4 reveal the answer + explanation via InlineReveal (which
+          renders unconditionally), so only Part 1 — which has no inline reveal,
+          just the green option highlight — surfaces them here to avoid showing
+          the same text twice. */}
+      {!correct && question.part === 1 && (
         <div className="mt-3 text-sm">
           <span className="text-muted">Answer: </span>
           <span className="font-mono text-ink">{result.accepted.join("  /  ")}</span>
@@ -54,7 +58,7 @@ export function FeedbackBar({
 
       {result.message && <div className="mt-1 text-xs text-warn">{result.message}</div>}
 
-      {!correct && question.explanation && (
+      {!correct && question.part === 1 && question.explanation && (
         <div className="mt-2 text-sm text-muted">{question.explanation}</div>
       )}
       {!correct && question.l1Note && (
