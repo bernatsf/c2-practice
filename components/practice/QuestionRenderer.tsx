@@ -1,6 +1,6 @@
 "use client";
 
-import type { Question } from "@/lib/types";
+import type { GradeResult, Question } from "@/lib/types";
 import { Part1MultipleChoice } from "./parts/Part1MultipleChoice";
 import { Part2OpenCloze } from "./parts/Part2OpenCloze";
 import { Part3WordFormation } from "./parts/Part3WordFormation";
@@ -10,6 +10,7 @@ export function QuestionRenderer({
   q,
   disabled,
   value,
+  result,
   onChange,
   onSubmit,
   onSelectOption,
@@ -17,6 +18,7 @@ export function QuestionRenderer({
   q: Question;
   disabled: boolean;
   value: string;
+  result: GradeResult | null;
   onChange: (v: string) => void;
   onSubmit: () => void;
   onSelectOption: (key: string) => void;
@@ -33,15 +35,15 @@ export function QuestionRenderer({
       );
     case 2:
       return (
-        <Part2OpenCloze q={q} value={value} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
+        <Part2OpenCloze q={q} value={value} result={result} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
       );
     case 3:
       return (
-        <Part3WordFormation q={q} value={value} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
+        <Part3WordFormation q={q} value={value} result={result} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
       );
     case 4:
       return (
-        <Part4KeyTransformation q={q} value={value} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
+        <Part4KeyTransformation q={q} value={value} result={result} onChange={onChange} onSubmit={onSubmit} disabled={disabled} />
       );
   }
 }

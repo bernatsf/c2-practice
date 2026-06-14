@@ -180,6 +180,7 @@ export function PracticeSession({
           q={s.current}
           disabled={revealed}
           value={value}
+          result={revealed ? s.lastResult : null}
           onChange={setValue}
           onSubmit={() => s.submit(value)}
           onSelectOption={handleSelectOption}
