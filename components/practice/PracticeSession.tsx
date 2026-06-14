@@ -47,11 +47,20 @@ export function PracticeSession({
     [revealed, s]
   );
 
-  // Enter advances to the next question while feedback is showing.
+  // A *fresh* Enter press advances to the next question while feedback shows.
+  //
+  // Crucial guard: text answers (Parts 2–4) are submitted with Enter. Holding
+  // that key down emits auto-repeat keydown events; once this listener attaches
+  // (right after submit flips `revealed` true), those repeats would instantly
+  // advance the queue and wipe the InlineReveal/FeedbackBar before the user can
+  // read them. Ignoring `e.repeat` means submitting never advances — the user
+  // must lift the key and press Enter again, or click "Next". (Part 1 submits
+  // by click, so its first post-reveal Enter is already a fresh, non-repeat
+  // press and keeps working.)
   useEffect(() => {
     if (!revealed) return;
     const handler = (e: KeyboardEvent) => {
-      if (e.key === "Enter") {
+      if (e.key === "Enter" && !e.repeat) {
         e.preventDefault();
         handleNext();
       }
