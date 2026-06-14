@@ -613,5 +613,2365 @@
     "targetSentence": "When I first moved to Barcelona, I ____ dinner at ten.",
     "correctAnswer": "was not used to having",
     "explanation": "'No estaba acostumbrado a cenar' → 'was not used to + -ing'. The deadly trap: 'used to + infinitive' (past habit) vs 'be used to + -ing' (familiarity). Learners conflate the two."
+  },
+  {
+    "id": "p1-14",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The auditors produced a ____ review of the federation's accounts, leaving not a single transaction unexamined.",
+    "options": [
+      "comprehensive",
+      "understanding",
+      "perceptive",
+      "considerate"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "comprehensive",
+    "explanation": "Spanish/Catalan 'comprensivo' means 'understanding/sympathetic', which steers you toward a person-centred word. English 'comprehensive' means 'exhaustive/thorough' — the only sense that fits an audit. A textbook reversed false friend."
+  },
+  {
+    "id": "p1-15",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "I assumed the manuscript was a clumsy modern forgery, but it ____ dates from the twelfth century.",
+    "options": [
+      "actually",
+      "currently",
+      "presently",
+      "nowadays"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "actually",
+    "explanation": "Because 'actualmente' means 'currently', learners instinctively shun 'actually' and reach for a time adverb. English 'actually' = 'in fact/in reality'. The sentence needs contradiction, not chronology."
+  },
+  {
+    "id": "p1-16",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Everyone in the office found the new intern thoroughly ____, forever ready with a smile and a helping hand.",
+    "options": [
+      "likeable",
+      "sympathetic",
+      "sensible",
+      "comprehensive"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "likeable",
+    "explanation": "'Simpático' = likeable/charming, so you'll grab 'sympathetic'. But English 'sympathetic' means 'compassionate towards suffering' — wrong register entirely. 'Sensible' and 'comprehensive' are further false-friend traps."
+  },
+  {
+    "id": "p1-17",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "When the scandal broke, the minister ____ ignorance of the entire affair — a claim almost nobody believed.",
+    "options": [
+      "pretended",
+      "intended",
+      "expected",
+      "aspired"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "pretended",
+    "explanation": "Spanish 'pretender' means 'to intend/aspire', so you avoid 'pretend' and pick 'intended'. English 'pretend' = 'fingir' — exactly the feigning sense required. The cognate maps to the opposite idea."
+  },
+  {
+    "id": "p1-18",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "A prominent sign at the trailhead ____ hikers against straying from the marked paths after dark.",
+    "options": [
+      "warns",
+      "advertises",
+      "advises",
+      "notifies"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "warns",
+    "explanation": "'Advertir' = to warn, but its lookalike 'advertise' means 'anunciar/publicise'. 'Advise' (give counsel) and 'notify' (inform) don't take 'against'. Only 'warn ... against' carries the cautionary force."
+  },
+  {
+    "id": "p1-19",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Rather than ____ the proposal calmly, the board members ended up trading insults across the table.",
+    "options": [
+      "discuss",
+      "argue",
+      "dispute",
+      "quarrel"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "discuss",
+    "explanation": "'Discutir' usually means 'to argue/quarrel', so the neutral English 'discuss' feels too mild. But 'discuss' is precisely the calm, level-headed contrast the sentence sets up against the shouting that followed."
+  },
+  {
+    "id": "p1-20",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "At this stage the investigators have by no means ____ out deliberate sabotage as a cause.",
+    "options": [
+      "ruled",
+      "struck",
+      "crossed",
+      "cancelled"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ruled",
+    "explanation": "'Descartar' is a single verb, so the particle 'out' feels gratuitous and you mistrust the phrasal form. 'Strike out', 'cross out' and 'cancel out' exist but none means 'exclude as a possibility'."
+  },
+  {
+    "id": "p1-21",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The club's spokesperson did everything possible to ____ down the significance of the manager's resignation.",
+    "options": [
+      "play",
+      "put",
+      "turn",
+      "hold"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "play",
+    "explanation": "'Restar importancia' has no particle, so you won't generate the idiom. 'Play down' = minimise. 'Put down', 'turn down' and 'hold down' all exist but carry completely unrelated meanings."
+  },
+  {
+    "id": "p1-22",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Regulators have pledged to ____ down on the financial irregularities plaguing the lower divisions.",
+    "options": [
+      "crack",
+      "cut",
+      "stamp",
+      "push"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "crack",
+    "explanation": "'Tomar medidas enérgicas contra' collapses into no English equivalent, so the fixed 'crack down on' is hard to retrieve. 'Cut down on' means reduce one's own consumption; 'stamp out' loses the 'on'."
+  },
+  {
+    "id": "p1-23",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The official communiqué conveniently ____ over the scale of the financial losses.",
+    "options": [
+      "glossed",
+      "passed",
+      "skimmed",
+      "slid"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "glossed",
+    "explanation": "'Pasar por alto' tempts a literal 'pass over', but 'pass over' means to ignore for promotion. 'Gloss over' = treat superficially to conceal. The other particles simply don't collocate here."
+  },
+  {
+    "id": "p1-24",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "After weeks of denials, the director finally ____ up to having authorised the irregular payments.",
+    "options": [
+      "owned",
+      "came",
+      "gave",
+      "stood"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "owned",
+    "explanation": "'Admitir/confesar' is one verb, so the three-part 'own up to' feels redundant and you drop or swap a particle. 'Come up', 'give up' and 'stand up' produce entirely different meanings."
+  },
+  {
+    "id": "p1-25",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The internal report ____ out the marketing department for especially harsh criticism.",
+    "options": [
+      "singled",
+      "picked",
+      "pointed",
+      "marked"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "singled",
+    "explanation": "'Señalar a alguien' tempts 'point out', but 'point out' merely means 'mention'. 'Single out' = isolate one target for special treatment. 'Pick out' means to spot, not to expose to blame."
+  },
+  {
+    "id": "p1-26",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The new chief executive moved swiftly to ____ in the club's spiralling wage bill.",
+    "options": [
+      "rein",
+      "reign",
+      "ring",
+      "rope"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "rein",
+    "explanation": "'Frenar/controlar' gives no clue, and the homophone 'reign' (to rule) is a lethal spelling trap. 'Rein in' (from a horse's reins) = bring under control. 'Ring in' and 'rope in' mean other things."
+  },
+  {
+    "id": "p1-27",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The federation's refusal to release the documents was tantamount ____ an admission of guilt.",
+    "options": [
+      "to",
+      "with",
+      "of",
+      "for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Tantamount' has no transparent Spanish cognate, so learners guess. It is fixed as 'tantamount TO' (= equivalente a). The Spanish 'a' should help, yet 'with/of' are the usual wrong guesses."
+  },
+  {
+    "id": "p1-28",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The incoming president is plainly intent ____ overhauling the entire governance structure.",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "at"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Empeñado EN' drags you to 'in'. English fixes 'intent ON + -ing'. The preposition also demands a gerund, so 'intent to overhaul' is doubly wrong."
+  },
+  {
+    "id": "p1-29",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "By the final act, the production is utterly bereft ____ any dramatic tension.",
+    "options": [
+      "of",
+      "from",
+      "in",
+      "with"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Bereft' has no Spanish cognate, so learners default to 'from' on the logic of 'deprived of/separated from'. It is invariably 'bereft OF' = carente/desprovisto de."
+  },
+  {
+    "id": "p1-30",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "All affiliated clubs are obliged to abide ____ the newly ratified code of conduct.",
+    "options": [
+      "by",
+      "with",
+      "to",
+      "for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by",
+    "explanation": "'Cumplir CON' pushes you to 'with' — which is correct for 'comply with' but fatal here. 'Abide BY' is the fixed form (= acatar). The two near-synonyms take different prepositions; Spanish gives only one."
+  },
+  {
+    "id": "p1-31",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The relocation plan was fraught ____ logistical difficulties from the very beginning.",
+    "options": [
+      "with",
+      "of",
+      "by",
+      "in"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'Lleno DE / plagado DE' triggers a literal 'of'. English fixes 'fraught WITH' (= cargado/plagado de). The 'de→of' reflex is exactly the trap to resist."
+  },
+  {
+    "id": "p1-32",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Throughout the inquiry the chairman remained entirely impervious ____ public criticism.",
+    "options": [
+      "to",
+      "of",
+      "against",
+      "from"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Impermeable A' should map cleanly to 'to', but the figurative 'impervious' is unfamiliar, so learners reach for 'against/from' by false analogy with 'protected from'. It is always 'impervious TO'."
+  },
+  {
+    "id": "p1-33",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Smaller broadcasters will ____ the brunt of the new licensing fees, while the major networks absorb them easily.",
+    "options": [
+      "bear",
+      "carry",
+      "take",
+      "suffer"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bear",
+    "explanation": "'Llevar la peor parte' tempts 'carry' or 'take'. English fixes 'bear the brunt of'. Collocation overrides logic: 'suffer/carry the brunt' are simply not idiomatic."
+  },
+  {
+    "id": "p1-34",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "With a commanding ten-point lead, their qualification was widely regarded as a ____ conclusion.",
+    "options": [
+      "foregone",
+      "forgotten",
+      "forthcoming",
+      "forecast"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "foregone",
+    "explanation": "There is no Spanish anchor for this fixed phrase, and the cluster of 'fore-' lookalikes is designed to mislead. 'A foregone conclusion' = an inevitable, already-decided outcome."
+  },
+  {
+    "id": "p1-35",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Whether the promised investment ever materialises is, at this point, a largely ____ point.",
+    "options": [
+      "moot",
+      "mute",
+      "mood",
+      "moored"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "moot",
+    "explanation": "The notorious 'moot/mute' confusion. A 'moot point' is debatable or no longer relevant; 'mute' means silent. Spanish offers no defence against the near-homophone trap."
+  },
+  {
+    "id": "p1-36",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Years of chronic underfunding had finally taken their ____ on the national training centre.",
+    "options": [
+      "toll",
+      "tax",
+      "fee",
+      "cost"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "toll",
+    "explanation": "'Pasar factura' tempts a money word — 'cost', 'tax' or 'fee'. The fixed English idiom is 'take its toll (on)'. The other options are semantically adjacent but collocationally dead."
+  },
+  {
+    "id": "p1-37",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The gleaming new arena is a far ____ from the crumbling ground the team occupied a decade ago.",
+    "options": [
+      "cry",
+      "call",
+      "shot",
+      "way"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "cry",
+    "explanation": "No Spanish equivalent exists, so the bizarre-sounding 'a far cry from' (= muy diferente de) is unguessable. 'Far call', 'far shot' and 'far way' are plausible-looking but invented."
+  },
+  {
+    "id": "p1-38",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Image rights have long been a bone of ____ between the players' union and the league.",
+    "options": [
+      "contention",
+      "conflict",
+      "dispute",
+      "discord"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "contention",
+    "explanation": "The synonyms 'conflict', 'dispute' and 'discord' all feel interchangeable, but the idiom is rigidly 'a bone of contention'. Meaning won't save you; only the fixed collocation will."
+  },
+  {
+    "id": "p1-39",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The independent inquiry was launched ____ the behest of the Prime Minister herself.",
+    "options": [
+      "at",
+      "on",
+      "by",
+      "under"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "at",
+    "explanation": "'A petición de' tempts a literal 'by' or 'on'. The fixed formal phrase is 'at the behest of' (= por orden/a instancias de). The preposition is frozen; no logic will recover it."
+  },
+  {
+    "id": "p1-40",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "With a cabinet reshuffle clearly ____ the offing, ministers were reluctant to make any bold statements.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "within"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'En perspectiva/a la vista' invites 'on' or 'within'. The idiom is 'in the offing' (= inminente). There is no transparent Spanish route to this nautical fixed phrase."
+  },
+  {
+    "id": "p1-41",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "She took strong ____ to the implication that her research had been sloppy.",
+    "options": [
+      "exception",
+      "objection",
+      "offence",
+      "issue"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "exception",
+    "explanation": "All four feel like 'ofenderse/protestar', but the collocations differ: you 'take exception TO', 'take offence AT', 'raise an objection', and 'take issue WITH'. Only 'exception' fits 'took ____ to'."
+  },
+  {
+    "id": "p1-42",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The new intern's first report simply wasn't up to ____, and had to be rewritten.",
+    "options": [
+      "scratch",
+      "notch",
+      "grade",
+      "level"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "scratch",
+    "explanation": "'A la altura' makes you reach for 'level' or 'grade'. English freezes the idiom as 'up to scratch' (= satisfactorio). The literal-meaning options are all wrong here."
+  },
+  {
+    "id": "p1-43",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "She ____ at her watch, realised she was late, and bolted out of the door.",
+    "options": [
+      "glanced",
+      "glimpsed",
+      "peered",
+      "gazed"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "glanced",
+    "explanation": "Spanish 'mirar/echar un vistazo' blurs these. 'Glance AT' = a quick deliberate look. 'Glimpse' = catch sight of by chance (transitive). 'Peer' = strain to see. 'Gaze' = look long and steadily. The brief, intentional look is 'glance'."
+  },
+  {
+    "id": "p1-44",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Through a gap in the crowd, the fans caught a fleeting ____ of the players boarding the coach.",
+    "options": [
+      "glimpse",
+      "glance",
+      "peek",
+      "sighting"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "glimpse",
+    "explanation": "You 'take/cast a glance' but you 'catch a glimpse'. A 'glimpse' is brief and accidental — exactly the sense here. 'Peek' implies a sly look you choose to take, not a chance sighting."
+  },
+  {
+    "id": "p1-45",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "He ____ into the gloom of the tunnel, struggling to make out the figures at the far end.",
+    "options": [
+      "peered",
+      "glanced",
+      "gazed",
+      "glared"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "peered",
+    "explanation": "'Peer' carries the nuance of effort — looking hard at something difficult to see. 'Glance' is too quick, 'gaze' too leisurely, and 'glare' means to stare angrily. The struggle to make out the figures demands 'peered'."
+  },
+  {
+    "id": "p1-46",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Despite the mounting evidence against him, the player continues to ____ his innocence.",
+    "options": [
+      "maintain",
+      "allege",
+      "assert",
+      "contend"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "maintain",
+    "explanation": "'Mantener/sostener' could map to any of these, but English fixes the collocation 'maintain one's innocence'. 'Allege' is what accusers do (claim without proof); 'assert' and 'contend' don't pair idiomatically with 'innocence'."
+  },
+  {
+    "id": "p1-47",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The exposé ____ that several officials had accepted bribes, though it offered no documentary proof.",
+    "options": [
+      "alleged",
+      "maintained",
+      "asserted",
+      "confided"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "alleged",
+    "explanation": "The defining nuance is 'claim without proof' — that is precisely 'allege'. 'Maintain' and 'assert' imply confident, defended statements; the giveaway here is 'no documentary proof', which only 'allege' accommodates."
+  },
+  {
+    "id": "p1-48",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "In her latest paper she ____ that previous studies had systematically overlooked a crucial variable.",
+    "options": [
+      "contends",
+      "alleges",
+      "divulges",
+      "professes"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "contends",
+    "explanation": "In academic register, to 'contend' is to argue a reasoned position. 'Allege' would wrongly suggest a baseless accusation, 'divulge' means to reveal a secret, and 'profess' implies a possibly insincere claim. The analytical context selects 'contends'."
+  },
+  {
+    "id": "p1-49",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "A calm, well-lit room is far more ____ to concentration than a noisy open-plan office.",
+    "options": [
+      "conducive",
+      "prone",
+      "liable",
+      "amenable"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "conducive",
+    "explanation": "'Propicio para' tempts a 'for', but English fixes 'conducive TO' (= que favorece). 'Prone to' and 'liable to' carry negative/risk connotations, and 'amenable to' applies to people willing to comply, not to conditions that promote an outcome."
+  },
+  {
+    "id": "p1-50",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "His point-blank refusal to comment was widely seen as ____ to an admission of guilt.",
+    "options": [
+      "tantamount",
+      "paramount",
+      "surmount",
+      "amount"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tantamount",
+    "explanation": "'Equivalente a' should point you to 'tantamount to' (= as good as). The distractors are sound-alike traps: 'paramount' (supreme), 'surmount' (overcome), 'amount' (a verb/noun about quantity). Only 'tantamount' takes 'to' in this sense."
+  },
+  {
+    "id": "p1-51",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The minister is by no means ____ to a degree of compromise, provided his core demands are met.",
+    "options": [
+      "averse",
+      "adverse",
+      "reluctant",
+      "hostile"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "averse",
+    "explanation": "The lethal pair: 'averse to' = opposed/reluctant (of a person), while 'adverse' = unfavourable (of conditions: 'adverse weather'). 'Reluctant to' needs an infinitive, not a noun. The fixed phrase 'not averse to' = no le hace ascos a."
+  },
+  {
+    "id": "p1-52",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The polar expedition was ____ with danger right from the first day.",
+    "options": [
+      "fraught",
+      "laden",
+      "riddled",
+      "rife"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "fraught",
+    "explanation": "'Lleno de peligros' tempts 'laden' or 'full'. The fixed collocation is 'fraught WITH danger/difficulty'. 'Laden with' implies physical cargo, 'riddled with' suggests holes or errors, and 'rife with' pairs with rumour or corruption, not danger."
+  },
+  {
+    "id": "p1-53",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Speculation was ____ that the head coach would be dismissed before the international break.",
+    "options": [
+      "rife",
+      "abundant",
+      "plentiful",
+      "copious"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "rife",
+    "explanation": "'Abundante' invites the literal options, but 'speculation/rumour was rife' is the locked collocation (= corrían rumores). 'Abundant', 'plentiful' and 'copious' describe quantities of things, not the spread of rumour."
+  },
+  {
+    "id": "p1-54",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The restructuring was, ____ , a resounding success, despite a few teething problems.",
+    "options": [
+      "by and large",
+      "at large",
+      "at length",
+      "by far"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by and large",
+    "explanation": "'En general/en líneas generales' = 'by and large'. The distractors are different frozen phrases: 'at large' (free/at liberty), 'at length' (in detail or finally), 'by far' (by a wide margin). Don't swap one fixed phrase for another."
+  },
+  {
+    "id": "p1-55",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "We'll continue using the existing software ____ the time being, until the upgrade is fully tested.",
+    "options": [
+      "for",
+      "at",
+      "in",
+      "by"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "for",
+    "explanation": "'Por el momento' nudges you toward 'by' (por). The fixed adverbial is 'for the time being' (= de momento). The preposition is fossilised and resists translation."
+  },
+  {
+    "id": "p1-56",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The rescue teams searched the rubble throughout the night, but ____ no avail.",
+    "options": [
+      "to",
+      "of",
+      "with",
+      "at"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'En vano/sin resultado' produces guesses like 'with' or 'without'. English freezes 'to no avail'. There is no semantic logic to 'to' here — it must simply be memorised."
+  },
+  {
+    "id": "p1-57",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "He could barely afford the rent on a tiny flat, ____ a house with a garden.",
+    "options": [
+      "let alone",
+      "rather than",
+      "instead of",
+      "as well as"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "let alone",
+    "explanation": "'Y mucho menos' = 'let alone', used to dismiss something even less feasible. The distractors all change the meaning entirely: contrast ('rather than'/'instead of') or addition ('as well as'). Spanish has no neat single mapping."
+  },
+  {
+    "id": "p1-58",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "It took her several years to ____ the sudden death of her husband.",
+    "options": [
+      "come to terms with",
+      "put up with",
+      "get round to",
+      "make up for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "come to terms with",
+    "explanation": "'Asumir/aceptar' is one verb in Spanish, so the long 'come to terms with' feels excessive and learners drop particles. 'Put up with' = tolerate, 'get round to' = finally do, 'make up for' = compensate — none means 'accept emotionally'."
+  },
+  {
+    "id": "p1-59",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Everyone found the new signing remarkably ____ and easy to get on with in the dressing room.",
+    "options": [
+      "likeable",
+      "sympathetic",
+      "sensible",
+      "compromising"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "likeable",
+    "explanation": "'Simpático' is the textbook trap: it means 'likeable/friendly', NOT 'sympathetic' (which = compasivo). 'Sensible' (= sensato) and 'compromising' (= comprometedor) are further false-friend mines. Only 'likeable' captures 'simpático'."
+  },
+  {
+    "id": "p1-60",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "At the press conference, the mayor ____ to cut city-centre traffic by half within two years.",
+    "options": [
+      "pledged",
+      "compromised",
+      "engaged",
+      "consented"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "pledged",
+    "explanation": "'Comprometerse a' drags learners to 'compromise', but English 'compromise' = ceder/transigir (and can mean to endanger). 'Engage' and 'consent' don't take this structure. The promise sense is 'pledge/vow/commit' — here 'pledged to + infinitive'."
+  },
+  {
+    "id": "p1-61",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Regulators must ____ a delicate balance between encouraging innovation and protecting consumers.",
+    "options": [
+      "strike",
+      "hit",
+      "beat",
+      "touch"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "strike",
+    "explanation": "'Encontrar/mantener un equilibrio' tempts a literal 'find' or 'keep' — but the English collocation is 'strike a balance'. The sound-related distractors ('hit', 'beat', 'touch') simply do not collocate with 'balance'."
+  },
+  {
+    "id": "p1-62",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The experimental data are entirely ____ with the predictions made by the original model.",
+    "options": [
+      "consistent",
+      "coherent",
+      "concordant",
+      "corresponding"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "consistent",
+    "explanation": "Spanish 'coherente con' lures learners to 'coherent', but in scientific register the fixed phrase is 'consistent WITH' (= concuerda con). 'Coherent' doesn't take 'with' this way, and 'concordant'/'corresponding' are not idiomatic in this analytical frame."
+  },
+  {
+    "id": "p1-63",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "____ the wake of the doping scandal, three senior officials tendered their resignations.",
+    "options": [
+      "In",
+      "On",
+      "At",
+      "After"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "In",
+    "explanation": "'A raíz de/tras' tempts the transparent 'after', but the idiom is 'in the wake of' (= como consecuencia de). 'After' is grammatically possible but cannot precede 'the wake of'; the frozen phrase locks in 'in'."
+  },
+  {
+    "id": "p2-13",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The federation introduced a licensing system ____ clubs must demonstrate financial sustainability before the start of each season.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whereby",
+    "explanation": "Spanish 'mediante el cual / según el cual' tempts a clumsy 'by which' or 'that'. The single-word formal relative for a mechanism or arrangement is 'whereby', which has no clean Spanish equivalent and is therefore rarely produced."
+  },
+  {
+    "id": "p2-14",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The conglomerate, ____ annual revenues exceeded two billion euros, declined to comment on the proposed takeover.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whose",
+    "explanation": "'Cuyo/cuya' maps directly to 'whose', yet learners avoid using it for inanimate entities (a company), wrongly assuming 'whose' is for people only and reaching for 'of which'."
+  },
+  {
+    "id": "p2-15",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the outcome of the arbitration, both parties have pledged to honour the existing broadcasting contract.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whatever",
+    "explanation": "'Sea cual sea / cualquiera que sea' invites a full clause. English condenses this into the single determiner 'Whatever'. Learners write 'Independently of' or 'No matter the', missing the one-word concessive."
+  },
+  {
+    "id": "p2-16",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The sponsorship agreement, the precise terms of ____ remain undisclosed, runs until the end of the decade.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "which",
+    "explanation": "'Cuyos términos' pushes learners to force 'whose' here, but after the preposition 'of' the formal relative must be 'which' ('the terms of which'). Spanish has no equivalent split structure."
+  },
+  {
+    "id": "p2-17",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Prices in the premium tiers rose sharply, ____ general admission was frozen for a third consecutive year.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whereas",
+    "explanation": "'Mientras que' (contrast) is routinely mistranslated as 'while' or just 'and'. The crisp formal contrastive 'whereas' is underused because Spanish 'mientras' covers both time and contrast."
+  },
+  {
+    "id": "p2-18",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The board appointed an independent auditor, at ____ recommendation the accounts were subsequently restated.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whose",
+    "explanation": "'A recomendación del cual / por cuya recomendación' is so different in structure that learners abandon the relative altogether and start a new sentence. The fronted 'at whose recommendation' has no Spanish mirror."
+  },
+  {
+    "id": "p2-19",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ ultimately joins the board will inherit a debt of unprecedented scale.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whoever",
+    "explanation": "'Quienquiera que / el que' tempts a two-word 'Anyone who' or just 'Who'. The fused relative 'Whoever' functions as both subject and antecedent in one word, a unit Spanish never collapses."
+  },
+  {
+    "id": "p2-20",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The stadium redevelopment, the first phase of ____ is already complete, has run considerably over budget.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "which",
+    "explanation": "'La primera fase del cual / de la cual' again drags learners toward 'whose', but a partitive 'of' construction requires 'of which'. The instinct to use 'whose' for the noun before it is the classic error."
+  },
+  {
+    "id": "p2-21",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The club overhauled its youth academy with a view ____ developing more homegrown talent.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Con vistas a / con el fin de' makes learners write 'with a view of' or follow 'to' with an infinitive. In 'with a view TO', the 'to' is a preposition and demands the gerund ('developing')."
+  },
+  {
+    "id": "p2-22",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Following the collapse of its principal sponsor, the governing body is on the verge ____ insolvency.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Al borde de' literally suggests 'on the edge to/on'. The fixed English phrase is 'on the verge OF', and the 'de' here happens to map to 'of', though learners often guess 'on'."
+  },
+  {
+    "id": "p2-23",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "In the ____ of the corruption scandal, three senior executives tendered their resignations.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wake",
+    "explanation": "'A raíz de / tras' has no lexical link to 'wake'. Learners write 'After' and lose the register; the idiom 'in the wake of' is opaque because its imagery (a ship's trail) does not exist in the Spanish equivalent."
+  },
+  {
+    "id": "p2-24",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "By ____ of his majority shareholding, he retains effective control of the franchise.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "virtue",
+    "explanation": "'En virtud de' contains the cognate 'virtud', but learners still translate it as 'by means of' or 'thanks to'. The fixed legalistic phrase is 'by virtue of'; the singular noun form trips people up."
+  },
+  {
+    "id": "p2-25",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Commercial expansion was pursued aggressively, often at the ____ of the club's traditional supporters.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "expense",
+    "explanation": "'A costa de / en detrimento de' tempts 'at the cost of'. While 'cost' exists, the fixed collocation meaning 'to the detriment of' is 'at the expense of'. Learners pick the more obvious 'cost'."
+  },
+  {
+    "id": "p2-26",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "In ____ of the recent allegations, the integrity committee has launched a formal investigation.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "light",
+    "explanation": "'A la luz de' translates the imagery exactly, yet learners drop the article-free structure and write 'In the light' (BrE allows it, but the exam-standard fixed phrase here is 'in light of') or substitute 'In view of'."
+  },
+  {
+    "id": "p2-27",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The chairman read out the statement on ____ of the entire board of directors.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "behalf",
+    "explanation": "'En nombre de / de parte de' has no cognate for 'behalf'. Learners write 'in the name of', a calque that is grammatical but wrong in register. 'On behalf of' is the fixed phrase."
+  },
+  {
+    "id": "p2-28",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "In the ____ of a points tie at the top of the table, the title will be decided on goal difference.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "event",
+    "explanation": "'En caso de' is almost universally rendered as 'in case of'. The more formal exam-register conditional is 'in the event of', and the inserted article + singular 'event' is what learners omit."
+  },
+  {
+    "id": "p2-29",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Talks over the calendar reform broke down, leaving the two federations sharply at ____ with one another.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "odds",
+    "explanation": "'Enfrentados / en desacuerdo' offers no route to 'odds'. The idiom 'at odds with' is wholly opaque; learners produce 'in disagreement with' or 'confronted with', missing the fixed plural noun."
+  },
+  {
+    "id": "p2-30",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "No sooner ____ the deal been announced than the company's share price began to plummet.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'Nada más anunciarse / apenas se había anunciado' uses no inversion. 'No sooner' forces auxiliary-before-subject with the past perfect: 'No sooner HAD the deal been announced'. Learners write 'No sooner the deal was'."
+  },
+  {
+    "id": "p2-31",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Under no circumstances ____ the league authorise a breakaway European competition.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "will",
+    "explanation": "'Bajo ninguna circunstancia' exists in Spanish but triggers no inversion. The fronted negative demands an inverted auxiliary ('will the league authorise'). Learners leave normal word order: 'the league will'."
+  },
+  {
+    "id": "p2-32",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Not until the final audit was published ____ the true scale of the misappropriation become clear.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "'No fue hasta que... cuando' uses a cleft, not inversion. English requires the inverted auxiliary in the main clause: 'did the true scale... become'. Learners produce 'became the true scale' or no inversion at all."
+  },
+  {
+    "id": "p2-33",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Rarely ____ a sponsorship collapse inflicted such lasting reputational damage on a governing body.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "has",
+    "explanation": "'Rara vez' sits happily at the front in Spanish without inversion. In English the fronted adverb forces 'has a sponsorship collapse inflicted'. Learners write 'Rarely a sponsorship collapse has'."
+  },
+  {
+    "id": "p2-34",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Little ____ the investors know that the club had been technically insolvent for months.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "'Poco sabían los inversores' has free fronting without inversion. The fixed English literary opener 'Little did they know' requires the auxiliary 'did'. Learners write 'Little the investors knew'."
+  },
+  {
+    "id": "p2-35",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Only after months of acrimonious negotiation ____ the two parties reach a settlement.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "'Sólo después de... ' carries no inversion in Spanish. The fronted 'Only after' clause forces inversion in the main clause: 'did the two parties reach'. Learners leave it as 'the two parties reached'."
+  },
+  {
+    "id": "p2-36",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "On no account ____ the confidential salary figures be disclosed to the press.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "should",
+    "explanation": "'Bajo ningún concepto' permits ordinary order in Spanish. English demands an inverted modal after the fronted negative: 'should the confidential figures be disclosed'. Learners default to 'the figures should'."
+  },
+  {
+    "id": "p2-37",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Scarcely ____ the new chief executive taken office when the broadcasting crisis erupted.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'Apenas había asumido el cargo cuando' uses no inversion. 'Scarcely... when' requires the inverted past perfect: 'Scarcely HAD the new CEO taken office'. Learners write 'Scarcely the new CEO had'."
+  },
+  {
+    "id": "p2-38",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The takeover was approved, ____ with significant conditions attached by the regulator.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "albeit",
+    "explanation": "Spanish 'aunque/si bien' maps onto a full clause, so learners write 'although it had conditions'. C2 English compresses this into the single concessive 'albeit' before a phrase. There is no one-word Spanish equivalent that fronts a reduced clause."
+  },
+  {
+    "id": "p2-39",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ as the league denied any wrongdoing, the leaked emails told a different story.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Much",
+    "explanation": "'Por mucho que negara' tempts 'However much' or 'Although'. The fronted concessive 'Much as (the league denied)' = aunque/por más que, but Spanish has no inverted 'mucho como' structure, so learners almost never produce it."
+  },
+  {
+    "id": "p2-40",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the mounting losses, the consortium pressed ahead with its bid.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Notwithstanding",
+    "explanation": "'A pesar de' yields the safe 'Despite'. 'Notwithstanding' has no transparent cognate and looks like a verb, so learners avoid it entirely — yet it is the prestige C2 marker examiners reward."
+  },
+  {
+    "id": "p2-41",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ all its global fanbase, the club remains chronically unprofitable.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "For",
+    "explanation": "'A pesar de toda su afición' steers you to 'Despite'. The idiomatic concessive 'For all (its)...' = con todo lo que tiene has no Spanish mirror; 'for' as a concessive baffles learners who only know it as 'para/por'."
+  },
+  {
+    "id": "p2-42",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Broadcast revenue climbed again this season, ____ the wider economic slowdown.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "despite",
+    "explanation": "The trap is the gerund-less noun phrase. 'A pesar de la desaceleración' is fine as 'despite', but learners instinctively add 'of' ('despite of') by contamination with 'in spite of'."
+  },
+  {
+    "id": "p2-43",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the report acknowledged some progress, it stopped short of clearing the board.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whilst",
+    "explanation": "'Si bien/aunque' invites 'Although'. The concessive 'Whilst/While' here means 'though', not the temporal 'mientras'. Spanish speakers over-restrict 'while' to time and miss its contrastive C2 use."
+  },
+  {
+    "id": "p2-44",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The two bodies remain legally separate, ____ they answer to the same minister.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "though",
+    "explanation": "End-positioned 'though' (= sin embargo/aunque) is alien to Spanish, which front-loads concessives. Learners write 'although' and force it to the front, breaking the natural mid-sentence flow."
+  },
+  {
+    "id": "p2-45",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The fixtures were rescheduled ____ of the objections raised by the smaller clubs.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "regardless",
+    "explanation": "'Sin tener en cuenta / al margen de' has no neat cognate. Learners reach for 'despite' (which can't take 'of') or 'independent'. 'Regardless of' = sea cual sea/pese a is the fixed C2 collocation."
+  },
+  {
+    "id": "p2-46",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ lucrative the offer, the supporters' trust would never sanction a sale.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "However",
+    "explanation": "'Por muy lucrativa que fuera' tempts 'Although it was lucrative'. The concessive 'However + adjective' (= por muy... que) fronts the adjective with no verb — a structure Spanish never builds, so learners pad it out wrongly."
+  },
+  {
+    "id": "p2-47",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ , the figures were independently audited; that alone does not make the strategy sound.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Granted",
+    "explanation": "The discourse-marker 'Granted,' = de acuerdo/cierto es que concedes a point before rebutting it. Spanish uses a clause ('Es cierto que...'), so learners never deploy the bare participial concession that examiners prize."
+  },
+  {
+    "id": "p2-48",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "It was not ____ the accounts were published that the true deficit emerged.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "until",
+    "explanation": "'No fue hasta que... cuando' tempts a final 'when'. The cleft is fixed as 'It was not UNTIL... THAT...'. Spanish 'cuando' bleeds into English as the wrong connector at the end of the cleft."
+  },
+  {
+    "id": "p2-49",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the directors had overlooked was the clause permitting early termination.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "What",
+    "explanation": "'Lo que los directivos pasaron por alto' is rendered by 'lo que', which learners translate as 'That which' or 'The thing that'. The pseudo-cleft subject is simply 'What'."
+  },
+  {
+    "id": "p2-50",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Not only ____ the federation breach its own rules, but it also misled the press.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "Fronted 'Not only' forces auxiliary inversion. Spanish ('No solo incumplió') has no inversion, so learners write 'Not only the federation breached', omitting the supporting 'did' entirely."
+  },
+  {
+    "id": "p2-51",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "It was the sponsors, ____ than the players, who ultimately forced the rebrand.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "rather",
+    "explanation": "'Más que / en lugar de' tempts 'more than' or 'instead'. Inside a cleft, the contrastive bracket is fixed as 'rather than'. Learners default to 'more than', which here means a quantity, not a contrast."
+  },
+  {
+    "id": "p2-52",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "No sooner ____ the deal collapsed than rival bidders began to circle.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'Apenas se había hundido... cuando' triggers 'when'. English demands inversion with the pluperfect auxiliary 'had' after 'No sooner', and pairs it with 'than', not 'when'. A double Spanish-interference trap."
+  },
+  {
+    "id": "p2-53",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the broadcaster not intervened, the season would have gone unaired.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Had",
+    "explanation": "Inverted third conditional ('Had the broadcaster not intervened' = De no haber intervenido). Spanish uses 'Si no hubiera...', so learners cling to 'If' and never produce the conditional inversion with fronted 'Had'."
+  },
+  {
+    "id": "p2-54",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Such ____ the public anger that an emergency meeting was called within hours.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "was",
+    "explanation": "Fronted 'Such' inverts subject and verb ('Such was the anger'). 'Tal era la indignación' has the verb in normal order, so learners write 'Such the public anger was', dropping the inversion."
+  },
+  {
+    "id": "p2-55",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ did the investors suspect that the valuation had been deliberately inflated.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Little",
+    "explanation": "The negative-adverb opener 'Little did (they) suspect' triggers inversion. Spanish 'Poco se imaginaban' has no auxiliary inversion, so learners write 'Little the investors suspected', missing 'did'."
+  },
+  {
+    "id": "p2-56",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ when the title sponsor withdrew did the board grasp the scale of the crisis.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Only",
+    "explanation": "'Solo cuando... se dieron cuenta' produces no inversion in Spanish. Fronted 'Only when...' forces 'did the board grasp'. Learners write 'Only when... the board grasped', flattening the emphatic structure."
+  },
+  {
+    "id": "p2-57",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Many ____ chairman has staked his entire reputation on a single signing.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "a",
+    "explanation": "The literary quantifier 'Many a + singular noun + singular verb' (= más de un/muchos un...) has no Spanish parallel. Learners write 'Many chairmen have', missing the singular concord that 'Many a' demands."
+  },
+  {
+    "id": "p2-58",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ bidder the panel ultimately favours, the decision is bound to be contested.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whichever",
+    "explanation": "Choosing among a defined set needs 'Whichever' (= cualquiera de los que / el que sea). 'Sea cual sea' tempts the open-ended 'Whatever'; with a countable, listed choice, 'Whichever' is the precise determiner."
+  },
+  {
+    "id": "p2-59",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the outcome of the inquiry, the damage to the brand has already been done.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whatever",
+    "explanation": "'Sea cual sea el resultado' maps to 'Whatever'. Learners build a clause ('No matter what is the outcome') with wrong word order, instead of the compact determiner 'Whatever + noun'."
+  },
+  {
+    "id": "p2-60",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "There is ____ such thing as a guaranteed return in professional sport.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "no",
+    "explanation": "The fixed idiom 'no such thing as' = no existe tal cosa como. Spanish 'no hay tal cosa' tempts 'not such thing' or 'any such thing'; the negative determiner must be 'no'."
+  },
+  {
+    "id": "p2-61",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ of the two rival proposals adequately addressed the governance failings.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Neither",
+    "explanation": "'Ninguna de las dos' = 'Neither of the two', taking a singular verb. Learners write 'None of the two' (None is for three or more) or pluralise the verb, both of which examiners penalise."
+  },
+  {
+    "id": "p2-62",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ observers had expected the merger to clear the competition authority unopposed.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Few",
+    "explanation": "'Pocos esperaban' must be 'Few' (no article), not 'A few' (= unos cuantos, a positive amount). Spanish 'pocos' is inherently negative, but learners insert 'A few' and reverse the meaning."
+  },
+  {
+    "id": "p2-63",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ reviewed the federation's accounts in considerable detail, the auditors raised serious concerns about several undeclared payments.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Having",
+    "explanation": "A perfect participle clause ('Having reviewed') replaces 'After they had reviewed'. Spanish defaults to a finite clause ('Tras revisar' / 'Después de que revisaran'), so learners write 'After reviewed' or 'Reviewed' and omit the auxiliary 'Having' that English requires to mark the prior action."
+  },
+  {
+    "id": "p2-64",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ by mounting pressure from supporters' groups, the board finally agreed to publish the report in full.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Driven",
+    "explanation": "A passive participle clause ('Driven by') compresses 'Because it was driven by'. Spanish prefers a full causal clause ('Empujada por' works, but learners reach for 'Pushed for' or 'Forced for'). English fronts the bare past participle with no auxiliary and no 'being'."
+  },
+  {
+    "id": "p2-65",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ been accused of a lack of transparency, the league moved quickly to overhaul its entire governance structure.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Having",
+    "explanation": "A perfect passive participle ('Having been accused'). Learners drop 'Having' and start with 'Been accused' or switch to a finite clause, because Spanish has no single non-finite form combining perfect aspect and passive voice ('Tras haber sido acusada')."
+  },
+  {
+    "id": "p2-66",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "In the ____ of these revelations, the main sponsor immediately suspended its multi-million-euro agreement.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "light",
+    "explanation": "'In the light of' = a la luz de / en vista de. The Spanish 'a la vista de' tempts 'in the view/sight of', but the fixed English phrase is 'in the light of'. No other noun fits."
+  },
+  {
+    "id": "p2-67",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "By the time the takeover was completed, the club was already on the ____ of financial collapse.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "brink",
+    "explanation": "'On the brink of' = al borde de. Spanish 'borde' nudges learners toward 'border' or 'edge'; 'on the edge of' is not the idiom here. 'Brink' (or 'verge') is the fixed collocation for impending disaster."
+  },
+  {
+    "id": "p2-68",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Critics argued that the short-term sporting results had been achieved at the ____ of the club's long-term financial stability.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "expense",
+    "explanation": "'At the expense of' = a expensas de / a costa de. Spanish 'a costa de' pulls learners toward 'at the cost of', which is not idiomatic in this concessive sense. The fixed noun is 'expense'."
+  },
+  {
+    "id": "p2-69",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "By ____ of his position as honorary president, he retains a seat on every executive committee.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "virtue",
+    "explanation": "'By virtue of' = en virtud de. The cognate exists, but learners abandon it for 'because of' or 'by reason of'. The exact formal phrase required here is 'by virtue of'."
+  },
+  {
+    "id": "p2-70",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The directors convened an emergency meeting with a ____ to restructuring the entire commercial division.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "view",
+    "explanation": "'With a view to + -ing' = con vistas a / con el objetivo de. Spanish 'con vistas a' is plural, so learners write 'with views to'; worse, the 'to' is a preposition demanding a gerund, not the infinitive 'restructure'."
+  },
+  {
+    "id": "p2-71",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "All player transfers must be conducted in ____ with the financial regulations laid down by the governing body.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "accordance",
+    "explanation": "'In accordance with' = de acuerdo con / conforme a. Spanish 'de acuerdo con' tempts 'in agreement with' or the bare 'according to'. The fixed regulatory phrase is 'in accordance with'."
+  },
+  {
+    "id": "p2-72",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "For the ____ of transparency, the federation pledged that every commercial contract would be made publicly available.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sake",
+    "explanation": "'For the sake of' = en aras de / por el bien de. There is no Spanish cognate for 'sake', so learners produce 'for the good of' or 'in name of'. Only 'sake' completes the idiom."
+  },
+  {
+    "id": "p2-73",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "In the ____ of the corruption scandal, three of the organisation's most senior executives were forced to step down.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wake",
+    "explanation": "'In the wake of' = a raíz de / tras. Spanish 'a raíz de' offers no clue; learners reach for 'after' or 'as a result of'. The idiomatic noun for 'in the aftermath of' is 'wake'."
+  },
+  {
+    "id": "p2-74",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Rarely ____ the federation faced such intense and sustained scrutiny from the international press.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "has",
+    "explanation": "A fronted negative adverb ('Rarely') triggers subject-auxiliary inversion: 'Rarely has the federation faced'. Spanish has no inversion ('Rara vez la federación se ha enfrentado'), so learners write 'Rarely the federation has', omitting the inverted auxiliary."
+  },
+  {
+    "id": "p2-75",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Under no circumstances ____ confidential salary figures be disclosed to journalists before the official announcement.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "should",
+    "explanation": "'Under no circumstances' forces inversion of a modal: 'should confidential figures be'. Spanish 'bajo ninguna circunstancia' keeps normal word order, so learners write 'figures should be' with no inversion."
+  },
+  {
+    "id": "p2-76",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "No sooner ____ the merger been announced than the club's share price began to plummet.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'No sooner ... than' inverts the past perfect: 'No sooner had the merger been announced'. Spanish 'nada más anunciarse' uses a non-finite structure entirely, so learners miss both the inversion and the 'than' that follows (never 'when')."
+  },
+  {
+    "id": "p2-77",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Not until the independent inquiry was finally published ____ the public learn the true scale of the debt.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "Fronted 'Not until' delays the inversion to the main clause: 'did the public learn'. Spanish 'No fue hasta... cuando el público supo' uses a cleft with normal order, so learners write 'the public learned' and forget the inverted 'did'."
+  },
+  {
+    "id": "p2-78",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Seldom ____ a governing body act so decisively against the interests of its own member clubs.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "does",
+    "explanation": "'Seldom' fronts the present-simple inversion: 'does a governing body act'. Spanish 'rara vez actúa' has no dummy auxiliary, so learners write 'Seldom a governing body acts', missing 'does'."
+  },
+  {
+    "id": "p2-79",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Only by ____ the accounts fully open to inspection could the club hope to restore its battered credibility.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "keeping",
+    "explanation": "After the fronted 'Only by' the preposition demands a gerund ('keeping'), and the main clause then inverts ('could the club'). Spanish 'Sólo manteniendo' uses a gerund too, but learners often slip into the infinitive 'keep' and drop the later inversion."
+  },
+  {
+    "id": "p2-80",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the gravity of the allegations, the committee had little choice but to launch a formal investigation.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Given",
+    "explanation": "The participial preposition 'Given' = dado / en vista de. Spanish 'Dado' is the exact mirror, yet learners expand it to 'Given that' (which needs a clause) or write 'Seeing the gravity'. Before a noun phrase the single word 'Given' is required."
+  },
+  {
+    "id": "p2-81",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Throughout the crisis the president found himself increasingly at ____ with the rest of the board over the proposed strategy.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "odds",
+    "explanation": "'At odds with' = enfrentado a / en desacuerdo con. Spanish 'en desacuerdo con' tempts 'at disagreement with' or 'in odds with'. The fixed idiom for being in conflict is 'at odds with'."
+  },
+  {
+    "id": "p2-82",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Speaking on ____ of the entire board, the vice-president offered an unreserved apology to the supporters' trust.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "behalf",
+    "explanation": "'On behalf of' = en nombre de. Spanish 'en nombre de' drags learners toward 'in name of' or 'in the name of'. The fixed representative phrase is 'on behalf of'."
+  },
+  {
+    "id": "p2-83",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The new training complex was financed almost entirely by ____ of private investment rather than public funds.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "means",
+    "explanation": "'By means of' = por medio de / mediante. Spanish 'mediante' has no obvious mapping, so learners write 'by means to' or 'through means of'. The fixed instrumental phrase is 'by means of'."
+  },
+  {
+    "id": "p2-84",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Fans lobbied the federation for months, but to no ____: season-ticket prices rose again the following year.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "avail",
+    "explanation": "'To no avail' = en vano / sin resultado. There is no Spanish cognate for 'avail', so learners produce 'to no result' or drop into 'in vain' (which won't fit this slot). Only 'avail' completes the idiom."
+  },
+  {
+    "id": "p2-85",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Every department saw its budget frozen, with the ____ of the youth academy, which was ring-fenced.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "exception",
+    "explanation": "'With the exception of' = a excepción de. Spanish 'a excepción de' tempts 'with the exception to' or 'with exception of'. The article and preposition are fixed: 'with the exception of'."
+  },
+  {
+    "id": "p2-86",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Commercial revenue had grown to such an ____ that it now comfortably eclipsed matchday income.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "extent",
+    "explanation": "'To such an extent that' = hasta tal punto que. The Spanish 'punto' makes learners write 'to such a point that'. English fixes the degree noun as 'extent', not 'point'."
+  },
+  {
+    "id": "p2-87",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The independent review was commissioned at the ____ of the sports ministry, not at the federation's own initiative.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "behest",
+    "explanation": "'At the behest of' = a instancias de / por orden de. The word 'behest' has no Spanish cognate, so learners default to 'at the request/order of'. The single fixed noun the gap demands is 'behest'."
+  },
+  {
+    "id": "p2-88",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Several senior executives agreed to accept company shares in ____ of their annual cash bonus.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lieu",
+    "explanation": "'In lieu of' = en lugar de / a cambio de. Spanish 'en lugar de' pulls learners toward 'in place of', which is too informal for this financial register. The formal idiom is 'in lieu of'."
+  },
+  {
+    "id": "p2-89",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ as the directors admired his strategic vision, they had grave doubts about his command of the finances.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Much",
+    "explanation": "'Much as' = por mucho que, a concessive construction. Spanish 'por mucho que' tempts a clause with 'Although' or the over-literal 'As much as'. The fronted concessive here is the bare 'Much as'."
+  },
+  {
+    "id": "p2-90",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Strange ____ it may seem, several smaller clubs actually voted against the revenue-sharing agreement.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "as",
+    "explanation": "'Adjective + as + it may seem' = por (muy) extraño que parezca. Spanish 'por extraño que' has no inversion, so learners write 'Strange that it seems' or 'However strange'. The fixed concessive linker is 'as'."
+  },
+  {
+    "id": "p2-91",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The ____ the contractual dispute dragged on, the more lasting the damage to the league's reputation became.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "longer",
+    "explanation": "'The longer..., the more...' = cuanto más / cuanto más tiempo. Spanish 'cuanto más' tempts 'More the dispute dragged on' with no article. English requires the parallel 'The + comparative ... the + comparative'."
+  },
+  {
+    "id": "p2-92",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The three vice-presidents, ____ of whom had been consulted in advance, first learned of the ruling from the press.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "none",
+    "explanation": "'None of whom' = ninguno de los cuales. Spanish 'ninguno de los cuales' tempts learners into 'no one of which' or 'any of whom'. A formal relative clause with a negative quantifier takes 'none of whom'."
+  },
+  {
+    "id": "p2-93",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the title sponsor to withdraw at this stage, the entire competition would be thrown into financial chaos.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Were",
+    "explanation": "Inverted conditional 'Were ... to + infinitive' = Si ... + subjuntivo. Spanish uses 'Si el patrocinador se retirara', so learners default to 'If' + past tense and miss the formal inversion 'Were the sponsor to withdraw'."
+  },
+  {
+    "id": "p2-94",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The auditors recommended that every single transaction ____ recorded in one publicly accessible ledger.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "be",
+    "explanation": "Mandative subjunctive after 'recommend that' = que se registre. Spanish triggers a subjunctive ('recomendaron que se registrara'), but learners translate it as the indicative 'is/was recorded'. English keeps the bare subjunctive 'be recorded'."
+  },
+  {
+    "id": "p2-95",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The much-publicised takeover fell ____ at the eleventh hour when the financing unexpectedly collapsed.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "through",
+    "explanation": "'Fall through' = fracasar / venirse abajo. The Spanish single verb tempts learners to drop the particle or pick 'fall down' (physical) or 'fall off'. A plan that collapses 'falls through'."
+  },
+  {
+    "id": "p2-96",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "Negotiations over the new broadcasting deal broke ____ after barely two hours at the table.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "down",
+    "explanation": "'Break down' (of talks) = romperse / fracasar. Learners confuse it with 'break off' (to interrupt/sever) or omit the particle entirely. Talks that fail completely 'break down'."
+  },
+  {
+    "id": "p2-97",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Such ____ the public outcry that the federation was forced to reverse its decision within days.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "was",
+    "explanation": "Fronted 'Such' triggers inversion: 'Such was the outcry that'. Spanish 'Tal fue la indignación que' keeps a finite verb but no inversion of this kind in learners' minds, so they write 'Such the outcry was' or 'So was the outcry'."
+  },
+  {
+    "id": "p2-98",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "What the club needs ____ at this critical juncture is a stable and credible long-term revenue stream.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "most",
+    "explanation": "In a cleft 'What ... needs most is', the superlative adverb follows the verb. Spanish 'Lo que más necesita' places 'más' before the verb, so learners write 'What the club most needs' or substitute 'more'. The natural slot takes 'most'."
+  },
+  {
+    "id": "p2-99",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "In ____ of repeated warnings from its own auditors, the board went ahead and approved the high-risk loan.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "spite",
+    "explanation": "'In spite of' = a pesar de. Spanish 'a pesar de' produces the notorious hybrid 'despite of' or the wrong 'in spite to'. The fixed concessive phrase is 'in spite of'."
+  },
+  {
+    "id": "p2-100",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The committee agreed to suspend all transfer activity for the time ____ until the inquiry had concluded.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "being",
+    "explanation": "'For the time being' = por el momento / de momento. Spanish 'por el momento' tempts 'for the moment' (fine elsewhere, wrong here) or the malformed 'for the time been'. The fixed phrase ends in 'being'."
+  },
+  {
+    "id": "p1-64",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The board's handling of the takeover has ____ fierce criticism from minority shareholders.",
+    "options": [
+      "come in for",
+      "come up against",
+      "come down on",
+      "come round to"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "come in for",
+    "explanation": "'Recibir críticas' tempts a literal 'receive'. The idiom 'come in for criticism/praise' = to be the target of it. 'Come down on' means to punish someone; 'come up against' means to face an obstacle — neither fits the object 'criticism'."
+  },
+  {
+    "id": "p1-65",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "With the chief executive on sick leave, the finance director was asked to ____ him at the press conference.",
+    "options": [
+      "stand in for",
+      "stand up for",
+      "stand out from",
+      "stand by for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "stand in for",
+    "explanation": "'Sustituir' is one verb, so learners drop a particle. 'Stand in for' = to deputise/replace temporarily. 'Stand up for' means to defend, a meaning shaped entirely by the particle."
+  },
+  {
+    "id": "p1-66",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "If sponsorship revenue collapses, the club can always ____ its substantial cash reserves.",
+    "options": [
+      "fall back on",
+      "fall in with",
+      "fall through with",
+      "fall out with"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "fall back on",
+    "explanation": "'Recurrir a' translates as a simple verb, so the two particles feel excessive. 'Fall back on' = to resort to in difficulty. 'Fall out with' means to quarrel with someone — a false lead given the corporate setting."
+  },
+  {
+    "id": "p1-67",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The new president promised ____ changes to the federation's outdated statutes.",
+    "options": [
+      "sweeping",
+      "wide",
+      "ample",
+      "broad-minded"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sweeping",
+    "explanation": "'Cambios amplios/de gran alcance' tempts 'wide' or 'ample'. The fixed collocation is 'sweeping changes/reforms'. 'Ample' is a false friend meaning 'plentiful', not 'far-reaching'."
+  },
+  {
+    "id": "p1-68",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The report condemned the league's ____ disregard for financial fair play regulations.",
+    "options": [
+      "blatant",
+      "clamorous",
+      "notorious",
+      "evident"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "blatant",
+    "explanation": "'Flagrante/descarado' invites 'evident' or 'notorious'. The collocation is 'blatant disregard'. 'Notorious' is a false friend (it means infamous, not merely well-known), and 'evident' lacks the note of shamelessness."
+  },
+  {
+    "id": "p1-69",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Critics suspect the investment fund has an ____ motive behind its sudden interest in the stadium.",
+    "options": [
+      "ulterior",
+      "ulterior-minded",
+      "posterior",
+      "exterior"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ulterior",
+    "explanation": "Spanish 'ulterior' means 'subsequent/later', so the cognate misleads completely. English 'ulterior motive' = a hidden, often improper, intention. 'Posterior' is the actual translation of Spanish 'ulterior'."
+  },
+  {
+    "id": "p1-70",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "After weeks of deadlock, the two parties finally managed to ____ a deal over broadcasting rights.",
+    "options": [
+      "strike",
+      "hit",
+      "close",
+      "knock"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "strike",
+    "explanation": "'Cerrar un acuerdo' tempts 'close'. The idiomatic verb is 'strike a deal/bargain'. 'Close a deal' exists in business but is not the fixed idiom tested here, and 'hit/knock a deal' are simply wrong collocations."
+  },
+  {
+    "id": "p1-71",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Ticket sales for the new arena have ____ well short of the directors' optimistic projections.",
+    "options": [
+      "fallen",
+      "lacked",
+      "missed",
+      "dropped"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "fallen",
+    "explanation": "'Quedarse corto' has no neat verb in English, so learners reach for 'lacked' or 'missed'. The fixed phrase is 'fall short (of)'. 'Drop short' and 'lack short' are not collocations; 'miss' would need a different object."
+  },
+  {
+    "id": "p1-72",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "With no rival candidates standing, the chairman's re-election was a ____ conclusion.",
+    "options": [
+      "foregone",
+      "forgotten",
+      "forthcoming",
+      "forewarned"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "foregone",
+    "explanation": "'Resultado cantado' has no cognate, so the unusual word 'foregone' looks like a misspelling of 'forgotten'. 'A foregone conclusion' = an inevitable outcome. The other 'fore-' words are plausible-looking traps with no such fixed phrase."
+  },
+  {
+    "id": "p1-73",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Under mounting pressure from fans, the board was eventually forced to ____ its decision to raise season-ticket prices.",
+    "options": [
+      "back down on",
+      "back up on",
+      "back off from",
+      "back out at"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "back down on",
+    "explanation": "'Dar marcha atrás en' tempts random particles. 'Back down on' = to retreat from a stated position. 'Back off' means to stop being aggressive, and 'back up' means to support — both reversals of the intended sense."
+  },
+  {
+    "id": "p1-74",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Several board members had a ____ interest in approving the merger, owning shares in the buying company.",
+    "options": [
+      "vested",
+      "invested",
+      "interested",
+      "personal-driven"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "vested",
+    "explanation": "'Interés personal/creado' tempts 'personal' or 'invested'. The fixed legal-corporate collocation is 'vested interest'. 'Invested interest' is a common learner error that does not exist as a set phrase."
+  },
+  {
+    "id": "p1-75",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "An emergency loan was secured to ____ the club ____ until the new television contract took effect.",
+    "options": [
+      "tide ... over",
+      "tie ... over",
+      "tide ... up",
+      "carry ... away"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tide ... over",
+    "explanation": "'Ir tirando/aguantar hasta' has no equivalent, so learners confuse the verb with 'tie'. 'Tide someone over' = to help them through a difficult interim period. The spelling 'tide' (not 'tie') is the trap."
+  },
+  {
+    "id": "p1-76",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The agent is notorious for driving a ____ bargain whenever a player's contract is up for renewal.",
+    "options": [
+      "hard",
+      "strong",
+      "tough-handed",
+      "heavy"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "hard",
+    "explanation": "'Negociar duro' tempts 'strong' or 'tough'. The fixed idiom is 'drive a hard bargain'. 'Heavy bargain' and 'strong bargain' are not collocations; the adjective is locked to 'hard'."
+  },
+  {
+    "id": "p1-77",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The director resigned amid ____ pressure to disclose the full details of the sponsorship deal.",
+    "options": [
+      "mounting",
+      "rising-up",
+      "augmenting",
+      "incrementing"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "mounting",
+    "explanation": "'Presión creciente' invites Latinate guesses like 'augmenting' or 'incrementing'. The natural collocation is 'mounting pressure'. The Latinate cognates exist as words but sound bookish and never collocate with 'pressure'."
+  },
+  {
+    "id": "p1-78",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Following years of losses, the holding company decided to ____ its loss-making merchandising subsidiary.",
+    "options": [
+      "wind up",
+      "wind down",
+      "wind off",
+      "wind back"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wind up",
+    "explanation": "'Liquidar/disolver una empresa' tempts a translation with no particle. 'Wind up a company' = to close it down formally. 'Wind down' means to reduce activity gradually, not to dissolve — the particle changes everything."
+  },
+  {
+    "id": "p1-79",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The annual report conveniently ____ the losses incurred by the failed e-sports venture.",
+    "options": [
+      "glossed over",
+      "passed over",
+      "skimmed through",
+      "brushed up"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "glossed over",
+    "explanation": "'Pasar por alto' tempts 'passed over'. 'Gloss over' = to deliberately downplay or treat something briefly to hide its importance. 'Pass over' means to ignore for promotion; 'brush up' means to revise a skill."
+  },
+  {
+    "id": "p1-80",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The independent audit delivered a ____ assessment of the federation's governance failures.",
+    "options": [
+      "scathing",
+      "scalding",
+      "burning",
+      "severe-toned"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "scathing",
+    "explanation": "'Crítica mordaz/demoledora' has no cognate, so learners confuse 'scathing' with 'scalding' (referring to hot liquid). 'Scathing criticism/assessment' = harshly critical. 'Scalding' and 'burning' describe heat, not censure."
+  },
+  {
+    "id": "p1-81",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Investigators concluded that the contractor had ____ corners to finish the stadium before the deadline.",
+    "options": [
+      "cut",
+      "saved",
+      "shortened",
+      "trimmed"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "cut",
+    "explanation": "'Hacer las cosas a medias/recortar' tempts 'trimmed' or 'saved'. The fixed idiom is 'cut corners' = to do something cheaply or hastily, ignoring proper procedure. No other verb collocates with 'corners' in this sense."
+  },
+  {
+    "id": "p1-82",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The two federations met privately to ____ their remaining differences before the joint announcement.",
+    "options": [
+      "iron out",
+      "smooth down",
+      "flatten out",
+      "press over"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "iron out",
+    "explanation": "'Limar asperezas/resolver diferencias' has no direct mapping, so learners invent 'smooth down' or 'flatten out'. 'Iron out (differences/problems)' = to resolve them. The image is of pressing wrinkles flat, but only 'iron out' is the set phrase."
+  },
+  {
+    "id": "p1-83",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Supporters voiced their ____ at the board's failure to sign a single new player all summer.",
+    "options": [
+      "disappointment",
+      "deception",
+      "deceit",
+      "delusion"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "disappointment",
+    "explanation": "Spanish 'decepción' means 'disappointment', so the cognate 'deception' looks safe — but English 'deception' = engaño (deliberate trickery). 'Deceit' and 'delusion' compound the trap. What the fans feel is 'disappointment'."
+  },
+  {
+    "id": "p1-84",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The multinational reaffirmed its long-term ____ to funding the club's women's team.",
+    "options": [
+      "commitment",
+      "compromise",
+      "engagement",
+      "implication"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "commitment",
+    "explanation": "Spanish 'compromiso' means 'commitment', luring learners to 'compromise' — which in English means a mutual concession (acuerdo de mínimos). 'Implication' (implicación) and 'engagement' are further false leads."
+  },
+  {
+    "id": "p1-85",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The emergency rights issue was designed to ____ the club's fragile balance sheet.",
+    "options": [
+      "shore up",
+      "buttress over",
+      "underpin with",
+      "buoy out"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "shore up",
+    "explanation": "'Apuntalar/reforzar' is one verb, so the particle 'up' feels superfluous. 'Shore up' = to strengthen something weak. 'Buttress' and 'underpin' carry the meaning but reject these particles; the fixed phrasal verb is 'shore up'."
+  },
+  {
+    "id": "p1-86",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Only drastic, last-minute cost-cutting allowed the federation to ____ insolvency.",
+    "options": [
+      "stave off",
+      "ward down",
+      "fend over",
+      "stem out"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "stave off",
+    "explanation": "'Conjurar/evitar' a threat maps to no single English verb, so learners invent particles. 'Stave off' = to avert or delay something bad. 'Ward off' and 'fend off' exist but take 'off', not 'down' or 'over' — the distractors scramble the particles."
+  },
+  {
+    "id": "p1-87",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The minister offered only ____ support for the stadium project, attaching a long list of conditions.",
+    "options": [
+      "qualified",
+      "skilled",
+      "capable",
+      "conditioned"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "qualified",
+    "explanation": "'Qualified' looks like 'cualificado' (skilled), so learners read it as praise. Here 'qualified support' = limited, hedged support. 'Skilled/capable' chase the false-friend sense; 'conditioned' is not the collocation."
+  },
+  {
+    "id": "p1-88",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "After three rejected takeover bids, the consortium finally decided to ____.",
+    "options": [
+      "throw in the towel",
+      "throw the towel",
+      "drop the towel",
+      "hand over the towel"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "throw in the towel",
+    "explanation": "'Tirar la toalla' translates word-for-word as 'throw the towel', so learners drop the crucial particle 'in'. The English idiom is fixed as 'throw in the towel' = to give up. The literal calque is the classic error."
+  },
+  {
+    "id": "p1-89",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "An external firm was hired to conduct a ____ review of the youth academy's accounts.",
+    "options": [
+      "comprehensive",
+      "understanding",
+      "comprehensible",
+      "apprehensive"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "comprehensive",
+    "explanation": "Spanish 'comprensivo' means 'understanding/tolerant', tempting the wrong choice. English 'comprehensive' = exhaustive/thorough. 'Comprehensible' (entendible) and 'apprehensive' (anxious) are extra surface-similar traps."
+  },
+  {
+    "id": "p1-90",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The leaked correspondence provided ____ evidence of deliberate financial mismanagement.",
+    "options": [
+      "damning",
+      "damaging",
+      "condemning",
+      "cursing"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "damning",
+    "explanation": "'Pruebas condenatorias/demoledoras' tempts 'condemning' or 'damaging'. The collocation is 'damning evidence' = proof that strongly incriminates. 'Damaging' is weaker (merely harmful), and 'condemning evidence' is not idiomatic."
+  },
+  {
+    "id": "p1-91",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Negotiators worked through the night to ____ the finer points of the broadcasting deal.",
+    "options": [
+      "thrash out",
+      "thresh over",
+      "thrash down",
+      "beat over"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "thrash out",
+    "explanation": "'Negociar/discutir a fondo' has no neat equivalent, so learners guess the particle or confuse 'thrash' with 'thresh'. 'Thrash out (the details)' = to discuss thoroughly until resolved. Only the particle 'out' completes the idiom."
+  },
+  {
+    "id": "p1-92",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Since acquiring a majority stake, the investment fund effectively ____ at the club.",
+    "options": [
+      "calls the shots",
+      "calls the cards",
+      "shoots the calls",
+      "rings the shots"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "calls the shots",
+    "explanation": "'Cortar el bacalao/mandar' has no literal route into English, so learners reshuffle the words. The fixed idiom is 'call the shots' = to be in charge. The other options are plausible-sounding scrambles that simply don't exist."
+  },
+  {
+    "id": "p1-93",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Once the recordings were leaked, the president's ____ position quickly became impossible to defend.",
+    "options": [
+      "untenable",
+      "unsustainable",
+      "unbearable",
+      "insupportable"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "untenable",
+    "explanation": "'Insostenible' maps tidily to 'unsustainable', but that word describes resources or finances, not arguments. A position one cannot defend is 'untenable'. 'Unbearable' (insoportable) and 'insupportable' reactivate the soportar trap."
+  },
+  {
+    "id": "p1-94",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The proposed ownership model met with a decidedly ____ reception from supporters' groups.",
+    "options": [
+      "lukewarm",
+      "warm-hearted",
+      "cool-headed",
+      "half-baked"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lukewarm",
+    "explanation": "'Acogida tibia' tempts a literal 'warm' or 'cold'. The collocation is 'lukewarm reception' = unenthusiastic. 'Warm-hearted' and 'cool-headed' describe people, not responses, and 'half-baked' means ill-conceived (a different idea entirely)."
+  },
+  {
+    "id": "p1-95",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Critics complained that the supervisory board did little more than ____ the executives' decisions.",
+    "options": [
+      "rubber-stamp",
+      "rubber-seal",
+      "ink-stamp",
+      "stamp over"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "rubber-stamp",
+    "explanation": "'Aprobar sin más/dar el visto bueno automáticamente' has no cognate, so learners translate the image literally. 'Rubber-stamp' = to approve routinely without scrutiny. The other 'stamp' compounds are invented and carry no such meaning."
+  },
+  {
+    "id": "p1-96",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The leaked memo set out the federation's official ____ on third-party ownership of players.",
+    "options": [
+      "policy",
+      "politics",
+      "polity",
+      "police"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "policy",
+    "explanation": "Spanish 'política' covers both 'policy' and 'politics', so learners pick the wrong English noun. Here you need 'policy' (a stated course of action). Note too that 'póliza' means only an insurance policy — another layer of interference."
+  },
+  {
+    "id": "p1-97",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The super-agent was reported to have demanded an ____ commission on the transfer.",
+    "options": [
+      "exorbitant",
+      "exuberant",
+      "exhaustive",
+      "excruciating"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "exorbitant",
+    "explanation": "'Desorbitada/abusiva' points to 'exorbitant' = unreasonably high. The lookalike 'exuberant' means lush or high-spirited (a false friend), 'exhaustive' means thorough, and 'excruciating' means agonising — all surface traps."
+  },
+  {
+    "id": "p1-98",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Thanks to its diversified income streams, the club was able to ____ the worst of the financial downturn.",
+    "options": [
+      "weather",
+      "support",
+      "resist",
+      "sustain"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "weather",
+    "explanation": "'Capear el temporal/sobrellevar' surprises learners, who don't expect 'weather' as a verb meaning 'to come through safely'. 'Support', 'resist' and 'sustain' all echo the soportar instinct and fail to collocate with a crisis."
+  },
+  {
+    "id": "p1-99",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Despite the mounting criticism, a handful of columnists remained ____ to the manager's plight.",
+    "options": [
+      "sympathetic",
+      "likeable",
+      "pleasant",
+      "congenial"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sympathetic",
+    "explanation": "Spanish 'simpático' means 'likeable/friendly', so learners misread 'sympathetic' as a personality trait. English 'sympathetic (to)' = comprensivo/compasivo — feeling for someone. 'Likeable, pleasant, congenial' all chase the false-friend meaning."
+  },
+  {
+    "id": "p1-100",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Amid the deepening governance scandal, the long-serving chairman announced he would ____ at the end of the season.",
+    "options": [
+      "step down",
+      "step out",
+      "step over",
+      "stand off"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "step down",
+    "explanation": "'Dimitir/dejar el cargo' is a single verb, so the particle is easily lost or mistaken. 'Step down' = to resign from a position. 'Step out' means to leave briefly, 'step over' to ignore, and 'stand off' to keep a distance — the particle carries the whole meaning."
   }
 ]
