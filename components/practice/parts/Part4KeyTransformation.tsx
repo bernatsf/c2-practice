@@ -1,6 +1,6 @@
 "use client";
 
-import type { GradeResult, Question } from "@/lib/types";
+import type { Question } from "@/lib/types";
 import { GapText } from "@/components/practice/GapText";
 import { TextAnswer } from "./TextAnswer";
 import { InlineReveal } from "./InlineReveal";
@@ -8,14 +8,12 @@ import { InlineReveal } from "./InlineReveal";
 export function Part4KeyTransformation({
   q,
   value,
-  result,
   onChange,
   onSubmit,
   disabled,
 }: {
   q: Question;
   value: string;
-  result: GradeResult | null;
   onChange: (v: string) => void;
   onSubmit: () => void;
   disabled: boolean;
@@ -47,7 +45,7 @@ export function Part4KeyTransformation({
         />
       </div>
 
-      <InlineReveal q={q} disabled={disabled} result={result} />
+      <InlineReveal q={q} disabled={disabled} />
     </div>
   );
 }
