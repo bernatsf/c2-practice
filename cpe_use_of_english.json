@@ -2973,5 +2973,1230 @@
     "targetSentence": null,
     "correctAnswer": "step down",
     "explanation": "'Dimitir/dejar el cargo' is a single verb, so the particle is easily lost or mistaken. 'Step down' = to resign from a position. 'Step out' means to leave briefly, 'step over' to ignore, and 'stand off' to keep a distance — the particle carries the whole meaning."
+  },
+  {
+    "id": "p1-101",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The stretch of coastline is ____ for the ferocity of the storms that batter it each winter.",
+    "options": [
+      "notorious",
+      "notable",
+      "noted",
+      "renowned"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "notorious",
+    "explanation": "Spanish/Catalan 'notorio' just means 'evident/well-known' with no negative charge, so you reach for the neutral or positive 'notable/renowned'. English 'notorious' is reserved for being famous for something BAD — exactly right for violent storms."
+  },
+  {
+    "id": "p1-102",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "After weeks of searching, the team finally recorded a ____ sighting of the elusive snow leopard.",
+    "options": [
+      "rare",
+      "weird",
+      "strange",
+      "odd"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "rare",
+    "explanation": "'Raro' most often means 'strange/weird', so the instinct is to pick 'strange'. But here the meaning is 'infrequent/scarce' = 'rare'. A sighting isn't bizarre; it's uncommon."
+  },
+  {
+    "id": "p1-103",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The expedition ____ to map the entire cave network before the rainy season set in.",
+    "options": [
+      "intended",
+      "pretended",
+      "attended",
+      "contended"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "intended",
+    "explanation": "'Pretender' means 'to intend/aim to', so you write 'pretended'. But English 'pretend' means to feign or fake — the opposite of a genuine plan. The verb you want is 'intend'."
+  },
+  {
+    "id": "p1-104",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The monograph offers a remarkably ____ survey of every species inhabiting the reef.",
+    "options": [
+      "comprehensive",
+      "comprehensible",
+      "understanding",
+      "sympathetic"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "comprehensive",
+    "explanation": "'Comprensivo' means 'understanding/sympathetic' (of a person). English 'comprehensive' means thorough and all-inclusive — the sense needed for a survey of 'every species'. Don't let the cognate steer you to 'understanding'."
+  },
+  {
+    "id": "p1-105",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The beetle is a ____ groomer, meticulously cleaning each leg after every meal.",
+    "options": [
+      "fastidious",
+      "annoying",
+      "tedious",
+      "bothersome"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "fastidious",
+    "explanation": "'Fastidioso' means 'annoying/irritating', so you reject 'fastidious'. But English 'fastidious' means scrupulously meticulous — precisely the praise intended here. A total mismatch with the Spanish sense."
+  },
+  {
+    "id": "p1-106",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Layers of sediment faithfully ____ the climatic conditions of millions of years ago.",
+    "options": [
+      "record",
+      "remember",
+      "recall",
+      "remind"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "record",
+    "explanation": "'Recordar' means 'to remember/recall', pulling you to 'remember'. But sediment can't remember anything — it 'records' (registers/preserves) data. English 'record' is the false friend trap here."
+  },
+  {
+    "id": "p1-107",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Each year the grey whale undertakes an extraordinarily ____ migration of over 16,000 kilometres.",
+    "options": [
+      "long",
+      "large",
+      "wide",
+      "grand"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "long",
+    "explanation": "'Largo' means 'long' but looks like 'large', so learners write 'large' (= big). A migration measured in distance is 'long', not 'large'. The spelling resemblance is the entire trap."
+  },
+  {
+    "id": "p1-108",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The sudden collapse of the colony came as a bitter ____ to the researchers who had nurtured it for years.",
+    "options": [
+      "disappointment",
+      "deception",
+      "deceit",
+      "delusion"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "disappointment",
+    "explanation": "'Decepción' means 'disappointment', not 'deception'. English 'deception' means deliberate trickery — there is no deceiver here, only dashed hopes. The cognate leads you straight into the wrong word."
+  },
+  {
+    "id": "p1-109",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The germination of these seeds depends ____ a prolonged spell of freezing weather.",
+    "options": [
+      "on",
+      "of",
+      "from",
+      "to"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Depender DE' triggers a literal 'depend of' — the single most frequent preposition error for Spanish speakers. English fixes 'depend ON'."
+  },
+  {
+    "id": "p1-110",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The giant panda's diet consists almost exclusively ____ a single species of bamboo.",
+    "options": [
+      "of",
+      "in",
+      "on",
+      "from"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Consistir EN' pushes you to 'in'. 'Consist OF' is required for components. 'Consist in' does exist but means 'to have as its essence' — wrong structure for listing ingredients."
+  },
+  {
+    "id": "p1-111",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Decades of intensive overgrazing have resulted ____ the near-total depletion of the topsoil.",
+    "options": [
+      "in",
+      "on",
+      "of",
+      "to"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'Resultar EN' happens to map to 'result IN', but learners overcorrect to 'of' or 'to' by analogy with other verbs. Cause produces effect via 'result in'."
+  },
+  {
+    "id": "p1-112",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "These pioneering lichens can feed ____ the bare rock of the mountainside, needing almost no soil.",
+    "options": [
+      "on",
+      "of",
+      "from",
+      "with"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Alimentarse DE' tempts 'feed of' or 'feed from'. The fixed English collocation is 'feed ON'. The 'de' has no business becoming 'of' here."
+  },
+  {
+    "id": "p1-113",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Few organisms are equipped to cope ____ the crushing pressures of the deep ocean.",
+    "options": [
+      "with",
+      "to",
+      "against",
+      "of"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'Hacer frente a / lidiar con' offers no clean one-word mapping, so learners guess 'cope to' or 'cope against'. It is always 'cope WITH'."
+  },
+  {
+    "id": "p1-114",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The catastrophic flooding has been attributed ____ a combination of melting glaciers and torrential rain.",
+    "options": [
+      "to",
+      "on",
+      "with",
+      "for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Atribuir A' should give 'attribute TO', but learners blur it with 'blame ON' or 'responsible FOR' and pick the wrong preposition. It is 'attributed TO'."
+  },
+  {
+    "id": "p1-115",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Several amphibian species have been all but ____ by the rapid spread of a deadly fungus.",
+    "options": [
+      "wiped out",
+      "worn out",
+      "put out",
+      "set out"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wiped out",
+    "explanation": "'Exterminar/aniquilar' is a single verb, so the particle feels superfluous and learners drop or swap it. 'Wipe out' = to eradicate; 'worn out' (exhausted) and 'put out' (extinguish) are distractor traps."
+  },
+  {
+    "id": "p1-116",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "As winter closes in, many small mammals ____ on food to survive the lean months ahead.",
+    "options": [
+      "stock up",
+      "store up",
+      "stack up",
+      "save up"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "stock up",
+    "explanation": "'Abastecerse/aprovisionarse' is one verb, so learners invent plausible-looking phrasals. The fixed collocation is 'stock up ON'. 'Save up' is for money, 'stack up' means to accumulate or compare."
+  },
+  {
+    "id": "p1-117",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Without urgent intervention, the last few breeding pairs will simply ____.",
+    "options": [
+      "die out",
+      "die down",
+      "die away",
+      "pass out"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "die out",
+    "explanation": "'Extinguirse' has no particle, so any of the 'die' options looks equally fine. Only 'die OUT' means to become extinct. 'Die down' = subside, 'die away' = fade (of sound), 'pass out' = faint."
+  },
+  {
+    "id": "p1-118",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The hurricane finally ____ after lashing the islands for three relentless days.",
+    "options": [
+      "let up",
+      "let off",
+      "let down",
+      "let out"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "let up",
+    "explanation": "'Amainar/escampar' is a single verb learners rarely link to any phrasal. 'Let UP' = to weaken or cease. 'Let off' (excuse), 'let down' (disappoint) and 'let out' (release) are unrelated traps."
+  },
+  {
+    "id": "p1-119",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Over the centuries the relentless tide has ____ entire stretches of the chalk cliff.",
+    "options": [
+      "worn away",
+      "worn out",
+      "worn down",
+      "worn off"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "worn away",
+    "explanation": "'Erosionar/desgastar' is one verb, so the particle is a guess. 'Wear AWAY' = to erode and remove material. 'Wear out' = exhaust, 'wear down' = grind into submission, 'wear off' = fade (of an effect)."
+  },
+  {
+    "id": "p1-120",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Astonishingly, certain extremophile bacteria do not merely survive but actively ____ in near-boiling water.",
+    "options": [
+      "thrive",
+      "survive",
+      "persist",
+      "endure"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "thrive",
+    "explanation": "The instinct from 'sobrevivir' is 'survive', but the sentence explicitly contrasts mere survival with something stronger. 'Thrive' = to flourish/prosper. The other three all mean only 'to keep going', which the 'not merely survive but' frame rules out."
+  },
+  {
+    "id": "p1-121",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Once-abundant herds have ____ to a mere handful of scattered individuals.",
+    "options": [
+      "dwindled",
+      "faded",
+      "melted",
+      "vanished"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "dwindled",
+    "explanation": "Logic isn't enough — it's collocation. 'Dwindle (down) to' is the fixed verb for numbers shrinking gradually. 'Vanish' is total (you can't vanish 'to a handful'), and 'fade/melt' don't take this construction with populations."
+  },
+  {
+    "id": "p1-122",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "A ____ wind swept down off the glacier, cutting straight through the climbers' jackets.",
+    "options": [
+      "biting",
+      "chewing",
+      "gnawing",
+      "nibbling"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "biting",
+    "explanation": "All four relate to teeth, but only 'a biting wind' is the established collocation for piercing cold. There is no neat Spanish equivalent ('viento gélido/cortante'), so learners pick a literal-sounding cousin like 'gnawing'."
+  },
+  {
+    "id": "p1-123",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "____ rain battered the valley for seventy-two hours, swelling every river to bursting point.",
+    "options": [
+      "torrential",
+      "plentiful",
+      "abundant",
+      "generous"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "torrential",
+    "explanation": "The distractors all mean 'a lot of' and translate fine from 'abundante', but none collocates with destructive rain. English locks 'torrential rain'. Quantity words don't substitute for the fixed intensity adjective."
+  },
+  {
+    "id": "p1-124",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Years of unrelenting drought have ____ a heavy toll on the region's wildlife.",
+    "options": [
+      "taken",
+      "made",
+      "done",
+      "had"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "taken",
+    "explanation": "'Take its toll' is a frozen idiom. Spanish has no parallel, so learners default to all-purpose 'make' or 'do' ('hacer'). Only 'take a toll (on)' is correct; the verb cannot be swapped."
+  },
+  {
+    "id": "p1-125",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Hardy desert shrubs are superbly adapted to ____ the prolonged droughts that would kill most plants.",
+    "options": [
+      "weather",
+      "season",
+      "shower",
+      "storm"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "weather",
+    "explanation": "Learners know 'weather' only as a noun, so the verbal sense — 'to weather' = to come through hardship intact — is invisible. The distractors are weather-related nouns deployed precisely to exploit that blind spot."
+  },
+  {
+    "id": "p2-101",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Cognitive psychologists have long described the process ____ a memory is subtly altered each time it is retrieved and re-stored.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whereby",
+    "explanation": "Spanish 'mediante el cual / por el cual' tempts a clunky 'by which the' or 'through which'. The single relative-linker 'whereby' (= por el cual) is what formal English demands, and learners rarely have it active."
+  },
+  {
+    "id": "p2-102",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Participants were kept unaware of the study's true aim ____ this knowledge should distort their spontaneous responses.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lest",
+    "explanation": "'Para que no / por miedo a que' pushes learners toward 'so that not' or 'in case'. The negative-purpose conjunction 'lest' (+ should/subjunctive) has no Spanish one-to-one and is almost never produced."
+  },
+  {
+    "id": "p2-103",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Far from being passive, infants are ____ no means mere recipients of social conditioning.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by",
+    "explanation": "'De ninguna manera' invites 'in/of no means'. The fixed phrase is 'by no means', and as a fronted negative it also triggers no inversion here only because it modifies the verb — but the preposition itself is the trap."
+  },
+  {
+    "id": "p2-104",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The word was on the ____ of her tongue, but the harder she searched her memory, the more elusive it became.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tip",
+    "explanation": "Spanish says 'en la punta de la lengua', so learners reach for 'point' or 'end'. The fixed idiom is 'on the tip of one's tongue'; no other noun fits."
+  },
+  {
+    "id": "p2-105",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Inasmuch ____ behaviour is shaped by reinforcement, the surrounding environment exerts a decisive influence.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "as",
+    "explanation": "'En la medida en que' maps to no obvious word, so learners write 'inasmuch that' or abandon the linker. It is always 'inasmuch as' (= dado que/en cuanto)."
+  },
+  {
+    "id": "p2-106",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Confused ____ to why he had reacted so aggressively, the patient agreed to undergo analysis.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "as",
+    "explanation": "'Confundido sobre por qué' pulls learners to 'about' or 'on'. After participles of doubt English fixes 'as to' (confused/uncertain/unclear as to). 'About' is too informal and structurally wrong here."
+  },
+  {
+    "id": "p2-107",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Far ____ being an immutable trait, intelligence now appears strikingly responsive to experience.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "from",
+    "explanation": "'Lejos de ser' looks safe, but learners often substitute 'instead of' or drop the preposition. The concessive opener is rigidly 'far from + -ing'."
+  },
+  {
+    "id": "p2-108",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Some individuals appear genetically predisposed ____ anxiety, reacting to mild stressors with disproportionate alarm.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Predispuesto A' happens to map to 'to', but learners contaminate it with 'predisposed for/towards' by analogy with 'inclined towards'. The fixed dependent preposition is 'predisposed to'."
+  },
+  {
+    "id": "p2-109",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Cognitive dissonance theory neatly accounts ____ the gap between people's stated values and their actual conduct.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "for",
+    "explanation": "'Explicar / dar cuenta de' tempts 'account of'. The phrasal pattern is 'account FOR' (= explicar). 'Account of' exists only as a noun phrase, not as this verb."
+  },
+  {
+    "id": "p2-110",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "His clinical report was utterly devoid ____ any emotional colouring, listing the symptoms with detached precision.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Carente / desprovisto DE' should give 'of', yet 'devoid' has no transparent cognate so learners guess 'from' or 'in'. It is invariably 'devoid of'."
+  },
+  {
+    "id": "p2-111",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "It is ____ virtue of sheer repeated exposure that we gradually come to favour the familiar over the novel.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by",
+    "explanation": "'En virtud de' literally produces 'in virtue of', which is wrong in modern English. The fixed phrase is 'by virtue of' (= gracias a / en razón de)."
+  },
+  {
+    "id": "p2-112",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Subjects routinely attribute their successes to personal ability ____ blaming their failures on external circumstances.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "while",
+    "explanation": "Spanish would coordinate with 'mientras que' + a full clause; learners then write 'whereas blaming' (which needs a clause) or 'meanwhile'. 'While + -ing' is the economical contrastive form English wants here."
+  },
+  {
+    "id": "p2-113",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The bystander effect, ____ which the presence of others inhibits individual intervention, has been replicated countless times.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by",
+    "explanation": "'Por el cual' tempts 'by which' and that is correct here — but Spanish speakers frequently default to 'that' or 'whose', both ungrammatical after a comma in this non-defining clause. Preposition + which is obligatory."
+  },
+  {
+    "id": "p2-114",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Such ____ the power of suggestion that wholly false memories can be implanted with surprising ease.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "is",
+    "explanation": "Fronted 'Such' forces subject–verb inversion ('Such is the power...'). Spanish 'Tal es el poder' keeps normal order, so learners write 'Such the power' or 'Such it is'."
+  },
+  {
+    "id": "p2-115",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Driven ____ an overwhelming compulsion to check and recheck, sufferers of OCD endure considerable daily distress.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "by",
+    "explanation": "In a passive participle clause the agent is 'driven BY'. Spanish 'movido por / impulsado por' should help, but learners slip into 'driven for' or 'driven from'."
+  },
+  {
+    "id": "p2-116",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The longitudinal data cast serious doubt ____ the long-held assumption that personality is fixed by early adulthood.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Sembrar dudas sobre' tempts 'doubt about/over'. The collocation is rigidly 'cast doubt ON'. Collocations don't translate from 'sobre'."
+  },
+  {
+    "id": "p2-117",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Were it ____ for the brain's remarkable capacity to forget, we would be perpetually overwhelmed by trivial detail.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "not",
+    "explanation": "The inverted conditional 'Were it not for' (= si no fuera por) has no parallel structure in Spanish, where 'si no fuera por' uses the subjunctive. Learners omit 'not' or fall back on 'If it weren't'."
+  },
+  {
+    "id": "p2-118",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Researchers remain sharply divided ____ to whether the correlation reflects any genuine causal mechanism.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "as",
+    "explanation": "'Divididos sobre / en cuanto a' pushes learners to 'about' or 'on'. After 'divided/undecided' the fixed register is 'as to whether'."
+  },
+  {
+    "id": "p2-119",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Chronic stress inevitably takes its ____ on memory, attention and emotional regulation alike.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "toll",
+    "explanation": "Spanish 'pasar factura / hacer mella' offers no cognate, so learners guess 'effect' or 'price'. The idiom is 'take its toll (on)'; only 'toll' completes it."
+  },
+  {
+    "id": "p2-120",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "No sooner ____ the stimulus been presented than participants began to register a physiological response.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'Nada más presentarse' or 'apenas se presentó' has no inversion, so learners write 'No sooner the stimulus was'. The fronted 'No sooner' forces auxiliary inversion: 'had... been... than'."
+  },
+  {
+    "id": "p2-121",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "One must always bear ____ mind that human recall is reconstructive, not a faithful playback of the past.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'Tener EN cuenta / presente' maps to 'in', yet learners produce 'bear on mind' or 'keep in mind' (acceptable but not the cued phrase). The idiom is 'bear in mind'."
+  },
+  {
+    "id": "p2-122",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Under hypnosis the subjects behaved ____ though the suggested scenario were entirely real.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "as",
+    "explanation": "'Como si' tempts a bare 'like' or 'as if' (acceptable) but the cued collocation 'as though' needs 'as'. Learners frequently drop to the informal 'like', which is wrong at C2 register."
+  },
+  {
+    "id": "p2-123",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Little ____ the participants suspect that the distressed stranger was in fact a trained confederate.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "Fronted 'Little' (= poco/apenas) forces emphatic inversion: 'Little did they suspect'. Spanish has no such inversion, so learners write 'Little the participants suspected'."
+  },
+  {
+    "id": "p2-124",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The more entrenched a belief becomes, the ____ likely the holder is to revise it in the light of contrary evidence.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "less",
+    "explanation": "The correlative 'the more... the less...' (= cuanto más... menos...) trips learners who repeat 'the more' or insert 'not more'. The contrast requires 'less' in the second clause."
+  },
+  {
+    "id": "p2-125",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The unconscious exerts a constant influence ____ which the individual is only dimly, if ever, aware.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Del cual / de la que es consciente' should yield 'of which', but learners write 'that the individual is aware' or 'aware about'. 'Aware' governs 'of', and the preposition must front the relative: 'of which'."
+  },
+  {
+    "id": "p3-14",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The historian criticised the biographer’s ____ treatment of the emperor, arguing that several key episodes had been selectively omitted.",
+    "options": null,
+    "baseWord": "HONEST",
+    "targetSentence": null,
+    "correctAnswer": "dishonest",
+    "explanation": "The trap lies in selecting the negative prefix 'dis-' rather than 'un-'. Academic register requires a morally evaluative adjective modifying 'treatment' in formal criticism."
+  },
+  {
+    "id": "p3-15",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Scholars remain divided over the ____ attribution of the anonymous manuscript to Virgil.",
+    "options": null,
+    "baseWord": "REPUTE",
+    "targetSentence": null,
+    "correctAnswer": "reputed",
+    "explanation": "A classic C2 shift from noun/verb to adjective. 'Reputed' fits the formal academic context of unconfirmed authorship perfectly."
+  },
+  {
+    "id": "p3-16",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The cathedral’s façade, though visually striking, was criticised for its architectural ____, lacking harmony with the surrounding medieval quarter.",
+    "options": null,
+    "baseWord": "FIT",
+    "targetSentence": null,
+    "correctAnswer": "misfit",
+    "explanation": "A rare negative prefix forms a noun here. Candidates may wrongly choose 'unfitness', overlooking the contextual preference for concise evaluative nominalisation."
+  },
+  {
+    "id": "p3-17",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "His account of the philosopher’s exile was dismissed as largely ____ and unsupported by documentary evidence.",
+    "options": null,
+    "baseWord": "FACT",
+    "targetSentence": null,
+    "correctAnswer": "counterfactual",
+    "explanation": "The rare negative prefix 'counter-' creates a sophisticated adjective meaning contrary to established facts, typical of high-level historical discourse."
+  },
+  {
+    "id": "p3-18",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The palace restoration sparked controversy because of the architect’s ____ reconstruction of several Renaissance interiors.",
+    "options": null,
+    "baseWord": "AUTHENTIC",
+    "targetSentence": null,
+    "correctAnswer": "inauthentic",
+    "explanation": "Candidates may overlook the necessary negative prefix. Formal criticism in heritage contexts frequently requires evaluative adjectives concerning originality and fidelity."
+  },
+  {
+    "id": "p3-19",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite his literary reputation, the poet’s political commentary was often marked by a degree of ____ that alienated contemporaries.",
+    "options": null,
+    "baseWord": "TOLERATE",
+    "targetSentence": null,
+    "correctAnswer": "intolerance",
+    "explanation": "This noun requires both prefixal negation and suffixation. 'Intolerance' suits abstract evaluative discourse common in historical biographies."
+  },
+  {
+    "id": "p3-20",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The chronicler’s ____ admiration for the monarch occasionally undermines the credibility of his narrative.",
+    "options": null,
+    "baseWord": "CRITIC",
+    "targetSentence": null,
+    "correctAnswer": "uncritical",
+    "explanation": "The trap involves converting a noun into an adjective through prefixation and suffix preservation, fitting formal evaluative prose about historiography."
+  },
+  {
+    "id": "p3-21",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Architectural historians praised the bridge for the elegant ____ of its supporting arches.",
+    "options": null,
+    "baseWord": "LONG",
+    "targetSentence": null,
+    "correctAnswer": "length",
+    "explanation": "An internal vowel shift from 'long' to 'length'. This tests recognition of irregular morphological families and the selection of the correct abstract noun."
+  },
+  {
+    "id": "p3-22",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Her interpretation of Homer was criticised as excessively ____ by classicists seeking stricter textual evidence.",
+    "options": null,
+    "baseWord": "SPECULATE",
+    "targetSentence": null,
+    "correctAnswer": "speculative",
+    "explanation": "Candidates must transform the verb into an adjective appropriate to formal scholarly criticism, avoiding incorrect nominal forms."
+  },
+  {
+    "id": "p3-23",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The memoir offered a strangely ____ portrayal of events, omitting obvious political tensions.",
+    "options": null,
+    "baseWord": "REAL",
+    "targetSentence": null,
+    "correctAnswer": "unrealistic",
+    "explanation": "Double modification is required: negative prefix plus adjectival suffix. The academic context encourages precision in evaluative vocabulary."
+  },
+  {
+    "id": "p3-24",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Several experts questioned the ____ nature of the sculpture, suspecting it to be a nineteenth-century imitation.",
+    "options": null,
+    "baseWord": "DECEIVE",
+    "targetSentence": null,
+    "correctAnswer": "deceptive",
+    "explanation": "A classic verb-to-adjective transformation requiring a spelling shift ('ve' to 'pt'). Fits perfectly in an arts-focused context evaluating authenticity."
+  },
+  {
+    "id": "p3-25",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The novel’s success lay partly in the ____ precision with which the author recreated ancient customs.",
+    "options": null,
+    "baseWord": "COMPARE",
+    "targetSentence": null,
+    "correctAnswer": "incomparable",
+    "explanation": "This requires double modification: prefix plus suffix. Adjectival form fits intensifying literary praise in sophisticated evaluative prose."
+  },
+  {
+    "id": "p3-26",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The emperor’s later writings reveal a growing ____ with courtly excess and ceremonial pomp.",
+    "options": null,
+    "baseWord": "PLEASE",
+    "targetSentence": null,
+    "correctAnswer": "displeasure",
+    "explanation": "The noun requires a negative prefix and semantic awareness of formal historical register, avoiding simpler emotional alternatives."
+  },
+  {
+    "id": "p3-27",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Critics accused the museum of promoting a ____ interpretation of imperial history that bordered on mythmaking.",
+    "options": null,
+    "baseWord": "SCIENCE",
+    "targetSentence": null,
+    "correctAnswer": "pseudoscientific",
+    "explanation": "The rare prefix 'pseudo-' combines with adjectival suffixation, testing advanced morphological awareness and formal evaluative vocabulary."
+  },
+  {
+    "id": "p3-28",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The architect sought to avoid visual ____ between the modern extension and the original structure.",
+    "options": null,
+    "baseWord": "CONTINUE",
+    "targetSentence": null,
+    "correctAnswer": "discontinuity",
+    "explanation": "A complex noun requires prefixation and suffix transformation. Formal architectural discourse strongly favours abstract nominalisation."
+  },
+  {
+    "id": "p3-29",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The biography was admired for the remarkable ____ of its psychological observations.",
+    "options": null,
+    "baseWord": "DEEP",
+    "targetSentence": null,
+    "correctAnswer": "depth",
+    "explanation": "This item tests an internal vowel shift from adjective to noun, a classic advanced word-formation challenge."
+  },
+  {
+    "id": "p3-30",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The ruins have suffered severe ____ after decades of neglect and environmental exposure.",
+    "options": null,
+    "baseWord": "STABLE",
+    "targetSentence": null,
+    "correctAnswer": "destabilisation",
+    "explanation": "Double modification is necessary: prefix plus noun-forming suffix. British spelling increases authenticity for Cambridge C2 conventions."
+  },
+  {
+    "id": "p3-31",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The philosopher’s later essays reveal an increasingly ____ stance toward conventional morality.",
+    "options": null,
+    "baseWord": "CONFORM",
+    "targetSentence": null,
+    "correctAnswer": "nonconformist",
+    "explanation": "The rare prefix 'non-' produces a nuanced ideological adjective-noun hybrid frequent in intellectual biographies."
+  },
+  {
+    "id": "p3-32",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The discovery prompted a complete ____ of long-held assumptions regarding the temple’s origins.",
+    "options": null,
+    "baseWord": "ASSESS",
+    "targetSentence": null,
+    "correctAnswer": "reassessment",
+    "explanation": "Prefix plus suffix modification produces an abstract noun suitable for scholarly revision and historical interpretation."
+  },
+  {
+    "id": "p3-33",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Some dismissed the ruler’s account as a form of political ____, intended to distort public memory.",
+    "options": null,
+    "baseWord": "INFORM",
+    "targetSentence": null,
+    "correctAnswer": "misinformation",
+    "explanation": "The negative prefix 'mis-' changes meaning entirely. Candidates often confuse related forms such as 'disinformation'."
+  },
+  {
+    "id": "p3-34",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The palace ceiling demonstrates the extraordinary ____ of Baroque craftsmen.",
+    "options": null,
+    "baseWord": "SKILL",
+    "targetSentence": null,
+    "correctAnswer": "skillfulness",
+    "explanation": "Formal architectural description demands an abstract noun. American and British variants exist, creating a subtle spelling trap."
+  },
+  {
+    "id": "p3-35",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The scholar warned against the ____ tendency to judge ancient societies by contemporary moral standards.",
+    "options": null,
+    "baseWord": "HISTORY",
+    "targetSentence": null,
+    "correctAnswer": "ahistorical",
+    "explanation": "The rare negative prefix 'a-' forms an adjective frequently found in humanities criticism, testing specialist lexical knowledge."
+  },
+  {
+    "id": "p3-36",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "His portraits possess an almost ____ quality, blurring the boundary between realism and theatrical idealisation.",
+    "options": null,
+    "baseWord": "EARTH",
+    "targetSentence": null,
+    "correctAnswer": "unearthly",
+    "explanation": "Candidates must recognise the adjective requiring negative prefixation rather than noun transformation in an arts-focused context."
+  },
+  {
+    "id": "p3-37",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The historian’s conclusions were criticised for their ____ reliance on anecdotal testimony.",
+    "options": null,
+    "baseWord": "PROPORTION",
+    "targetSentence": null,
+    "correctAnswer": "disproportionate",
+    "explanation": "The answer involves negative prefixation and adjectival suffixation, fitting formal criticism in academic historical prose."
+  },
+  {
+    "id": "p3-38",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The manuscript’s ____ led many experts to suspect that sections had been copied from unrelated sources.",
+    "options": null,
+    "baseWord": "COHERE",
+    "targetSentence": null,
+    "correctAnswer": "incoherence",
+    "explanation": "The trap requires noun formation plus a negative prefix. Academic literary analysis frequently relies on abstract evaluative nouns."
+  },
+  {
+    "id": "p4-13",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The ethics committee regrets not anticipating the risks associated with the experimental AI system.",
+    "options": null,
+    "baseWord": "HAD",
+    "targetSentence": "The ethics committee wishes ____ the risks associated with the experimental AI system.",
+    "correctAnswer": "they had anticipated",
+    "explanation": "This transformation tests unreal past regret using 'wish' plus past perfect, a frequent C2 structure requiring precise tense selection."
+  },
+  {
+    "id": "p4-14",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The mission might have failed if it hadn't been for the engineers detecting the software fault.",
+    "options": null,
+    "baseWord": "BEEN",
+    "targetSentence": "The mission might have failed ____ the engineers detecting the software fault.",
+    "correctAnswer": "had it not been for",
+    "explanation": "A formal conditional alternative. 'Had it not been for' replaces 'If it hadn't been for', requiring a 5-word inversion trap."
+  },
+  {
+    "id": "p4-15",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "Experts believe the vaccine was developed much earlier than publicly acknowledged.",
+    "options": null,
+    "baseWord": "TO",
+    "targetSentence": "The vaccine ____ much earlier than publicly acknowledged.",
+    "correctAnswer": "is believed to have been developed",
+    "explanation": "This item targets passive reporting verbs with infinitive perfect structures, demanding advanced syntactic manipulation and careful retention of evidential distance."
+  },
+  {
+    "id": "p4-16",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The board did not understand the implications, so they approved the technology.",
+    "options": null,
+    "baseWord": "KNOWN",
+    "targetSentence": "____ the implications, they might not have approved the technology.",
+    "correctAnswer": "Had the board known",
+    "explanation": "An inverted third conditional replaces 'if' with formal inversion, a classic C2 trap requiring accurate auxiliary omission."
+  },
+  {
+    "id": "p4-17",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "It is impossible that the astronauts knew about the hidden malfunction.",
+    "options": null,
+    "baseWord": "HAVE",
+    "targetSentence": "The astronauts ____ about the hidden malfunction.",
+    "correctAnswer": "cannot have known",
+    "explanation": "This task assesses modal verbs of past deduction, specifically strong logical impossibility, demanding accurate use of negative modal perfect structures."
+  },
+  {
+    "id": "p4-18",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "Researchers say the breakthrough treatment may reduce recovery time significantly.",
+    "options": null,
+    "baseWord": "SAID",
+    "targetSentence": "The breakthrough treatment ____ recovery time significantly.",
+    "correctAnswer": "is said to reduce",
+    "explanation": "Candidates must convert active reporting into a passive reporting structure, preserving evidential nuance and accurately manipulating infinitive complements."
+  },
+  {
+    "id": "p4-19",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The company ignored warnings and consequently faced public outrage.",
+    "options": null,
+    "baseWord": "HEEDED",
+    "targetSentence": "____ the warnings, the company might have avoided public outrage.",
+    "correctAnswer": "Had the company heeded",
+    "explanation": "This tests inverted conditional mastery, requiring omission of 'if' and correct third conditional syntax while maintaining a formal register."
+  },
+  {
+    "id": "p4-20",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "It is almost certain that the scientists underestimated the ethical implications.",
+    "options": null,
+    "baseWord": "MUST",
+    "targetSentence": "The scientists ____ the ethical implications.",
+    "correctAnswer": "must have underestimated",
+    "explanation": "The item focuses on strong past deduction through modal perfect forms, where certainty must be conveyed without changing evidential strength."
+  },
+  {
+    "id": "p4-21",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "People believe the spacecraft was damaged before launch.",
+    "options": null,
+    "baseWord": "THOUGHT",
+    "targetSentence": "The spacecraft ____ damaged before launch.",
+    "correctAnswer": "is thought to have been",
+    "explanation": "A passive reporting transformation requiring perfect infinitives and passive voice, a demanding C2 structure often confused through incorrect tense sequencing."
+  },
+  {
+    "id": "p4-22",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The surgery would not have succeeded without the robotic assistance.",
+    "options": null,
+    "baseWord": "BUT",
+    "targetSentence": "The surgery could not have succeeded ____ robotic assistance.",
+    "correctAnswer": "but for the",
+    "explanation": "This item tests formal conditional alternatives, where 'but for' substitutes for a negative condition and requires precise collocational accuracy."
+  },
+  {
+    "id": "p4-23",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The lead researcher would prefer it if the press didn't publish the findings yet.",
+    "options": null,
+    "baseWord": "RATHER",
+    "targetSentence": "The lead researcher ____ publish the findings yet.",
+    "correctAnswer": "would rather the press didn't",
+    "explanation": "'Would rather' followed by a subject requires the past subjunctive to express a preference about someone else's actions."
+  },
+  {
+    "id": "p4-24",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The expedition probably failed because the weather data was inaccurate.",
+    "options": null,
+    "baseWord": "BEEN",
+    "targetSentence": "The weather data ____ inaccurate for the expedition to fail.",
+    "correctAnswer": "must have been",
+    "explanation": "The challenge involves modal deduction about past events, requiring candidates to infer a probable cause using an appropriate modal perfect."
+  },
+  {
+    "id": "p4-25",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "If regulators had acted earlier, the controversy could have been avoided.",
+    "options": null,
+    "baseWord": "ACTED",
+    "targetSentence": "____ earlier, the controversy could have been avoided.",
+    "correctAnswer": "Had regulators acted",
+    "explanation": "A formal inverted conditional replaces a standard third conditional, requiring advanced grammatical control and sensitivity to register."
+  },
+  {
+    "id": "p4-26",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "People claim the medical trial was terminated unexpectedly.",
+    "options": null,
+    "baseWord": "TO",
+    "targetSentence": "The medical trial ____ unexpectedly.",
+    "correctAnswer": "is claimed to have been terminated",
+    "explanation": "Passive reporting with perfect infinitive and passive voice creates a layered structure that often causes tense and participle errors."
+  },
+  {
+    "id": "p4-27",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The engineers should never be blamed for the system collapse.",
+    "options": null,
+    "baseWord": "ACCOUNT",
+    "targetSentence": "On ____ blamed for the system collapse.",
+    "correctAnswer": "no account should the engineers be",
+    "explanation": "A classic C2 negative inversion trap. 'On no account' requires the modal verb to invert with the subject."
+  },
+  {
+    "id": "p4-28",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The satellite was probably damaged during atmospheric re-entry.",
+    "options": null,
+    "baseWord": "LIKELY",
+    "targetSentence": "The satellite ____ damaged during atmospheric re-entry.",
+    "correctAnswer": "is likely to have been",
+    "explanation": "This structure combines probability with passive infinitive perfect forms, demanding careful word order and precise grammatical control."
+  },
+  {
+    "id": "p4-29",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The researchers did not anticipate the side effects, so the trial continued.",
+    "options": null,
+    "baseWord": "FORESEEN",
+    "targetSentence": "____ the side effects, the researchers might have stopped the trial.",
+    "correctAnswer": "Had the researchers foreseen",
+    "explanation": "An advanced inverted third conditional tests formal register and accurate manipulation of participles in hypothetical past contexts."
+  },
+  {
+    "id": "p4-30",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The agency really needs to update its safety protocols.",
+    "options": null,
+    "baseWord": "HIGH",
+    "targetSentence": "It ____ updated its safety protocols.",
+    "correctAnswer": "is high time the agency",
+    "explanation": "The 'It is high time' structure must be followed by a subject and a past tense verb to express urgency."
+  },
+  {
+    "id": "p4-31",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The algorithm almost certainly caused the unexpected malfunction.",
+    "options": null,
+    "baseWord": "MUST",
+    "targetSentence": "The unexpected malfunction ____ by the algorithm.",
+    "correctAnswer": "must have been caused",
+    "explanation": "The item combines strong deduction with passive voice, requiring precise use of modal perfect passives under exam conditions."
+  },
+  {
+    "id": "p4-32",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "If the launch team had delayed the mission, the accident might have been prevented.",
+    "options": null,
+    "baseWord": "DELAYED",
+    "targetSentence": "____ the mission, the accident might have been prevented.",
+    "correctAnswer": "Had the launch team delayed",
+    "explanation": "A classic inverted conditional requiring omission of 'if' and maintenance of hypothetical past meaning within a formal register."
+  },
+  {
+    "id": "p4-33",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "They had no idea that the mutation was so dangerous.",
+    "options": null,
+    "baseWord": "DID",
+    "targetSentence": "Little ____ was so dangerous.",
+    "correctAnswer": "did they know the mutation",
+    "explanation": "The negative adverb 'Little' forces subject-auxiliary inversion. The trap is remembering the dummy 'did'."
+  },
+  {
+    "id": "p4-34",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "It was the ethics panel that deliberately ignored the evidence.",
+    "options": null,
+    "baseWord": "WHO",
+    "targetSentence": "The ethics panel ____ ignored the evidence deliberately.",
+    "correctAnswer": "were the ones who",
+    "explanation": "A pseudo-cleft variation that requires identifying the pronoun and plural verb structure."
+  },
+  {
+    "id": "p4-35",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The navigation system caused the anomaly, not the engines.",
+    "options": null,
+    "baseWord": "IT",
+    "targetSentence": "____ caused the anomaly, not the engines.",
+    "correctAnswer": "It was the navigation system that",
+    "explanation": "A classic emphatic cleft sentence starting with 'It was...' followed by 'that'."
+  },
+  {
+    "id": "p4-36",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The procedure would have failed without immediate intervention.",
+    "options": null,
+    "baseWord": "NOT",
+    "targetSentence": "The procedure could ____ immediate intervention.",
+    "correctAnswer": "not have succeeded without",
+    "explanation": "This transformation tests modal perfect reformulation and lexical precision, requiring maintenance of conditional meaning through equivalent phrasing."
+  },
+  {
+    "id": "p4-37",
+    "part": 4,
+    "category": "Grammar",
+    "questionText": "The committee regrets not questioning the ethical implications earlier.",
+    "options": null,
+    "baseWord": "ASKED",
+    "targetSentence": "The committee wishes they ____ about the ethical implications earlier.",
+    "correctAnswer": "had asked questions",
+    "explanation": "The trap lies in combining regret with past perfect after 'wish', while preserving lexical meaning through acceptable reformulation."
   }
 ]
