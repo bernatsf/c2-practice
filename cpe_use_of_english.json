@@ -226,7 +226,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "on",
+    "correctAnswer": [
+      "on",
+      "upon"
+    ],
     "explanation": "'Insistir EN' pushes you to 'in'. English fixes 'insist ON', and it must be followed by a gerund, never an infinitive."
   },
   {
@@ -1466,7 +1469,11 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "whereas",
+    "correctAnswer": [
+      "whereas",
+      "while",
+      "whilst"
+    ],
     "explanation": "'Mientras que' (contrast) is routinely mistranslated as 'while' or just 'and'. The crisp formal contrastive 'whereas' is underused because Spanish 'mientras' covers both time and contrast."
   },
   {
@@ -1565,7 +1572,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "light",
+    "correctAnswer": [
+      "light",
+      "view"
+    ],
     "explanation": "'A la luz de' translates the imagery exactly, yet learners drop the article-free structure and write 'In the light' (BrE allows it, but the exam-standard fixed phrase here is 'in light of') or substitute 'In view of'."
   },
   {
@@ -1675,7 +1685,11 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "should",
+    "correctAnswer": [
+      "should",
+      "must",
+      "may"
+    ],
     "explanation": "'Bajo ningún concepto' permits ordinary order in Spanish. English demands an inverted modal after the fronted negative: 'should the confidential figures be disclosed'. Learners default to 'the figures should'."
   },
   {
@@ -1697,7 +1711,11 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "albeit",
+    "correctAnswer": [
+      "albeit",
+      "though",
+      "although"
+    ],
     "explanation": "Spanish 'aunque/si bien' maps onto a full clause, so learners write 'although it had conditions'. C2 English compresses this into the single concessive 'albeit' before a phrase. There is no one-word Spanish equivalent that fronts a reduced clause."
   },
   {
@@ -1719,7 +1737,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "Notwithstanding",
+    "correctAnswer": [
+      "Notwithstanding",
+      "Despite"
+    ],
     "explanation": "'A pesar de' yields the safe 'Despite'. 'Notwithstanding' has no transparent cognate and looks like a verb, so learners avoid it entirely — yet it is the prestige C2 marker examiners reward."
   },
   {
@@ -1752,7 +1773,12 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "Whilst",
+    "correctAnswer": [
+      "Whilst",
+      "While",
+      "Although",
+      "Though"
+    ],
     "explanation": "'Si bien/aunque' invites 'Although'. The concessive 'Whilst/While' here means 'though', not the temporal 'mientras'. Spanish speakers over-restrict 'while' to time and miss its contrastive C2 use."
   },
   {
@@ -2005,7 +2031,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "light",
+    "correctAnswer": [
+      "light",
+      "wake"
+    ],
     "explanation": "'In the light of' = a la luz de / en vista de. The Spanish 'a la vista de' tempts 'in the view/sight of', but the fixed English phrase is 'in the light of'. No other noun fits."
   },
   {
@@ -2104,7 +2133,11 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "should",
+    "correctAnswer": [
+      "should",
+      "must",
+      "may"
+    ],
     "explanation": "'Under no circumstances' forces inversion of a modal: 'should confidential figures be'. Spanish 'bajo ninguna circunstancia' keeps normal word order, so learners write 'figures should be' with no inversion."
   },
   {
@@ -2159,7 +2192,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "Given",
+    "correctAnswer": [
+      "Given",
+      "Considering"
+    ],
     "explanation": "The participial preposition 'Given' = dado / en vista de. Spanish 'Dado' is the exact mirror, yet learners expand it to 'Given that' (which needs a clause) or write 'Seeing the gravity'. Before a noun phrase the single word 'Given' is required."
   },
   {
@@ -2269,7 +2305,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "as",
+    "correctAnswer": [
+      "as",
+      "though"
+    ],
     "explanation": "'Adjective + as + it may seem' = por (muy) extraño que parezca. Spanish 'por extraño que' has no inversion, so learners write 'Strange that it seems' or 'However strange'. The fixed concessive linker is 'as'."
   },
   {
@@ -3877,7 +3916,10 @@
     "options": null,
     "baseWord": "SKILL",
     "targetSentence": null,
-    "correctAnswer": "skillfulness",
+    "correctAnswer": [
+      "skilfulness",
+      "skillfulness"
+    ],
     "explanation": "Formal architectural description demands an abstract noun. American and British variants exist, creating a subtle spelling trap."
   },
   {
@@ -3921,7 +3963,10 @@
     "options": null,
     "baseWord": "COHERE",
     "targetSentence": null,
-    "correctAnswer": "incoherence",
+    "correctAnswer": [
+      "incoherence",
+      "incoherency"
+    ],
     "explanation": "The trap requires noun formation plus a negative prefix. Academic literary analysis frequently relies on abstract evaluative nouns."
   },
   {
@@ -3932,7 +3977,10 @@
     "options": null,
     "baseWord": "HAD",
     "targetSentence": "The ethics committee wishes ____ the risks associated with the experimental AI system.",
-    "correctAnswer": "they had anticipated",
+    "correctAnswer": [
+      "they had anticipated",
+      "it had anticipated"
+    ],
     "explanation": "This transformation tests unreal past regret using 'wish' plus past perfect, a frequent C2 structure requiring precise tense selection."
   },
   {
@@ -4152,7 +4200,7 @@
     "options": null,
     "baseWord": "DID",
     "targetSentence": "Little ____ was so dangerous.",
-    "correctAnswer": "did they know the mutation",
+    "correctAnswer": "did they know (that) the mutation",
     "explanation": "The negative adverb 'Little' forces subject-auxiliary inversion. The trap is remembering the dummy 'did'."
   },
   {
@@ -4163,7 +4211,10 @@
     "options": null,
     "baseWord": "WHO",
     "targetSentence": "The ethics panel ____ ignored the evidence deliberately.",
-    "correctAnswer": "were the ones who",
+    "correctAnswer": [
+      "were the ones who",
+      "was the one who"
+    ],
     "explanation": "A pseudo-cleft variation that requires identifying the pronoun and plural verb structure."
   },
   {
@@ -4196,7 +4247,10 @@
     "options": null,
     "baseWord": "ASKED",
     "targetSentence": "The committee wishes they ____ about the ethical implications earlier.",
-    "correctAnswer": "had asked questions",
+    "correctAnswer": [
+      "had asked questions",
+      "had asked"
+    ],
     "explanation": "The trap lies in combining regret with past perfect after 'wish', while preserving lexical meaning through acceptable reformulation."
   },
   {
@@ -4284,7 +4338,7 @@
     "options": null,
     "baseWord": "PROVIDED",
     "targetSentence": "The trial can continue ____ their informed consent.",
-    "correctAnswer": "provided that the participants give",
+    "correctAnswer": "provided (that) the participants give",
     "explanation": "'Provided (that)' introduces a conditional clause taking a present-tense verb; it replaces 'only if' while preserving the conditional meaning."
   },
   {
@@ -4416,7 +4470,7 @@
     "options": null,
     "baseWord": "POINT",
     "targetSentence": "There ____ for the gallery without a pre-booked ticket.",
-    "correctAnswer": "is no point in queuing",
+    "correctAnswer": "is no point (in) queuing",
     "explanation": "'There is no point in' is followed by a gerund; the preposition 'in' forces the -ing form, and learners often drop it or use an infinitive."
   },
   {
@@ -4515,7 +4569,7 @@
     "options": null,
     "baseWord": "TROUBLE",
     "targetSentence": "Travellers often ____ affordable accommodation during the carnival.",
-    "correctAnswer": "have trouble finding",
+    "correctAnswer": "have trouble (in) finding",
     "explanation": "'Have trouble (in) doing something' takes a gerund; the infinitive 'trouble to find' is a frequent learner error."
   },
   {
@@ -4647,7 +4701,7 @@
     "options": null,
     "baseWord": "DIFFICULTY",
     "targetSentence": "Conservationists ____ the elusive snow leopard.",
-    "correctAnswer": "have difficulty monitoring",
+    "correctAnswer": "have difficulty (in) monitoring",
     "explanation": "'Have difficulty (in) doing something' requires a gerund; the infinitive 'difficulty to monitor' is a frequent error."
   },
   {
@@ -5120,7 +5174,10 @@
     "options": null,
     "baseWord": "JUDGE",
     "targetSentence": null,
-    "correctAnswer": "misjudgement",
+    "correctAnswer": [
+      "misjudgement",
+      "misjudgment"
+    ],
     "explanation": "JUDGE → judgement (noun '-ment'; British spelling keeps the 'e') → 'mis-' (wrongly): misjudgement."
   },
   {
@@ -5219,7 +5276,10 @@
     "options": null,
     "baseWord": "APPROVE",
     "targetSentence": null,
-    "correctAnswer": "disapproval",
+    "correctAnswer": [
+      "disapproval",
+      "disapprobation"
+    ],
     "explanation": "APPROVE → approval (noun '-al') → 'dis-' (opposite): disapproval."
   },
   {
@@ -5626,7 +5686,10 @@
     "options": null,
     "baseWord": "SOLVE",
     "targetSentence": null,
-    "correctAnswer": "insolubility",
+    "correctAnswer": [
+      "insolubility",
+      "unsolvability"
+    ],
     "explanation": "SOLVE → soluble (adj) → solubility (noun) → 'in-' (not): insolubility (note the Latinate stem 'solu-')."
   },
   {
@@ -5780,7 +5843,10 @@
     "options": null,
     "baseWord": "GENERALISE",
     "targetSentence": null,
-    "correctAnswer": "overgeneralisation",
+    "correctAnswer": [
+      "overgeneralisation",
+      "overgeneralization"
+    ],
     "explanation": "GENERALISE → generalisation (noun '-ation'; British '-ise') → 'over-' (excessive): overgeneralisation."
   },
   {
@@ -6495,7 +6561,10 @@
     "options": null,
     "baseWord": "MINIMISE",
     "targetSentence": null,
-    "correctAnswer": "minimisation",
+    "correctAnswer": [
+      "minimisation",
+      "minimization"
+    ],
     "explanation": "MINIMISE → minimisation (noun '-ation'; British '-ise' spelling)."
   },
   {
@@ -6649,7 +6718,10 @@
     "options": null,
     "baseWord": "OPTIMISE",
     "targetSentence": null,
-    "correctAnswer": "optimisation",
+    "correctAnswer": [
+      "optimisation",
+      "optimization"
+    ],
     "explanation": "OPTIMISE → optimisation (noun '-ation'; British '-ise' spelling)."
   },
   {
@@ -6847,7 +6919,10 @@
     "options": null,
     "baseWord": "RECOGNISE",
     "targetSentence": null,
-    "correctAnswer": "unrecognisable",
+    "correctAnswer": [
+      "unrecognisable",
+      "unrecognizable"
+    ],
     "explanation": "RECOGNISE → recognisable (adj '-able') → 'un-' (not): unrecognisable (British '-ise')."
   },
   {
@@ -6891,7 +6966,10 @@
     "options": null,
     "baseWord": "RENEW",
     "targetSentence": null,
-    "correctAnswer": "non-renewable",
+    "correctAnswer": [
+      "non-renewable",
+      "nonrenewable"
+    ],
     "explanation": "RENEW → renewable (adj '-able') → 'non-' (not): non-renewable (hyphenated)."
   },
   {
@@ -6902,7 +6980,10 @@
     "options": null,
     "baseWord": "REPEAT",
     "targetSentence": null,
-    "correctAnswer": "repetitiveness",
+    "correctAnswer": [
+      "repetitiveness",
+      "repetition"
+    ],
     "explanation": "REPEAT → repetitive (adj; 'repeat' → 'repetit-') → repetitiveness (noun '-ness')."
   },
   {
@@ -6946,7 +7027,10 @@
     "options": null,
     "baseWord": "RIGID",
     "targetSentence": null,
-    "correctAnswer": "rigidity",
+    "correctAnswer": [
+      "rigidity",
+      "rigidness"
+    ],
     "explanation": "RIGID → rigidity (noun '-ity')."
   },
   {

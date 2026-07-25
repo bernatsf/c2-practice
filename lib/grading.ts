@@ -198,8 +198,11 @@ export function grade(q: Question, raw: string): GradeResult {
     return { correct: false, accepted };
   }
 
-  // Parts 2 & 3: single word (array allows spelling/variant forms).
+  // Parts 2 & 3: the accepted array holds spelling/variant forms. Expand any
+  // optional bracketed words too, so "(...)" notation works uniformly across
+  // every part and every string in the array.
   const userMatch = normalizeForMatch(raw);
-  const correct = accepted.some((a) => normalizeForMatch(a) === userMatch);
+  const permutations = accepted.flatMap(expandOptionalWords);
+  const correct = permutations.some((a) => normalizeForMatch(a) === userMatch);
   return { correct, accepted };
 }

@@ -13,11 +13,18 @@ interface RawItem {
   options: string[] | null;
   baseWord: string | null;
   targetSentence: string | null;
-  correctAnswer: string;
+  // A single accepted answer, or an array of interchangeable accepted variants
+  // (spelling/dialect forms, or grammatically distinct but equally valid fills).
+  correctAnswer: string | string[];
   explanation: string;
 }
 
 const OPTION_KEYS = ["A", "B", "C", "D", "E", "F"];
+
+// Normalise the string|array correctAnswer shape to the internal answers array.
+function asAnswerArray(correctAnswer: string | string[]): string[] {
+  return Array.isArray(correctAnswer) ? correctAnswer : [correctAnswer];
+}
 
 function mapCategory(raw: string): Category {
   switch (raw) {
@@ -60,9 +67,8 @@ function toQuestion(r: RawItem): Question {
   // Part 1: options are plain strings; correctAnswer is the option TEXT.
   if (part === 1) {
     const options = (r.options ?? []).map((text, i) => ({ key: OPTION_KEYS[i], text }));
-    const correct = options.find(
-      (o) => o.text.trim().toLowerCase() === r.correctAnswer.trim().toLowerCase()
-    );
+    const answerTexts = asAnswerArray(r.correctAnswer).map((a) => a.trim().toLowerCase());
+    const correct = options.find((o) => answerTexts.includes(o.text.trim().toLowerCase()));
     return { ...base, context: r.questionText, options, answers: [correct?.key ?? "A"] };
   }
 
@@ -73,7 +79,7 @@ function toQuestion(r: RawItem): Question {
       leadSentence: r.questionText,
       gapped: r.targetSentence ?? "",
       keyWord: r.baseWord ?? undefined,
-      answers: [r.correctAnswer],
+      answers: asAnswerArray(r.correctAnswer),
     };
   }
 
@@ -82,7 +88,7 @@ function toQuestion(r: RawItem): Question {
     ...base,
     context: r.questionText,
     rootWord: part === 3 ? r.baseWord ?? undefined : undefined,
-    answers: [r.correctAnswer],
+    answers: asAnswerArray(r.correctAnswer),
   };
 }
 
