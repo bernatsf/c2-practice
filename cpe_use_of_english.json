@@ -6084,12 +6084,12 @@
     "id": "p3-147",
     "part": 3,
     "category": "Lexical",
-    "questionText": "She devoted an ____ amount of time to a task that should have taken an hour.",
+    "questionText": "The negotiations proved ____ difficult, dragging on for months without a breakthrough.",
     "options": null,
-    "baseWord": "ORDINATE",
+    "baseWord": "EXCEED",
     "targetSentence": null,
-    "correctAnswer": "inordinate",
-    "explanation": "ORDINATE ('orderly, regular') → 'in-' (not): inordinate, i.e. beyond orderly limits, excessive."
+    "correctAnswer": "exceedingly",
+    "explanation": "EXCEED → exceeding (participial adj) → adverb '-ly': exceedingly, i.e. to an extreme degree."
   },
   {
     "id": "p3-148",
@@ -7008,11 +7008,11 @@
     "id": "p3-231",
     "part": 3,
     "category": "Lexical",
-    "questionText": "The engineers insisted the stresses were comfortably ____ by the new alloy.",
+    "questionText": "The heat in the sealed carriage soon became ____, and passengers began hammering on the doors.",
     "options": null,
-    "baseWord": "WITHSTAND",
+    "baseWord": "ENDURE",
     "targetSentence": null,
-    "correctAnswer": "withstandable",
-    "explanation": "WITHSTAND → withstandable (adj '-able', 'able to be withstood') — a rare but transparently formed adjective."
+    "correctAnswer": "unendurable",
+    "explanation": "ENDURE → endurable (adj '-able') → 'un-' (not): unendurable, i.e. unbearable."
   }
 ]
