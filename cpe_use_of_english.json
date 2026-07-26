@@ -581,7 +581,7 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ in the office.",
-    "correctAnswer": "would rather you did not smoke",
+    "correctAnswer": ["would rather you did not smoke", "would rather you didn't smoke"],
     "explanation": "'Preferiría que no fumaras' → 'would rather + past subjunctive (you did not smoke)'. Learners write 'would rather you not smoke' or 'would rather you don't smoke'; the past tense after 'rather' has no Spanish equivalent."
   },
   {
@@ -4106,7 +4106,7 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "The lead researcher ____ publish the findings yet.",
-    "correctAnswer": "would rather the press didn't",
+    "correctAnswer": ["would rather the press didn't", "would rather the press did not"],
     "explanation": "'Would rather' followed by a subject requires the past subjunctive to express a preference about someone else's actions."
   },
   {
@@ -4442,7 +4442,7 @@
     "options": null,
     "baseWord": "WISH",
     "targetSentence": "I ____ a table at the famous harbourside restaurant.",
-    "correctAnswer": "wish we had reserved",
+    "correctAnswer": "wish (that) we had reserved",
     "explanation": "'Wish' followed by the past perfect expresses regret about an unfulfilled past action; learners often wrongly use the simple past or the conditional."
   },
   {
@@ -4497,7 +4497,7 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ photographs inside the cathedral.",
-    "correctAnswer": "would rather you didn't take",
+    "correctAnswer": ["would rather you didn't take", "would rather you did not take"],
     "explanation": "'Would rather' with a different subject requires the past subjunctive to express a preference about someone else's behaviour."
   },
   {
@@ -4827,7 +4827,7 @@
     "options": null,
     "baseWord": "WISH",
     "targetSentence": "I ____ more attention during my schooldays.",
-    "correctAnswer": "wish I had paid",
+    "correctAnswer": "wish (that) I had paid",
     "explanation": "'Wish' followed by the past perfect expresses regret about an unfulfilled past action rather than the simple past."
   },
   {
@@ -4948,7 +4948,7 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ their phones during lessons.",
-    "correctAnswer": "would rather students didn't use",
+    "correctAnswer": ["would rather students didn't use", "would rather students did not use"],
     "explanation": "'Would rather' with a different subject requires the past subjunctive to express a preference about others' behaviour."
   },
   {
@@ -5832,7 +5832,7 @@
     "options": null,
     "baseWord": "FORM",
     "targetSentence": null,
-    "correctAnswer": "reformulation",
+    "correctAnswer": ["reformulation", "re-formulation"],
     "explanation": "FORM → formulate (verb) → formulation (noun '-ation') → 're-' (again/anew): reformulation."
   },
   {
@@ -5882,7 +5882,7 @@
     "options": null,
     "baseWord": "REACT",
     "targetSentence": null,
-    "correctAnswer": "overreaction",
+    "correctAnswer": ["overreaction", "over-reaction"],
     "explanation": "REACT → reaction (noun '-ion') → 'over-' (excessive): overreaction. Keep the double 'r' where prefix meets stem."
   },
   {
@@ -6245,7 +6245,7 @@
     "options": null,
     "baseWord": "FLUCTUATE",
     "targetSentence": null,
-    "correctAnswer": "fluctuation",
+    "correctAnswer": ["fluctuations", "fluctuation"],
     "explanation": "FLUCTUATE → fluctuation (noun '-ation')."
   },
   {
@@ -6344,7 +6344,7 @@
     "options": null,
     "baseWord": "INCUR",
     "targetSentence": null,
-    "correctAnswer": "incurrence",
+    "correctAnswer": ["incurrence", "incurring"],
     "explanation": "INCUR → incurrence (noun; double the 'r' before '-ence')."
   },
   {
