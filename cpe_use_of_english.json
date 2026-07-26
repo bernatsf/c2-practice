@@ -1695,8 +1695,7 @@
     "targetSentence": null,
     "correctAnswer": [
       "should",
-      "must",
-      "may"
+      "must"
     ],
     "explanation": "'Bajo ningún concepto' permits ordinary order in Spanish. English demands an inverted modal after the fronted negative: 'should the confidential figures be disclosed'. Learners default to 'the figures should'."
   },
@@ -1783,9 +1782,7 @@
     "targetSentence": null,
     "correctAnswer": [
       "Whilst",
-      "While",
-      "Although",
-      "Though"
+      "While"
     ],
     "explanation": "'Si bien/aunque' invites 'Although'. The concessive 'Whilst/While' here means 'though', not the temporal 'mientras'. Spanish speakers over-restrict 'while' to time and miss its contrastive C2 use."
   },
@@ -2146,8 +2143,7 @@
     "targetSentence": null,
     "correctAnswer": [
       "should",
-      "must",
-      "may"
+      "must"
     ],
     "explanation": "'Under no circumstances' forces inversion of a modal: 'should confidential figures be'. Spanish 'bajo ninguna circunstancia' keeps normal word order, so learners write 'figures should be' with no inversion."
   },
