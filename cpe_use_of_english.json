@@ -6322,7 +6322,7 @@
     "options": null,
     "baseWord": "IMMERSE",
     "targetSentence": null,
-    "correctAnswer": "immersion",
+    "correctAnswer": ["immersion", "immersiveness"],
     "explanation": "IMMERSE → immersion (noun; 'se' → 'sion')."
   },
   {
@@ -6355,7 +6355,7 @@
     "options": null,
     "baseWord": "INDULGE",
     "targetSentence": null,
-    "correctAnswer": "overindulgence",
+    "correctAnswer": ["overindulgence", "indulgence"],
     "explanation": "INDULGE → indulgence (noun '-ence') → 'over-' (excessive): overindulgence."
   },
   {
@@ -6457,7 +6457,7 @@
     "options": null,
     "baseWord": "INVADE",
     "targetSentence": null,
-    "correctAnswer": "invasiveness",
+    "correctAnswer": ["invasiveness", "invasion"],
     "explanation": "INVADE → invasive (adj '-ive') → invasiveness (noun '-ness')."
   },
   {
@@ -6523,7 +6523,7 @@
     "options": null,
     "baseWord": "MANIPULATE",
     "targetSentence": null,
-    "correctAnswer": "manipulation",
+    "correctAnswer": ["manipulation", "manipulativeness"],
     "explanation": "MANIPULATE → manipulation (noun '-ation')."
   },
   {
@@ -6578,7 +6578,7 @@
     "options": null,
     "baseWord": "MIGRATE",
     "targetSentence": null,
-    "correctAnswer": "immigration",
+    "correctAnswer": ["immigration", "migration", "emigration"],
     "explanation": "MIGRATE → migration → 'im-' ('in-, into', before m): immigration."
   },
   {
