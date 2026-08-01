@@ -4224,6 +4224,1206 @@
     "explanation": "'Under the auspices of' = with the sponsorship and protection of. The metaphor is of sheltering beneath, which fixes 'under'."
   },
   {
+    "id": "p1-176",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Even a ____ examination of the accounts would have exposed the anomaly.",
+    "options": [
+      "cursory",
+      "cursive",
+      "curt",
+      "coarse"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "cursory",
+    "explanation": "'A cursory examination/glance/reading' = a rapid and superficial one, and is the standard academic collocation for inadequate scrutiny. 'Cursive' describes joined handwriting, 'curt' a brusque manner of speaking, and 'coarse' texture or vulgarity — none of the three modifies an act of inspection."
+  },
+  {
+    "id": "p1-177",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "There is a marked ____ of reliable data on long-term patient outcomes.",
+    "options": [
+      "dearth",
+      "drought",
+      "deficit",
+      "scarce"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "dearth",
+    "explanation": "'A dearth of' = a damaging scarcity, and is the register-appropriate noun for missing evidence. 'Deficit' is a quantified shortfall in accounts or budgets, 'drought' is literal or applies to funding, and 'scarce' is an adjective that cannot follow 'a'."
+  },
+  {
+    "id": "p1-178",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Independent testimony ____ the claimant's account in every material respect.",
+    "options": [
+      "corroborates",
+      "collaborates",
+      "correlates",
+      "coordinates"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "corroborates",
+    "explanation": "'Corroborate' = to confirm with independent supporting evidence, the exact verb for testimony that backs an account. 'Collaborate' (to work jointly) is its notorious near-homophone, 'correlate' asserts only statistical association, and 'coordinate' means to organise."
+  },
+  {
+    "id": "p1-179",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The allegations were never ____ by any documentary evidence whatsoever.",
+    "options": [
+      "substantiated",
+      "sustained",
+      "substituted",
+      "subsidised"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "substantiated",
+    "explanation": "'Substantiate' = to prove or support a claim with evidence, and pairs directly with 'allegations'. 'Sustained' would describe an objection upheld in court rather than a claim evidenced, while 'substituted' and 'subsidised' are unrelated to proof."
+  },
+  {
+    "id": "p1-180",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The author ____ a direct causal link between deregulation and the collapse.",
+    "options": [
+      "posits",
+      "poses",
+      "imposes",
+      "deposes"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "posits",
+    "explanation": "'Posit' = to advance as a premise for argument, and takes an abstract object such as 'a link'. 'Poses' collocates with 'a question' or 'a threat' but not with a hypothesis, 'imposes' means to force something on someone, and 'deposes' means to remove from office or to testify on oath."
+  },
+  {
+    "id": "p1-181",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "A single unexamined assumption ____ the entire edifice of the argument.",
+    "options": [
+      "underpins",
+      "undermines",
+      "underlines",
+      "undertakes"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "underpins",
+    "explanation": "'Underpin' = to form the foundation of, which is what an assumption does to an argument. 'Undermine' is its exact opposite (to weaken from below), 'underline' means to emphasise, and 'undertake' to commit to a task — a trio that catches learners relying on the shared prefix."
+  },
+  {
+    "id": "p1-182",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The excavation sheds light on a period ____ regarded as wholly undocumented.",
+    "options": [
+      "hitherto",
+      "henceforth",
+      "thenceforth",
+      "hereafter"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "hitherto",
+    "explanation": "'Hitherto' = up until now, and is the only one of the four that points backwards from the present. 'Henceforth' and 'hereafter' both look forward from now, and 'thenceforth' forward from a past point, so all three reverse the intended time reference."
+  },
+  {
+    "id": "p1-183",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The ____ point, and the one the summary conspicuously buries, is the cost.",
+    "options": [
+      "salient",
+      "saline",
+      "sanguine",
+      "salutary"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "salient",
+    "explanation": "'Salient' = most noticeable or important, the standard adjective for the key point of an argument. 'Saline' means salty, 'sanguine' optimistic, and 'salutary' beneficial through being unpleasant — none describes prominence."
+  },
+  {
+    "id": "p1-184",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The apparent relationship proved to be entirely ____ once the confound was removed.",
+    "options": [
+      "spurious",
+      "sporadic",
+      "superfluous",
+      "scrupulous"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "spurious",
+    "explanation": "'A spurious correlation' is the fixed technical term for an association that disappears once a confounding variable is controlled. 'Sporadic' means intermittent, 'superfluous' unnecessary, and 'scrupulous' meticulous — none carries the sense of false appearance."
+  },
+  {
+    "id": "p1-185",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The connection between the two events is ____ at best, and imaginary at worst.",
+    "options": [
+      "tenuous",
+      "tenacious",
+      "tentative",
+      "tenable"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tenuous",
+    "explanation": "'Tenuous' = slight and insubstantial, which the escalation to 'imaginary' confirms. 'Tenacious' means persistent, 'tentative' provisional but not necessarily weak, and 'tenable' defensible — the opposite of what the sentence asserts."
+  },
+  {
+    "id": "p1-186",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The visit was ____ private, though the press had plainly been briefed beforehand.",
+    "options": [
+      "ostensibly",
+      "ostentatiously",
+      "obstinately",
+      "overtly"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ostensibly",
+    "explanation": "'Ostensibly' = according to the official account but probably not in truth, and the concessive 'though' clause demands precisely that gap between appearance and reality. 'Ostentatiously' means showily, 'obstinately' stubbornly, and 'overtly' openly — which would contradict 'private'."
+  },
+  {
+    "id": "p1-187",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The commission has called for ____ reform of the judicial appointments process.",
+    "options": [
+      "wholesale",
+      "wholesome",
+      "holistic",
+      "whole-hearted"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wholesale",
+    "explanation": "'Wholesale reform/change' = total and sweeping, applied to systems. 'Wholesome' means morally or physically healthy, 'holistic' treats a system as an integrated whole rather than replacing it, and 'whole-hearted' describes enthusiasm, not scope."
+  },
+  {
+    "id": "p1-188",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The safety inspection was ____, lasting barely ten minutes from start to finish.",
+    "options": [
+      "perfunctory",
+      "peremptory",
+      "preparatory",
+      "precautionary"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "perfunctory",
+    "explanation": "'Perfunctory' = done as a formality with minimal care, exactly what the ten minutes implies. 'Peremptory' means brooking no refusal (a peremptory order), 'preparatory' preliminary, and 'precautionary' taken to avert risk — a classic C2 quartet."
+  },
+  {
+    "id": "p1-189",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The findings are published with an important ____ concerning the size of the sample.",
+    "options": [
+      "caveat",
+      "cavil",
+      "caviar",
+      "cavity"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "caveat",
+    "explanation": "'A caveat' = a formal warning qualifying what follows, and is the standard word for a stated limitation on research findings. 'Cavil' is a petty objection raised in bad faith, while 'caviar' is a foodstuff and 'cavity' a hole — neither can qualify a published result."
+  },
+  {
+    "id": "p1-190",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Meticulous documentation of sources is the ____ of her scholarship.",
+    "options": [
+      "hallmark",
+      "landmark",
+      "benchmark",
+      "watermark"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "hallmark",
+    "explanation": "'The hallmark of' = the distinguishing characteristic, from the assay mark stamped on precious metals. 'Landmark' denotes a milestone achievement, 'benchmark' a standard for comparison, and 'watermark' a mark in paper — the compound is not interchangeable."
+  },
+  {
+    "id": "p1-191",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The disaster gave fresh ____ to long-standing calls for statutory regulation.",
+    "options": [
+      "impetus",
+      "impulse",
+      "imperative",
+      "impact"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "impetus",
+    "explanation": "'Give impetus to' = to provide driving momentum for something already under way, which 'long-standing calls' establishes. 'Impulse' is a sudden urge felt by a person, 'imperative' a necessity, and 'impact' an effect rather than a motive force."
+  },
+  {
+    "id": "p1-192",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Such disciplinary matters fall well outside the ____ of this particular committee.",
+    "options": [
+      "purview",
+      "purport",
+      "preview",
+      "pursuit"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "purview",
+    "explanation": "'Outside the purview of' = beyond the scope of authority or competence, standard in institutional register. 'Purport' is the gist of a document, 'preview' an advance viewing, and 'pursuit' an activity or chase."
+  },
+  {
+    "id": "p1-193",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The ____ of the matter is whether consent was genuinely informed.",
+    "options": [
+      "crux",
+      "crutch",
+      "cusp",
+      "crust"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "crux",
+    "explanation": "'The crux of the matter' = the decisive central point on which everything turns. 'Crutch' is a support for walking, 'cusp' a point of transition ('on the cusp of'), and 'crust' an outer layer."
+  },
+  {
+    "id": "p1-194",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Nothing in the wording of the statute ____ a subsequent claim by the same party.",
+    "options": [
+      "precludes",
+      "precedes",
+      "presumes",
+      "proceeds"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "precludes",
+    "explanation": "'Preclude' = to rule out in advance, and takes a nominal object such as 'a claim'. 'Precede' means to come before in time, 'presume' to assume, and 'proceed' to continue — none of which can be predicated of a statute barring an action."
+  },
+  {
+    "id": "p1-195",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Only evidence ____ to the specific charge before the court is admissible.",
+    "options": [
+      "germane",
+      "germinal",
+      "generic",
+      "genuine"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "germane",
+    "explanation": "'Germane to' = directly relevant to the matter at hand, the term of art in legal and academic register. 'Germinal' means in an early stage of development, 'generic' non-specific, and 'genuine' authentic — relevance is not among them."
+  },
+  {
+    "id": "p1-196",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Delays of this magnitude are simply par for the ____ on projects of this scale.",
+    "options": [
+      "course",
+      "road",
+      "route",
+      "path"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "course",
+    "explanation": "'Par for the course' = only to be expected, from golf, where par is the standard score for a course. The idiom is entirely frozen: 'road', 'route' and 'path' all look plausible because they name ways of proceeding, but the metaphor here is golf scoring rather than travelling, so none of them fits."
+  },
+  {
+    "id": "p1-197",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The smallest department was made to absorb the ____ share of the reductions.",
+    "options": [
+      "lion's",
+      "tiger's",
+      "wolf's",
+      "bear's"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lion's",
+    "explanation": "'The lion's share' = much the largest portion, from Aesop, where the lion claims everything. The fable fixes the animal: a tiger's, wolf's or bear's share exists in no English idiom, since the phrase cannot be built compositionally. Spanish 'la parte del león' fortunately matches for once."
+  },
+  {
+    "id": "p1-198",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The question of legacy funding is a red ____ that diverts attention from the real issue.",
+    "options": [
+      "herring",
+      "salmon",
+      "mackerel",
+      "trout"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "herring",
+    "explanation": "'A red herring' = a deliberately misleading distraction, from the smoked fish once used to lay a false trail for hounds. The species is fixed by that history: a red salmon, mackerel or trout carries no figurative sense whatever, because the phrase is historical rather than compositional."
+  },
+  {
+    "id": "p1-199",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "What was billed as a constitutional crisis proved to be a storm in a ____.",
+    "options": [
+      "teacup",
+      "teapot",
+      "kettle",
+      "saucer"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "teacup",
+    "explanation": "'A storm in a teacup' = a great fuss over a trivial matter (British English; American English says 'a tempest in a teapot'). Since the sentence is otherwise British in register, 'teacup' is required; 'teapot' belongs to the American variant, and 'kettle' and 'saucer' appear in no version of the idiom at all."
+  },
+  {
+    "id": "p1-200",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The board finally ____ the bullet and closed the loss-making division outright.",
+    "options": [
+      "bit",
+      "chewed",
+      "swallowed",
+      "gripped"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bit",
+    "explanation": "'Bite the bullet' = to force oneself to do something painful but necessary, from battlefield surgery before anaesthesia. The verb is frozen as 'bite': 'chewed', 'swallowed' and 'gripped' are all physically plausible with a bullet, which is precisely why they tempt, but none of them carries the idiom."
+  },
+  {
+    "id": "p1-201",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Agreement was reached at the ____ hour, minutes before the deadline expired.",
+    "options": [
+      "eleventh",
+      "twelfth",
+      "thirteenth",
+      "final"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "eleventh",
+    "explanation": "'At the eleventh hour' = at the very last moment, from the parable of the labourers in the vineyard. The number is scriptural and therefore fixed: 'twelfth' and 'thirteenth' destroy the allusion despite being later and so seemingly more last-minute, and 'final' is redundant beside 'hour'."
+  },
+  {
+    "id": "p1-202",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "A minor procedural error was blown out of all ____ by the tabloid coverage.",
+    "options": [
+      "proportion",
+      "perspective",
+      "measure",
+      "scale"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "proportion",
+    "explanation": "'Blown out of all proportion' = exaggerated far beyond its real importance. The idiom is fixed on 'proportion'; 'perspective' appears in the different phrase 'out of perspective', and neither 'measure' nor 'scale' follows 'out of all'."
+  },
+  {
+    "id": "p1-203",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Senior management pays ____ service to consultation while ignoring every response.",
+    "options": [
+      "lip",
+      "mouth",
+      "tongue",
+      "word"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lip",
+    "explanation": "'To pay lip service to' = to express token support without acting on it. The body-part metaphor is frozen on 'lip': 'mouth service', 'tongue service' and 'word service' exist nowhere in English, even though each would be perfectly logical as a way of saying that only speech is offered."
+  },
+  {
+    "id": "p1-204",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Shortlisted candidates were left on ____ for a fortnight awaiting the decision.",
+    "options": [
+      "tenterhooks",
+      "tiptoes",
+      "pinpoints",
+      "hindsight"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tenterhooks",
+    "explanation": "'On tenterhooks' = in a state of anxious suspense, from the hooks that stretched cloth on a tenter frame. It survives only in this phrase, which is why the fossilised noun defeats learners. 'Tiptoes' and 'pinpoints' are real nouns that form no such expression, and 'hindsight' concerns looking back rather than waiting."
+  },
+  {
+    "id": "p1-205",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The regulator has repeatedly moved the ____ midway through the assessment period.",
+    "options": [
+      "goalposts",
+      "goalkeeper",
+      "touchline",
+      "scoreboard"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "goalposts",
+    "explanation": "'To move the goalposts' = to change the criteria unfairly once a process is under way. The idiom is fixed on the posts: moving the 'goalkeeper', 'touchline' or 'scoreboard' describes nothing in English, since the metaphor needs the target of the effort rather than any other feature of the pitch."
+  },
+  {
+    "id": "p1-206",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Heightened public visibility has proved a ____ sword for the organisation.",
+    "options": [
+      "double-edged",
+      "two-faced",
+      "twin-bladed",
+      "double-sided"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "double-edged",
+    "explanation": "'A double-edged sword' = something with significant drawbacks as well as benefits. 'Two-faced' means hypocritical and describes people; 'twin-bladed' and 'double-sided' are literal descriptions that form no idiom."
+  },
+  {
+    "id": "p1-207",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "What one loses on the swings one tends to gain on the ____.",
+    "options": [
+      "roundabouts",
+      "seesaws",
+      "slides",
+      "carousels"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "roundabouts",
+    "explanation": "'Swings and roundabouts' = gains in one area offset by losses in another, from fairground economics. The pairing is fixed: 'seesaws' and 'slides' are equally fairground equipment but appear in no idiom, and 'carousels' names the very same object as a roundabout yet still cannot be substituted."
+  },
+  {
+    "id": "p1-208",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The 2008 banking collapse is a case in ____, and an instructive one.",
+    "options": [
+      "point",
+      "fact",
+      "question",
+      "hand"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "point",
+    "explanation": "'A case in point' = an illustrative example of what has just been claimed. 'In question' means under discussion, 'in hand' means being dealt with, and 'in fact' is an adverbial — each is a real phrase, but none means 'illustrative example'."
+  },
+  {
+    "id": "p1-209",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Language of that kind is quite beyond the ____ in a professional setting.",
+    "options": [
+      "pale",
+      "pail",
+      "pallor",
+      "palate"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "pale",
+    "explanation": "'Beyond the pale' = outside the bounds of acceptable behaviour, where a 'pale' is a fenced enclosure. The homophone 'pail' (a bucket), 'pallor' (paleness of complexion) and 'palate' (sense of taste) are all unrelated."
+  },
+  {
+    "id": "p1-210",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "In the absence of proof either way, she was given the ____ of the doubt.",
+    "options": [
+      "benefit",
+      "advantage",
+      "favour",
+      "profit"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "benefit",
+    "explanation": "'The benefit of the doubt' = a favourable presumption where evidence is inconclusive. The phrase is entirely fixed: 'advantage', 'favour' and 'profit' are all near-synonyms of 'benefit' elsewhere, yet none of them combines with 'of the doubt'."
+  },
+  {
+    "id": "p1-211",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The entire business model is predicated ____ an assumption of perpetual growth.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Predicated on' = founded on as a necessary premise. Spanish 'basarse en' pushes learners towards 'in', but English fixes this participle to 'on' (or the more formal 'upon', not offered here)."
+  },
+  {
+    "id": "p1-212",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Two directors were found to have been complicit ____ the concealment of the losses.",
+    "options": [
+      "in",
+      "with",
+      "to",
+      "of"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'Complicit in' = involved as a partner in wrongdoing. Learners write 'complicit with', blending it with 'in league with' or Spanish 'cómplice de', which would map to 'of'."
+  },
+  {
+    "id": "p1-213",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The latest results are entirely consonant ____ earlier work in the field.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "in"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'Consonant with' = in agreement or harmony with, a formal synonym of 'consistent with'. The musical metaphor of sounding together fixes 'with'; Spanish 'acorde a' tempts 'to'."
+  },
+  {
+    "id": "p1-214",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "His public statements were singularly devoid ____ any self-awareness whatsoever.",
+    "options": [
+      "of",
+      "from",
+      "in",
+      "with"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "of",
+    "explanation": "'Devoid of' = entirely lacking. The adjective admits only 'of'; learners reach for 'from' by analogy with 'free from', while 'in' and 'with' would suggest the statements contained self-awareness rather than lacked it."
+  },
+  {
+    "id": "p1-215",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Questions of aesthetic value are not readily amenable ____ statistical treatment.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "of"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Amenable to' = open or susceptible to. Both the 'willing to comply' sense and this 'capable of being treated by' sense take 'to'; Spanish 'susceptible de' tempts 'of'."
+  },
+  {
+    "id": "p1-216",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "She was eventually prevailed ____ to reconsider her resignation.",
+    "options": [
+      "upon",
+      "over",
+      "against",
+      "through"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "upon",
+    "explanation": "'To prevail upon someone to do something' = to persuade them, a distinct construction from 'prevail over' (to defeat) and 'prevail' alone (to be widespread). The persuasion sense requires 'upon'."
+  },
+  {
+    "id": "p1-217",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The proposals met ____ fierce resistance from every one of the unions.",
+    "options": [
+      "with",
+      "by",
+      "to",
+      "against"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'To meet with resistance/approval/success' = to encounter it. Without 'with', 'met' would take a person as object; Spanish 'encontrarse con' actually supports the preposition here."
+  },
+  {
+    "id": "p1-218",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The minister's account is fundamentally at odds ____ the documentary record.",
+    "options": [
+      "with",
+      "to",
+      "from",
+      "against"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'At odds with' = in conflict or inconsistent with. The frame is frozen; Spanish 'en desacuerdo con' maps to 'with' correctly, yet learners still produce 'at odds to' by analogy with 'contrary to'."
+  },
+  {
+    "id": "p1-219",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Any penalty imposed must be commensurate ____ the gravity of the offence.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "against"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "with",
+    "explanation": "'Commensurate with' = proportionate to. Although the meaning invites 'to' (and 'proportionate to' is indeed correct), 'commensurate' itself selects 'with' — a lexical fact learners must simply store."
+  },
+  {
+    "id": "p1-220",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Under the new arrangements the chief executive is answerable ____ the board alone.",
+    "options": [
+      "to",
+      "at",
+      "with",
+      "under"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Answerable to' = accountable to a person or body. Spanish 'responsable ante' has no obvious English mapping, so learners produce 'answerable before' or 'answerable with'."
+  },
+  {
+    "id": "p1-221",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "He remained entirely impervious ____ criticism throughout the proceedings.",
+    "options": [
+      "to",
+      "from",
+      "against",
+      "of"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Impervious to' = not affected or penetrated by, used of both materials and people. Learners choose 'against' by reasoning about protection, but the adjective takes 'to'."
+  },
+  {
+    "id": "p1-222",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Release of the funds is contingent ____ the auditors signing off the accounts.",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "by"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'Contingent on/upon' = dependent on a condition being met. Spanish 'condicionado a' tempts 'to', which is never used with this adjective."
+  },
+  {
+    "id": "p1-223",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The witness proved wholly unequal ____ the task of sustained cross-examination.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "against"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "to",
+    "explanation": "'Unequal to the task' = not adequate to meet it, a fixed frame preserving an older sense of 'equal'. 'For', 'with' and 'against' are all plausible by general logic — one prepares for a task, struggles with it, or fights against it — but the adjective 'unequal' selects only 'to'."
+  },
+  {
+    "id": "p1-224",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "It was a ____ gesture on his part, and one nobody had expected.",
+    "options": [
+      "gracious",
+      "graceful",
+      "grateful",
+      "gratuitous"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "gracious",
+    "explanation": "Spanish/Catalan 'gracioso' means funny, which blocks the correct route to 'gracious' (kind and generous in manner). 'Graceful' describes elegance of movement, 'grateful' means thankful, and 'gratuitous' means uncalled-for — the opposite of the intended praise."
+  },
+  {
+    "id": "p1-225",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "I simply cannot ____ his constant complaining about matters he could easily fix.",
+    "options": [
+      "abide",
+      "support",
+      "sustain",
+      "maintain"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "abide",
+    "explanation": "Spanish 'soportar' = to tolerate, which sends learners straight to 'support'. English 'support' means to hold up or back financially; 'cannot abide' is the idiomatic expression of intolerance. 'Sustain' and 'maintain' concern continuation, not endurance of annoyance."
+  },
+  {
+    "id": "p1-226",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "She read law at Cambridge before embarking on a ____ at the criminal Bar.",
+    "options": [
+      "career",
+      "carrier",
+      "course",
+      "cartel"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "career",
+    "explanation": "Spanish/Catalan 'carrera' means both a university degree course and a professional career, so learners write 'course' where English needs 'career'. 'Carrier' is a transporter or a disease vector, and 'cartel' an illegal price-fixing group."
+  },
+  {
+    "id": "p1-227",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The ____ of the novel turns on a single misunderstanding in the opening chapter.",
+    "options": [
+      "plot",
+      "argument",
+      "subject",
+      "topic"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "plot",
+    "explanation": "Spanish/Catalan 'argumento' means the plot of a story, so learners produce 'argument', which in English is a reasoned case. 'Subject' and 'topic' name what a work is about rather than the sequence of events that constitutes it."
+  },
+  {
+    "id": "p1-228",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The speech was a tired string of ____ about hard work and national destiny.",
+    "options": [
+      "clichés",
+      "topics",
+      "themes",
+      "subjects"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "clichés",
+    "explanation": "Spanish 'tópico' means a cliché or platitude, whereas English 'topic' merely names a subject of discussion with no negative charge. 'Themes' and 'subjects' are likewise neutral, and the disparaging 'tired string of' demands a word carrying the criticism."
+  },
+  {
+    "id": "p1-229",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Visitors are asked to ____ their shoes before entering the prayer hall.",
+    "options": [
+      "remove",
+      "quit",
+      "retire",
+      "withdraw"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "remove",
+    "explanation": "Spanish 'quitar' = to take off or remove, which lures learners into English 'quit' (to leave a job or stop an activity). 'Retire' and 'withdraw' both describe departure of a person, not the taking off of an article of clothing."
+  },
+  {
+    "id": "p1-230",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The full board ____ every fortnight to review operational performance.",
+    "options": [
+      "meets",
+      "reunites",
+      "rejoins",
+      "reassembles"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "meets",
+    "explanation": "Spanish/Catalan 'reunirse' = to meet, so learners produce 'reunites', which in English implies bringing together people who had been separated, often for years. 'Rejoins' means to return to a group, and 'reassembles' suits a body that had formally dispersed."
+  },
+  {
+    "id": "p1-231",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The ____ outcome of the negotiations was never seriously in doubt.",
+    "options": [
+      "eventual",
+      "eventful",
+      "temporary",
+      "occasional"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "eventual",
+    "explanation": "Spanish/Catalan 'eventual' means temporary, casual or merely possible — nearly the reverse of English 'eventual', which means final or ultimate. 'Eventful' means full of incident, and the remaining two carry the misleading Spanish sense directly."
+  },
+  {
+    "id": "p1-232",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The packaging carries a clear ____ about possible allergic reactions.",
+    "options": [
+      "warning",
+      "advertisement",
+      "advice",
+      "announcement"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "warning",
+    "explanation": "Spanish/Catalan 'advertencia' means a warning, so the resemblance to English 'advertisement' misleads. English 'advertise' promotes a product, 'advice' offers a recommendation, and 'announcement' merely informs — only 'warning' conveys danger."
+  },
+  {
+    "id": "p1-233",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The refurbished apartments offer every modern ____ a tenant could reasonably want.",
+    "options": [
+      "convenience",
+      "commodity",
+      "community",
+      "commotion"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "convenience",
+    "explanation": "Spanish/Catalan 'comodidad' means comfort or convenience, which draws learners to the false friend 'commodity' — in English a traded raw material. 'Every modern convenience' is the fixed estate-agent collocation; 'community' and 'commotion' merely share the opening syllables and mean a group of people and a disturbance respectively."
+  },
+  {
+    "id": "p1-234",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Mathematics was always her strongest ____ throughout her school years.",
+    "options": [
+      "subject",
+      "signature",
+      "assignment",
+      "matter"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "subject",
+    "explanation": "Spanish/Catalan 'asignatura' means a school subject, and its resemblance to 'signature' and 'assignment' misleads. English 'assignment' is a single piece of set work, and 'matter' is an issue under discussion."
+  },
+  {
+    "id": "p1-235",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The article advances a closely reasoned ____ for reforming the electoral system.",
+    "options": [
+      "argument",
+      "discussion",
+      "argumentation",
+      "plot"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "argument",
+    "explanation": "Spanish 'argumento' covers both 'plot' and 'reasoning', while 'discusión' means a quarrel — so learners cross the two words over. English 'argument' here means a reasoned case; 'discussion' is an exchange of views, and 'argumentation' names the practice rather than an instance."
+  },
+  {
+    "id": "p1-236",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "I was obliged to ____ through four hundred pages of technical appendices.",
+    "options": [
+      "wade",
+      "wander",
+      "wallow",
+      "waddle"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wade",
+    "explanation": "'Wade through' = to work laboriously through something long and dull. The image is of moving against the resistance of water; 'wander' implies aimless pleasure, 'wallow' means to luxuriate, and 'waddle' describes a duck's gait."
+  },
+  {
+    "id": "p1-237",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The concession was plainly designed to ____ off a backbench rebellion.",
+    "options": [
+      "head",
+      "front",
+      "lead",
+      "top"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "head",
+    "explanation": "'Head off' = to forestall something undesirable before it develops. 'Front', 'lead' and 'top' are all near-synonyms of 'head' as noun or verb, yet none of them combines with 'off' to give this preventive sense."
+  },
+  {
+    "id": "p1-238",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The minister ____ off persistent suggestions of impropriety with a joke.",
+    "options": [
+      "shrugged",
+      "stooped",
+      "slumped",
+      "shuffled"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "shrugged",
+    "explanation": "'Shrug off' = to dismiss something as unworthy of serious concern. The gesture supplies the meaning. 'Stooped', 'slumped' and 'shuffled' are likewise verbs of bodily posture, but none forms a phrasal verb with 'off', and none conveys dismissal."
+  },
+  {
+    "id": "p1-239",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The Treasury was ultimately obliged to ____ out the failing regional lender.",
+    "options": [
+      "bail",
+      "bale",
+      "ball",
+      "bawl"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bail",
+    "explanation": "'Bail out' = to rescue from financial collapse, from bailing water out of a boat. 'Bale' (to bundle hay) is its exact homophone and the commonest misspelling; 'ball' and 'bawl' are unrelated."
+  },
+  {
+    "id": "p1-240",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The subsidy is to be ____ out gradually over a three-year transition.",
+    "options": [
+      "phased",
+      "fazed",
+      "phrased",
+      "faced"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "phased",
+    "explanation": "'Phase out' = to discontinue in planned stages. 'Fazed' (disconcerted) is a homophone, 'phrased' concerns wording, and 'faced' means confronted — the spelling is the whole test here."
+  },
+  {
+    "id": "p1-241",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The outline proposal now needs to be ____ out with detailed costings.",
+    "options": [
+      "fleshed",
+      "flushed",
+      "flashed",
+      "fleeced"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "fleshed",
+    "explanation": "'Flesh out' = to add substance and detail to a bare framework, the metaphor being flesh added to a skeleton. 'Flush out' means to drive into the open, 'flash' to display briefly, and 'fleece' to swindle."
+  },
+  {
+    "id": "p1-242",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The incoming administration intends to ____ back a decade of environmental protection.",
+    "options": [
+      "roll",
+      "rally",
+      "ramp",
+      "rattle"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "roll",
+    "explanation": "'Roll back' = to reverse or reduce something previously established. 'Ramp up' is its opposite in scale, and neither 'rally' nor 'rattle' forms a phrasal verb with 'back' in this sense."
+  },
+  {
+    "id": "p1-243",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The screening procedure is designed to ____ out unsuitable applicants early.",
+    "options": [
+      "weed",
+      "sow",
+      "graft",
+      "prune"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "weed",
+    "explanation": "'Weed out' = to remove the undesirable members of a group. 'Sow' and 'graft' are acts of cultivation rather than removal, and 'prune' means to cut back an existing thing to improve it, not to eliminate members."
+  },
+  {
+    "id": "p1-244",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "She eventually ____ him round to her view after a long evening of argument.",
+    "options": [
+      "talked",
+      "spoke",
+      "said",
+      "told"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "talked",
+    "explanation": "'Talk someone round' = to persuade them to change their position. Only 'talk' takes a personal object in this pattern: 'spoke' and 'said' cannot govern 'him' directly, and 'told' would require reported content rather than the particle 'round'."
+  },
+  {
+    "id": "p1-245",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The economic model conspicuously fails to ____ in demographic change.",
+    "options": [
+      "factor",
+      "figure",
+      "reckon",
+      "count"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "factor",
+    "explanation": "'Factor in' = to include as an element in a calculation. 'Figure' and 'reckon' mean to calculate but do not take 'in' this way, and 'count in' means to include a person in an activity."
+  },
+  {
+    "id": "p1-246",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Ministers announced the strategy with fanfare but never ____ through on it.",
+    "options": [
+      "followed",
+      "floundered",
+      "faltered",
+      "fumbled"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "followed",
+    "explanation": "'Follow through on' = to carry a commitment to completion. 'Floundered', 'faltered' and 'fumbled' all denote failure, which merely duplicates what 'never' already conveys, and none of the three takes the complement 'through on'."
+  },
+  {
+    "id": "p1-247",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The party must now ____ up to the sheer scale of its electoral defeat.",
+    "options": [
+      "square",
+      "shape",
+      "straighten",
+      "stack"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "square",
+    "explanation": "'Square up to' = to confront an unwelcome reality honestly. 'Shape up' means to improve one's performance, 'straighten up' to stand erect or tidy, and 'stack up' to compare or accumulate."
+  },
+  {
+    "id": "p1-248",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The report barely ____ on the question of who authorised the payments.",
+    "options": [
+      "touches",
+      "brushes",
+      "scratches",
+      "strokes"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "touches",
+    "explanation": "'Touch on' = to mention briefly in passing. 'Brush' requires 'aside' or 'past', 'scratch' appears in 'scratch the surface' but not with 'on', and 'stroke' forms no phrasal verb of this kind."
+  },
+  {
+    "id": "p1-249",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The union is ____ out for a materially improved offer before it will settle.",
+    "options": [
+      "holding",
+      "standing",
+      "waiting",
+      "pressing"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "holding",
+    "explanation": "'Hold out for' = to refuse to settle until a specific demand is met. 'Stand out' means to be conspicuous, 'wait for' lacks the note of refusal, and 'press for' means to urge but not to withhold agreement."
+  },
+  {
+    "id": "p1-250",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The development soon ____ up against determined local planning objections.",
+    "options": [
+      "ran",
+      "rolled",
+      "rushed",
+      "reeled"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ran",
+    "explanation": "'Run up against' = to encounter an obstacle unexpectedly. 'Rolled', 'rushed' and 'reeled' are all verbs of motion, but none combines with 'up against' to mean meeting resistance; 'reeled' in particular describes the effect of a blow already received."
+  },
+  {
     "id": "p2-101",
     "part": 2,
     "category": "Lexical",
