@@ -6,6 +6,7 @@ import { StatCard } from "@/components/dashboard/StatCard";
 import { RatingSparkline } from "@/components/dashboard/RatingSparkline";
 import { CategoryBreakdown } from "@/components/dashboard/CategoryBreakdown";
 import { SessionConfigurator } from "@/components/dashboard/SessionConfigurator";
+import { TOTAL_MARKS } from "@/lib/exam";
 
 export default function DashboardPage() {
   const stats = useStats();
@@ -91,6 +92,22 @@ export default function DashboardPage() {
             Nothing due
           </span>
         )}
+      </section>
+
+      <section className="flex flex-wrap items-center justify-between gap-3 rounded-lg border border-accent/40 bg-accent/5 p-4">
+        <div>
+          <div className="text-xs uppercase tracking-wider text-muted">Exam simulation</div>
+          <div className="mt-1 text-sm">
+            Sit a full mock paper under timed conditions — 30 questions across Parts 1–4, marked out
+            of {TOTAL_MARKS} with a Cambridge grade.
+          </div>
+        </div>
+        <Link
+          href="/exam"
+          className="rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-white hover:brightness-110"
+        >
+          Start 45-min exam →
+        </Link>
       </section>
 
       <SessionConfigurator />
