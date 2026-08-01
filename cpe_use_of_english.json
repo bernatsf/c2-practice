@@ -5096,6 +5096,869 @@
     "explanation": "A parenthetical quantifier standing alone without a following noun. 'Many' is equally admissible; both are accepted."
   },
   {
+    "id": "p2-176",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Seldom ____ such glaring discrepancies tolerated in peer-reviewed work.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "are",
+    "explanation": "Fronted 'Seldom' forces inversion, and the plural subject 'discrepancies' with the passive participle 'tolerated' fixes the operator as 'are'. Spanish has no inversion trigger here, so learners write 'Seldom such discrepancies are'."
+  },
+  {
+    "id": "p2-177",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Rarely ____ the two datasets agree to within a single percentage point.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "do",
+    "explanation": "'Rarely' fronted requires do-support inversion before a plural lexical verb in the present. Learners produce 'Rarely the datasets agree', leaving the adverb stranded without inversion."
+  },
+  {
+    "id": "p2-178",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Each party ____ bear its own costs in the event of early termination.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "shall",
+      "must",
+      "will"
+    ],
+    "explanation": "'Shall' expresses binding obligation in contractual register, where ordinary English would use 'must' or 'will'. Both are accepted; what is excluded is any non-modal, since 'bear' is a bare infinitive."
+  },
+  {
+    "id": "p2-179",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "So comprehensively has the site been looted that little ____ now be salvaged.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "can",
+      "could"
+    ],
+    "explanation": "The result clause needs a modal of possibility with the passive 'be salvaged'. 'Could' is admissible on a hypothetical reading; 'may' would suggest permission rather than feasibility."
+  },
+  {
+    "id": "p2-180",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Had the alarm been raised an hour earlier, the fire ____ well have been contained.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "could",
+      "might"
+    ],
+    "explanation": "'Could/might well have + participle' expresses a counterfactual possibility, which the inverted conditional 'Had ... been' sets up. 'Would' is weaker here because it asserts the outcome rather than allowing it."
+  },
+  {
+    "id": "p2-181",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The proposed amendments ____ no material difference to the substance of the argument.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "make",
+    "explanation": "'Make a/no difference' is the fixed delexical collocation. Spanish 'no supone ninguna diferencia' tempts 'suppose' or 'do'; English locks the verb to 'make'."
+  },
+  {
+    "id": "p2-182",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "It was the external auditors, not the board, ____ first raised the alarm.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "who",
+    "explanation": "A cleft sentence with a human focus takes 'who' as subject of the relative. 'That' is possible in some clefts but is dispreferred after a contrastive appositive like 'not the board'."
+  },
+  {
+    "id": "p2-183",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The report names twelve senior officials, three of ____ have since resigned their posts.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whom",
+    "explanation": "A partitive relative: after the preposition 'of' with a human antecedent, only the object form 'whom' is possible. Learners write 'of who' or restart with 'and three of them', which breaks the single sentence."
+  },
+  {
+    "id": "p2-184",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The dispute has reached a point ____ any compromise has become inconceivable.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "where",
+    "explanation": "'Where' can head a relative clause after abstract nouns such as 'point', 'stage' or 'situation'. Spanish 'en el que' tempts the two-word 'in which', which will not fit a single gap."
+  },
+  {
+    "id": "p2-185",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "There will surely come a time ____ these distinctions cease to matter at all.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "when",
+    "explanation": "A temporal relative after 'a time'. Learners import 'that' from Spanish 'un momento en que', or write 'which', which cannot introduce a bare temporal clause."
+  },
+  {
+    "id": "p2-186",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The reason ____ the second experiment failed has never been satisfactorily established.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "why",
+    "explanation": "'The reason why' is the standard relative pairing. 'Because' is barred after 'the reason' in careful writing, and Spanish 'la razón por la que' offers no single-word equivalent."
+  },
+  {
+    "id": "p2-187",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Opinions differ sharply as to ____ the transition ought to be managed.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "how",
+    "explanation": "'As to how' introduces an indirect question about manner. 'That' would make it a statement, and 'which' would need a following noun."
+  },
+  {
+    "id": "p2-188",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Water damage has left the marginal annotations all ____ illegible.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "but",
+    "explanation": "'All but' = very nearly, almost. It is a frozen adverbial where 'but' has lost its contrastive sense entirely, which is precisely why learners cannot parse it."
+  },
+  {
+    "id": "p2-189",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The most compelling, and ____ least discussed, explanation lies elsewhere entirely.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "yet",
+    "explanation": "'And yet' inserted between paired adjectives marks concessive contrast in one word. 'But' cannot follow 'and', and 'however' would need heavier punctuation."
+  },
+  {
+    "id": "p2-190",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ widely cited, the original study has never once been successfully replicated.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "Although",
+      "Though",
+      "While",
+      "Whilst"
+    ],
+    "explanation": "A reduced concessive clause with the subject and verb elided. 'Though', 'While' and 'Whilst' occupy the same slot and are all accepted."
+  },
+  {
+    "id": "p2-191",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The tender was rejected outright, ____ before the costings had been examined.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "even",
+    "explanation": "'Even before' intensifies the temporal clause, stressing how premature the rejection was. Spanish 'incluso antes' maps directly, yet learners omit the intensifier as redundant."
+  },
+  {
+    "id": "p2-192",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "It is precisely ____ the method is so simple that it has been so widely overlooked.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "because",
+    "explanation": "The cleft frame 'It is precisely because X that Y' assigns causal focus. 'Since' and 'as' are dispreferred in clefts, where the causal link is being emphasised rather than assumed."
+  },
+  {
+    "id": "p2-193",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ the original recordings were destroyed in the fire, verification is now impossible.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "Since",
+      "As",
+      "Because"
+    ],
+    "explanation": "A causal clause opener presenting the reason as already established. 'As' and 'Because' are equally admissible and are accepted."
+  },
+  {
+    "id": "p2-194",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The terms attached to the loan were ____ onerous that not a single bidder came forward.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "so",
+    "explanation": "The result frame 'so + adjective + that'. Learners write 'such onerous', confusing the adjective frame with the noun frame 'such + noun', a direct transfer from Spanish 'tan/tal'."
+  },
+  {
+    "id": "p2-195",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The premises are sound; the conclusion ____ follows as a matter of logical necessity.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "therefore",
+    "explanation": "'Therefore' in mid position marks a deductive consequence. It is the connective of formal argument, where 'so' would be too conversational for the register."
+  },
+  {
+    "id": "p2-196",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The two clauses flatly contradict one another, ____ rendering the whole contract unenforceable.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "thus",
+    "explanation": "'Thus' before an -ing participle is the standard formal way of expressing a consequence. 'Thereby' is its close synonym; 'so' cannot introduce a participial clause."
+  },
+  {
+    "id": "p2-197",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The entire archive perished in the fire; ____ the modern reliance on later transcriptions.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "hence",
+    "explanation": "'Hence + noun phrase' forms a verbless consequence clause peculiar to formal prose. Learners supply a full clause because Spanish 'de ahí' feels incomplete to them without a verb."
+  },
+  {
+    "id": "p2-198",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ anything, the revised figures understate the true scale of the problem.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "If",
+    "explanation": "'If anything' is a frozen adverbial conceding that the truth lies further in one direction. It resists translation and is therefore rarely produced by learners."
+  },
+  {
+    "id": "p2-199",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The appeal will be struck out ____ the outstanding fee is paid within fourteen days.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "unless",
+    "explanation": "'Unless' = if not, in one word. Spanish 'a menos que' is three words and takes a subjunctive, so learners write 'if not' or 'except if'."
+  },
+  {
+    "id": "p2-200",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The dataset may be reused freely, ____ that the original source is properly acknowledged.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "providing",
+      "provided"
+    ],
+    "explanation": "'Providing/provided (that)' introduces a condition. Both participial forms are current and both are accepted; 'if that' is ungrammatical in this frame."
+  },
+  {
+    "id": "p2-201",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "You are at liberty to cite the figures, so ____ as you attribute them correctly.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "long",
+    "explanation": "'So long as' = on condition that. The gap sits inside a three-word conjunction, which is why learners who know only the adjective 'long' cannot place it."
+  },
+  {
+    "id": "p2-202",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ the decline is cyclical or structural remains very much an open question.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whether",
+    "explanation": "A nominal clause functioning as subject requires 'whether', never 'if', in this fronted position. Spanish 'si' covers both, which is the source of the error."
+  },
+  {
+    "id": "p2-203",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ had the ink dried on the accord when the first violations were reported.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "Hardly",
+      "Scarcely",
+      "Barely"
+    ],
+    "explanation": "'Hardly/Scarcely/Barely ... when' is the correlative of near-simultaneity and forces inversion. Note it pairs with 'when', never with 'than'."
+  },
+  {
+    "id": "p2-204",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "____ hindsight, the warning signs were unmistakable to anyone who cared to look.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "With",
+    "explanation": "'With hindsight' = con la perspectiva del tiempo. The frame is fixed on 'with'; learners write 'in hindsight' (an American variant) or 'by hindsight'."
+  },
+  {
+    "id": "p2-205",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The incoming chair set ____ dismantling the committee structure within a fortnight.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "about",
+    "explanation": "'Set about + -ing' = to begin a task in earnest. 'Set out to' takes an infinitive and states an intention rather than an actual beginning."
+  },
+  {
+    "id": "p2-206",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The documentary evidence weighs heavily ____ the defendant's version of events.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "against",
+    "explanation": "'Weigh against' = to count as evidence contrary to. Spanish 'en contra de' tempts 'in against' or the two-word 'contrary to', neither of which fits a single gap."
+  },
+  {
+    "id": "p2-207",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "An independent panel was convened to look ____ allegations of procurement fraud.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "into",
+    "explanation": "'Look into' = to investigate. Spanish 'investigar' is a single verb with no particle, so learners write 'look' bare or reach for 'look for', which means to search."
+  },
+  {
+    "id": "p2-208",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The burden of proof was thereby shifted ____ the applicant rather than the respondent.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "onto",
+    "explanation": "Directional 'onto' is required after a verb of transfer such as 'shift'. Learners write 'to', which loses the sense of a burden being placed upon someone."
+  },
+  {
+    "id": "p2-209",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The statutory duty to provide safety training is incumbent ____ the employer alone.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "upon",
+      "on"
+    ],
+    "explanation": "'Incumbent upon/on someone' = resting on them as a duty. Both forms are accepted; the formal register of the sentence favours 'upon'."
+  },
+  {
+    "id": "p2-210",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The tribunal is required to deliver its ruling ____ twenty-eight days of the hearing.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "within",
+    "explanation": "'Within' expresses a deadline enclosing a period. Spanish 'en el plazo de' tempts a bare 'in', which would name a point rather than a limit."
+  },
+  {
+    "id": "p2-211",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The two ministries have been wrangling ____ jurisdiction for the better part of a decade.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "over",
+    "explanation": "'Wrangle/quarrel/dispute over' takes 'over' for the subject of a conflict. Spanish 'por' tempts 'for', which would give a purpose reading instead."
+  },
+  {
+    "id": "p2-212",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The licensing scheme is currently ____ review by the competition regulator.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "under",
+    "explanation": "'Under review/consideration/investigation' is the fixed frame for a process in progress. Spanish 'en revisión' tempts 'in', which does not collocate here."
+  },
+  {
+    "id": "p2-213",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Such petty vindictiveness is quite ____ the dignity of the office he holds.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "beneath",
+    "explanation": "'Beneath someone's dignity' = unworthy of them. 'Below' is its literal spatial twin but does not enter this moral idiom; 'under' is impossible."
+  },
+  {
+    "id": "p2-214",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The airline was on the ____ of insolvency when the rescue package was finally agreed.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "verge",
+      "brink"
+    ],
+    "explanation": "'On the verge/brink of' = on the point of. Both nouns are idiomatic in this frame and both are accepted; 'border' and 'edge' are not."
+  },
+  {
+    "id": "p2-215",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The forensic accountants turned ____ evidence of systematic overbilling going back years.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "up",
+    "explanation": "'Turn up' = to uncover or discover, often unexpectedly. Spanish 'descubrir' is a single verb, so learners omit the particle or substitute 'turn on', which is unrelated."
+  },
+  {
+    "id": "p2-216",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "Her original conjecture was subsequently borne ____ by three independent replications.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "out",
+    "explanation": "'Bear out' = to corroborate. Without the particle 'bear' means to carry or endure, so dropping it destroys the sense entirely."
+  },
+  {
+    "id": "p2-217",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The council attempted to explain ____ the discrepancy as a simple clerical error.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "away",
+    "explanation": "'Explain away' = to dismiss something awkward with a convenient account. The particle adds the note of evasion that plain 'explain' entirely lacks."
+  },
+  {
+    "id": "p2-218",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The practice dates ____ to the early decades of the nineteenth century.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "back",
+    "explanation": "'Date back to' = to originate in. Spanish 'remontarse a' has no particle, so learners write 'dates to' or 'dates from', losing the idiom the examiner is cueing."
+  },
+  {
+    "id": "p2-219",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The findings represent ____ unprecedented challenge to the prevailing orthodoxy.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "an",
+    "explanation": "The following word begins with a vowel sound, which forces 'an'. Spanish has no such phonological alternation in its articles, so learners default to 'a'."
+  },
+  {
+    "id": "p2-220",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ more closely one examines the data, the less convincing the thesis becomes.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "The",
+    "explanation": "The correlative comparative frame 'the more X, the less Y' requires 'the' before each comparative. Spanish 'cuanto más ... menos' has no article, so learners omit it."
+  },
+  {
+    "id": "p2-221",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "For ____ its mathematical sophistication, the model failed to anticipate the crash.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "all",
+    "explanation": "'For all X' = despite X, a concessive frame in which 'for' loses its usual sense. Learners read it as purpose and produce 'For all of', which overfills the gap."
+  },
+  {
+    "id": "p2-222",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The ruling is ____ unprecedented and, in the view of many commentators, unwise.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "both",
+    "explanation": "The correlative 'both X and Y' must be completed by 'and'. Learners write 'as well' or 'not only', neither of which fits the coordination already present."
+  },
+  {
+    "id": "p2-223",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ years were to pass before the full extent of the deception came to light.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Some",
+    "explanation": "'Some' before a plural time noun means an unspecified but considerable number. Spanish 'algunos años' understates it, so learners hear this 'some' as vague rather than emphatic."
+  },
+  {
+    "id": "p2-224",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The argument fails on ____ interpretation of the disputed statutory provision.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "either",
+    "explanation": "'On either interpretation' = on both of the two possible readings. Learners write 'any', which loses the restriction to exactly two alternatives."
+  },
+  {
+    "id": "p2-225",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The delegates were allotted precisely ten minutes ____ in which to state their case.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "each",
+    "explanation": "Post-nominal 'each' distributes the allowance across the group. Spanish 'cada uno' is two words; the single-word English distributive placed after the noun is rarely produced."
+  },
+  {
+    "id": "p2-226",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The minister has ____ reason to be satisfied with the outcome of the negotiations.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "every",
+    "explanation": "'Every reason/confidence/intention' = full grounds for. It is a fixed intensifying use of 'every' with an abstract singular noun, unrelated to counting."
+  },
+  {
+    "id": "p2-227",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ a promising career has been cut short by a single moment of indiscretion.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Many",
+    "explanation": "The literary frame 'many a + singular noun + singular verb' means 'a great many'. The singular agreement after a plural meaning is what makes it a classic C2 marker."
+  },
+  {
+    "id": "p2-228",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The revisions proved ____ cosmetic than substantive when set against the original draft.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "more",
+    "explanation": "The comparative frame 'more X than Y' compares two descriptions of the same thing. Learners insert 'rather', which needs 'than' too but changes the construction."
+  },
+  {
+    "id": "p2-229",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ than a dozen of the original manuscripts have survived the intervening centuries.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Fewer",
+    "explanation": "Countable nouns take 'fewer', not 'less' — a distinction Spanish 'menos' collapses entirely, which makes it one of the most reliable C2 discriminators."
+  },
+  {
+    "id": "p2-230",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The timing of the announcement was, to say the ____, singularly unfortunate.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "least",
+    "explanation": "'To say the least' is a frozen understatement formula. Learners produce 'to say the minimum', translating Spanish 'como mínimo' word for word."
+  },
+  {
+    "id": "p2-231",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Curiously ____, precisely the same pattern appears in the untreated control group.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "enough",
+    "explanation": "'Curiously/oddly/strangely enough' is a fixed comment adverbial in which 'enough' follows rather than precedes. Its post-adjectival position is what defeats learners."
+  },
+  {
+    "id": "p2-232",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ being so, the committee had little choice but to intervene directly.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "This",
+    "explanation": "'This being so' is an absolute participial construction meaning 'given that this is the case'. Spanish 'siendo así' drops the subject, so learners omit the pronoun."
+  },
+  {
+    "id": "p2-233",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ days it is genuinely rare to encounter craftsmanship of that order.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "These",
+    "explanation": "'These days' = at the present time, a fixed temporal adverbial. Learners write 'This days' or 'Nowadays' — correct in itself but not the cued structure."
+  },
+  {
+    "id": "p2-234",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The regulations apply only to ____ premises licensed before the 2003 reforms.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "those",
+    "explanation": "'Those' plus a reduced relative clause restricts the reference to a defined subset. Learners write 'the', which loses the contrastive restriction the sentence depends on."
+  },
+  {
+    "id": "p2-235",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The scheme has, among ____ things, halved the average processing time.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "other",
+    "explanation": "'Among other things' = inter alia, a fixed parenthetical. Spanish 'entre otras cosas' matches word for word, yet learners still write 'others'."
+  },
+  {
+    "id": "p2-236",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "That is quite ____ matter, and one properly reserved for the courts to decide.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "another",
+    "explanation": "'Quite another matter' = an entirely different question. Learners write 'other matter', omitting the article that 'another' fuses into a single word."
+  },
+  {
+    "id": "p2-237",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The wide-ranging review was undertaken at the ____ of the incoming administration.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "behest",
+    "explanation": "'At the behest of' = at the formal request or command of. The noun survives almost nowhere else, which is why it is a reliable C2 gap."
+  },
+  {
+    "id": "p2-238",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "In the ____ of the collapse, regulators moved swiftly to tighten capital requirements.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wake",
+    "explanation": "'In the wake of' = following on from, as a consequence of. The metaphor is the track a ship leaves behind; Spanish 'a raíz de' gives no clue to the image."
+  },
+  {
+    "id": "p2-239",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The recovery has been real enough, ____ painfully slow by any historical standard.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "albeit",
+      "though"
+    ],
+    "explanation": "'Albeit' introduces a concessive phrase rather than a full clause, and is followed here by an adjective. 'Though' fills the same slot; 'although' would require a subject and verb."
+  },
+  {
+    "id": "p2-240",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "____ the objections raised at committee stage, the bill passed entirely unamended.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "Notwithstanding",
+      "Despite"
+    ],
+    "explanation": "'Notwithstanding' = despite, and is the most formal single-word concessive preposition in English. 'Despite' is accepted as an exact equivalent."
+  },
+  {
+    "id": "p2-241",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The panel consisted of nine specialists, none of ____ had any industry affiliation.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whom",
+    "explanation": "A partitive relative after a quantifier: 'none of whom'. The preposition 'of' forces the object form, and the structure keeps what would otherwise be two sentences as one."
+  },
+  {
+    "id": "p2-242",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "He advanced three separate arguments, the last of ____ proved decisive on appeal.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "which",
+    "explanation": "A partitive relative with a non-human antecedent: 'the last of which'. 'That' is barred after a preposition, and 'them' would require splitting the sentence in two."
+  },
+  {
+    "id": "p2-243",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The document is admissible by ____ of the express exception in section twelve.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "virtue",
+    "explanation": "'By virtue of' = by reason of, through the operation of. It is the standard formal connector for something conferred by a rule or a status."
+  },
+  {
+    "id": "p2-244",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Staff who work public holidays are offered time off in ____ of additional payment.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lieu",
+    "explanation": "'In lieu of' = instead of, a Norman-French survival confined to legal and employment register. 'Time off in lieu' is close to a technical term."
+  },
+  {
+    "id": "p2-245",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "He protested at considerable length, but ultimately to no ____ whatsoever.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "avail",
+    "explanation": "'To no avail' = fruitlessly. The noun 'avail' survives only in this frozen frame and in the reflexive 'avail oneself of'."
+  },
+  {
+    "id": "p2-246",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "For the ____ of clarity, all figures have been rounded to two decimal places.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sake",
+    "explanation": "'For the sake of' = for the purpose of. Spanish 'en aras de' is register-matched but offers no lexical hint, so learners write 'for clarity' and miss the cued frame."
+  },
+  {
+    "id": "p2-247",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ that the sample was small, the findings nonetheless remain highly suggestive.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Granted",
+    "explanation": "'Granted (that)' concedes a point before qualifying it. 'Given' and 'Admitting' are near neighbours, but 'Granted' is the one that signals concession rather than premise."
+  },
+  {
+    "id": "p2-248",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "No ____ had one crisis been contained than another presented itself elsewhere.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sooner",
+    "explanation": "The correlative 'No sooner ... than' requires inversion of the auxiliary, which the sentence already shows. Learners pair it with 'when', importing Spanish 'apenas ... cuando'."
+  },
+  {
+    "id": "p2-249",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ the eventual outcome of the appeal, the reputational damage is already done.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Whatever",
+    "explanation": "A fused relative with concessive force: 'whatever X' = no matter what X. Learners write 'Whatever is', supplying a verb the construction does not want."
+  },
+  {
+    "id": "p2-250",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "In ____ of repeated assurances from the ministry, no progress whatever has been made.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "spite",
+    "explanation": "'In spite of' = despite. The gap isolates the noun inside the three-word preposition, which learners cannot place because they store the phrase as an unanalysed chunk."
+  },
+  {
     "id": "p3-14",
     "part": 3,
     "category": "Lexical",
