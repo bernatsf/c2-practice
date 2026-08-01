@@ -581,7 +581,10 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ in the office.",
-    "correctAnswer": ["would rather you did not smoke", "would rather you didn't smoke"],
+    "correctAnswer": [
+      "would rather you did not smoke",
+      "would rather you didn't smoke"
+    ],
     "explanation": "'Preferiría que no fumaras' → 'would rather + past subjunctive (you did not smoke)'. Learners write 'would rather you not smoke' or 'would rather you don't smoke'; the past tense after 'rather' has no Spanish equivalent."
   },
   {
@@ -4106,7 +4109,10 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "The lead researcher ____ publish the findings yet.",
-    "correctAnswer": ["would rather the press didn't", "would rather the press did not"],
+    "correctAnswer": [
+      "would rather the press didn't",
+      "would rather the press did not"
+    ],
     "explanation": "'Would rather' followed by a subject requires the past subjunctive to express a preference about someone else's actions."
   },
   {
@@ -4497,7 +4503,10 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ photographs inside the cathedral.",
-    "correctAnswer": ["would rather you didn't take", "would rather you did not take"],
+    "correctAnswer": [
+      "would rather you didn't take",
+      "would rather you did not take"
+    ],
     "explanation": "'Would rather' with a different subject requires the past subjunctive to express a preference about someone else's behaviour."
   },
   {
@@ -4948,7 +4957,10 @@
     "options": null,
     "baseWord": "RATHER",
     "targetSentence": "I ____ their phones during lessons.",
-    "correctAnswer": ["would rather students didn't use", "would rather students did not use"],
+    "correctAnswer": [
+      "would rather students didn't use",
+      "would rather students did not use"
+    ],
     "explanation": "'Would rather' with a different subject requires the past subjunctive to express a preference about others' behaviour."
   },
   {
@@ -5832,7 +5844,10 @@
     "options": null,
     "baseWord": "FORM",
     "targetSentence": null,
-    "correctAnswer": ["reformulation", "re-formulation"],
+    "correctAnswer": [
+      "reformulation",
+      "re-formulation"
+    ],
     "explanation": "FORM → formulate (verb) → formulation (noun '-ation') → 're-' (again/anew): reformulation."
   },
   {
@@ -5882,7 +5897,10 @@
     "options": null,
     "baseWord": "REACT",
     "targetSentence": null,
-    "correctAnswer": ["overreaction", "over-reaction"],
+    "correctAnswer": [
+      "overreaction",
+      "over-reaction"
+    ],
     "explanation": "REACT → reaction (noun '-ion') → 'over-' (excessive): overreaction. Keep the double 'r' where prefix meets stem."
   },
   {
@@ -6245,7 +6263,10 @@
     "options": null,
     "baseWord": "FLUCTUATE",
     "targetSentence": null,
-    "correctAnswer": ["fluctuations", "fluctuation"],
+    "correctAnswer": [
+      "fluctuations",
+      "fluctuation"
+    ],
     "explanation": "FLUCTUATE → fluctuation (noun '-ation')."
   },
   {
@@ -6322,7 +6343,10 @@
     "options": null,
     "baseWord": "IMMERSE",
     "targetSentence": null,
-    "correctAnswer": ["immersion", "immersiveness"],
+    "correctAnswer": [
+      "immersion",
+      "immersiveness"
+    ],
     "explanation": "IMMERSE → immersion (noun; 'se' → 'sion')."
   },
   {
@@ -6344,7 +6368,10 @@
     "options": null,
     "baseWord": "INCUR",
     "targetSentence": null,
-    "correctAnswer": ["incurrence", "incurring"],
+    "correctAnswer": [
+      "incurrence",
+      "incurring"
+    ],
     "explanation": "INCUR → incurrence (noun; double the 'r' before '-ence')."
   },
   {
@@ -6355,7 +6382,10 @@
     "options": null,
     "baseWord": "INDULGE",
     "targetSentence": null,
-    "correctAnswer": ["overindulgence", "indulgence"],
+    "correctAnswer": [
+      "overindulgence",
+      "indulgence"
+    ],
     "explanation": "INDULGE → indulgence (noun '-ence') → 'over-' (excessive): overindulgence."
   },
   {
@@ -6457,7 +6487,10 @@
     "options": null,
     "baseWord": "INVADE",
     "targetSentence": null,
-    "correctAnswer": ["invasiveness", "invasion"],
+    "correctAnswer": [
+      "invasiveness",
+      "invasion"
+    ],
     "explanation": "INVADE → invasive (adj '-ive') → invasiveness (noun '-ness')."
   },
   {
@@ -6523,7 +6556,10 @@
     "options": null,
     "baseWord": "MANIPULATE",
     "targetSentence": null,
-    "correctAnswer": ["manipulation", "manipulativeness"],
+    "correctAnswer": [
+      "manipulation",
+      "manipulativeness"
+    ],
     "explanation": "MANIPULATE → manipulation (noun '-ation')."
   },
   {
@@ -6578,7 +6614,11 @@
     "options": null,
     "baseWord": "MIGRATE",
     "targetSentence": null,
-    "correctAnswer": ["immigration", "migration", "emigration"],
+    "correctAnswer": [
+      "immigration",
+      "migration",
+      "emigration"
+    ],
     "explanation": "MIGRATE → migration → 'im-' ('in-, into', before m): immigration."
   },
   {
@@ -7132,5 +7172,555 @@
     "targetSentence": null,
     "correctAnswer": "unendurable",
     "explanation": "ENDURE → endurable (adj '-able') → 'un-' (not): unendurable, i.e. unbearable."
+  },
+  {
+    "id": "p3-232",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The chemical's official name was so long that it was virtually ____ for most people.",
+    "options": null,
+    "baseWord": "PRONOUNCE",
+    "targetSentence": null,
+    "correctAnswer": "unpronounceable",
+    "explanation": "Verb 'pronounce' → adjective with prefix un- and suffix -able: 'unpronounceable'. Learners often stop at 'pronunciation'; here the context ('virtually ____') demands a negative adjective."
+  },
+  {
+    "id": "p3-233",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The device came with a short ____ note clarifying each of the settings.",
+    "options": null,
+    "baseWord": "EXPLAIN",
+    "targetSentence": null,
+    "correctAnswer": "explanatory",
+    "explanation": "'Explain' → adjective 'explanatory' (note the dropped 'i', as in the noun 'explanation'). An adjective is needed before 'note', not the noun 'explanation'."
+  },
+  {
+    "id": "p3-234",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The launch went ____ wrong, wiping out months of careful preparation.",
+    "options": null,
+    "baseWord": "DISASTER",
+    "targetSentence": null,
+    "correctAnswer": "disastrously",
+    "explanation": "Adjective 'disastrous' → adverb 'disastrously' to modify 'wrong'. The 'e' of 'disaster' is dropped, as in 'disastrous'; Spanish 'desastrosamente' offers no warning."
+  },
+  {
+    "id": "p3-235",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Keeping the ageing power station running had become hopelessly ____.",
+    "options": null,
+    "baseWord": "ECONOMY",
+    "targetSentence": null,
+    "correctAnswer": "uneconomical",
+    "explanation": "Distinct from 'economical' (money-saving): here you need the negative 'uneconomical' (wasteful, not cost-effective). 'Uneconomic' also exists but 'uneconomical' fits 'money-wasting' best."
+  },
+  {
+    "id": "p3-236",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "He acted utterly ____, ignoring every safety warning he was given.",
+    "options": null,
+    "baseWord": "RESPONSIBLE",
+    "targetSentence": null,
+    "correctAnswer": "irresponsibly",
+    "explanation": "Adjective 'responsible' → adverb 'irresponsibly' (prefix ir-, note -bly). An adverb modifies the verb 'acted'; distinct from the noun 'irresponsibility'."
+  },
+  {
+    "id": "p3-237",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "She threw herself ____ into the fundraising drive, holding nothing back.",
+    "options": null,
+    "baseWord": "HEART",
+    "targetSentence": null,
+    "correctAnswer": "wholeheartedly",
+    "explanation": "Compound derivation: whole + heart + -ed + -ly = 'wholeheartedly'. An adverb of manner is required after 'threw herself'."
+  },
+  {
+    "id": "p3-238",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Our guide was remarkably ____ about the region's turbulent history.",
+    "options": null,
+    "baseWord": "KNOW",
+    "targetSentence": null,
+    "correctAnswer": "knowledgeable",
+    "explanation": "'Know' → noun 'knowledge' → adjective 'knowledgeable' (keep the 'e' before -able). An adjective follows 'remarkably', not the noun 'knowledge'."
+  },
+  {
+    "id": "p3-239",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Drawing firm conclusions from a single case is thoroughly ____.",
+    "options": null,
+    "baseWord": "SCIENCE",
+    "targetSentence": null,
+    "correctAnswer": "unscientific",
+    "explanation": "'Science' → 'scientific' → negative 'unscientific'. The context ('thoroughly ____') needs a negative adjective, not 'conscientious' or 'pseudoscientific'."
+  },
+  {
+    "id": "p3-240",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "He was dismissed for repeated ____ in his expense claims.",
+    "options": null,
+    "baseWord": "HONEST",
+    "targetSentence": null,
+    "correctAnswer": "dishonesty",
+    "explanation": "Noun form 'dishonesty' (dis- + honest + -y) is needed after 'repeated'. Distinct from the adjective 'dishonest' and adverb 'dishonestly'."
+  },
+  {
+    "id": "p3-241",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The article was elegantly written but, unfortunately, ____ inaccurate.",
+    "options": null,
+    "baseWord": "FACT",
+    "targetSentence": null,
+    "correctAnswer": "factually",
+    "explanation": "'Fact' → adjective 'factual' → adverb 'factually', which modifies the adjective 'inaccurate'. Distinct from 'counterfactual'."
+  },
+  {
+    "id": "p3-242",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Experts cast serious doubt on the ____ of the newly surfaced manuscript.",
+    "options": null,
+    "baseWord": "AUTHENTIC",
+    "targetSentence": null,
+    "correctAnswer": "authenticity",
+    "explanation": "'Authentic' → noun 'authenticity'. A noun follows 'the ____ of'; distinct from the adjective 'inauthentic'."
+  },
+  {
+    "id": "p3-243",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The constant drilling from the site next door became simply ____.",
+    "options": null,
+    "baseWord": "TOLERATE",
+    "targetSentence": null,
+    "correctAnswer": "intolerable",
+    "explanation": "'Tolerate' → adjective 'intolerable' (unbearable). Distinct from the noun 'intolerance' and adverb 'intolerably'; an adjective completes 'became simply ____'."
+  },
+  {
+    "id": "p3-244",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Readers should never accept such sweeping claims ____.",
+    "options": null,
+    "baseWord": "CRITIC",
+    "targetSentence": null,
+    "correctAnswer": "uncritically",
+    "explanation": "'Critic' → 'critical' → 'uncritically' (un- + critical + -ly). An adverb of manner modifies 'accept'; distinct from the adjective 'uncritical'."
+  },
+  {
+    "id": "p3-245",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Her abrupt resignation triggered endless ____ about the real reasons.",
+    "options": null,
+    "baseWord": "SPECULATE",
+    "targetSentence": null,
+    "correctAnswer": "speculation",
+    "explanation": "'Speculate' → noun 'speculation'. A noun is required after 'endless'; distinct from the adjective 'speculative'."
+  },
+  {
+    "id": "p3-246",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The deadline had been set ____ early, dooming the team from the outset.",
+    "options": null,
+    "baseWord": "REAL",
+    "targetSentence": null,
+    "correctAnswer": "unrealistically",
+    "explanation": "'Real' → 'realistic' → 'unrealistically'. An adverb modifies 'early'; distinct from the adjective 'unrealistic'."
+  },
+  {
+    "id": "p3-247",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The entire scheme was an elaborate ____ aimed at defrauding investors.",
+    "options": null,
+    "baseWord": "DECEIVE",
+    "targetSentence": null,
+    "correctAnswer": "deception",
+    "explanation": "'Deceive' → noun 'deception' (note the spelling shift ceive→cep). A noun follows 'an elaborate'; distinct from the adjective 'deceptive'."
+  },
+  {
+    "id": "p3-248",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "This vintage is ____ finer than anything else on the wine list.",
+    "options": null,
+    "baseWord": "COMPARE",
+    "targetSentence": null,
+    "correctAnswer": "incomparably",
+    "explanation": "'Compare' → 'comparable' → 'incomparably' (beyond comparison). An adverb intensifies 'finer'; distinct from the adjective 'incomparable'. Note the stress shift and dropped 'e'."
+  },
+  {
+    "id": "p3-249",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The abrupt ____ of the popular service infuriated thousands of subscribers.",
+    "options": null,
+    "baseWord": "CONTINUE",
+    "targetSentence": null,
+    "correctAnswer": "discontinuation",
+    "explanation": "'Continue' → 'discontinuation' (the act of stopping something). A noun follows 'The abrupt'; distinct from 'discontinuity' and 'continuation'."
+  },
+  {
+    "id": "p3-250",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Economists warned of a ____ crisis in the housing market.",
+    "options": null,
+    "baseWord": "DEEP",
+    "targetSentence": null,
+    "correctAnswer": "deepening",
+    "explanation": "'Deep' → verb 'deepen' → participial adjective 'deepening' (worsening). Distinct from the noun 'depth'; an adjective is needed before 'crisis'."
+  },
+  {
+    "id": "p3-251",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The academy demanded rigid ____ to its long list of rules.",
+    "options": null,
+    "baseWord": "CONFORM",
+    "targetSentence": null,
+    "correctAnswer": "conformity",
+    "explanation": "'Conform' → noun 'conformity'. A noun follows 'rigid'; distinct from 'nonconformist' and 'nonconformity'."
+  },
+  {
+    "id": "p3-252",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "It would be reckless to reach such a verdict while entirely ____.",
+    "options": null,
+    "baseWord": "INFORM",
+    "targetSentence": null,
+    "correctAnswer": "uninformed",
+    "explanation": "'Inform' → 'informed' → negative 'uninformed'. An adjective completes 'while entirely ____'; distinct from the noun 'misinformation'."
+  },
+  {
+    "id": "p3-253",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The cave walls are covered with ____ paintings dating back millennia.",
+    "options": null,
+    "baseWord": "HISTORY",
+    "targetSentence": null,
+    "correctAnswer": "prehistoric",
+    "explanation": "'History' → 'historic' → 'prehistoric' (before recorded history). An adjective is needed before 'paintings'; distinct from 'ahistorical'."
+  },
+  {
+    "id": "p3-254",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The archaeologists are hoping to ____ further remains beneath the temple.",
+    "options": null,
+    "baseWord": "EARTH",
+    "targetSentence": null,
+    "correctAnswer": "unearth",
+    "explanation": "'Earth' → verb 'unearth' (to dig up / reveal). A verb follows 'hoping to'; distinct from the adjective 'unearthly'."
+  },
+  {
+    "id": "p3-255",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Campaigners questioned the ____ of so harsh a sentence for a minor offence.",
+    "options": null,
+    "baseWord": "PROPORTION",
+    "targetSentence": null,
+    "correctAnswer": "proportionality",
+    "explanation": "'Proportion' → 'proportional' → noun 'proportionality'. A noun follows 'the ____ of'; distinct from 'disproportionate' and 'disproportionately'."
+  },
+  {
+    "id": "p3-256",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "So shaken was he by the accident that he could only mumble ____.",
+    "options": null,
+    "baseWord": "COHERE",
+    "targetSentence": null,
+    "correctAnswer": "incoherently",
+    "explanation": "'Cohere' → 'coherent' → 'incoherently'. An adverb modifies 'mumble'; distinct from the noun 'incoherence'."
+  },
+  {
+    "id": "p3-257",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The trial results turned out ____ well, taking the researchers by surprise.",
+    "options": null,
+    "baseWord": "EXPECT",
+    "targetSentence": null,
+    "correctAnswer": "unexpectedly",
+    "explanation": "'Expect' → 'expected' → 'unexpectedly'. An adverb modifies 'well'; distinct from the noun 'expectancy'."
+  },
+  {
+    "id": "p3-258",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "At first the rise in temperature was almost ____ to the guests.",
+    "options": null,
+    "baseWord": "PERCEIVE",
+    "targetSentence": null,
+    "correctAnswer": "imperceptible",
+    "explanation": "'Perceive' → 'perceptible' → negative 'imperceptible' (too slight to notice). An adjective completes 'almost ____'; distinct from the adverb 'imperceptibly'."
+  },
+  {
+    "id": "p3-259",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "She greeted the alarming news with cold ____, as though it meant nothing.",
+    "options": null,
+    "baseWord": "DIFFER",
+    "targetSentence": null,
+    "correctAnswer": "indifference",
+    "explanation": "'Differ' → 'indifference' (lack of concern). A noun follows 'cold'; distinct from the adjective 'undifferentiated'. A classic C2 abstract noun."
+  },
+  {
+    "id": "p3-260",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The old mentor's guidance proved to be of ____ value to the young firm.",
+    "options": null,
+    "baseWord": "ESTIMATE",
+    "targetSentence": null,
+    "correctAnswer": "inestimable",
+    "explanation": "'Estimate' → 'inestimable' (too great to measure). An adjective follows 'of ____ value'; distinct from 'overestimation' and 'underestimate'."
+  },
+  {
+    "id": "p3-261",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The retired detective's insight proved absolutely ____ to the investigation.",
+    "options": null,
+    "baseWord": "VALUE",
+    "targetSentence": null,
+    "correctAnswer": "invaluable",
+    "explanation": "'Value' → 'invaluable' (extremely useful — NOT 'without value'). A classic C2 trap. Distinct from 'undervalued'."
+  },
+  {
+    "id": "p3-262",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "For decades this novelist was unjustly ____ by mainstream critics.",
+    "options": null,
+    "baseWord": "RATE",
+    "targetSentence": null,
+    "correctAnswer": "underrated",
+    "explanation": "'Rate' → 'underrated' (not appreciated enough). Distinct from 'overrated'; an adjective completes 'was unjustly ____'."
+  },
+  {
+    "id": "p3-263",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Prolonged water damage had left the machinery completely ____.",
+    "options": null,
+    "baseWord": "USE",
+    "targetSentence": null,
+    "correctAnswer": "unusable",
+    "explanation": "'Use' → 'usable' → 'unusable'. An adjective completes 'left ... completely ____'; distinct from 'underused'."
+  },
+  {
+    "id": "p3-264",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The tiny survey group was hopelessly ____ of the population as a whole.",
+    "options": null,
+    "baseWord": "REPRESENT",
+    "targetSentence": null,
+    "correctAnswer": "unrepresentative",
+    "explanation": "'Represent' → 'representative' → 'unrepresentative'. An adjective follows 'hopelessly'; distinct from the noun 'misrepresentation'."
+  },
+  {
+    "id": "p3-265",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The director offered a bold ____ of the much-loved classic.",
+    "options": null,
+    "baseWord": "INTERPRET",
+    "targetSentence": null,
+    "correctAnswer": "reinterpretation",
+    "explanation": "'Interpret' → 'reinterpretation' (a fresh interpretation). A noun follows 'a bold'; distinct from 'misinterpretation'."
+  },
+  {
+    "id": "p3-266",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Serious doubts remain about the ____ of the theory to everyday situations.",
+    "options": null,
+    "baseWord": "APPLY",
+    "targetSentence": null,
+    "correctAnswer": "applicability",
+    "explanation": "'Apply' → 'applicable' → noun 'applicability'. A noun follows 'the ____ of'; distinct from 'misapplication'."
+  },
+  {
+    "id": "p3-267",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The floods inflicted ____ damage on the region's fragile economy.",
+    "options": null,
+    "baseWord": "CALCULATE",
+    "targetSentence": null,
+    "correctAnswer": "incalculable",
+    "explanation": "'Calculate' → 'incalculable' (too great to reckon). An adjective is needed before 'damage'; distinct from the noun 'miscalculation'."
+  },
+  {
+    "id": "p3-268",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "She was ____ furious at being blamed for a mistake she had not made.",
+    "options": null,
+    "baseWord": "UNDERSTAND",
+    "targetSentence": null,
+    "correctAnswer": "understandably",
+    "explanation": "'Understand' → 'understandable' → 'understandably'. An adverb modifies 'furious'; distinct from the noun 'misunderstanding'."
+  },
+  {
+    "id": "p3-269",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The whole case hinged on the ____ of a single, nervous witness.",
+    "options": null,
+    "baseWord": "TRUST",
+    "targetSentence": null,
+    "correctAnswer": "trustworthiness",
+    "explanation": "'Trust' → compound noun 'trustworthiness'. A noun follows 'the ____ of'; distinct from the adjective 'distrustful'."
+  },
+  {
+    "id": "p3-270",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Given their meagre budget, the team performed ____ well.",
+    "options": null,
+    "baseWord": "BELIEVE",
+    "targetSentence": null,
+    "correctAnswer": "unbelievably",
+    "explanation": "'Believe' → 'believable' → 'unbelievably'. An adverb modifies 'well'; distinct from the noun 'disbelief'."
+  },
+  {
+    "id": "p3-271",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The board dismissed his account of the losses as thoroughly ____.",
+    "options": null,
+    "baseWord": "SATISFY",
+    "targetSentence": null,
+    "correctAnswer": "unsatisfactory",
+    "explanation": "'Satisfy' → 'satisfactory' → 'unsatisfactory'. An adjective completes 'thoroughly ____'; distinct from the noun 'dissatisfaction'."
+  },
+  {
+    "id": "p3-272",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The comet's ____ after seventy years drew astronomers from around the globe.",
+    "options": null,
+    "baseWord": "APPEAR",
+    "targetSentence": null,
+    "correctAnswer": "reappearance",
+    "explanation": "'Appear' → 'reappearance' (appearing again). A noun follows the possessive 'comet's'; distinct from 'disappearance'."
+  },
+  {
+    "id": "p3-273",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The waiting room was ____ warm, and several people began to fidget.",
+    "options": null,
+    "baseWord": "COMFORT",
+    "targetSentence": null,
+    "correctAnswer": "uncomfortably",
+    "explanation": "'Comfort' → 'comfortable' → 'uncomfortably'. An adverb modifies the adjective 'warm'; distinct from 'discomforting'."
+  },
+  {
+    "id": "p3-274",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The morning flight was ____ delayed by the severe overnight storms.",
+    "options": null,
+    "baseWord": "AVOID",
+    "targetSentence": null,
+    "correctAnswer": "unavoidably",
+    "explanation": "'Avoid' → 'avoidable' → 'unavoidably'. An adverb modifies 'delayed'; distinct from the adjective 'unavoidable'."
+  },
+  {
+    "id": "p3-275",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "His growing ____ was, sadly, one of the earliest signs of the illness.",
+    "options": null,
+    "baseWord": "FORGET",
+    "targetSentence": null,
+    "correctAnswer": "forgetfulness",
+    "explanation": "'Forget' → 'forgetful' → noun 'forgetfulness'. A noun follows 'growing'; distinct from the adjective 'unforgettable'."
+  },
+  {
+    "id": "p3-276",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The currency has been fluctuating ____ ever since the election.",
+    "options": null,
+    "baseWord": "PREDICT",
+    "targetSentence": null,
+    "correctAnswer": "unpredictably",
+    "explanation": "'Predict' → 'predictable' → 'unpredictably'. An adverb modifies 'fluctuating'; distinct from the noun 'unpredictability'."
+  },
+  {
+    "id": "p3-277",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The nation's heavy ____ on imported fuel left it dangerously exposed.",
+    "options": null,
+    "baseWord": "RELY",
+    "targetSentence": null,
+    "correctAnswer": "reliance",
+    "explanation": "'Rely' → noun 'reliance' (note y→i). A noun follows 'heavy ... ____ on'; distinct from the noun 'unreliability'."
+  },
+  {
+    "id": "p3-278",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "His stubbornly ____ attitude made any compromise impossible.",
+    "options": null,
+    "baseWord": "FLEXIBLE",
+    "targetSentence": null,
+    "correctAnswer": "inflexible",
+    "explanation": "'Flexible' → 'inflexible'. An adjective is needed before 'attitude'; distinct from the noun 'inflexibility'."
+  },
+  {
+    "id": "p3-279",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The redundancies were handled so ____ that morale collapsed overnight.",
+    "options": null,
+    "baseWord": "SENSITIVE",
+    "targetSentence": null,
+    "correctAnswer": "insensitively",
+    "explanation": "'Sensitive' → 'insensitive' → 'insensitively'. An adverb modifies 'handled'; distinct from the noun 'insensitivity'."
+  },
+  {
+    "id": "p3-280",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The cloak's supposed ____ was, needless to say, pure fantasy.",
+    "options": null,
+    "baseWord": "VISIBLE",
+    "targetSentence": null,
+    "correctAnswer": "invisibility",
+    "explanation": "'Visible' → 'invisible' → noun 'invisibility'. A noun follows the possessive 'cloak's'; distinct from the adverb 'invisibly'."
+  },
+  {
+    "id": "p3-281",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Resources were being deployed so ____ that costs quickly spiralled.",
+    "options": null,
+    "baseWord": "EFFICIENT",
+    "targetSentence": null,
+    "correctAnswer": "inefficiently",
+    "explanation": "'Efficient' → 'inefficient' → 'inefficiently'. An adverb modifies 'deployed'; distinct from the noun 'inefficiency'."
   }
 ]
