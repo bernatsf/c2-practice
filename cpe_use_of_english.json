@@ -12292,5 +12292,223 @@
     "targetSentence": null,
     "correctAnswer": "inefficiently",
     "explanation": "'Efficient' → 'inefficient' → 'inefficiently'. An adverb modifies 'deployed'; distinct from the noun 'inefficiency'."
+  },
+  {
+    "id": "p3-282",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The technique is effective, but so ____ that few laboratories have adopted it.",
+    "options": null,
+    "baseWord": "CONVENTION",
+    "targetSentence": null,
+    "correctAnswer": "unconventional",
+    "explanation": "The concessive 'but' sets the effectiveness against a drawback, so the gap must be negative: 'unconventional'. A learner who writes 'conventional' produces a sentence in which the contrast collapses — being conventional would explain wide adoption, not the opposite."
+  },
+  {
+    "id": "p3-283",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite the confident tone of the press release, the claims proved entirely ____.",
+    "options": null,
+    "baseWord": "SUBSTANCE",
+    "targetSentence": null,
+    "correctAnswer": "insubstantial",
+    "explanation": "'Despite' pits the confident tone against what the claims turned out to be, forcing the negative 'insubstantial'. 'Substantial' would remove the contrast the sentence is built on."
+  },
+  {
+    "id": "p3-284",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The planners failed to allow for population growth and thus badly ____ future demand.",
+    "options": null,
+    "baseWord": "ESTIMATE",
+    "targetSentence": null,
+    "correctAnswer": "underestimated",
+    "explanation": "'Failed to allow for' signals a shortfall, so the prefix must be 'under-'. 'Overestimated' reverses the logic, and the bare 'estimated' loses the error the sentence reports."
+  },
+  {
+    "id": "p3-285",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite repeated written warnings, the crew's ____ for the safety protocol continued.",
+    "options": null,
+    "baseWord": "REGARD",
+    "targetSentence": null,
+    "correctAnswer": "disregard",
+    "explanation": "'Despite ... warnings' requires a noun denoting the ignoring of them: 'disregard'. The positive 'regard' would mean respect, contradicting the fact that the warnings had to be repeated."
+  },
+  {
+    "id": "p3-286",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The passage was accurately transcribed but seriously ____ in the later summary.",
+    "options": null,
+    "baseWord": "QUOTE",
+    "targetSentence": null,
+    "correctAnswer": "misquoted",
+    "explanation": "The 'but' opposes accurate transcription to faulty reproduction, which fixes the prefix as 'mis-'. Note the contrast is with 'accurately', so only a word meaning wrongly quoted will do."
+  },
+  {
+    "id": "p3-287",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Although she had read the word many times, she ____ it badly in the interview.",
+    "options": null,
+    "baseWord": "PRONOUNCE",
+    "targetSentence": null,
+    "correctAnswer": "mispronounced",
+    "explanation": "The concessive 'although' opposes familiarity in print to failure in speech, so 'mis-' is required. Learners write 'pronounced', which leaves 'although' with nothing to concede."
+  },
+  {
+    "id": "p3-288",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Far from resolving the shortage, the emergency funding proved wholly ____.",
+    "options": null,
+    "baseWord": "ADEQUATE",
+    "targetSentence": null,
+    "correctAnswer": "inadequate",
+    "explanation": "'Far from + positive outcome' is an explicit polarity trigger, so the complement must be negative: 'inadequate'. 'Adequate' would contradict 'far from resolving'."
+  },
+  {
+    "id": "p3-289",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The two witness statements were detailed, yet ____ in almost every particular.",
+    "options": null,
+    "baseWord": "CONSISTENT",
+    "targetSentence": null,
+    "correctAnswer": "inconsistent",
+    "explanation": "'Yet' concedes the detail before reversing it, so the gap needs the negative 'inconsistent'. Learners drop the prefix and produce a sentence whose 'yet' no longer contrasts anything."
+  },
+  {
+    "id": "p3-290",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The clinic was well equipped but had long been ____ for its billing practices.",
+    "options": null,
+    "baseWord": "REPUTE",
+    "targetSentence": null,
+    "correctAnswer": "disreputable",
+    "explanation": "'But' opposes good equipment to bad standing, so the negative 'dis-' is required. 'Reputable' would make the sentence agree with itself and strand the conjunction."
+  },
+  {
+    "id": "p3-291",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The bridge was structurally sound, but the engineers had badly ____ the wind loading.",
+    "options": null,
+    "baseWord": "CALCULATE",
+    "targetSentence": null,
+    "correctAnswer": "miscalculated",
+    "explanation": "'But' introduces the error that qualifies the soundness, so 'mis-' is obligatory. 'Calculated' alone would state that the work was simply done, which 'badly' contradicts."
+  },
+  {
+    "id": "p3-292",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite years of training, his handling of the bereaved family was strikingly ____.",
+    "options": null,
+    "baseWord": "SENSITIVE",
+    "targetSentence": null,
+    "correctAnswer": "insensitive",
+    "explanation": "'Despite years of training' sets expectation against outcome, forcing the negative. Note the assimilated form is 'in-' here, not 'un-', which is the commonest learner error with this stem."
+  },
+  {
+    "id": "p3-293",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The account is not impossible, but on the surviving evidence it remains highly ____.",
+    "options": null,
+    "baseWord": "PROBABLE",
+    "targetSentence": null,
+    "correctAnswer": "improbable",
+    "explanation": "'But' turns 'not impossible' into a stronger reservation, so the negative 'improbable' is needed; the prefix assimilates to 'im-' before 'p'. 'Probable' would make the second clause agree with the first rather than qualify it."
+  },
+  {
+    "id": "p3-294",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The ink had survived, but centuries of damp had left the marginal notes ____.",
+    "options": null,
+    "baseWord": "LEGIBLE",
+    "targetSentence": null,
+    "correctAnswer": "illegible",
+    "explanation": "'But' opposes the ink's survival to the loss of readability, so the negative is required; before 'l' the prefix assimilates to 'il-'. 'Legible' would nullify the contrast."
+  },
+  {
+    "id": "p3-295",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite his scientific training, his fear of flying remained entirely ____.",
+    "options": null,
+    "baseWord": "RATIONAL",
+    "targetSentence": null,
+    "correctAnswer": "irrational",
+    "explanation": "'Despite his scientific training' is the polarity trigger, and before 'r' the negative prefix assimilates to 'ir-'. Learners produce 'unrational', which does not exist."
+  },
+  {
+    "id": "p3-296",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The reserve is well managed, but its central valley has become dangerously ____.",
+    "options": null,
+    "baseWord": "POPULATE",
+    "targetSentence": null,
+    "correctAnswer": "overpopulated",
+    "explanation": "'But' introduces the problem qualifying the good management, and 'dangerously' points to excess rather than deficiency, so 'over-' is required."
+  },
+  {
+    "id": "p3-297",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The department is ambitious but has been chronically ____ for the better part of a decade.",
+    "options": null,
+    "baseWord": "FUND",
+    "targetSentence": null,
+    "correctAnswer": "underfunded",
+    "explanation": "'But' opposes ambition to the constraint on it, and 'chronically' signals a persistent shortfall, which fixes the prefix as 'under-'."
+  },
+  {
+    "id": "p3-298",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "Despite months of planning, the conference was hopelessly ____ on the day.",
+    "options": null,
+    "baseWord": "ORGANISE",
+    "targetSentence": null,
+    "correctAnswer": [
+      "disorganised",
+      "disorganized"
+    ],
+    "explanation": "'Despite months of planning' demands the negative, and the -ise/-ize alternation gives two accepted spellings."
+  },
+  {
+    "id": "p3-299",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The equipment is impressive but remains almost entirely ____ outside term time.",
+    "options": null,
+    "baseWord": "UTILISE",
+    "targetSentence": null,
+    "correctAnswer": [
+      "underutilised",
+      "underutilized"
+    ],
+    "explanation": "'But' opposes the equipment's quality to the waste of it, and 'almost entirely' points to a shortfall in use rather than an excess, so 'under-' is required. Both -ised and -ized spellings are accepted."
+  },
+  {
+    "id": "p3-300",
+    "part": 3,
+    "category": "Lexical",
+    "questionText": "The portrait is technically accomplished but seriously ____ its subject.",
+    "options": null,
+    "baseWord": "CHARACTERISE",
+    "targetSentence": null,
+    "correctAnswer": [
+      "mischaracterises",
+      "mischaracterizes"
+    ],
+    "explanation": "'But' sets the technical accomplishment against a failure of representation, and that contrast forces the prefix 'mis-'. The verb must also agree with the singular 'portrait', and both -ises and -izes spellings are accepted."
   }
 ]
