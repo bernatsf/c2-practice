@@ -3424,6 +3424,806 @@
     "explanation": "Learners know 'weather' only as a noun, so the verbal sense — 'to weather' = to come through hardship intact — is invisible. The distractors are weather-related nouns deployed precisely to exploit that blind spot."
   },
   {
+    "id": "p1-126",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "His ____ admission that he had never actually read the report rather disarmed his critics.",
+    "options": [
+      "ingenuous",
+      "ingenious",
+      "disingenuous",
+      "genuine"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ingenuous",
+    "explanation": "'Ingenuous' = candid, artlessly frank. 'Ingenious' (clever) differs by one letter, and 'disingenuous' means the exact opposite — insincere. Spanish 'ingenuo' = naive, which is close enough to mislead but not identical."
+  },
+  {
+    "id": "p1-127",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "An ____ clerk insisted on inspecting every document twice, to the visible irritation of the queue.",
+    "options": [
+      "officious",
+      "official",
+      "efficient",
+      "diligent"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "officious",
+    "explanation": "'Officious' = interfering, self-importantly bossy. Spanish/Catalan 'oficioso' means 'unofficial/informal', and the resemblance to 'official' does the rest. 'Efficient' and 'diligent' are complimentary, which the sentence contradicts."
+  },
+  {
+    "id": "p1-128",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The reviews were ____ — the warmest the company has received in a decade.",
+    "options": [
+      "terrific",
+      "terrifying",
+      "terrible",
+      "horrific"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "terrific",
+    "explanation": "'Terrific' has drifted to mean excellent, while its cognates kept the original sense of terror. Spanish 'terrorífico' pulls learners towards 'terrifying', which the phrase 'the warmest in a decade' rules out."
+  },
+  {
+    "id": "p1-129",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Before we open the floor, allow me to ____ the principal findings of the working group.",
+    "options": [
+      "summarise",
+      "resume",
+      "abridge",
+      "condense"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "summarise",
+    "explanation": "Spanish/Catalan 'resumir' = to summarise, but English 'resume' means to start again after a pause. 'Abridge' and 'condense' apply to shortening a text, not to giving a spoken overview."
+  },
+  {
+    "id": "p1-130",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The former employee is threatening to ____ the company for unfair dismissal.",
+    "options": [
+      "sue",
+      "demand",
+      "denounce",
+      "claim"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sue",
+    "explanation": "Spanish 'demandar' = to sue, so 'demand' looks right and is wrong — it means to insist on. 'Denounce' is to condemn publicly; 'claim' needs an object such as compensation."
+  },
+  {
+    "id": "p1-131",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "It was pure ____ that the two rival delegations had booked into the same hotel.",
+    "options": [
+      "coincidence",
+      "casualty",
+      "causality",
+      "eventuality"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "coincidence",
+    "explanation": "Spanish 'casualidad' = coincidence, but English 'casualty' means a victim of an accident or war. 'Causality' is the relation of cause to effect; 'eventuality' is a possible future event."
+  },
+  {
+    "id": "p1-132",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The signing of the accord was a genuinely ____ moment for the whole region.",
+    "options": [
+      "historic",
+      "historical",
+      "chronological",
+      "antiquated"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "historic",
+    "explanation": "'Historic' = momentous, making history; 'historical' merely means relating to the past. Spanish 'histórico' collapses both senses, so learners cannot hear the difference."
+  },
+  {
+    "id": "p1-133",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "She delivered the keynote ____ to an audience of some three hundred delegates.",
+    "options": [
+      "lecture",
+      "conference",
+      "lection",
+      "discourse"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lecture",
+    "explanation": "Spanish/Catalan 'conferencia' = a lecture or talk, whereas English 'conference' is the whole event at which lectures are given. 'Lection' is a liturgical reading; 'discourse' is far too abstract here."
+  },
+  {
+    "id": "p1-134",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "After weeks of deadlock the two sides finally arrived at a workable ____.",
+    "options": [
+      "compromise",
+      "commitment",
+      "engagement",
+      "concession"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "compromise",
+    "explanation": "Spanish 'compromiso' means a commitment or obligation, so learners avoid 'compromise' — yet English 'compromise' (a mutual settlement) is precisely what emerging from deadlock produces. A 'concession' is one-sided."
+  },
+  {
+    "id": "p1-135",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "The exchange degenerated into a ____ circle of accusation and counter-accusation.",
+    "options": [
+      "vicious",
+      "viscous",
+      "malicious",
+      "cyclical"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "vicious",
+    "explanation": "'A vicious circle' is the fixed collocation for a self-reinforcing spiral. 'Viscous' (thick, sticky) is a near-homophone, and 'malicious' shares the Spanish 'vicioso/malicioso' confusion without forming the idiom."
+  },
+  {
+    "id": "p1-136",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "He has a habit of ____ his own achievements, which colleagues find rather endearing.",
+    "options": [
+      "deprecating",
+      "depreciating",
+      "denigrating",
+      "disparaging"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "deprecating",
+    "explanation": "'Self-deprecating' = playing down one's own merits, and is mildly approving. 'Depreciate' is what an asset does in value; 'denigrate' and 'disparage' describe attacking someone else, which 'his own' rules out."
+  },
+  {
+    "id": "p1-137",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "Several guests were taken ill after the banquet, having been ____ by the shellfish.",
+    "options": [
+      "poisoned",
+      "intoxicated",
+      "inebriated",
+      "contaminated"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "poisoned",
+    "explanation": "Spanish 'intoxicado' = poisoned (by food), but English 'intoxicated' means drunk, as does 'inebriated'. Food contaminates; people get poisoned."
+  },
+  {
+    "id": "p1-138",
+    "part": 1,
+    "category": "False Friend",
+    "questionText": "____ the coin into the slot and wait for the green light before proceeding.",
+    "options": [
+      "Insert",
+      "Introduce",
+      "Enter",
+      "Input"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Insert",
+    "explanation": "Spanish/Catalan 'introducir' = to insert physically, but English 'introduce' presents a person or a topic. 'Enter' and 'input' belong to data, not to coins."
+  },
+  {
+    "id": "p1-139",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The pilot scheme was an ____ failure, achieving not one of its stated objectives.",
+    "options": [
+      "abject",
+      "abrupt",
+      "abstruse",
+      "absolute"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "abject",
+    "explanation": "'Abject' collocates with failure, poverty and apology to mean utter and humiliating. 'Absolute' is possible in casual speech but lacks the note of degradation; 'abrupt' and 'abstruse' are semantically unrelated."
+  },
+  {
+    "id": "p1-140",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The party suffered a ____ defeat at the polls, losing more than half its seats.",
+    "options": [
+      "resounding",
+      "ringing",
+      "sounding",
+      "echoing"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "resounding",
+    "explanation": "'A resounding defeat/success/victory' is the fixed intensifier. The other three share the sound metaphor but form no such collocation; 'ringing' pairs only with 'endorsement'."
+  },
+  {
+    "id": "p1-141",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The judgment proved a ____ in the development of privacy law in this country.",
+    "options": [
+      "watershed",
+      "watermark",
+      "waterline",
+      "waterway"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "watershed",
+    "explanation": "'A watershed' = a turning point after which everything flows differently. The distractors are literal water compounds with no figurative use of this kind."
+  },
+  {
+    "id": "p1-142",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The city has become a ____ for architectural daring throughout northern Europe.",
+    "options": [
+      "byword",
+      "buzzword",
+      "watchword",
+      "password"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "byword",
+    "explanation": "'A byword for X' = a name synonymous with X. A 'buzzword' is a fashionable term, a 'watchword' a guiding slogan, a 'password' a credential — none takes this frame."
+  },
+  {
+    "id": "p1-143",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The two departments have been at ____ over the allocation of funds for the better part of a year.",
+    "options": [
+      "loggerheads",
+      "hammerheads",
+      "figureheads",
+      "spearheads"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "loggerheads",
+    "explanation": "'At loggerheads (with)' = in open and persistent disagreement. The other compounds exist as nouns but form no such prepositional idiom."
+  },
+  {
+    "id": "p1-144",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The firm has a somewhat ____ history where environmental compliance is concerned.",
+    "options": [
+      "chequered",
+      "striped",
+      "mottled",
+      "dappled"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "chequered",
+    "explanation": "'A chequered history/past/career' = one containing both creditable and discreditable episodes. The distractors are all literal patterns with no figurative extension."
+  },
+  {
+    "id": "p1-145",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "He accused the newspaper of casting ____ on his professional integrity.",
+    "options": [
+      "aspersions",
+      "assertions",
+      "aspirations",
+      "ascriptions"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "aspersions",
+    "explanation": "'To cast aspersions on' = to make damaging insinuations about. The near-homophones are respectively claims, ambitions and attributions, none of which collocates with 'cast'."
+  },
+  {
+    "id": "p1-146",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "An ____ traveller, she had visited more than ninety countries by the age of forty.",
+    "options": [
+      "inveterate",
+      "invertebrate",
+      "inveigling",
+      "invective"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "inveterate",
+    "explanation": "'Inveterate' = habitual, confirmed in a long-standing habit, and pairs with traveller, gambler, liar. 'Invertebrate' is a spineless animal; the others are unrelated."
+  },
+  {
+    "id": "p1-147",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "She remains a ____ defender of press freedom, whatever the political cost.",
+    "options": [
+      "staunch",
+      "staid",
+      "stagnant",
+      "stark"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "staunch",
+    "explanation": "'A staunch defender/supporter/ally' = loyal and unwavering. 'Staid' means sober and unadventurous, 'stagnant' motionless, 'stark' bleak — none conveys loyalty."
+  },
+  {
+    "id": "p1-148",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The reviews ran the ____ from ecstatic praise to outright derision.",
+    "options": [
+      "gamut",
+      "gauntlet",
+      "gambit",
+      "gambol"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "gamut",
+    "explanation": "'To run the gamut' = to cover the entire range. It is constantly confused with 'run the gauntlet' (to endure an ordeal); a 'gambit' is an opening move and a 'gambol' a frolic."
+  },
+  {
+    "id": "p1-149",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The ruling was a ____ victory: the legal costs dwarfed the damages eventually awarded.",
+    "options": [
+      "Pyrrhic",
+      "Platonic",
+      "Procrustean",
+      "Panglossian"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Pyrrhic",
+    "explanation": "'A Pyrrhic victory' is won at ruinous cost. The other classical adjectives mean respectively non-sexual, brutally uniform and absurdly optimistic."
+  },
+  {
+    "id": "p1-150",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The sheer scale of the administrative incompetence ____ belief.",
+    "options": [
+      "beggars",
+      "begs",
+      "belies",
+      "beckons"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "beggars",
+    "explanation": "'To beggar belief' = to be too extraordinary to be credible. 'Beg' appears in 'beg the question' (a different fallacy), 'belie' means to contradict and 'beckon' to summon."
+  },
+  {
+    "id": "p1-151",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The rebranding exercise was an ____ disaster from which the company never fully recovered.",
+    "options": [
+      "unmitigated",
+      "unmediated",
+      "unmoderated",
+      "unmatched"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "unmitigated",
+    "explanation": "'An unmitigated disaster' = one with no redeeming feature whatever. The prefix-sharing distractors mean unfiltered, unsupervised and unequalled respectively."
+  },
+  {
+    "id": "p1-152",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "There was a ____ understanding among the trustees that the matter would never be raised again.",
+    "options": [
+      "tacit",
+      "taciturn",
+      "tactile",
+      "tactful"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "tacit",
+    "explanation": "'Tacit' = unspoken but mutually understood. 'Taciturn' describes a person of few words, 'tactile' relates to touch, and 'tactful' to diplomacy."
+  },
+  {
+    "id": "p1-153",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Free-market orthodoxy held ____ for the better part of three decades.",
+    "options": [
+      "sway",
+      "sweep",
+      "swing",
+      "swathe"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sway",
+    "explanation": "'To hold sway' = to exercise dominant influence. The idiom is fixed; none of the other nouns follows 'hold' in this sense."
+  },
+  {
+    "id": "p1-154",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Given the ambiguity of the wording, the auditors chose to ____ on the side of caution.",
+    "options": [
+      "err",
+      "stray",
+      "lean",
+      "veer"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "err",
+    "explanation": "'To err on the side of caution' is entirely frozen. 'Lean towards' exists but not with 'on the side of'; 'stray' and 'veer' imply unintended deviation."
+  },
+  {
+    "id": "p1-155",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The collapse of the fund served as a ____ lesson in the perils of excessive leverage.",
+    "options": [
+      "salutary",
+      "salubrious",
+      "salutatory",
+      "sanitary"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "salutary",
+    "explanation": "'A salutary lesson' = a painful experience with a beneficial effect. 'Salubrious' means health-giving (of places), 'salutatory' relates to greeting, 'sanitary' to hygiene."
+  },
+  {
+    "id": "p1-156",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "There is a growing ____ of opposition to the proposals among backbench members.",
+    "options": [
+      "groundswell",
+      "groundwork",
+      "grounding",
+      "grounds"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "groundswell",
+    "explanation": "'A groundswell of support/opposition' = a broad, rising surge of feeling. 'Groundwork' is preparation, 'grounding' basic training, 'grounds' a reason."
+  },
+  {
+    "id": "p1-157",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "Petty corruption had become ____ in the procurement process long before the audit.",
+    "options": [
+      "endemic",
+      "epidemic",
+      "pandemic",
+      "academic"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "endemic",
+    "explanation": "'Endemic' = habitually present within a particular group or place, which suits an entrenched practice. 'Epidemic' and 'pandemic' describe sudden spread, and 'academic' means of no practical consequence."
+  },
+  {
+    "id": "p1-158",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The minister's account is sharply at ____ with the documentary record.",
+    "options": [
+      "variance",
+      "variation",
+      "variety",
+      "varying"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "variance",
+    "explanation": "'At variance with' = in conflict or inconsistent with. Only the noun 'variance' occurs in this frozen prepositional frame."
+  },
+  {
+    "id": "p1-159",
+    "part": 1,
+    "category": "Lexical",
+    "questionText": "The country was then in the ____ of the worst currency crisis in its history.",
+    "options": [
+      "throes",
+      "throws",
+      "thrones",
+      "throngs"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "throes",
+    "explanation": "'In the throes of' = in the midst of a violent or painful struggle. 'Throws' is its exact homophone, which makes the spelling a genuine C2 discriminator."
+  },
+  {
+    "id": "p1-160",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Subsequent replication has amply ____ out her original hypothesis.",
+    "options": [
+      "borne",
+      "born",
+      "bore",
+      "beared"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "borne",
+    "explanation": "'Bear out' = to corroborate, and its past participle is 'borne'. 'Born' is reserved for birth, 'bore' is the simple past, and 'beared' does not exist."
+  },
+  {
+    "id": "p1-161",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The communiqué does no more than ____ over the cracks in the alliance.",
+    "options": [
+      "paper",
+      "plaster",
+      "smooth",
+      "varnish"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "paper",
+    "explanation": "'To paper over the cracks' = to conceal a fundamental problem with a superficial fix. The idiom is frozen on 'paper'; the other verbs of surface-covering do not enter it."
+  },
+  {
+    "id": "p1-162",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The legislation ____ about a fundamental shift in public attitudes to smoking.",
+    "options": [
+      "brought",
+      "came",
+      "took",
+      "set"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "brought",
+    "explanation": "'Bring about' = to cause to happen. 'Come about' means to happen (with no agent), which the transitive object here forbids."
+  },
+  {
+    "id": "p1-163",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Against all expectation, she ____ off the negotiation with consummate skill.",
+    "options": [
+      "pulled",
+      "drew",
+      "pushed",
+      "tugged"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "pulled",
+    "explanation": "'Pull something off' = to succeed at something difficult. The distractors are all verbs of physical traction with no such idiomatic extension."
+  },
+  {
+    "id": "p1-164",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "Ministers moved swiftly to ____ down the significance of the leaked correspondence.",
+    "options": [
+      "play",
+      "talk",
+      "water",
+      "turn"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "play",
+    "explanation": "'Play down' = to minimise the importance of. 'Talk down' means to patronise or to guide an aircraft in; 'water down' dilutes a text or policy rather than its perceived significance."
+  },
+  {
+    "id": "p1-165",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The building's severe façade ____ back to the austerity of the immediate post-war years.",
+    "options": [
+      "harks",
+      "hearkens",
+      "dates",
+      "refers"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "harks",
+    "explanation": "'Hark back to' = to recall or evoke an earlier period. 'Date back to' needs no object of evocation but takes a date, and 'refer' requires a deliberate agent."
+  },
+  {
+    "id": "p1-166",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "His repeated excuses for missing deadlines are beginning to ____ thin.",
+    "options": [
+      "wear",
+      "run",
+      "grow",
+      "fall"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "wear",
+    "explanation": "'To wear thin' = to lose its force through overuse, said of patience and of excuses. 'Run thin' and 'grow thin' are not idioms; 'run out' would need a different frame."
+  },
+  {
+    "id": "p1-167",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "She has always ____ great store by punctuality in her junior colleagues.",
+    "options": [
+      "set",
+      "put",
+      "held",
+      "taken"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "set",
+    "explanation": "'To set great store by something' = to value it highly. The idiom fixes the verb as 'set'; 'put store in' is a rarer American variant not offered here."
+  },
+  {
+    "id": "p1-168",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "It gradually ____ on the committee that the figures had been deliberately falsified.",
+    "options": [
+      "dawned",
+      "occurred",
+      "struck",
+      "appeared"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "dawned",
+    "explanation": "'Dawn on someone' = to become gradually apparent to them. 'Occur to' takes the same sense but not the preposition 'on'; 'strike' would be transitive and sudden."
+  },
+  {
+    "id": "p1-169",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The revenue authorities have pledged to ____ down on aggressive tax avoidance.",
+    "options": [
+      "crack",
+      "snap",
+      "break",
+      "split"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "crack",
+    "explanation": "'Crack down on' = to take severe enforcement action against. The other verbs of breaking form no equivalent phrasal verb with 'down on'."
+  },
+  {
+    "id": "p1-170",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "I would not ____ on the funding being renewed for a further three years.",
+    "options": [
+      "bank",
+      "count",
+      "rest",
+      "lean"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bank",
+    "explanation": "'Bank on' = to rely on with confidence. 'Count on' is a synonym but is not offered with its required preposition here; 'rest on' and 'lean on' carry quite different senses."
+  },
+  {
+    "id": "p1-171",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "After thirty years on the bench, the judge will ____ out at the end of the Michaelmas term.",
+    "options": [
+      "bow",
+      "nod",
+      "kneel",
+      "stoop"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bow",
+    "explanation": "'Bow out' = to withdraw gracefully from a role. The distractors are all verbs of bodily posture that form no phrasal verb with 'out'."
+  },
+  {
+    "id": "p1-172",
+    "part": 1,
+    "category": "Phrasal Verb",
+    "questionText": "The trustees must ____ up the reputational risks against the projected returns.",
+    "options": [
+      "weigh",
+      "wage",
+      "wager",
+      "weight"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "weigh",
+    "explanation": "'Weigh up' = to assess comparatively before deciding. 'Weight' as a verb means to add weight or bias to; 'wage' and 'wager' are unrelated."
+  },
+  {
+    "id": "p1-173",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The ceremony was postponed ____ deference to the wishes of the bereaved family.",
+    "options": [
+      "in",
+      "out",
+      "with",
+      "by"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "in",
+    "explanation": "'In deference to' = out of respect for someone's wishes or status. The frame is fixed; 'out of respect for' uses a different noun, and learners blend the two."
+  },
+  {
+    "id": "p1-174",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "Their most recent recording is simply not ____ a par with their earlier work.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "to"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "on",
+    "explanation": "'On a par with' = of equal standing to. Spanish 'a la par de' tempts 'at' or 'to'; English fixes the preposition as 'on'."
+  },
+  {
+    "id": "p1-175",
+    "part": 1,
+    "category": "Preposition",
+    "questionText": "The negotiations were conducted ____ the auspices of the United Nations.",
+    "options": [
+      "under",
+      "in",
+      "with",
+      "by"
+    ],
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "under",
+    "explanation": "'Under the auspices of' = with the sponsorship and protection of. The metaphor is of sheltering beneath, which fixes 'under'."
+  },
+  {
     "id": "p2-101",
     "part": 2,
     "category": "Lexical",
@@ -3703,6 +4503,597 @@
     "targetSentence": null,
     "correctAnswer": "of",
     "explanation": "'Del cual / de la que es consciente' should yield 'of which', but learners write 'that the individual is aware' or 'aware about'. 'Aware' governs 'of', and the preposition must front the relative: 'of which'."
+  },
+  {
+    "id": "p2-126",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Rarely ____ a scientific claim been subjected to such exhaustive scrutiny prior to publication.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "has",
+    "explanation": "Fronting 'Rarely' forces subject-auxiliary inversion, and the following 'been ... subjected' fixes the auxiliary as a present perfect with the singular subject 'a claim' → 'has'. Spanish has no inversion trigger of this kind, so learners write 'Rarely a claim has been'."
+  },
+  {
+    "id": "p2-127",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "So intractable ____ the dispute become that both parties agreed to binding arbitration.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "had",
+    "explanation": "'So + adjective' fronted inverts the auxiliary, and 'become' (past participle) requires the past perfect → 'had'. The 'so ... that' frame is split across the clause, which disguises the structure."
+  },
+  {
+    "id": "p2-128",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ the minister decline to testify, the inquiry would be left without its central witness.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Should",
+    "explanation": "An inverted conditional: 'Should X happen' replaces 'If X should happen'. The bare infinitive 'decline' and the conditional main clause rule out every other operator."
+  },
+  {
+    "id": "p2-129",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Not until the final audit ____ the true scale of the misappropriation become apparent.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "did",
+    "explanation": "'Not until + clause' fronted triggers do-support inversion in the main clause; the bare infinitive 'become' confirms the operator must be 'did'. Learners routinely write 'became' with no inversion."
+  },
+  {
+    "id": "p2-130",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Far from ____ a marginal concern, water scarcity now sits at the centre of regional security policy.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "being",
+    "explanation": "'Far from' is a preposition here, so it takes an -ing form: 'far from being'. Spanish 'lejos de ser' maps to an infinitive, so learners write 'far from be'."
+  },
+  {
+    "id": "p2-131",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Having ____ denied access to the archive, the historian was obliged to rely on secondary sources.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "been",
+    "explanation": "A perfect participle in the passive: 'Having been denied'. The passive requires 'been' between 'having' and the participle; learners drop it and write 'Having denied', which reverses the agent."
+  },
+  {
+    "id": "p2-132",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Such ____ the ferocity of the backlash that the proposal had to be withdrawn within a fortnight.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "was",
+    "explanation": "Fronted 'Such' inverts subject and verb: 'Such was the ferocity that...'. The singular subject 'ferocity' and the past narrative fix the form as 'was'."
+  },
+  {
+    "id": "p2-133",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The regulations stipulate that all material findings ____ be disclosed to the board without delay.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "must",
+      "shall",
+      "should"
+    ],
+    "explanation": "A deontic obligation in a legal register. 'Shall' and 'should' are equally admissible in this frame, which is why all three are accepted; what is ruled out is any non-modal, since 'be' is a bare infinitive."
+  },
+  {
+    "id": "p2-134",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "One ____ have thought that so elementary a flaw could not possibly have survived the design stage.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "would",
+    "explanation": "The fixed frame 'One would have thought (that)...' expresses retrospective surprise at an expectation that proved false. Spanish 'uno habría pensado' maps neatly, yet learners still reach for 'could' or 'should', which change the meaning entirely."
+  },
+  {
+    "id": "p2-135",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "He ____ well have succeeded had the funding not been withdrawn at the eleventh hour.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "might",
+      "may",
+      "could"
+    ],
+    "explanation": "'Might/may/could well have + participle' expresses a strong hypothetical possibility. The inverted conditional 'had ... not been' signals a counterfactual, which excludes 'would' (that would assert the outcome)."
+  },
+  {
+    "id": "p2-136",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Candidates ____ to acquaint themselves with the regulations well before sitting the examination.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "ought",
+    "explanation": "Only 'ought' takes a to-infinitive among the modals, and the bare 'to acquaint' therefore forces it. Learners who insert 'should' produce 'should to', a classic C1 error."
+  },
+  {
+    "id": "p2-137",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "No amount of persuasion ____ induce the witness to revise her testimony.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "would",
+      "could"
+    ],
+    "explanation": "A past-habitual refusal: 'no amount of X would induce...'. 'Could' is admissible on an ability reading, which is why it is accepted; the bare infinitive 'induce' excludes any lexical verb."
+  },
+  {
+    "id": "p2-138",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "However diligent an editor ____ be, some errors will always survive into print.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "may",
+      "might"
+    ],
+    "explanation": "The concessive frame 'However + adjective + subject + may be' is fixed in formal register. 'Might' is a tolerated variant; 'is' would destroy the concessive reading the fronted 'However' sets up."
+  },
+  {
+    "id": "p2-139",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The provisions of the treaty will ____ into effect at the start of the next financial year.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "come",
+    "explanation": "'Come into effect/force' is the fixed collocation for legislation. Spanish 'entrar en vigor' tempts 'enter into effect', which is not idiomatic English."
+  },
+  {
+    "id": "p2-140",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The committee has yet to ____ a decision on the disputed clause.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "take",
+      "make"
+    ],
+    "explanation": "British formal register prefers 'take a decision' where American English says 'make a decision'; both are accepted here. Spanish 'tomar una decisión' actually helps for once."
+  },
+  {
+    "id": "p2-141",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The delegation was hard ____ to account for the discrepancies in the audited figures.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "put",
+    "explanation": "'To be hard put (to it) to do something' = to struggle to do it. The passive participle is frozen; learners who know only 'put' as a physical verb cannot decode it."
+  },
+  {
+    "id": "p2-142",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The incoming director ____ about restructuring the department with characteristic ruthlessness.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "set",
+    "explanation": "'Set about + -ing' = to begin a task in earnest. 'Start about' and 'put about' do not exist in this sense; 'put about' means to circulate a rumour."
+  },
+  {
+    "id": "p2-143",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The consequences of a systems failure on that scale do not ____ thinking about.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "bear",
+    "explanation": "The frozen idiom 'doesn't bear thinking about' = it is too awful to contemplate. No other verb fits the frame, and Spanish offers no route to it."
+  },
+  {
+    "id": "p2-144",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The scheme was quietly shelved once it had ____ foul of European competition law.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "run",
+      "fallen"
+    ],
+    "explanation": "'Run foul of' and 'fall foul of' are both current; both are accepted. The idiom means to come into conflict with a rule or authority."
+  },
+  {
+    "id": "p2-145",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Their revised offer still ____ well short of the union's stated minimum.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "falls",
+    "explanation": "'Fall short of' = to be insufficient. The present tense matches 'still', and Spanish 'quedarse corto' gives no clue to the verb English selects."
+  },
+  {
+    "id": "p2-146",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The revelations ____ the government entirely off guard.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "caught",
+    "explanation": "'Catch someone off guard' = to take by surprise. The past narrative fixes 'caught'; Spanish 'pillar desprevenido' gives no hint that English uses 'catch'."
+  },
+  {
+    "id": "p2-147",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The mechanism ____ the enzyme accelerates the reaction remains imperfectly understood.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whereby",
+    "explanation": "'Whereby' = by which / by means of which, and introduces a relative clause of means after nouns like 'mechanism', 'process' or 'system'. It is a single word, so 'by which' is not admissible in a one-word gap."
+  },
+  {
+    "id": "p2-148",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "He tendered his resignation that same evening, ____ the deputy assumed office on an interim basis.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whereupon",
+    "explanation": "'Whereupon' = at which point / immediately after which. It links a consequence in time to the preceding clause and belongs firmly to formal written register."
+  },
+  {
+    "id": "p2-149",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The prize is awarded to ____ the panel considers to have made the most original contribution.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whoever",
+    "explanation": "A fused relative functioning as the object of 'to': 'whoever' carries both the preposition's complement and the subject of 'considers'. Learners write 'whom', which cannot head a fused relative."
+  },
+  {
+    "id": "p2-150",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The report is scathing about the manner in ____ the consultation was conducted.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "which",
+    "explanation": "After a preposition, only 'which' is possible — 'that' and 'what' are both barred in pied-piped relatives. Spanish 'en que' tempts the ungrammatical 'in that'."
+  },
+  {
+    "id": "p2-151",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Few of those ____ testimony the commission relied upon were ever cross-examined.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "whose",
+    "explanation": "A possessive relative with a human antecedent: 'those whose testimony...'. Learners substitute 'of whom', which would require restructuring the whole noun phrase."
+  },
+  {
+    "id": "p2-152",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "It is precisely ____ makes the theory so elegant that renders it so difficult to falsify.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "what",
+    "explanation": "A fused relative inside a cleft: 'what makes the theory elegant' is the subject. 'That which' is the two-word equivalent, but the gap admits only one word."
+  },
+  {
+    "id": "p2-153",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "The intervention proved effective, ____ at a cost the exchequer could ill afford.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "albeit",
+      "though"
+    ],
+    "explanation": "'Albeit' introduces a concessive phrase (not a full clause) and is followed here by a prepositional phrase. 'Though' is a tolerated variant in the same slot; 'although' would need a clause."
+  },
+  {
+    "id": "p2-154",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ the evidence remains circumstantial, its cumulative weight is difficult to dismiss.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "While",
+      "Whilst",
+      "Although",
+      "Though"
+    ],
+    "explanation": "A concessive clause opener. 'Whilst', 'Although' and 'Though' are all equally admissible here, which is why the full set is accepted."
+  },
+  {
+    "id": "p2-155",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The manuscripts are stored at constant humidity ____ they deteriorate beyond repair.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lest",
+    "explanation": "'Lest' = for fear that / in case, and is followed by a subjunctive or bare present. It is archaic-formal and has no everyday Spanish equivalent, so learners default to 'so that ... not'."
+  },
+  {
+    "id": "p2-156",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The scheme will proceed ____ that the necessary permissions are secured in good time.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "provided",
+      "providing"
+    ],
+    "explanation": "'Provided/providing (that)' = on condition that. Both participial forms are current and both are accepted; 'if that' is ungrammatical in this frame."
+  },
+  {
+    "id": "p2-157",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "No ____ had the ceasefire been announced than fresh hostilities erupted along the border.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "sooner",
+    "explanation": "The correlative 'No sooner ... than' requires inversion, which the sentence already shows. Learners write 'No sooner ... when', importing the Spanish 'apenas ... cuando'."
+  },
+  {
+    "id": "p2-158",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ had the applause died away when the orchestra struck up once more.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "Scarcely",
+      "Hardly",
+      "Barely"
+    ],
+    "explanation": "'Scarcely/Hardly ... when' is the sister correlative to 'No sooner ... than'. The fronted adverb forces inversion; note that it pairs with 'when', never with 'than'."
+  },
+  {
+    "id": "p2-159",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Every clause must be initialled by both parties; ____ the contract may be deemed void.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "otherwise",
+    "explanation": "'Otherwise' = if that is not done. It links a condition to its negative consequence in one word, where Spanish uses the phrasal 'de lo contrario'."
+  },
+  {
+    "id": "p2-160",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The methodology is sound as far as it goes; the sample size, ____, invites serious question.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "however",
+    "explanation": "Parenthetical 'however' between commas concedes the preceding clause before reversing it. Learners misuse it as a conjunction joining two clauses with a comma."
+  },
+  {
+    "id": "p2-161",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The tribunal was convened at the ____ of the Secretary of State.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "behest",
+    "explanation": "'At the behest of' = at the formal request or command of. It survives almost exclusively in this frozen legal-administrative frame."
+  },
+  {
+    "id": "p2-162",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "In ____ of a formal apology, the company offered a substantial ex gratia payment.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "lieu",
+    "explanation": "'In lieu of' = instead of, a Norman-French survival used in legal and commercial register. Spanish 'en lugar de' is a literal match but gives no clue to the English word."
+  },
+  {
+    "id": "p2-163",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Decades of habitat loss have driven the species to the very ____ of extinction.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "brink",
+      "verge"
+    ],
+    "explanation": "'On/to the brink of' and 'on the verge of' are both idiomatic for imminence; both are accepted. 'Border' and 'edge' do not collocate with 'extinction' in this frame."
+  },
+  {
+    "id": "p2-164",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Repeated attempts at mediation proved of no ____ whatsoever.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "avail",
+    "explanation": "'To no avail' / 'of no avail' = useless, fruitless. 'Avail' survives only in this frozen frame and in the reflexive 'avail oneself of'."
+  },
+  {
+    "id": "p2-165",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The reading room remained open ____ the summer, closing only for refurbishment in September.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "throughout",
+    "explanation": "'Throughout' = during the whole of, in one word. Spanish 'durante todo el verano' tempts the two-word 'during all', which the single gap excludes."
+  },
+  {
+    "id": "p2-166",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The proposal was dismissed out of hand, ____ any consideration of its merits.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "without",
+    "explanation": "'Without' governs the -ing-free noun phrase 'any consideration'. Learners reach for 'with no', which needs two words, or 'lacking', which is not a preposition here."
+  },
+  {
+    "id": "p2-167",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "The technical questions at issue lie well ____ the competence of a lay tribunal.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "beyond",
+    "explanation": "'Beyond someone's competence' = outside the limits of. 'Over' and 'above' do not collocate with 'competence'; Spanish 'más allá de' maps to 'beyond' but is two words in the learner's head."
+  },
+  {
+    "id": "p2-168",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "By ____ of his office, the Chancellor sits on the board of trustees ex officio.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "virtue",
+    "explanation": "'By virtue of' = by reason of, as a consequence of holding some status. It is the standard formal connector for entitlements conferred by position."
+  },
+  {
+    "id": "p2-169",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The talks broke ____ acrimoniously after the third round of negotiations.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "down",
+    "explanation": "'Break down' = to collapse or fail (of negotiations). 'Break up' would mean to disperse or end a relationship — a different outcome entirely."
+  },
+  {
+    "id": "p2-170",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The board elected to put ____ the announcement until after the shareholders' meeting.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "off",
+    "explanation": "'Put off' = to postpone. Spanish 'aplazar' offers no particle, so learners guess 'put away' or 'put back', neither of which carries this sense in the active."
+  },
+  {
+    "id": "p2-171",
+    "part": 2,
+    "category": "Phrasal Verb",
+    "questionText": "The commission is expected to put ____ a series of far-reaching recommendations this autumn.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "forward",
+    "explanation": "'Put forward' = to propose formally. 'Put out' (issue) and 'put up' (nominate, or provide funds) are near neighbours with distinct meanings."
+  },
+  {
+    "id": "p2-172",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "____ of the two proposals commanded majority support in the assembly.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "Neither",
+    "explanation": "'Neither of the two' is the negative dual quantifier; 'none' requires three or more, and 'either' would give a positive reading the verb 'commanded' contradicts."
+  },
+  {
+    "id": "p2-173",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The evidence is such ____ no other conclusion is reasonably tenable.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "that",
+    "explanation": "'Such that' introduces a result clause. Learners write 'as', importing the 'such as' of exemplification, which cannot take a finite result clause."
+  },
+  {
+    "id": "p2-174",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Few, if ____, of the original charters have survived the intervening centuries.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "any",
+    "explanation": "The parenthetical hedge 'few, if any' concedes that the number may be zero. It is a frozen pair; 'if some' and 'if none' are both impossible."
+  },
+  {
+    "id": "p2-175",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Not one of the proposals, and there were ____, addressed the underlying cause.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "several",
+      "many"
+    ],
+    "explanation": "A parenthetical quantifier standing alone without a following noun. 'Many' is equally admissible; both are accepted."
   },
   {
     "id": "p3-14",
