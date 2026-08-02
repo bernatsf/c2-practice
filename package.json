@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "npm run validate:json",
-    "validate:json": "tsx scripts/validate_part4_word_counts.ts"
+    "validate:json": "tsx scripts/validate_question_bank.ts"
   },
   "dependencies": {
     "next": "14.2.5",

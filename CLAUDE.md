@@ -34,27 +34,34 @@ npm run build
 Both must exit 0 before committing. `npm run build` also catches prerender
 failures that `tsc` alone will not.
 
-`npm run build` now runs `npm run validate:json` first, so a Part 4 answer
-outside the 3–8 word range fails the build before Next.js starts. To check the
-bank on its own, without a full build:
+`npm run build` now runs `npm run validate:json` first, so a structurally
+broken bank fails the build before Next.js starts. To check the bank on its
+own, without a full build:
 
 ```bash
 npm test
 ```
 
-When you change the JSON, additionally confirm it still parses and that IDs stay
-unique — a malformed bank fails at runtime, not at compile time.
+## 2a. The bank validator — `scripts/validate_question_bank.ts`
 
-### Why the Part 4 length check exists
+Every check it performs guards a fault that is **invisible on inspection**: the
+JSON parses, `tsc` passes and the app builds, yet individual items are broken
+at runtime. Each has actually occurred in this repo.
 
-`lib/grading.ts` rejects any Part 4 answer outside 3–8 words, so a too-short
-answer makes an item **unanswerable** rather than merely awkward — every
-candidate gets it wrong whatever they type, and nothing surfaces the fault.
-Two items (`p4-08`, `p4-10`) shipped in exactly that state.
-`scripts/validate_part4_word_counts.ts` guards against a repeat. It imports
-`normalizeForMatch` and `expandOptionalWords` from the grading engine rather
-than reimplementing them, so it counts contractions and expands `(optional)`
-words exactly as the marker does and cannot drift from it.
+| Check | Rule | What breaks without it |
+| --- | --- | --- |
+| Global | `id` is unique | `localRepository` keys the attempt log and SRS by id, so duplicates collide |
+| Part 1 | `correctAnswer` matches exactly one of 4 distinct options | `seed.ts` falls back to key `"A"` — a typo silently marks option A correct |
+| Part 2 | every answer is one word (hyphens fine) | a multi-word answer can never be typed into a one-word gap |
+| Part 4 | every answer is 3–8 words | `grading.ts` rejects it, so the item is **unanswerable** — every candidate fails it whatever they type |
+
+The Part 4 check imports `normalizeForMatch` and `expandOptionalWords` from
+`lib/grading.ts` rather than reimplementing them, so it counts contractions and
+expands `(optional)` words exactly as the marker does and cannot drift from it.
+
+`p4-08` and `p4-10` both shipped unanswerable, and were found only by a manual
+sweep. When adding a check, prove it fails by injecting the fault before
+trusting a green run.
 
 ## 3. The question database
 
