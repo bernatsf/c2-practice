@@ -7755,8 +7755,8 @@
     "questionText": "As soon as the engineers launched the prototype, it began to malfunction.",
     "options": null,
     "baseWord": "SOONER",
-    "targetSentence": "No sooner ____ the prototype than it began to malfunction.",
-    "correctAnswer": "had the engineers launched",
+    "targetSentence": "____ the prototype than it began to malfunction.",
+    "correctAnswer": "No sooner had the engineers launched",
     "explanation": "The fronted 'No sooner' triggers subject-auxiliary inversion with the past perfect, and the clause must be completed with 'than' rather than 'when' — a double C2 trap."
   },
   {
@@ -7766,8 +7766,8 @@
     "questionText": "It was not until the system had been running for months that the design flaw came to light.",
     "options": null,
     "baseWord": "ONLY",
-    "targetSentence": "Only after the system had been running for months ____ to light.",
-    "correctAnswer": "did the design flaw come",
+    "targetSentence": "____ had been running for months did the design flaw come to light.",
+    "correctAnswer": "Only after the system",
     "explanation": "A fronted 'Only after' adverbial forces inversion in the main clause, demanding the dummy auxiliary 'did' before the subject — a structure with no Spanish equivalent."
   },
   {
@@ -7931,8 +7931,8 @@
     "questionText": "She did not appreciate the sheer scale of the valley until she reached the summit.",
     "options": null,
     "baseWord": "ONLY",
-    "targetSentence": "Only ____ the summit did she appreciate the sheer scale of the valley.",
-    "correctAnswer": "when she reached",
+    "targetSentence": "____ the summit did she appreciate the sheer scale of the valley.",
+    "correctAnswer": "Only when she reached",
     "explanation": "The fronted 'Only when' adverbial forces subject-auxiliary inversion in the main clause, requiring the dummy 'did' before the subject."
   },
   {
@@ -8033,8 +8033,8 @@
     "questionText": "The moment the plane touched down, the passengers switched on their phones.",
     "options": null,
     "baseWord": "SOONER",
-    "targetSentence": "No sooner ____ down than the passengers switched on their phones.",
-    "correctAnswer": "had the plane touched",
+    "targetSentence": "____ down than the passengers switched on their phones.",
+    "correctAnswer": "No sooner had the plane touched",
     "explanation": "'No sooner' fronted requires past-perfect inversion and is completed by 'than', not 'when' — a recurring C2 trap."
   },
   {
@@ -8132,8 +8132,8 @@
     "questionText": "The sun had barely risen when the migrating cranes took flight.",
     "options": null,
     "baseWord": "SOONER",
-    "targetSentence": "No sooner ____ than the migrating cranes took flight.",
-    "correctAnswer": "had the sun risen",
+    "targetSentence": "____ than the migrating cranes took flight.",
+    "correctAnswer": "No sooner had the sun risen",
     "explanation": "'No sooner' fronted forces past-perfect inversion and must be completed by 'than', not 'when'."
   },
   {
@@ -8231,8 +8231,8 @@
     "questionText": "We did not grasp the scale of the erosion until the cliffs collapsed.",
     "options": null,
     "baseWord": "UNTIL",
-    "targetSentence": "Not until the cliffs collapsed ____ the scale of the erosion.",
-    "correctAnswer": "did we grasp",
+    "targetSentence": "____ did we grasp the scale of the erosion.",
+    "correctAnswer": "Not until the cliffs collapsed",
     "explanation": "The fronted 'Not until' adverbial forces subject-auxiliary inversion with the dummy 'did' in the main clause."
   },
   {
@@ -8297,8 +8297,8 @@
     "questionText": "The lecture had barely begun when half the students started yawning.",
     "options": null,
     "baseWord": "SOONER",
-    "targetSentence": "No sooner ____ than half the students started yawning.",
-    "correctAnswer": "had the lecture begun",
+    "targetSentence": "____ than half the students started yawning.",
+    "correctAnswer": "No sooner had the lecture begun",
     "explanation": "'No sooner' fronted forces past-perfect inversion and must be completed by 'than', not 'when'."
   },
   {
@@ -8443,8 +8443,8 @@
     "questionText": "Society did not confront the issue until the scandal became public.",
     "options": null,
     "baseWord": "UNTIL",
-    "targetSentence": "Not until the scandal became public ____ the issue.",
-    "correctAnswer": "did society confront",
+    "targetSentence": "____ did society confront the issue.",
+    "correctAnswer": "Not until the scandal became public",
     "explanation": "The fronted 'Not until' adverbial forces subject-auxiliary inversion with the dummy 'did' in the main clause."
   },
   {

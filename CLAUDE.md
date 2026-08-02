@@ -53,15 +53,30 @@ at runtime. Each has actually occurred in this repo.
 | Global | `id` is unique | `localRepository` keys the attempt log and SRS by id, so duplicates collide |
 | Part 1 | `correctAnswer` matches exactly one of 4 distinct options | `seed.ts` falls back to key `"A"` — a typo silently marks option A correct |
 | Part 2 | every answer is one word (hyphens fine) | a multi-word answer can never be typed into a one-word gap |
+| Part 3 | every answer is one word (hyphens fine) | same as Part 2; both use one shared implementation so they cannot drift |
 | Part 4 | every answer is 3–8 words | `grading.ts` rejects it, so the item is **unanswerable** — every candidate fails it whatever they type |
+| Part 4 | every answer contains `baseWord` unchanged | Cambridge forbids changing the key word, so an inflected or absent key word cannot be credited |
 
-The Part 4 check imports `normalizeForMatch` and `expandOptionalWords` from
-`lib/grading.ts` rather than reimplementing them, so it counts contractions and
-expands `(optional)` words exactly as the marker does and cannot drift from it.
+The Part 4 checks import `normalizeForMatch` and `expandOptionalWords` from
+`lib/grading.ts` rather than reimplementing them, so contraction counting,
+`(optional)` expansion and the key-word comparison all behave exactly as the
+marker does and cannot drift from it. The key-word match is therefore
+case-insensitive, which it must be — an answer may start a sentence.
 
-`p4-08` and `p4-10` both shipped unanswerable, and were found only by a manual
-sweep. When adding a check, prove it fails by injecting the fault before
-trusting a green run.
+### Two traps this has already caught
+
+**Unanswerable items.** `p4-08` and `p4-10` shipped with answers below the
+three-word floor, so every candidate failed them whatever they typed. Nothing
+surfaced it; only a manual sweep found them.
+
+**The key word printed in the stem.** Eight items (`p4-38`, `p4-39`, `p4-54`,
+`p4-63`, `p4-72`, `p4-81`, `p4-87`, `p4-100`) put the key word in the gapped
+sentence — `"No sooner ____ than ..."` with key word `SOONER` — so the
+candidate never had to produce it. Real Part 4 requires the key word in the
+**answer**. All eight were reworked so the gap starts before it.
+
+When adding a check, prove it fails by injecting the fault before trusting a
+green run.
 
 ## 3. The question database
 

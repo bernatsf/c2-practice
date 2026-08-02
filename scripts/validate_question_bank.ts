@@ -46,6 +46,7 @@ interface RawItem {
   id?: unknown;
   part?: unknown;
   options?: unknown;
+  baseWord?: unknown;
   correctAnswer?: unknown;
 }
 
@@ -170,16 +171,23 @@ function checkPart1(items: RawItem[], out: Violation[]): number {
   return checked;
 }
 
-function checkPart2(items: RawItem[], out: Violation[]): number {
+/**
+ * Parts 2 and 3 are both single-word gaps, so they share one implementation
+ * rather than two that could drift apart.
+ */
+function checkSingleWordAnswers(items: RawItem[], part: 2 | 3, out: Violation[]): number {
+  const check = `PART ${part}`;
+  const gapKind = part === 2 ? "open cloze" : "word formation";
   let checked = 0;
+
   for (const item of items) {
-    if (item.part !== 2) continue;
+    if (item.part !== part) continue;
     checked += 1;
     const id = idOf(item);
     const answers = asAnswerArray(item.correctAnswer);
 
     if (answers.length === 0) {
-      out.push({ check: "PART 2", id, lines: ["has no usable correctAnswer string"] });
+      out.push({ check, id, lines: ["has no usable correctAnswer string"] });
       continue;
     }
 
@@ -187,11 +195,11 @@ function checkPart2(items: RawItem[], out: Violation[]): number {
       // Hyphens and apostrophes are fine; whitespace means more than one word.
       if (/\s/.test(answer.trim())) {
         out.push({
-          check: "PART 2",
+          check,
           id,
           lines: [
             `answer "${answer}" contains whitespace (${answer.trim().split(/\s+/).length} words)`,
-            "-> Part 2 is a single-word gap, so a candidate can never produce this.",
+            `-> Part ${part} is a single-word ${gapKind} gap, so a candidate can never produce this.`,
           ],
         });
       }
@@ -212,11 +220,27 @@ function checkPart4(items: RawItem[], out: Violation[]): number {
       continue;
     }
 
+    // Cambridge supplies the key word separately and forbids changing it, so
+    // it must appear verbatim in every accepted answer. Normalising both sides
+    // makes the comparison case-insensitive (answers may start a sentence) and
+    // keeps contractions and dialect folding consistent with the marker.
+    const rawKey = typeof item.baseWord === "string" ? item.baseWord.trim() : "";
+    const key = rawKey === "" ? "" : normalizeForMatch(rawKey);
+    if (key === "") {
+      out.push({
+        check: "PART 4",
+        id,
+        lines: ["has no baseWord — Part 4 items must supply a key word"],
+      });
+    }
+
     for (const answer of answers) {
-      // Each permutation is graded on its own, so each must fit the range.
+      // Each permutation is graded on its own, so each must satisfy both rules.
       for (const permutation of expandOptionalWords(answer)) {
         permutations += 1;
+        const normalised = normalizeForMatch(permutation);
         const words = wordCount(permutation);
+
         if (words < MIN_WORDS || words > MAX_WORDS) {
           const lines = [`answer "${answer}"`];
           if (permutation !== answer) lines.push(`permutation "${permutation}"`);
@@ -224,6 +248,21 @@ function checkPart4(items: RawItem[], out: Violation[]): number {
             `word count ${words} — must be ${MIN_WORDS}–${MAX_WORDS}`,
             "-> lib/grading.ts rejects this, making the item unanswerable."
           );
+          out.push({ check: "PART 4", id, lines });
+        }
+
+        if (key !== "" && !normalised.split(" ").includes(key)) {
+          const lines = [`answer "${answer}"`];
+          if (permutation !== answer) lines.push(`permutation "${permutation}"`);
+          lines.push(`does not contain the key word "${rawKey}" as a whole word`);
+          // Naming the inflection makes the usual cause obvious at a glance.
+          const inflected = normalised
+            .split(" ")
+            .find((token) => token !== key && (token.startsWith(key) || key.startsWith(token)));
+          if (inflected) {
+            lines.push(`-> "${inflected}" looks like an inflected form of "${rawKey}".`);
+          }
+          lines.push("-> Cambridge forbids changing the key word, so this answer cannot be credited.");
           out.push({ check: "PART 4", id, lines });
         }
       }
@@ -254,11 +293,12 @@ function main(): void {
   const violations: Violation[] = [];
   const uniqueIds = checkUniqueIds(items, violations);
   const part1 = checkPart1(items, violations);
-  const part2 = checkPart2(items, violations);
+  const part2 = checkSingleWordAnswers(items, 2, violations);
+  const part3 = checkSingleWordAnswers(items, 3, violations);
   const part4Permutations = checkPart4(items, violations);
 
   // A part vanishing entirely would otherwise look like a clean pass.
-  if (part1 === 0 || part2 === 0 || part4Permutations === 0) {
+  if (part1 === 0 || part2 === 0 || part3 === 0 || part4Permutations === 0) {
     console.error("✗ A whole part is missing from the bank — refusing to pass.");
     process.exit(1);
   }
@@ -287,7 +327,11 @@ function main(): void {
   console.log(`    ${items.length} items, ${uniqueIds} unique ids`);
   console.log(`    Part 1: ${part1} items — every correctAnswer resolves to exactly one option`);
   console.log(`    Part 2: ${part2} items — every answer is a single word`);
-  console.log(`    Part 4: ${part4Permutations} answer permutations — all ${MIN_WORDS}–${MAX_WORDS} words`);
+  console.log(`    Part 3: ${part3} items — every answer is a single word`);
+  console.log(
+    `    Part 4: ${part4Permutations} answer permutations — all ${MIN_WORDS}–${MAX_WORDS} words ` +
+      "and containing the key word unchanged"
+  );
   process.exit(0);
 }
 
