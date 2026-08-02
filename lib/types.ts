@@ -18,6 +18,12 @@ export type L1Trap = "false_friend" | "prep_mismatch" | "phrasal" | null;
 
 export type SessionMode = "part1" | "part2" | "part3" | "part4" | "mixed" | "srs";
 
+// Review-queue filter: every part, or one specific part.
+export type PartFilter = "all" | Part;
+
+// Due-item counts keyed by filter value ("all" = total across parts).
+export type PartDueCounts = Record<PartFilter, number>;
+
 export type TimerMode = null | "per_question" | "per_session";
 
 export interface Question {

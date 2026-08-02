@@ -1,7 +1,13 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { GradeResult, Question, SessionMode } from "@/lib/types";
+import type {
+  GradeResult,
+  PartDueCounts,
+  PartFilter,
+  Question,
+  SessionMode,
+} from "@/lib/types";
 import { QuestionQueue } from "@/lib/queue";
 import { grade } from "@/lib/grading";
 import { updateRatings } from "@/lib/elo";
@@ -9,6 +15,8 @@ import { localRepository } from "@/lib/localRepository";
 import { freshSrsItem, reviewSrs } from "@/lib/srs";
 
 export type Phase = "answering" | "revealed";
+
+const NO_DUE: PartDueCounts = { all: 0, 1: 0, 2: 0, 3: 0, 4: 0 };
 
 export interface SessionView {
   phase: Phase;
@@ -21,6 +29,8 @@ export interface SessionView {
   lastResult: GradeResult | null;
   lastDelta: number | null; // rating change of last answer
   currentRating: number;
+  selectedPart: PartFilter; // review-mode part filter ("all" outside review mode)
+  srsDue: PartDueCounts; // due counts per part, for the review filter UI
 }
 
 export function usePracticeSession(mode: SessionMode) {
@@ -41,6 +51,10 @@ export function usePracticeSession(mode: SessionMode) {
   const [lastResult, setLastResult] = useState<GradeResult | null>(null);
   const [lastDelta, setLastDelta] = useState<number | null>(null);
   const [currentRating, setCurrentRating] = useState<number>(0);
+  const [selectedPart, setSelectedPart] = useState<PartFilter>("all");
+  // Starts empty so the server render and the first client render agree; the
+  // real counts are read from localStorage in the mount effect below.
+  const [srsDue, setSrsDue] = useState<PartDueCounts>(NO_DUE);
 
   useEffect(() => {
     // Guard against React StrictMode double-invoking this effect: pulling the
@@ -50,6 +64,7 @@ export function usePracticeSession(mode: SessionMode) {
     loadedQueue.current = queue;
     setCurrentRating(localRepository.getProfile().rating);
     setCurrent(queue.next());
+    setSrsDue(queue.srsDueCounts());
     setReady(true);
   }, [queue]);
 
@@ -99,6 +114,8 @@ export function usePracticeSession(mode: SessionMode) {
       const srs = localRepository.getSrs();
       const existing = srs[current.id] ?? freshSrsItem(current.id);
       localRepository.saveSrsItem(reviewSrs(existing, result.correct));
+      // The answer just changed what is due, so the filter counts are stale.
+      setSrsDue(queue.srsDueCounts());
 
       setLastResult(result);
       setLastDelta(delta);
@@ -108,17 +125,37 @@ export function usePracticeSession(mode: SessionMode) {
       if (result.correct) setSessionCorrect((c) => c + 1);
       setPhase("revealed");
     },
-    [current, phase]
+    [current, phase, queue]
   );
 
   const next = useCallback(() => {
     setCurrent(queue.next());
+    setSrsDue(queue.srsDueCounts());
     setLastResult(null);
     setLastDelta(null);
     setPhase("answering");
     setIndex((i) => i + 1);
     startedAt.current = Date.now();
   }, [queue]);
+
+  // Switch the review filter and pull a fresh item from the newly filtered
+  // queue. `index` advances as well, which is what resets the per-question
+  // countdown (its resetKey is derived from the index).
+  const changePart = useCallback(
+    (part: PartFilter) => {
+      if (part === selectedPart) return;
+      setSelectedPart(part);
+      queue.setSrsPartFilter(part);
+      setCurrent(queue.next());
+      setSrsDue(queue.srsDueCounts());
+      setLastResult(null);
+      setLastDelta(null);
+      setPhase("answering");
+      setIndex((i) => i + 1);
+      startedAt.current = Date.now();
+    },
+    [queue, selectedPart]
+  );
 
   const view: SessionView = {
     phase,
@@ -131,7 +168,9 @@ export function usePracticeSession(mode: SessionMode) {
     lastResult,
     lastDelta,
     currentRating,
+    selectedPart,
+    srsDue,
   };
 
-  return { ...view, submit, next };
+  return { ...view, submit, next, changePart };
 }

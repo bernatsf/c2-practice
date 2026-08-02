@@ -1,7 +1,7 @@
-import type { Part, Question, SessionMode } from "./types";
+import type { Part, PartDueCounts, PartFilter, Question, SessionMode, SrsItem } from "./types";
 import { SEED_BANK, withShuffledOptions } from "./seed";
 import { localRepository } from "./localRepository";
-import { selectNextSrsId } from "./srs";
+import { isDue, selectNextSrsId } from "./srs";
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -37,6 +37,7 @@ export class QuestionQueue {
   private pool: Question[] = [];
   private buffer: Question[] = [];
   private lastId: string | null = null;
+  private srsPart: PartFilter = "all";
 
   constructor(mode: SessionMode) {
     this.mode = mode;
@@ -53,9 +54,40 @@ export class QuestionQueue {
     this.buffer = shuffle(this.pool);
   }
 
-  private nextSrs(): Question | null {
+  // Restrict review mode to a single exam part (or "all"). `SrsItem` stores only
+  // a questionId, so the part is resolved through `byId` rather than read off the
+  // record. Clearing `lastId` lets the top-priority item of the newly selected
+  // part surface immediately instead of being skipped as an immediate repeat.
+  setSrsPartFilter(part: PartFilter) {
+    this.srsPart = part;
+    this.lastId = null;
+  }
+
+  // SRS records eligible under the active filter. Records whose question is no
+  // longer in the bank are dropped — `nextSrs` could not render them anyway.
+  private srsCandidates(): SrsItem[] {
     const items = Object.values(localRepository.getSrs());
-    const id = selectNextSrsId(items, Date.now(), this.lastId);
+    if (this.srsPart === "all") return items;
+    return items.filter((i) => this.byId.get(i.questionId)?.part === this.srsPart);
+  }
+
+  // Due counts per part (and overall), for the review filter UI. Always counts
+  // across every part, independent of the active filter, so the UI can show what
+  // is waiting behind the other pills.
+  srsDueCounts(now = Date.now()): PartDueCounts {
+    const counts: PartDueCounts = { all: 0, 1: 0, 2: 0, 3: 0, 4: 0 };
+    for (const item of Object.values(localRepository.getSrs())) {
+      if (!isDue(item, now)) continue;
+      const q = this.byId.get(item.questionId);
+      if (!q) continue;
+      counts.all += 1;
+      counts[q.part] += 1;
+    }
+    return counts;
+  }
+
+  private nextSrs(): Question | null {
+    const id = selectNextSrsId(this.srsCandidates(), Date.now(), this.lastId);
     if (!id) {
       this.lastId = null;
       return null;

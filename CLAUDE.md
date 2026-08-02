@@ -150,8 +150,8 @@ categories.
 **Prepositions & Fixed Frames**
 `in`, `on`, `at`, `to`, `for`, `with`, `by`, `from`, `of`, `about`, `against`,
 `into`, `onto`, `upon`, `within`, `without`, `beyond`, `over`, `under`,
-`beneath`, `throughout`, `behest`, `lieu`, `wake`, `virtue`, `sake`, `avail`,
-`brink`, `verge`
+`beneath`, `throughout`, `behest`, `lieu`, `wake`, `aftermath`, `virtue`,
+`sake`, `avail`, `brink`, `verge`, `place`
 
 **Particles**
 `up`, `down`, `out`, `off`, `away`, `back`, `forward`

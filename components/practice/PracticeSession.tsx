@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
-import type { SessionMode, TimerMode } from "@/lib/types";
+import type { PartFilter, SessionMode, TimerMode } from "@/lib/types";
 import { MODE_LABEL } from "@/components/labels";
 import { usePracticeSession } from "@/hooks/usePracticeSession";
 import { useCountdown } from "@/hooks/useCountdown";
@@ -10,6 +10,7 @@ import { SessionHUD } from "./SessionHUD";
 import { SessionTimer } from "./SessionTimer";
 import { QuestionRenderer } from "./QuestionRenderer";
 import { FeedbackBar } from "./FeedbackBar";
+import { SrsPartFilter } from "./SrsPartFilter";
 
 // Per-question allowance: transformations (Part 4) get more time.
 const perQuestionMs = (part: number) => (part === 4 ? 75_000 : 40_000);
@@ -27,6 +28,9 @@ export function PracticeSession({
   const [ended, setEnded] = useState(false); // per-session timeout
 
   const revealed = s.phase === "revealed";
+  // The part filter is review-only: in part1..part4 the mode already fixes the
+  // part, and in mixed the whole point is to interleave them.
+  const isReview = mode === "srs";
 
   // Latest answer, so a timer expiry submits what's currently entered.
   const valueRef = useRef(value);
@@ -36,6 +40,16 @@ export function PracticeSession({
     s.next();
     setValue("");
   }, [s]);
+
+  // Switching part pulls a different question, so any half-typed answer for the
+  // previous one has to go with it.
+  const handleSelectPart = useCallback(
+    (part: PartFilter) => {
+      s.changePart(part);
+      setValue("");
+    },
+    [s]
+  );
 
   // Part 1: selecting an option commits immediately.
   const handleSelectOption = useCallback(
@@ -136,8 +150,13 @@ export function PracticeSession({
     );
   }
 
-  // Review mode with nothing due (or no history yet).
+  // Review mode with nothing due — either genuinely nothing, or nothing left
+  // once the part filter is applied. The filter itself stays mounted here: if it
+  // unmounted with the question, narrowing to an empty part would strand the user
+  // on a dead end with no control to switch back.
   if (!s.current) {
+    const filteredOut = isReview && s.selectedPart !== "all";
+    const elsewhere = s.srsDue.all;
     return (
       <main>
         <div className="mb-5 text-sm">
@@ -145,12 +164,21 @@ export function PracticeSession({
             ← Dashboard
           </Link>
         </div>
+        {isReview && (
+          <SrsPartFilter selected={s.selectedPart} due={s.srsDue} onSelect={handleSelectPart} />
+        )}
         <div className="rounded-lg border border-border bg-panel p-8 text-center">
-          <div className="text-lg font-medium">Nothing due for review</div>
+          <div className="text-lg font-medium">
+            {filteredOut ? "No due items for this part" : "Nothing due for review"}
+          </div>
           <p className="mx-auto mt-2 max-w-md text-sm text-muted">
-            {s.sessionCount > 0
-              ? "You've cleared every item that was due. Failed items will reappear here, and correct ones return on a spaced schedule."
-              : "Practise any part first — items you miss are tracked and prioritised here for review."}
+            {filteredOut
+              ? elsewhere > 0
+                ? `Part ${s.selectedPart} is clear. ${elsewhere} item${elsewhere === 1 ? "" : "s"} still due in other parts — pick one above.`
+                : "Nothing is due in any part right now. Failed items reappear here, and correct ones return on a spaced schedule."
+              : s.sessionCount > 0
+                ? "You've cleared every item that was due. Failed items will reappear here, and correct ones return on a spaced schedule."
+                : "Practise any part first — items you miss are tracked and prioritised here for review."}
           </p>
           <Link
             href="/practice?mode=mixed"
@@ -175,6 +203,10 @@ export function PracticeSession({
         sessionCount={s.sessionCount}
         rating={s.currentRating}
       />
+
+      {isReview && (
+        <SrsPartFilter selected={s.selectedPart} due={s.srsDue} onSelect={handleSelectPart} />
+      )}
 
       <div className="rounded-lg border border-border bg-panel p-6">
         {timerMode && (
