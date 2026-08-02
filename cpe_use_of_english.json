@@ -572,13 +572,13 @@
     "questionText": "However much he earns, he never manages to save anything.",
     "options": null,
     "baseWord": "MATTER",
-    "targetSentence": "____ how much he earns, he never manages to save anything.",
+    "targetSentence": "____ much he earns, he never manages to save anything.",
     "correctAnswer": [
-      "No matter",
-      "It does not matter",
-      "It doesn't matter"
+      "No matter how",
+      "It does not matter how",
+      "It doesn't matter how"
     ],
-    "explanation": "'Por mucho que' tempts a clause with 'although'. The fixed concessive is 'No matter how much'. Learners invent 'No mind how much' or 'Despite how much'."
+    "explanation": "'No matter how + adverb' concedes any degree of the quality named. The impersonal 'It does not matter how' is an equally valid rendering, and its contracted form is accepted too. The gap must include 'how', since a two-word fill would fall below the paper's three-word minimum."
   },
   {
     "id": "p4-09",
@@ -601,9 +601,9 @@
     "questionText": "Whether we play on Sunday is conditional on the weather.",
     "options": null,
     "baseWord": "DEPENDS",
-    "targetSentence": "Whether we play on Sunday ____ the weather.",
-    "correctAnswer": "depends on",
-    "explanation": "'Depender DE' = 'depend ON', never 'depend of'. The de→of literal translation is the single most common preposition error for Spanish speakers."
+    "targetSentence": "Whether we play on Sunday ____ weather.",
+    "correctAnswer": "depends on the",
+    "explanation": "'Depend on' takes a definite object here, so the article falls inside the gap. Spanish 'depender de' tempts 'depends of'; English fixes the preposition as 'on'."
   },
   {
     "id": "p4-11",
@@ -5978,11 +5978,8 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": [
-      "whereby",
-      "wherein"
-    ],
-    "explanation": "'Whereby' = by which / by means of which, and introduces a relative clause of means after nouns like 'mechanism', 'process' or 'system'. It is a single word, so 'by which' is not admissible in a one-word gap."
+    "correctAnswer": "whereby",
+    "explanation": "'Whereby' = by which / by means of which, and introduces a relative clause of means after nouns such as 'mechanism', 'process' or 'system'. 'Wherein' (= in which) cannot substitute, because a mechanism is an instrument rather than a container. It is a single word, so 'by which' will not fit the gap."
   },
   {
     "id": "p2-148",
@@ -7748,10 +7745,7 @@
     "options": null,
     "baseWord": "ASKED",
     "targetSentence": "The committee wishes they ____ about the ethical implications earlier.",
-    "correctAnswer": [
-      "had asked questions",
-      "had asked"
-    ],
+    "correctAnswer": "had asked questions",
     "explanation": "The trap lies in combining regret with past perfect after 'wish', while preserving lexical meaning through acceptable reformulation."
   },
   {
