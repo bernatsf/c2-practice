@@ -34,8 +34,27 @@ npm run build
 Both must exit 0 before committing. `npm run build` also catches prerender
 failures that `tsc` alone will not.
 
+`npm run build` now runs `npm run validate:json` first, so a Part 4 answer
+outside the 3–8 word range fails the build before Next.js starts. To check the
+bank on its own, without a full build:
+
+```bash
+npm test
+```
+
 When you change the JSON, additionally confirm it still parses and that IDs stay
 unique — a malformed bank fails at runtime, not at compile time.
+
+### Why the Part 4 length check exists
+
+`lib/grading.ts` rejects any Part 4 answer outside 3–8 words, so a too-short
+answer makes an item **unanswerable** rather than merely awkward — every
+candidate gets it wrong whatever they type, and nothing surfaces the fault.
+Two items (`p4-08`, `p4-10`) shipped in exactly that state.
+`scripts/validate_part4_word_counts.ts` guards against a repeat. It imports
+`normalizeForMatch` and `expandOptionalWords` from the grading engine rather
+than reimplementing them, so it counts contractions and expands `(optional)`
+words exactly as the marker does and cannot drift from it.
 
 ## 3. The question database
 
