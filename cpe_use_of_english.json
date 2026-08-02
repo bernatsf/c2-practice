@@ -528,7 +528,9 @@
     "targetSentence": "You ____ my secret away.",
     "correctAnswer": [
       "should not have given",
-      "shouldn't have given"
+      "shouldn't have given",
+      "ought not to have given",
+      "oughtn't to have given"
     ],
     "explanation": "'No deberías haber' maps to 'should not have + past participle'. Spanish uses one compound verb; English needs modal + perfect infinitive, and learners drop 'have'."
   },
@@ -1800,7 +1802,9 @@
     "targetSentence": null,
     "correctAnswer": [
       "Whilst",
-      "While"
+      "While",
+      "Although",
+      "Though"
     ],
     "explanation": "'Si bien/aunque' invites 'Although'. The concessive 'Whilst/While' here means 'though', not the temporal 'mientras'. Spanish speakers over-restrict 'while' to time and miss its contrastive C2 use."
   },
@@ -1812,7 +1816,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "though",
+    "correctAnswer": [
+      "though",
+      "although"
+    ],
     "explanation": "End-positioned 'though' (= sin embargo/aunque) is alien to Spanish, which front-loads concessives. Learners write 'although' and force it to the front, breaking the natural mid-sentence flow."
   },
   {
@@ -2056,7 +2063,8 @@
     "targetSentence": null,
     "correctAnswer": [
       "light",
-      "wake"
+      "wake",
+      "aftermath"
     ],
     "explanation": "'In the light of' = a la luz de / en vista de. The Spanish 'a la vista de' tempts 'in the view/sight of', but the fixed English phrase is 'in the light of'. No other noun fits."
   },
@@ -2137,7 +2145,11 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "wake",
+    "correctAnswer": [
+      "wake",
+      "aftermath",
+      "light"
+    ],
     "explanation": "'In the wake of' = a raíz de / tras. Spanish 'a raíz de' offers no clue; learners reach for 'after' or 'as a result of'. The idiomatic noun for 'in the aftermath of' is 'wake'."
   },
   {
@@ -2308,7 +2320,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "lieu",
+    "correctAnswer": [
+      "lieu",
+      "place"
+    ],
     "explanation": "'In lieu of' = en lugar de / a cambio de. Spanish 'en lugar de' pulls learners toward 'in place of', which is too informal for this financial register. The formal idiom is 'in lieu of'."
   },
   {
@@ -6158,7 +6173,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "lieu",
+    "correctAnswer": [
+      "lieu",
+      "place"
+    ],
     "explanation": "'In lieu of' = instead of, a Norman-French survival used in legal and commercial register. Spanish 'en lugar de' is a literal match but gives no clue to the English word."
   },
   {
@@ -6735,7 +6753,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "over",
+    "correctAnswer": [
+      "over",
+      "about"
+    ],
     "explanation": "'Wrangle/quarrel/dispute over' takes 'over' for the subject of a conflict. Spanish 'por' tempts 'for', which would give a purpose reading instead."
   },
   {
@@ -7111,7 +7132,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "lieu",
+    "correctAnswer": [
+      "lieu",
+      "place"
+    ],
     "explanation": "'In lieu of' = instead of, a Norman-French survival confined to legal and employment register. 'Time off in lieu' is close to a technical term."
   },
   {
