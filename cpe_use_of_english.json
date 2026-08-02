@@ -526,7 +526,10 @@
     "options": null,
     "baseWord": "GIVEN",
     "targetSentence": "You ____ my secret away.",
-    "correctAnswer": "should not have given",
+    "correctAnswer": [
+      "should not have given",
+      "shouldn't have given"
+    ],
     "explanation": "'No deberías haber' maps to 'should not have + past participle'. Spanish uses one compound verb; English needs modal + perfect infinitive, and learners drop 'have'."
   },
   {
@@ -570,7 +573,11 @@
     "options": null,
     "baseWord": "MATTER",
     "targetSentence": "____ how much he earns, he never manages to save anything.",
-    "correctAnswer": "No matter",
+    "correctAnswer": [
+      "No matter",
+      "It does not matter",
+      "It doesn't matter"
+    ],
     "explanation": "'Por mucho que' tempts a clause with 'although'. The fixed concessive is 'No matter how much'. Learners invent 'No mind how much' or 'Despite how much'."
   },
   {
@@ -606,7 +613,10 @@
     "options": null,
     "baseWord": "STOP",
     "targetSentence": "The journalist ____ during the press conference.",
-    "correctAnswer": "could not stop laughing",
+    "correctAnswer": [
+      "could not stop laughing",
+      "couldn't stop laughing"
+    ],
     "explanation": "'No pudo evitar reír' → 'couldn't stop/help laughing' + gerund. Learners use the infinitive ('stop to laugh'), which in English means the opposite — pausing in order to laugh."
   },
   {
@@ -619,7 +629,9 @@
     "targetSentence": "When I first moved to Barcelona, I ____ dinner at ten.",
     "correctAnswer": [
       "was not used to having",
-      "was not used to eating"
+      "was not used to eating",
+      "wasn't used to having",
+      "wasn't used to eating"
     ],
     "explanation": "'No estaba acostumbrado a cenar' → 'was not used to + -ing'. The deadly trap: 'used to + infinitive' (past habit) vs 'be used to + -ing' (familiarity). Learners conflate the two."
   },
@@ -1431,7 +1443,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "whereby",
+    "correctAnswer": [
+      "whereby",
+      "wherein"
+    ],
     "explanation": "Spanish 'mediante el cual / según el cual' tempts a clumsy 'by which' or 'that'. The single-word formal relative for a mechanism or arrangement is 'whereby', which has no clean Spanish equivalent and is therefore rarely produced."
   },
   {
@@ -5963,7 +5978,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "whereby",
+    "correctAnswer": [
+      "whereby",
+      "wherein"
+    ],
     "explanation": "'Whereby' = by which / by means of which, and introduces a relative clause of means after nouns like 'mechanism', 'process' or 'system'. It is a single word, so 'by which' is not admissible in a one-word gap."
   },
   {
@@ -6245,7 +6263,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "forward",
+    "correctAnswer": [
+      "forward",
+      "forth"
+    ],
     "explanation": "'Put forward' = to propose formally. 'Put out' (issue) and 'put up' (nominate, or provide funds) are near neighbours with distinct meanings."
   },
   {
@@ -6752,7 +6773,8 @@
     "targetSentence": null,
     "correctAnswer": [
       "verge",
-      "brink"
+      "brink",
+      "point"
     ],
     "explanation": "'On the verge/brink of' = on the point of. Both nouns are idiomatic in this frame and both are accepted; 'border' and 'edge' are not."
   },
@@ -6973,7 +6995,10 @@
     "options": null,
     "baseWord": null,
     "targetSentence": null,
-    "correctAnswer": "those",
+    "correctAnswer": [
+      "those",
+      "such"
+    ],
     "explanation": "'Those' plus a reduced relative clause restricts the reference to a defined subset. Learners write 'the', which loses the contrastive restriction the sentence depends on."
   },
   {
@@ -9267,7 +9292,10 @@
     "options": null,
     "baseWord": "SEEM",
     "targetSentence": "The family ____ informed.",
-    "correctAnswer": "does not seem to have been",
+    "correctAnswer": [
+      "does not seem to have been",
+      "doesn't seem to have been"
+    ],
     "explanation": "'Seem' takes a perfect passive infinitive, and the negation attaches to 'seem' rather than to the embedded verb."
   },
   {
@@ -9653,7 +9681,10 @@
     "options": null,
     "baseWord": "REGULATE",
     "targetSentence": null,
-    "correctAnswer": "underregulated",
+    "correctAnswer": [
+      "underregulated",
+      "under-regulated"
+    ],
     "explanation": "REGULATE → regulated (participle) → 'under-' (insufficiently): underregulated. Retain both 'r's at the prefix boundary."
   },
   {
@@ -9708,7 +9739,10 @@
     "options": null,
     "baseWord": "USE",
     "targetSentence": null,
-    "correctAnswer": "underused",
+    "correctAnswer": [
+      "underused",
+      "under-used"
+    ],
     "explanation": "USE → used (participle) → 'under-' (not enough): underused."
   },
   {
@@ -9719,7 +9753,10 @@
     "options": null,
     "baseWord": "DEVELOP",
     "targetSentence": null,
-    "correctAnswer": "underdeveloped",
+    "correctAnswer": [
+      "underdeveloped",
+      "under-developed"
+    ],
     "explanation": "DEVELOP → developed (participle) → 'under-' (insufficiently): underdeveloped."
   },
   {
@@ -9821,7 +9858,10 @@
     "options": null,
     "baseWord": "TRUST",
     "targetSentence": null,
-    "correctAnswer": "distrustful",
+    "correctAnswer": [
+      "distrustful",
+      "mistrustful"
+    ],
     "explanation": "TRUST → distrust ('dis-' = negation) → distrustful (adj '-ful', 'full of'): distrustful."
   },
   {
