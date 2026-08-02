@@ -8487,8 +8487,12 @@
     "options": null,
     "baseWord": "ONLY",
     "targetSentence": "____ the full report did I realise how serious the situation was.",
-    "correctAnswer": "Only after reading",
-    "explanation": "'Only + adverbial' fronted triggers inversion in the main clause, which the sentence already supplies. The gap needs the reduced participial phrase after 'Only'."
+    "correctAnswer": [
+      "Only when I had read",
+      "Only after I had read",
+      "Only after reading"
+    ],
+    "explanation": "'Only + adverbial' fronted triggers inversion in the main clause, which the gapped sentence already supplies. The adverbial itself may be a finite clause ('Only when/after I had read') or a reduced participial phrase ('Only after reading'); all three are accepted, since Cambridge credits any structurally sound rendering."
   },
   {
     "id": "p4-106",
@@ -8705,10 +8709,13 @@
     "category": "Grammar",
     "questionText": "Nobody imagined at the time that the documents were forgeries.",
     "options": null,
-    "baseWord": "SUSPECTED",
-    "targetSentence": "Little ____ at the time that the documents were forgeries.",
-    "correctAnswer": "was it suspected",
-    "explanation": "A passive inversion after fronted 'Little'. The impersonal 'it' subject is required because the original subject 'nobody' is negated by 'Little' itself."
+    "baseWord": "SUSPECT",
+    "targetSentence": "____ at the time that the documents were forgeries.",
+    "correctAnswer": [
+      "Little did anyone suspect",
+      "Little did anybody suspect"
+    ],
+    "explanation": "Fronted 'Little' forces do-support inversion with an indefinite subject: 'Little did anyone/anybody suspect'. The key word stays in the bare infinitive after 'did', and learners leave the clause uninverted, writing 'Little anyone suspected'."
   },
   {
     "id": "p4-126",
