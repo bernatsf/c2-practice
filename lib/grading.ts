@@ -37,6 +37,8 @@ const CONTRACTIONS: Record<string, string> = {
   "needn't": "need not",
   "shan't": "shall not",
   "mightn't": "might not",
+  "oughtn't": "ought not",
+  "daren't": "dare not",
   "it's": "it is",
   "he's": "he is",
   "she's": "she is",

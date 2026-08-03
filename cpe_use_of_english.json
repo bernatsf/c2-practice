@@ -7543,7 +7543,10 @@
     "options": null,
     "baseWord": "HAVE",
     "targetSentence": "The astronauts ____ about the hidden malfunction.",
-    "correctAnswer": "cannot have known",
+    "correctAnswer": [
+      "cannot have known",
+      "could not have known"
+    ],
     "explanation": "This task assesses modal verbs of past deduction, specifically strong logical impossibility, demanding accurate use of negative modal perfect structures."
   },
   {
@@ -7747,7 +7750,10 @@
     "options": null,
     "baseWord": "IT",
     "targetSentence": "____ caused the anomaly, not the engines.",
-    "correctAnswer": "It was the navigation system that",
+    "correctAnswer": [
+      "It was the navigation system that",
+      "It was the navigation system which"
+    ],
     "explanation": "A classic emphatic cleft sentence starting with 'It was...' followed by 'that'."
   },
   {
@@ -8069,7 +8075,10 @@
     "options": null,
     "baseWord": "IT",
     "targetSentence": "____ driving in the old city so stressful.",
-    "correctAnswer": "It was the chaotic traffic that made",
+    "correctAnswer": [
+      "It was the chaotic traffic that made",
+      "It was the chaotic traffic which made"
+    ],
     "explanation": "An emphatic cleft sentence isolates the subject for focus, using the frame 'It was ... that'."
   },
   {
@@ -8234,7 +8243,10 @@
     "options": null,
     "baseWord": "IT",
     "targetSentence": "____ the wetland's delicate wildlife.",
-    "correctAnswer": "It was the prolonged drought that destroyed",
+    "correctAnswer": [
+      "It was the prolonged drought that destroyed",
+      "It was the prolonged drought which destroyed"
+    ],
     "explanation": "The emphatic cleft 'It was ... that' isolates the subject for focus, replacing the 'what'-clause of the original."
   },
   {
@@ -8421,7 +8433,10 @@
     "options": null,
     "baseWord": "IT",
     "targetSentence": "____ the families in long-term debt, not laziness.",
-    "correctAnswer": "It was poverty that trapped",
+    "correctAnswer": [
+      "It was poverty that trapped",
+      "It was poverty which trapped"
+    ],
     "explanation": "The emphatic cleft 'It was ... that' isolates the subject for focus, replacing the 'what'-clause of the original."
   },
   {
@@ -8889,7 +8904,11 @@
     "options": null,
     "baseWord": "EVENT",
     "targetSentence": "In the ____, passengers will be accommodated overnight.",
-    "correctAnswer": "event of a cancellation",
+    "correctAnswer": [
+      "event of a cancellation",
+      "event of a flight cancellation",
+      "event of the flight being cancelled"
+    ],
     "explanation": "'In the event of + noun' nominalises the condition. Learners write 'In the event of cancel', failing to derive the noun."
   },
   {
