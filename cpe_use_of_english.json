@@ -13914,5 +13914,256 @@
     "targetSentence": "If ____, she was the one he was going to marry.",
     "correctAnswer": "you cast your mind back",
     "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-283",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Since then, the movement has ____ ground across the USA and beyond, with popular authors, like former New York Times writer Daniel Coleman, playing a major role in fuelling its widespread appeal.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "gained",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-284",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "During one particular concert at a music festival, three phones ____ off in quick succession, prompting an angry reaction from other members of the audience who shouted at the offenders.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "went",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-285",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Other companies offer similar trips but what sets this one apart is the fact that Strel himself is ____ of a celebrity.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "something",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-286",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "It was the Thailand tsunami of 2004 that ____ about this change in Petra's life.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "brought",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-287",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "And when there was someone that you didn't want to speak to, never mind the reasons, you had the freedom not to ____.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "answer",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-288",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "That was more than ten years ago, and the people that walked around the streets talking away on those clumsy-looking devices were few and far ____, and they looked ridiculous to everyone else.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "between",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-289",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "So at a tender ____, I learned there was more to music than 'Genie from Bizerte' and 'Besame Mucho', two of 1943's hit parade ditties.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "age",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-290",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "You might not want to hear it, but for every opening in a newsroom, there are, on ____ fifty qualified applicants.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "average",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-291",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Your ____ of landing an apprenticeship or your first full-time job are enhanced if you prepare carefully.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "chances",
+      "odds"
+    ],
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-292",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "The danger presented by baby walkers has been extensively documented and yet parents ____ insist on plunking their babies into these contraptions day after day in the hope that it will facilitate that all-important first step.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "still",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-293",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "There is a lingering belief held by parents that having their baby cruise ____ in a walker for hours on end will hasten their development and get them walking sooner.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "around",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-294",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "There is a lingering belief held by parents that having their baby cruise around in a walker for hours on end will hasten their development and get ____ walking sooner.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "them",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-295",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Based on a series of animal experiments, researchers have discovered that visual feedback is essential for developing and refining ____ skills.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "motor",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-296",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Now, experts in child development are finding similar evidence that babies ____ need to be able to see how their body is positioned and how their limbs are moving in order to reach their motor milestones.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "also",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-297",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "In the early 1980s, a glib advertising campaign ____ to appear before every Christmas.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "began",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-298",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "Buy someone the ____ album, and you could enrich their life.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "right",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-299",
+    "part": 2,
+    "category": "Lexical",
+    "questionText": "First, steer ____ of the novelty purchase and second, avoid anything too difficult.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "clear",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-300",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "First, steer clear of the novelty purchase and second, avoid ____ too difficult.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "anything",
+      "something"
+    ],
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-301",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Such albums will get played twice, laughed at once. Then never touched ____.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "again",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-302",
+    "part": 2,
+    "category": "Preposition",
+    "questionText": "Changes to the course ____ a number of very public equine fatalities in the late 1980s and early 1990s have encouraged owners to participate, and the quality of the field has improved significantly.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": [
+      "after",
+      "following"
+    ],
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-303",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Behrajan, Marlborough and Beau, who was going well until falling on the second circuit last year, are ____ among the entries.",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "again",
+    "explanation": "TODO: add explanation"
+  },
+  {
+    "id": "p2-304",
+    "part": 2,
+    "category": "Grammar",
+    "questionText": "Most cruel of all, whatever would I do with ____ now that I was retired?",
+    "options": null,
+    "baseWord": null,
+    "targetSentence": null,
+    "correctAnswer": "myself",
+    "explanation": "TODO: add explanation"
   }
 ]

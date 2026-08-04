@@ -162,8 +162,24 @@ categories.
 `little`, `less`, `least`, `enough`, `several`, `this`, `that`, `these`,
 `those`, `such`, `other`, `another`
 
+**Adverbs, Pronouns, and Time Markers**
+Attested Cambridge open-cloze answers that fall outside the functional groups
+above. Sub-grouped because the label is broader than it sounds — read the
+sub-group, not the heading, when deciding whether a gap belongs here.
+
+- *Adverbs & time markers:* `still`, `again`, `also`
+- *Pronouns & reflexives:* `them`, `myself`, `something`, `anything`
+- *Spatial & sequential prepositions:* `around`, `between`, `after`, `following`
+- *Fixed-frame lexis* — only ever as the fixed half of a set collocation, never
+  as free content vocabulary: `age` (*at a tender age*), `average` (*on
+  average*), `chance`/`chances`, `odds` (*the odds are*), `right` (*the right
+  one*), `clear` (*steer clear of*), `answer`, `motor`
+- *Delexicalised verbs:* `gain` (*gain ground*), `go` (*go off*), `bring`
+  (*bring about*), `begin`
+
 Inflected forms of the listed verbs count as their lemma — a real cloze gap
-needs real tense (`caught` for `catch`, `falls` for `fall`, `borne` for `bear`).
+needs real tense (`caught` for `catch`, `falls` for `fall`, `borne` for `bear`,
+`went` for `go`, `brought` for `bring`).
 
 ## 5. Question generation constraints
 
