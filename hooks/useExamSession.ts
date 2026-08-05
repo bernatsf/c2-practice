@@ -3,8 +3,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Question } from "@/lib/types";
 import type { ExamResult } from "@/lib/exam";
-import { buildExamPaper, scoreExam, TOTAL_QUESTIONS } from "@/lib/exam";
+import { buildExamPaper, EXAM_DURATION_MS, scoreExam, TOTAL_QUESTIONS } from "@/lib/exam";
 import { localRepository } from "@/lib/localRepository";
+import { appendTestEntry, entryFromExamResult } from "@/lib/history";
 import { freshSrsItem, reviewSrs } from "@/lib/srs";
 
 export interface ExamSessionView {
@@ -30,9 +31,14 @@ export function useExamSession() {
   // effect, which would otherwise throw away the paper the user is looking at
   // and replace it with a different random draw.
   const builtRef = useRef(false);
+  // Wall clock for the whole sitting. Started alongside the paper — the same
+  // moment `useCountdown` starts ticking in ExamSession — so the recorded time
+  // matches what the on-screen timer showed.
+  const startedAtRef = useRef(0);
   useEffect(() => {
     if (builtRef.current) return;
     builtRef.current = true;
+    startedAtRef.current = Date.now();
     setPaper(buildExamPaper());
     setReady(true);
   }, []);
@@ -79,6 +85,20 @@ export function useExamSession() {
     submittedRef.current = true;
 
     const scored = scoreExam(paperRef.current, answersRef.current);
+    const finishedAt = Date.now();
+
+    // Record the aggregate result. Capped at the paper's own duration: a laptop
+    // suspended mid-exam resumes with a huge wall-clock delta, but the exam is
+    // over the moment the clock hits zero, so anything beyond that is not time
+    // the candidate actually spent.
+    const elapsedMs = Math.min(finishedAt - startedAtRef.current, EXAM_DURATION_MS);
+    appendTestEntry(
+      entryFromExamResult(scored, {
+        totalTimeSeconds: elapsedMs / 1000,
+        timedOut: !!opts?.timedOut,
+        finishedAt,
+      })
+    );
 
     // Per the chosen integration: the exam never moves the ELO rating or the
     // streak — a 30-question bulk submit would swamp both — but items that

@@ -1,15 +1,21 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
 import { useStats } from "@/hooks/useStats";
 import { StatCard } from "@/components/dashboard/StatCard";
 import { RatingSparkline } from "@/components/dashboard/RatingSparkline";
 import { CategoryBreakdown } from "@/components/dashboard/CategoryBreakdown";
 import { SessionConfigurator } from "@/components/dashboard/SessionConfigurator";
+import { SimulationHistory } from "@/components/dashboard/SimulationHistory";
+import { clearTestHistory } from "@/lib/history";
 import { TOTAL_MARKS } from "@/lib/exam";
 
 export default function DashboardPage() {
   const stats = useStats();
+  // The history section owns its own state, so a wipe from out here has to
+  // remount it to be reflected.
+  const [historyKey, setHistoryKey] = useState(0);
   const { profile, rollingAccuracy, allTimeAccuracy, ratingHistory, categories } = stats;
   const { srsDue, srsTracked, srsLapses } = stats;
 
@@ -24,8 +30,14 @@ export default function DashboardPage() {
         </div>
         <button
           onClick={() => {
-            if (confirm("Reset all progress? This clears your rating, streak and history.")) {
+            if (
+              confirm(
+                "Reset all progress? This clears your rating, streak, attempt history and simulation history."
+              )
+            ) {
               stats.reset();
+              clearTestHistory();
+              setHistoryKey((n) => n + 1);
             }
           }}
           className="text-xs text-muted hover:text-bad"
@@ -109,6 +121,8 @@ export default function DashboardPage() {
           Start 45-min exam →
         </Link>
       </section>
+
+      <SimulationHistory key={historyKey} />
 
       <SessionConfigurator />
 
