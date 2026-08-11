@@ -12609,7 +12609,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "beamed",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Beam' means to transmit a signal across a distance, and 'beam back' is the standard collocation for data returned from a spacecraft. Spanish 'enviar/emitir' pushes learners towards a neutral verb of sending, while 'shone' and 'cast' concern light rather than transmission."
   },
   {
     "id": "p1-252",
@@ -12625,7 +12625,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "mounting",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Mounting evidence' is a fixed collocation: 'mount' is intransitive here and describes something accumulating of its own accord. Literal translation of 'aumentar' tempts 'expanding' or 'climbing', but the first needs a deliberate agent and the second belongs to figures on a scale."
   },
   {
     "id": "p1-253",
@@ -12641,7 +12641,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "skip",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Make someone's heart skip a beat' is a fixed idiom for a jolt of excitement, and no other verb can replace 'skip' in it. Catalan/Spanish 'saltar-se un batec' uses the verb for jumping, which is exactly why learners reach for 'jump'."
   },
   {
     "id": "p1-254",
@@ -12657,7 +12657,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "dismissed",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Dismiss something as X' means to reject it as unworthy of consideration, and the 'as' is part of the frame. Spanish 'descartar' tempts 'discarded', but only 'dismiss' takes 'as' plus a dismissive judgement."
   },
   {
     "id": "p1-255",
@@ -12673,7 +12673,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "invariably",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Invariably' means on every occasion without exception, describing frequency in time. 'Uniformly' describes evenness across a space and 'unanimously' agreement among people — Spanish 'uniformemente' blurs the first two."
   },
   {
     "id": "p1-256",
@@ -12689,7 +12689,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "depicted",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Depict' means to portray in a work of fiction or art, which is what a drama does with its characters. Spanish 'representar' covers both 'depict' and 'represent', but English 'represent' means to stand for or act on behalf of something."
   },
   {
     "id": "p1-257",
@@ -12705,7 +12705,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "absorbed",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Absorbed' takes 'in', and the parallel 'than in technique' later in the sentence confirms the preposition. 'Enthralled', 'captivated' and 'fascinated' all take 'by', so the preposition alone decides this item."
   },
   {
     "id": "p1-258",
@@ -12721,7 +12721,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "set about",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Set about' plus an -ing form means to begin working at a task in earnest. Spanish 'ponerse a' is a single verb with no particle, so learners either drop the particle or swap it — but 'set down' means to record in writing and 'get about' means to move around."
   },
   {
     "id": "p2-251",
@@ -12732,7 +12732,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "what",
-    "explanation": "TODO: add explanation"
+    "explanation": "'What' is a fused relative here, meaning 'the things which', and it needs no antecedent — which is why 'which' or 'that' cannot appear. Spanish 'lo que' is two words, so learners try to split it into an antecedent plus a relative."
   },
   {
     "id": "p2-252",
@@ -12743,7 +12743,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "off",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Take off' means to start succeeding suddenly, and the particle carries the whole meaning. Spanish 'despegar' is a single verb with no particle, which is why learners drop it."
   },
   {
     "id": "p2-253",
@@ -12754,7 +12754,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "Despite",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Despite' is a preposition and must be followed by a noun phrase — here 'a personal appeal'. Spanish 'a pesar de' takes both nouns and clauses, so learners wrongly write 'although' in front of a noun."
   },
   {
     "id": "p2-254",
@@ -12765,7 +12765,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "on",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Intent on' plus an -ing form is fixed, meaning determined to do something. Spanish 'empeñado en' translates the preposition as 'in', which is the interference to resist."
   },
   {
     "id": "p2-255",
@@ -12776,7 +12776,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "for",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Sign up for' a course or class is the fixed phrasal verb for enrolling. Spanish 'apuntarse a' points to 'to', which is the commonest error here."
   },
   {
     "id": "p2-256",
@@ -12787,7 +12787,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "Although",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Although' is a conjunction and introduces a finite clause — here 'Petra may be well known'. This is the mirror image of the 'despite' trap: 'despite' cannot take a clause, and Spanish 'aunque' covers both."
   },
   {
     "id": "p2-257",
@@ -12798,7 +12798,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "as",
-    "explanation": "TODO: add explanation"
+    "explanation": "'As' introduces the role or capacity in which something is used — poetry serving as a punishment. Spanish 'como' covers both 'as' and 'like', but 'like a punishment' would claim mere resemblance rather than actual function."
   },
   {
     "id": "p2-258",
@@ -12809,7 +12809,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "such",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Such' plus a plural noun means 'of the kind just mentioned', pointing back to the lines quoted earlier. Spanish 'tales' is the direct equivalent, but learners default to 'these', which loses the anaphoric 'of that sort' sense."
   },
   {
     "id": "p2-259",
@@ -12820,7 +12820,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "from",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Remote from' means far removed from, and takes 'from' rather than any other preposition. Spanish 'alejado de' translates as 'of', which is the error to guard against."
   },
   {
     "id": "p2-260",
@@ -12831,7 +12831,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "These",
-    "explanation": "TODO: add explanation"
+    "explanation": "'These' is a plural demonstrative agreeing with 'notes' and pointing to something just introduced. Spanish and Catalan mark three degrees of distance (este/ese/aquel), so learners over-select the far form 'those'."
   },
   {
     "id": "p2-261",
@@ -12845,7 +12845,7 @@
       "every",
       "each"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Every' and 'each' are distributive quantifiers taking a singular noun, and 'for every X there are fifty Y' is the standard ratio frame. Spanish 'cada' covers both, so the choice is free here, but 'all' would require a plural."
   },
   {
     "id": "p2-262",
@@ -12856,7 +12856,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "from",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Hear from' someone means to receive a communication from them, whereas 'hear of' or 'hear about' means to learn that they exist. Spanish 'oír de' maps onto the wrong one of these."
   },
   {
     "id": "p2-263",
@@ -12867,7 +12867,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "over",
-    "explanation": "TODO: add explanation"
+    "explanation": "'An edge over the competition' is a fixed collocation for a competitive advantage. Spanish 'ventaja sobre' points correctly to 'over', but learners often write 'on' or 'against' by analogy with other advantage phrases."
   },
   {
     "id": "p2-264",
@@ -12878,7 +12878,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "could",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Could' offers a tentative alternative possibility, matching the hedged 'You might find' earlier in the sentence. Spanish 'podrías' maps directly, but 'can' would assert a plain capability and break the tentative parallel."
   },
   {
     "id": "p2-265",
@@ -12889,7 +12889,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "down",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Jot down' means to write something quickly and briefly, and the particle is obligatory. Spanish 'apuntar' is a single verb, so the particle is routinely dropped."
   },
   {
     "id": "p2-266",
@@ -12900,7 +12900,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "within",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Within the next hour' means at some point inside that period. Spanish 'dentro de' tempts a bare 'in', which in English would shift the meaning to 'after an hour has passed'."
   },
   {
     "id": "p2-267",
@@ -12911,7 +12911,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "in",
-    "explanation": "TODO: add explanation"
+    "explanation": "'In the hope that' is a fixed frame introducing a motive that may not be fulfilled. Spanish 'con la esperanza de que' begins with 'con', which is why learners write 'with'."
   },
   {
     "id": "p2-268",
@@ -12922,7 +12922,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "for",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Essential for' plus an -ing form states what something is needed in order to achieve. Spanish 'esencial para' maps neatly onto 'for', and it is the parallel with 'refining' that fixes the gerund."
   },
   {
     "id": "p2-269",
@@ -12933,7 +12933,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "by",
-    "explanation": "TODO: add explanation"
+    "explanation": "'By their inherent design' means as a consequence of how they are built — 'by' expressing cause or means. Spanish 'por su diseño' is ambiguous between 'by' and 'for', which is where the error creeps in."
   },
   {
     "id": "p2-270",
@@ -12944,7 +12944,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "thus",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Thus' plus an -ing form expresses a result flowing from what precedes it. Spanish 'así' tempts 'so', but 'so' cannot introduce a participle clause in this way."
   },
   {
     "id": "p2-271",
@@ -12955,7 +12955,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "who",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Who' is the relative pronoun for a human antecedent, and 'anybody' is human. Spanish 'que' serves for both people and things, which is why learners write 'which' or 'that' after a person."
   },
   {
     "id": "p2-272",
@@ -12966,7 +12966,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "more",
-    "explanation": "TODO: add explanation"
+    "explanation": "A comparative needs 'more' before 'than' when a quantity is being exceeded — here £150,000 more. Spanish 'más que' has the comparative built into 'más', so learners omit the English word or reach for 'higher'."
   },
   {
     "id": "p2-273",
@@ -12977,7 +12977,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "although",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Although' introduces a concessive clause conceding a point before the main claim. Spanish 'aunque' covers both 'although' and 'despite', so learners must check whether a clause or a noun phrase follows."
   },
   {
     "id": "p2-274",
@@ -12988,7 +12988,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "with",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Along with' is a fixed complex preposition meaning 'together with'. Spanish 'junto con' points to the right preposition, but learners frequently write 'along to' by analogy with other 'along' phrases."
   },
   {
     "id": "p2-275",
@@ -13002,7 +13002,7 @@
       "even",
       "one"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Go one better' is a fixed idiom meaning to surpass a previous achievement by a further step, and 'even better' is the plain comparative alternative. Literal translation of 'ir aún mejor' produces neither, so the idiom must be learned whole."
   },
   {
     "id": "p2-276",
@@ -13013,7 +13013,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "another",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Another' is required before a singular countable noun to mean 'one more of the same kind'. Spanish 'otro' covers both 'another' and 'other', so learners write 'other entry', which is ungrammatical in the singular."
   },
   {
     "id": "p2-277",
@@ -13024,7 +13024,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "on",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Lay on' means to provide or organise an event, especially food or entertainment. Spanish 'organizar' has no particle, and 'lay out' would mean to arrange something spatially — a quite different phrasal verb."
   },
   {
     "id": "p2-278",
@@ -13035,7 +13035,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "so",
-    "explanation": "TODO: add explanation"
+    "explanation": "'So I was told' is a fixed parenthetical meaning 'that is what people told me'. Spanish 'según me dijeron' tempts 'as', but 'as I was told' would describe the manner of the telling instead."
   },
   {
     "id": "p2-279",
@@ -13046,7 +13046,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "Most",
-    "explanation": "TODO: add explanation"
+    "explanation": "A fronted superlative in the frame 'most X of all' takes no article when it opens the sentence adverbially. Spanish 'lo más cruel de todo' supplies an article, which is why learners insert 'the'."
   },
   {
     "id": "p2-280",
@@ -13057,7 +13057,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "putting",
-    "explanation": "TODO: add explanation"
+    "explanation": "After the preposition 'on' a gerund is obligatory, so 'hellbent on' must be followed by '-ing'. Spanish uses the infinitive after prepositions ('empeñado en poner'), which is why learners write 'put' or 'to put'."
   },
   {
     "id": "p2-281",
@@ -13068,7 +13068,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "none",
-    "explanation": "TODO: add explanation"
+    "explanation": "'None of this' means 'not any of it', and only 'none' can be followed by 'of' plus a determiner in this frame. Spanish 'nada de esto' points learners to 'nothing', which cannot take 'of this' here."
   },
   {
     "id": "p2-282",
@@ -13079,7 +13079,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "on",
-    "explanation": "TODO: add explanation"
+    "explanation": "'A drag on' something means a burden holding it back, and the preposition is fixed. Spanish 'un lastre para' translates as 'for', which is the interference to resist."
   },
   {
     "id": "p3-301",
@@ -13090,7 +13090,7 @@
     "baseWord": "SATISFY",
     "targetSentence": null,
     "correctAnswer": "dissatisfaction",
-    "explanation": "TODO: add explanation"
+    "explanation": "The negative prefix 'dis-' plus the noun gives 'dissatisfaction', and the list 'anger or ___' demands a negative feeling. Spanish 'insatisfacción' uses 'in-', which is why learners invent the non-word 'insatisfaction'."
   },
   {
     "id": "p3-302",
@@ -13101,7 +13101,7 @@
     "baseWord": "DEPEND",
     "targetSentence": null,
     "correctAnswer": "interdependence",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Inter-' means mutual or reciprocal, which is exactly what 'between physical and emotional health' requires. Spanish 'interdependencia' is a true friend, but learners who miss the 'between' produce 'independence' and reverse the meaning."
   },
   {
     "id": "p3-303",
@@ -13112,7 +13112,7 @@
     "baseWord": "CONTROL",
     "targetSentence": null,
     "correctAnswer": "uncontrolled",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Un-' plus the past participle gives the adjective 'uncontrolled', modifying 'manner'. Spanish and Catalan form this with 'des-' ('descontrolat/descontrolado'), which tempts the non-existent 'discontrolled'."
   },
   {
     "id": "p3-304",
@@ -13123,7 +13123,7 @@
     "baseWord": "PLAY",
     "targetSentence": null,
     "correctAnswer": "playwright",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Playwright' is a compound with '-wright', an old word for a maker or craftsman, not the verb 'write'. Spanish 'dramaturgo' gives no clue to the spelling, so '-write' is the near-universal error."
   },
   {
     "id": "p3-305",
@@ -13134,7 +13134,7 @@
     "baseWord": "LYRIC",
     "targetSentence": null,
     "correctAnswer": "lyricists",
-    "explanation": "TODO: add explanation"
+    "explanation": "The agent suffix '-ist' gives 'lyricist', pluralised here because two people are named. Spanish 'letrista' names the person, but learners write 'lyrics', which is the words themselves rather than the people who wrote them."
   },
   {
     "id": "p3-306",
@@ -13145,7 +13145,7 @@
     "baseWord": "VIEW",
     "targetSentence": null,
     "correctAnswer": "preview",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Pre-' means before, so a 'preview' is a showing held before the official opening. Spanish 'preestreno' matches, but learners often write 'review', which by definition comes after the event."
   },
   {
     "id": "p3-307",
@@ -13156,7 +13156,7 @@
     "baseWord": "STAGE",
     "targetSentence": null,
     "correctAnswer": "backstage",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Backstage' is a compound adverb meaning behind the scenes, and 'in the dressing rooms' confirms the location. Spanish 'entre bastidores' is idiomatic rather than morphological, so it offers no help in building the English word."
   },
   {
     "id": "p3-308",
@@ -13170,7 +13170,7 @@
       "pre-dates",
       "predates"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Pre-' attaches to the verb to give 'predate', meaning to exist earlier than, and the third person '-s' is required by the singular subject. Spanish renders this adjectivally as 'es anterior a', so learners fail to produce a verb at all."
   },
   {
     "id": "p3-309",
@@ -13181,7 +13181,7 @@
     "baseWord": "TITLE",
     "targetSentence": null,
     "correctAnswer": "entitled",
-    "explanation": "TODO: add explanation"
+    "explanation": "'En-' plus 'title' gives the verb 'entitle', meaning to give a name to, used here as a reduced relative ('an online game entitled ...'). Beware the other sense of 'entitled' — having a right to something — which Spanish 'titulado' does not carry."
   },
   {
     "id": "p3-310",
@@ -13195,7 +13195,7 @@
       "subtlety",
       "subtleties"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Subtle' drops its final 'e' and takes '-ty' to give 'subtlety', pluralised here for the different shades of meaning. Spanish 'sutileza' offers no guide to the silent 'b' or the dropped 'e'."
   },
   {
     "id": "p3-311",
@@ -13206,7 +13206,7 @@
     "baseWord": "HUMOUR",
     "targetSentence": null,
     "correctAnswer": "humorous",
-    "explanation": "TODO: add explanation"
+    "explanation": "The adjective is 'humorous', which drops the 'u' of the British noun 'humour'. Spanish 'humorístico' tempts the non-word 'humouristic', and the inconsistent British spelling makes this one of the commonest slips in the paper."
   },
   {
     "id": "p3-312",
@@ -13217,7 +13217,7 @@
     "baseWord": "STRATEGY",
     "targetSentence": null,
     "correctAnswer": "strategic",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Strategy' changes 'y' to 'i' before the adjective ending '-ic' to give 'strategic'. Spanish 'estratégico' is a true friend, but learners often add a further syllable and write 'strategical', which is non-standard."
   },
   {
     "id": "p3-313",
@@ -13228,7 +13228,7 @@
     "baseWord": "ANONYMOUS",
     "targetSentence": null,
     "correctAnswer": "anonymity",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Anonymous' loses its '-ous' ending and takes '-ity' to give the abstract noun 'anonymity'. Spanish 'anonimato' shows the shortened stem too, but learners who work from the English adjective produce 'anonymousness'."
   },
   {
     "id": "p3-314",
@@ -13239,7 +13239,7 @@
     "baseWord": "PREVAIL",
     "targetSentence": null,
     "correctAnswer": "prevalent",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Prevalent' is the adjective meaning widespread, and takes 'in' before the domain concerned. Spanish 'prevalente' or 'predominante' maps directly, though learners often reach for the participle 'prevailing' instead."
   },
   {
     "id": "p3-315",
@@ -13250,7 +13250,7 @@
     "baseWord": "DATE",
     "targetSentence": null,
     "correctAnswer": "updating",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Update' takes '-ing' to parallel 'remodelling' after 'constant', so a gerund rather than a bare noun is required. Spanish 'actualización' is a plain noun, which is why learners write 'update' and break the parallel."
   },
   {
     "id": "p3-316",
@@ -13261,7 +13261,7 @@
     "baseWord": "DESPOND",
     "targetSentence": null,
     "correctAnswer": "despondency",
-    "explanation": "TODO: add explanation"
+    "explanation": "The abstract noun of 'despond' is 'despondency', formed with '-ency'. The root is rare in modern English and Spanish 'desánimo' shares no morphology with it, so this one has to be learned outright."
   },
   {
     "id": "p3-317",
@@ -13272,7 +13272,7 @@
     "baseWord": "PERSIST",
     "targetSentence": null,
     "correctAnswer": "persistence",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Persist' takes '-ence' to give the noun 'persistence', the subject of 'paid off'. Spanish 'persistencia' is a true friend, but learners often produce 'persistency', which is not standard in this sense."
   },
   {
     "id": "p3-318",
@@ -13283,7 +13283,7 @@
     "baseWord": "APPRECIATE",
     "targetSentence": null,
     "correctAnswer": "appreciable",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Appreciable' means large enough to be noticed or measured — the '-able' suffix gives a capability, not an attitude. The trap is 'appreciative', which means grateful; Spanish 'apreciable' happens to match the correct one."
   },
   {
     "id": "p3-319",
@@ -13294,7 +13294,7 @@
     "baseWord": "SIGHT",
     "targetSentence": null,
     "correctAnswer": "insights",
-    "explanation": "TODO: add explanation"
+    "explanation": "'In-' plus 'sight' gives 'insight', a deep understanding, pluralised after 'valuable' and taking 'into'. Spanish 'perspectivas' tempts a different noun, and note that English says 'insight into', never 'insight of'."
   },
   {
     "id": "p3-320",
@@ -13308,7 +13308,7 @@
       "undoubtedly",
       "doubtless"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Undoubtedly' and 'doubtless' both mean without question, and either satisfies the adverb slot here. The written trap is the silent 'b' in 'doubt', which Spanish 'sin duda' does nothing to warn you about."
   },
   {
     "id": "p3-321",
@@ -13319,7 +13319,7 @@
     "baseWord": "CONVINCE",
     "targetSentence": null,
     "correctAnswer": "conviction",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Convince' shortens to 'convic-' before '-tion' to give 'conviction', meaning firm belief. Spanish 'convicción' shows the same stem change, but learners working from the English verb invent 'convincement'."
   },
   {
     "id": "p3-322",
@@ -13330,7 +13330,7 @@
     "baseWord": "WISE",
     "targetSentence": null,
     "correctAnswer": "wisdom",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Wise' forms its noun irregularly with '-dom', giving 'wisdom'. Spanish 'sabiduría' offers no parallel, so learners regularise it to the non-word 'wiseness'."
   },
   {
     "id": "p3-323",
@@ -13341,7 +13341,7 @@
     "baseWord": "REASON",
     "targetSentence": null,
     "correctAnswer": "reasoning",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Reasoning' is the gerund-noun naming the process of thinking logically, which is what 'clear' modifies. Spanish 'razonamiento' matches it, but the bare noun 'reason' would mean a cause or motive instead."
   },
   {
     "id": "p3-324",
@@ -13352,7 +13352,7 @@
     "baseWord": "FLEXIBLE",
     "targetSentence": null,
     "correctAnswer": "flexibility",
-    "explanation": "TODO: add explanation"
+    "explanation": "Adjectives in '-ble' form their nouns in '-bility', giving 'flexibility'. Spanish 'flexibilidad' is a true friend, so the only real difficulty is remembering the vowel change from '-ble' to '-bil-'."
   },
   {
     "id": "p3-325",
@@ -13363,7 +13363,7 @@
     "baseWord": "ALTER",
     "targetSentence": null,
     "correctAnswer": "alternative",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Alternative' is the noun for a substitute option, and it takes 'to' before the thing replaced. Spanish 'alternativa a' matches, but learners often write 'alternative of' by analogy with other nouns of choice."
   },
   {
     "id": "p3-326",
@@ -13374,7 +13374,7 @@
     "baseWord": "PLACE",
     "targetSentence": null,
     "correctAnswer": "replacement",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Re-' plus 'place' plus '-ment' gives 'replacement', the noun for a successor. Spanish 'sustituto' shares no morphology, so learners produce the bare verb 'replace' or the unrelated 'placement'."
   },
   {
     "id": "p3-327",
@@ -13385,7 +13385,7 @@
     "baseWord": "PERSIST",
     "targetSentence": null,
     "correctAnswer": "persistently",
-    "explanation": "TODO: add explanation"
+    "explanation": "The adverb 'persistently' modifies the verb 'criticised', so '-ently' is required rather than the noun form. The same root gives 'persistence' elsewhere in this paper, and choosing between them depends entirely on what the word must modify."
   },
   {
     "id": "p3-328",
@@ -13396,7 +13396,7 @@
     "baseWord": "INCIDENT",
     "targetSentence": null,
     "correctAnswer": "coincidental",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Co-' plus 'incident' plus '-al' gives 'coincidental', meaning happening by chance. The trap is 'incidental', which means minor or secondary, and Spanish 'casualidad' adds a further layer since it is the false friend of 'casualty'."
   },
   {
     "id": "p3-329",
@@ -13407,7 +13407,7 @@
     "baseWord": "MOMENT",
     "targetSentence": null,
     "correctAnswer": "momentous",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Momentous' means of great historical importance, formed with '-ous'. Spanish 'momentáneo' means brief and fleeting, so the false friend here is the near-identical English 'momentary' — very nearly the opposite sense."
   },
   {
     "id": "p3-330",
@@ -13418,7 +13418,7 @@
     "baseWord": "ANTIQUE",
     "targetSentence": null,
     "correctAnswer": "antiquated",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Antiquated' means outdated and overdue for reform, and the '-ated' ending carries that pejorative force. Spanish 'anticuado' matches it exactly, whereas the bare root 'antique' would suggest something old and valuable instead."
   },
   {
     "id": "p3-331",
@@ -13429,7 +13429,7 @@
     "baseWord": "TIME",
     "targetSentence": null,
     "correctAnswer": "untimely",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Untimely' is an adjective despite its '-ly' ending, and means happening earlier than it should. Spanish 'prematura' captures the sense, but the '-ly' misleads learners into treating the word as an adverb."
   },
   {
     "id": "p3-332",
@@ -13440,7 +13440,7 @@
     "baseWord": "ACCESS",
     "targetSentence": null,
     "correctAnswer": "inaccessible",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Inaccessible' takes 'in-' rather than 'un-', a choice governed by the Latin root. Spanish 'inaccesible' is a reliable guide here, which makes this one of the few cases where the L1 helps rather than hinders."
   },
   {
     "id": "p3-333",
@@ -13451,7 +13451,7 @@
     "baseWord": "COME",
     "targetSentence": null,
     "correctAnswer": "overcome",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Over-' plus 'come' gives 'overcome', meaning to surmount a difficulty, and the passive infinitive 'to be overcome' is required after 'problem'. Spanish 'superar' is a single verb, so learners fail to see that a prefix is what the root word needs."
   },
   {
     "id": "p3-334",
@@ -13462,7 +13462,7 @@
     "baseWord": "LAND",
     "targetSentence": null,
     "correctAnswer": "landing",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Landing' is a concrete noun meaning the floor area at the top of a staircase, not the act of coming down. Spanish 'rellano' or 'descansillo' names it with an unrelated word, so learners read the English as 'aterrizaje' and reject it."
   },
   {
     "id": "p3-335",
@@ -13473,7 +13473,7 @@
     "baseWord": "SPEAK",
     "targetSentence": null,
     "correctAnswer": "outspoken",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Outspoken' is a compound adjective meaning frank and openly critical. Spanish 'franco' gives no morphological hint, so learners produce 'spoken out', reversing the elements."
   },
   {
     "id": "p3-336",
@@ -13484,7 +13484,7 @@
     "baseWord": "WRITE",
     "targetSentence": null,
     "correctAnswer": "writings",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Writings' is a countable plural noun meaning published works, which is what 'numerous' requires. Spanish 'escritos' is likewise plural, but learners default to the uncountable 'writing', which names the activity instead."
   },
   {
     "id": "p3-337",
@@ -13495,7 +13495,7 @@
     "baseWord": "WILD",
     "targetSentence": null,
     "correctAnswer": "wildlife",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Wildlife' is a compound noun for wild animals collectively, and is uncountable. It must be kept apart from 'wilderness', built on the same root, which names the uninhabited place rather than the creatures in it."
   },
   {
     "id": "p3-338",
@@ -13506,7 +13506,7 @@
     "baseWord": "ECOLOGY",
     "targetSentence": null,
     "correctAnswer": "ecologists",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Ecology' takes the agent suffix '-ist' and a plural to give 'ecologists', the scientists working alongside local people. Spanish 'ecologista' also means an environmental campaigner, so learners must decide from the context that a specialist is meant."
   },
   {
     "id": "p3-339",
@@ -13517,7 +13517,7 @@
     "baseWord": "MOUNT",
     "targetSentence": null,
     "correctAnswer": "insurmountable",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Insurmountable' is built from 'in-' plus 'surmount' plus '-able', meaning impossible to overcome. Spanish 'insuperable' uses a different root altogether, so learners rarely think to extend MOUNT with 'sur-'."
   },
   {
     "id": "p3-340",
@@ -13528,7 +13528,7 @@
     "baseWord": "MOUNT",
     "targetSentence": null,
     "correctAnswer": "insurmountable",
-    "explanation": "TODO: add explanation"
+    "explanation": "The root MOUNT again needs both the 'sur-' of 'surmount' and the negative 'in-' to give 'insurmountable'. Note that the negative prefix is 'in-', not 'un-', which Spanish 'insuperable' happens to confirm."
   },
   {
     "id": "p3-341",
@@ -13539,7 +13539,7 @@
     "baseWord": "WILD",
     "targetSentence": null,
     "correctAnswer": "wilderness",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Wilderness' is the noun for a vast uninhabited region, formed with '-ness' and a stem change. It shares its root with 'wildlife', but that word names the animals rather than the terrain — the two are regularly confused."
   },
   {
     "id": "p3-342",
@@ -13550,7 +13550,7 @@
     "baseWord": "CONVERT",
     "targetSentence": null,
     "correctAnswer": "convertible",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Convertible' is used here as a noun for a car with a folding roof, not as the adjective 'able to be converted'. Spanish 'descapotable' names the same thing with an unrelated root, so the noun use is easily missed."
   },
   {
     "id": "p3-343",
@@ -13561,7 +13561,7 @@
     "baseWord": "WEIGH",
     "targetSentence": null,
     "correctAnswer": "weighty",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Weighty' means serious and demanding, and the writer flags the pun on physical weight explicitly. Spanish 'de peso' captures the metaphor, but learners often write 'weighted', which means deliberately biased."
   },
   {
     "id": "p3-344",
@@ -13572,7 +13572,7 @@
     "baseWord": "EXTEND",
     "targetSentence": null,
     "correctAnswer": "extent",
-    "explanation": "TODO: add explanation"
+    "explanation": "'The extent to which' is a fixed frame for describing degree, and 'extent' is the correct noun from EXTEND. Spanish 'la medida en que' matches the structure, but learners frequently produce 'extension', which is a different noun altogether."
   },
   {
     "id": "p3-345",
@@ -13583,7 +13583,7 @@
     "baseWord": "PORTION",
     "targetSentence": null,
     "correctAnswer": "apportioned",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Apportion' means to allocate or assign a share, giving the passive participle 'apportioned'. Spanish 'atribuir' offers no morphological guide, so learners tend to produce 'proportioned' instead."
   },
   {
     "id": "p3-346",
@@ -13594,7 +13594,7 @@
     "baseWord": "LONG",
     "targetSentence": null,
     "correctAnswer": "lengths",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Go to any lengths' is a fixed idiom meaning to stop at nothing, and the plural is obligatory. Spanish 'hacer lo que sea' is structurally unrelated, so learners often write the singular 'length' and break the idiom."
   },
   {
     "id": "p3-347",
@@ -13605,7 +13605,7 @@
     "baseWord": "DRAW",
     "targetSentence": null,
     "correctAnswer": "withdrawn",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Withdraw' gives the past participle 'withdrawn', required by the passive 'has since been ___'. Spanish 'retirar' is a single verb with no particle, so learners produce 'drawn back' rather than recognising the fixed compound."
   },
   {
     "id": "p3-348",
@@ -13616,7 +13616,7 @@
     "baseWord": "SHELF",
     "targetSentence": null,
     "correctAnswer": "shelved",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Shelve' is a verb formed from 'shelf' with the regular f-to-v change, and means to postpone a plan indefinitely. Spanish 'aparcar' uses a parking metaphor rather than a shelving one, so the image has to be learned afresh."
   },
   {
     "id": "p3-349",
@@ -13627,7 +13627,7 @@
     "baseWord": "REPAIR",
     "targetSentence": null,
     "correctAnswer": "irreparably",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Irreparably' shows 'in-' assimilating to 'ir-' before an 'r', plus the adverbial '-ably'. Spanish 'irreparablemente' undergoes the same assimilation, which makes it a rare case where the L1 confirms the English form."
   },
   {
     "id": "p3-350",
@@ -13638,7 +13638,7 @@
     "baseWord": "SPACE",
     "targetSentence": null,
     "correctAnswer": "spacious",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Spacious' means roomy, formed with '-ious'. Spanish 'espacioso' is a true friend, but the competing derivative 'spatial' means 'relating to space' in the abstract and would make no sense of an area for people to work in."
   },
   {
     "id": "p4-201",
@@ -13649,7 +13649,7 @@
     "baseWord": "ROOTS",
     "targetSentence": "When they arrived ____ and built a life.",
     "correctAnswer": "in Texas, they put down roots",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Put down roots' is a fixed idiom meaning to settle somewhere permanently, and 'roots' must stay plural. Spanish 'echar raíces' uses the verb for throwing, so learners write 'threw' or 'laid' instead of 'put down'."
   },
   {
     "id": "p4-202",
@@ -13660,7 +13660,7 @@
     "baseWord": "ONLY",
     "targetSentence": "If ____ it.",
     "correctAnswer": "only he had not had to do",
-    "explanation": "TODO: add explanation"
+    "explanation": "'If only' plus the past perfect expresses regret about something that did happen — here, that he was obliged to do it. Spanish 'ojalá no hubiera tenido que' uses the subjunctive, so learners substitute a present perfect or a conditional 'would'."
   },
   {
     "id": "p4-203",
@@ -13671,7 +13671,7 @@
     "baseWord": "WHATEVER",
     "targetSentence": "I have ____ you do.",
     "correctAnswer": "every intention of leaving Britain, whatever",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Have every intention of' takes an -ing form, and 'whatever you do' is the concessive tag that replaces 'no matter what'. Spanish 'pase lo que pase' maps to 'no matter what', which is precisely the phrase the key word forbids."
   },
   {
     "id": "p4-204",
@@ -13682,7 +13682,7 @@
     "baseWord": "FLAIR",
     "targetSentence": "Bruce ____ languages.",
     "correctAnswer": "does not have a flair for",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Have a flair for' something means to have a natural talent for it, and the preposition is fixed. Spanish 'tener don para' points to 'for', but learners often write 'flair in' or 'flair at' by analogy with 'good at'."
   },
   {
     "id": "p4-205",
@@ -13693,7 +13693,7 @@
     "baseWord": "ODDS",
     "targetSentence": "The ____ the job.",
     "correctAnswer": "odds are that you will get",
-    "explanation": "TODO: add explanation"
+    "explanation": "'The odds are that' plus a clause is a fixed frame meaning something is likely. Spanish 'lo más probable es que' takes a subjunctive, so learners avoid the plain indicative future that English requires here."
   },
   {
     "id": "p4-206",
@@ -13704,7 +13704,7 @@
     "baseWord": "SOONER",
     "targetSentence": "We ____ horror films.",
     "correctAnswer": "would sooner have watched comedies than",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Would sooner have' plus a past participle, followed by 'than', expresses a preference about the past. Spanish 'habríamos preferido' points to 'would rather', which is correct English but does not use the key word."
   },
   {
     "id": "p4-207",
@@ -13715,7 +13715,7 @@
     "baseWord": "POKE",
     "targetSentence": "Betsy ____ other people's matters.",
     "correctAnswer": "is known to poke her nose into",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Poke one's nose into' something means to interfere in what does not concern you, and the possessive must agree with the subject. Spanish 'meter las narices en' uses the verb for putting and a plural noun, so learners produce 'put her noses in'."
   },
   {
     "id": "p4-208",
@@ -13726,7 +13726,7 @@
     "baseWord": "VIEW",
     "targetSentence": "Alex bought the old building ____ it into holiday homes.",
     "correctAnswer": "with a view to converting",
-    "explanation": "TODO: add explanation"
+    "explanation": "'With a view to' expresses purpose and is followed by an -ing form, because the 'to' here is a preposition rather than an infinitive marker. That is exactly the trap: learners see 'to' and write the bare infinitive 'convert'."
   },
   {
     "id": "p4-209",
@@ -13737,7 +13737,7 @@
     "baseWord": "PROVISION",
     "targetSentence": "You have to ____ the building's surroundings.",
     "correctAnswer": "make provision for",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Make provision for' means to prepare in advance for something, and 'provision' is uncountable in this frame, taking no article. Spanish 'tener en cuenta' is the natural rendering of the lead sentence, so the fixed English noun phrase has to be retrieved from the key word alone."
   },
   {
     "id": "p4-210",
@@ -13748,7 +13748,7 @@
     "baseWord": "GOT",
     "targetSentence": "It ____ science.",
     "correctAnswer": "was Peterson who got me interested in",
-    "explanation": "TODO: add explanation"
+    "explanation": "This combines a cleft — 'It was X who ...' — with 'get someone interested in'. Spanish clefts with 'Fue ... quien' map neatly, but learners then write 'made me interested', which abandons the key word."
   },
   {
     "id": "p4-211",
@@ -13759,7 +13759,7 @@
     "baseWord": "TOTAL",
     "targetSentence": "There ____ photographs inside the museum.",
     "correctAnswer": "is a total ban on taking",
-    "explanation": "TODO: add explanation"
+    "explanation": "'A total ban on' takes an -ing form after the preposition 'on'. Spanish 'prohibición de' translates the preposition as 'of', which is the commonest error in this transformation."
   },
   {
     "id": "p4-212",
@@ -13770,7 +13770,7 @@
     "baseWord": "SINGLED",
     "targetSentence": "Only one firefighter who was badly hurt ____ by the mayor.",
     "correctAnswer": "was singled out for praise",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Single someone out for' means to select them for special treatment, and here the structure is passive. Spanish 'destacar' is a single verb, so learners drop the particle 'out' and lose the phrasal verb entirely."
   },
   {
     "id": "p4-213",
@@ -13781,7 +13781,7 @@
     "baseWord": "HOUSE",
     "targetSentence": "The girls had been getting ____ before Jack appeared.",
     "correctAnswer": "on like a house on fire",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Get on like a house on fire' is a fixed idiom meaning to have an immediately excellent relationship. It is wholly opaque — Spanish 'llevarse de maravilla' shares nothing with it — so the whole phrase must be memorised, including the 'get on' that precedes the key word."
   },
   {
     "id": "p4-214",
@@ -13792,7 +13792,7 @@
     "baseWord": "BEST",
     "targetSentence": "To ____, she was the only one who enjoyed the show.",
     "correctAnswer": "the best of my knowledge",
-    "explanation": "TODO: add explanation"
+    "explanation": "'To the best of my knowledge' is a fixed hedging phrase meaning 'as far as I am aware'. Spanish 'que yo sepa' has no structural parallel, so learners assemble 'in my knowledge' or 'at my best knowledge'."
   },
   {
     "id": "p4-215",
@@ -13803,7 +13803,7 @@
     "baseWord": "DEAL",
     "targetSentence": "There is ____ before we build a brand.",
     "correctAnswer": "a great deal of work to be done",
-    "explanation": "TODO: add explanation"
+    "explanation": "'A great deal of' quantifies an uncountable noun, and the passive infinitive 'to be done' is required because the work is what gets done. Spanish 'trabajo por hacer' uses an active form, which is why learners write 'to do'."
   },
   {
     "id": "p4-216",
@@ -13814,7 +13814,7 @@
     "baseWord": "TURNED",
     "targetSentence": "The old factory ____ a shopping centre.",
     "correctAnswer": "has been turned into",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Turn something into something else' takes 'into', and the present perfect passive gives 'has been turned into'. Spanish 'convertirse en' is reflexive, so learners keep the active voice or substitute 'turned to'."
   },
   {
     "id": "p4-217",
@@ -13825,7 +13825,7 @@
     "baseWord": "FROM",
     "targetSentence": "There ____ the government's economic policies.",
     "correctAnswer": "was severe criticism from many economists of",
-    "explanation": "TODO: add explanation"
+    "explanation": "Nominalising the adjective produces 'there was severe criticism from X of Y', where the critics take 'from' and the target takes 'of'. Spanish 'críticas de' uses one preposition for both roles, which is exactly what makes this double-preposition structure so difficult."
   },
   {
     "id": "p4-218",
@@ -13836,7 +13836,7 @@
     "baseWord": "DECREASE",
     "targetSentence": "There seems ____ sales in Germany this year.",
     "correctAnswer": "to have been a significant decrease in",
-    "explanation": "TODO: add explanation"
+    "explanation": "'There seems to have been' uses a perfect infinitive after 'seem', and 'a decrease in' takes 'in' before the thing that falls. Spanish 'parece que ha habido' keeps a finite clause, so learners fail to convert it into the infinitive English requires."
   },
   {
     "id": "p4-219",
@@ -13847,7 +13847,7 @@
     "baseWord": "ACCOUNT",
     "targetSentence": "You have to ____ about rugby.",
     "correctAnswer": "take into account he is crazy",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Take into account' means to consider something when judging, and can be followed directly by a clause. Spanish 'tener en cuenta' maps closely, but learners commonly write 'take in account' or add a superfluous 'of' after 'account'."
   },
   {
     "id": "p4-220",
@@ -13858,7 +13858,7 @@
     "baseWord": "ABOUT",
     "targetSentence": "It is ____ her washing machine repaired.",
     "correctAnswer": "about time Paula had",
-    "explanation": "TODO: add explanation"
+    "explanation": "'It is about time' is followed by an unreal past tense, and 'have something done' is the causative for work performed by someone else. Spanish 'ya es hora de que' takes a subjunctive, which is why learners write a present tense here."
   },
   {
     "id": "p4-221",
@@ -13869,7 +13869,7 @@
     "baseWord": "THAN",
     "targetSentence": "There's no ____ promising him a new smartphone.",
     "correctAnswer": "better way to make him study than by",
-    "explanation": "TODO: add explanation"
+    "explanation": "'There's no better way to do something than by' takes an -ing form after 'by'. Spanish 'que' alone introduces the comparison, so learners omit 'by' and leave the gerund stranded."
   },
   {
     "id": "p4-222",
@@ -13880,7 +13880,7 @@
     "baseWord": "PURELY",
     "targetSentence": "It was ____ a singer.",
     "correctAnswer": "purely by chance that Leila became",
-    "explanation": "TODO: add explanation"
+    "explanation": "'It was purely by chance that' is a cleft emphasising the absence of any plan. Spanish 'por casualidad' is the natural translation, and 'casualidad' is worth flagging as the false friend of English 'casualty', which means a victim."
   },
   {
     "id": "p4-223",
@@ -13891,7 +13891,7 @@
     "baseWord": "MEET",
     "targetSentence": "I've ____ as Daniel.",
     "correctAnswer": "yet to meet as interesting a person",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Have yet to' plus an infinitive means 'not have done so far', and 'as interesting a person as' inverts the article after the adjective. Spanish 'aún no he conocido' handles the first half, but the 'as + adjective + a + noun' order has no equivalent and must be drilled."
   },
   {
     "id": "p4-224",
@@ -13902,7 +13902,7 @@
     "baseWord": "HOLD",
     "targetSentence": "You can borrow Phillip's laptop, but ____ breaking down.",
     "correctAnswer": "do not hold me responsible for its",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Hold someone responsible for' something is the fixed frame for assigning blame. Spanish 'culpar a alguien de' translates the preposition as 'of', which is the error to guard against."
   },
   {
     "id": "p4-225",
@@ -13913,7 +13913,7 @@
     "baseWord": "CAST",
     "targetSentence": "If ____, she was the one he was going to marry.",
     "correctAnswer": "you cast your mind back",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Cast one's mind back' is a fixed idiom meaning to think back to an earlier time. Spanish 'hacer memoria' shares none of its imagery, so learners produce 'cast your mind behind' or abandon the idiom altogether."
   },
   {
     "id": "p2-283",
@@ -13924,7 +13924,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "gained",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Gain ground' is a fixed collocation meaning to become progressively more accepted. Spanish 'ganar terreno' is a true friend in sense, but 'ganar' covers both 'win' and 'gain', so learners write 'won ground'."
   },
   {
     "id": "p2-284",
@@ -13935,7 +13935,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "went",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Go off' is the phrasal verb for an alarm, bell or phone that suddenly starts sounding, and the particle is already supplied in the text. Spanish 'sonar' is a single verb, so learners supply 'rang' or 'sounded' and leave the particle stranded."
   },
   {
     "id": "p2-285",
@@ -13946,7 +13946,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "something",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Something of a' plus a noun is a fixed hedging frame meaning 'to a considerable degree a'. Spanish 'todo un personaje' has no structural parallel, so learners substitute 'quite' or 'a bit', neither of which fits the frame."
   },
   {
     "id": "p2-286",
@@ -13957,7 +13957,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "brought",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Bring about' means to cause something to happen, and the particle is already in the sentence. Spanish 'provocar' is a single verb, so learners must recognise that only 'bring' completes this particular combination."
   },
   {
     "id": "p2-287",
@@ -13968,7 +13968,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "answer",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Answer' is used absolutely here — with no object — to mean picking up a ringing telephone. Learners tend to add an object ('answer it'), and 'respond' does not collocate with a phone in English."
   },
   {
     "id": "p2-288",
@@ -13979,7 +13979,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "between",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Few and far between' is a fixed idiom meaning rare and widely scattered. It cannot be assembled from a literal rendering of 'escasos', so the whole phrase has to be learned as a unit."
   },
   {
     "id": "p2-289",
@@ -13990,7 +13990,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "age",
-    "explanation": "TODO: add explanation"
+    "explanation": "'At a tender age' is a fixed frame for describing something experienced when very young. Spanish 'a una edad temprana' matches it closely, but only the noun 'age' completes the English collocation."
   },
   {
     "id": "p2-290",
@@ -14001,7 +14001,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "average",
-    "explanation": "TODO: add explanation"
+    "explanation": "'On average' is a fixed adverbial meaning 'taking the mean figure'. Spanish 'de media' or 'en promedio' uses a different preposition, so learners often produce 'in average'."
   },
   {
     "id": "p2-291",
@@ -14015,7 +14015,7 @@
       "chances",
       "odds"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'Your chances of' or 'the odds of' doing something are what get enhanced — both take 'of' plus an -ing form. Spanish 'posibilidades' tempts 'possibilities', a false friend that cannot be used of a person's prospects in this way."
   },
   {
     "id": "p2-292",
@@ -14026,7 +14026,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "still",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Still' marks the continuation of something surprising, and pairs naturally with the concessive 'and yet'. Spanish 'todavía' covers both 'still' and 'yet', which is why learners repeat 'yet' and produce a clumsy doubling."
   },
   {
     "id": "p2-293",
@@ -14037,7 +14037,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "around",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Cruise around' means to move about in a leisurely, aimless way, and the particle carries that sense of no fixed destination. Spanish 'pasearse' is a single reflexive verb, so the particle is routinely dropped."
   },
   {
     "id": "p2-294",
@@ -14048,7 +14048,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "them",
-    "explanation": "TODO: add explanation"
+    "explanation": "The causative frame 'get + object + -ing' needs an explicit object pronoun before the participle. Spanish attaches the object as a clitic to the verb ('hacerles andar'), so learners omit the English pronoun altogether."
   },
   {
     "id": "p2-295",
@@ -14059,7 +14059,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "motor",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Motor skills' is a fixed technical collocation for the physical coordination a child develops. Spanish 'habilidades motoras' tempts an invented adjective such as 'motorial', but English keeps the bare noun 'motor'."
   },
   {
     "id": "p2-296",
@@ -14070,7 +14070,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "also",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Also' is an additive adverb linking this new finding to the animal experiments mentioned earlier, and it sits before the main verb. Spanish 'también' moves freely, so learners write 'too' in a position where English will not allow it."
   },
   {
     "id": "p2-297",
@@ -14081,7 +14081,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "began",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Begin to' plus an infinitive marks the start of a recurring event, and the past simple is required by the time reference. Spanish 'empezaba a aparecer' maps directly, so the difficulty here is choosing the tense rather than the verb."
   },
   {
     "id": "p2-298",
@@ -14092,7 +14092,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "right",
-    "explanation": "TODO: add explanation"
+    "explanation": "'The right' plus a noun means the appropriate or best-suited one, not merely the factually correct one. Spanish 'adecuado' points this way, but learners often substitute 'correct', which does not collocate with a gift."
   },
   {
     "id": "p2-299",
@@ -14103,7 +14103,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "clear",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Steer clear of' is a fixed idiom meaning to avoid something deliberately. No literal translation of 'evitar' produces it, so the three-part phrase must be learned whole."
   },
   {
     "id": "p2-300",
@@ -14117,7 +14117,7 @@
       "anything",
       "something"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "After 'avoid', the indefinite 'anything' is the natural choice, though 'something' is also possible when a specific type is in mind. Spanish 'nada demasiado difícil' tempts 'nothing', which would create a double negative in English."
   },
   {
     "id": "p2-301",
@@ -14128,7 +14128,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "again",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Never ... again' is the fixed frame for something that will not be repeated. Spanish 'nunca más' uses the word for 'more', which is why learners write 'never more'."
   },
   {
     "id": "p2-302",
@@ -14142,7 +14142,7 @@
       "after",
       "following"
     ],
-    "explanation": "TODO: add explanation"
+    "explanation": "'After' and 'following' are both prepositions taking a noun phrase, here 'a number of fatalities'. Spanish 'tras' translates either, but 'since' would wrongly signal a period continuing to the present."
   },
   {
     "id": "p2-303",
@@ -14153,7 +14153,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "again",
-    "explanation": "TODO: add explanation"
+    "explanation": "'Again' means once more, marking a repeated appearance in this year's list. Spanish 'de nuevo' maps directly, but 'still' would wrongly suggest uninterrupted continuation rather than a fresh entry."
   },
   {
     "id": "p2-304",
@@ -14164,7 +14164,7 @@
     "baseWord": null,
     "targetSentence": null,
     "correctAnswer": "myself",
-    "explanation": "TODO: add explanation"
+    "explanation": "A reflexive pronoun is obligatory when the object refers back to the subject, as in 'what would I do with myself'. Spanish 'conmigo mismo' makes the reflexive explicit too, but learners often reduce it to the object pronoun 'me'."
   },
   {
     "id": "p1-259",
