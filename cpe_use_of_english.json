@@ -9120,8 +9120,14 @@
     "options": null,
     "baseWord": "SURPRISED",
     "targetSentence": "____ was her composure.",
-    "correctAnswer": "What most surprised me",
-    "explanation": "A wh-cleft with the adverb 'most' placed before the verb, an option English allows alongside end position."
+    "correctAnswer": [
+      "What surprised me most about the interview",
+      "What surprised me the most about the interview",
+      "What most surprised me about the interview",
+      "What surprised us most about the interview",
+      "What surprised everyone most about the interview"
+    ],
+    "explanation": "A wh-cleft construction where the transitive verb 'surprise' requires an explicit object pronoun ('me'/'us'/'everyone') and the full prepositional phrase 'about the interview' must be retained to preserve the complete meaning."
   },
   {
     "id": "p4-157",
