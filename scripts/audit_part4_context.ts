@@ -49,8 +49,15 @@
  *
  * Read-only. Never writes to the bank.
  *
- *   npx tsx scripts/audit_part4_context.ts           # findings only
- *   npx tsx scripts/audit_part4_context.ts --all     # + transformation targets
+ *   npx tsx scripts/audit_part4_context.ts               # findings only
+ *   npx tsx scripts/audit_part4_context.ts --all         # + transformation targets
+ *   npx tsx scripts/audit_part4_context.ts --bank <path> # audit a candidate bank
+ *
+ * `--bank` exists so a batch can be audited BEFORE it is appended: the adding
+ * script writes a merged candidate file and points this at it, which keeps this
+ * script the single authority on context loss instead of tempting each batch
+ * script to grow its own inferior copy of the detector. It defaults to the live
+ * bank, so `npm run audit:p4` is unchanged.
  */
 
 import { readFileSync } from "node:fs";
@@ -469,7 +476,12 @@ function main(): void {
   const showAll = process.argv.includes("--all");
   selfTest();
   const here = dirname(fileURLToPath(import.meta.url));
-  const bankPath = resolve(here, "..", "cpe_use_of_english.json");
+  const bankFlag = process.argv.indexOf("--bank");
+  const bankPath =
+    bankFlag !== -1 && process.argv[bankFlag + 1] !== undefined
+      ? resolve(process.cwd(), process.argv[bankFlag + 1])
+      : resolve(here, "..", "cpe_use_of_english.json");
+  if (bankFlag !== -1) console.log(`Auditing candidate bank: ${bankPath}\n`);
 
   let items: RawItem[];
   try {

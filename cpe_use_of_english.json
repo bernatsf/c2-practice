@@ -23631,5 +23631,1198 @@
     "targetSentence": null,
     "correctAnswer": "dominance",
     "explanation": "Suffix '-ance' with loss of the verbal '-ate'. Spanish 'dominancia' is largely restricted to genetics, 'dominio' being the everyday word, so learners produce *dominion, which in English means a territory rather than market power."
+  },
+  {
+    "id": "p4-226",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Elena is extremely proud of the fact that her department has never missed a deadline.",
+    "options": null,
+    "baseWord": "PRIDE",
+    "targetSentence": "Elena ____ her department's unbroken record of meeting deadlines.",
+    "correctAnswer": [
+      "takes great pride in",
+      "takes enormous pride in"
+    ],
+    "explanation": "'Take pride in' is the fixed collocation; the adjective 'proud' must become the noun after 'take'. Candidates commonly write 'is proud in' or 'takes proud of', mixing the adjectival frame 'proud of' with the nominal one."
+  },
+  {
+    "id": "p4-227",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Nobody at the meeting paid any attention to the discrepancy in the accounts.",
+    "options": null,
+    "baseWord": "NOTICE",
+    "targetSentence": "The discrepancy in the accounts ____ everyone at the meeting.",
+    "correctAnswer": "escaped the notice of",
+    "explanation": "The transformation inverts the subject: what people failed to notice becomes the subject of 'escape the notice of'. The usual failure is 'escaped from the notice', since 'escape' in this sense is transitive and takes no preposition."
+  },
+  {
+    "id": "p4-228",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It took the new manager months to understand the complexities of the payroll system.",
+    "options": null,
+    "baseWord": "GRIPS",
+    "targetSentence": "It took the new manager months to ____ the complexities of the payroll system.",
+    "correctAnswer": [
+      "come to grips with",
+      "get to grips with"
+    ],
+    "explanation": "Both 'come to' and 'get to grips with' are current, and the plural 'grips' is invariable. Candidates regularly produce the singular 'grip', which belongs to the unrelated 'get a grip on yourself'."
+  },
+  {
+    "id": "p4-229",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After three sleepless nights with the baby, Sara had absolutely no patience left.",
+    "options": null,
+    "baseWord": "END",
+    "targetSentence": "After three sleepless nights with the baby, Sara was ____.",
+    "correctAnswer": [
+      "at her wits' end",
+      "at her wits end"
+    ],
+    "explanation": "'At one's wits' end' is a fixed predicative phrase requiring the possessive determiner to agree with the subject. The frequent error is the singular 'wit', which changes the idiom into a comment on humour."
+  },
+  {
+    "id": "p4-230",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "By the last week of the strike the negotiators had no patience or resolve remaining.",
+    "options": null,
+    "baseWord": "TETHER",
+    "targetSentence": "By the last week of the strike the negotiators were ____.",
+    "correctAnswer": "at the end of their tether",
+    "explanation": "'At the end of one's tether' is fixed and the possessive must agree with the plural subject. Learners often reduce it to 'at the tether end' or substitute 'rope', which is the American variant and reads oddly in a British C2 paper."
+  },
+  {
+    "id": "p4-231",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The two departments have been in constant disagreement about the budget for months.",
+    "options": null,
+    "baseWord": "LOGGERHEADS",
+    "targetSentence": "The two departments have ____ the budget for months.",
+    "correctAnswer": "been at loggerheads over",
+    "explanation": "'At loggerheads' takes 'over' or 'with' but never 'about', so the preposition of the lead sentence cannot simply be carried across. The noun has no singular in this idiom."
+  },
+  {
+    "id": "p4-232",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Julián will happily change his plans without a moment's hesitation.",
+    "options": null,
+    "baseWord": "HAT",
+    "targetSentence": "Julián will happily change his plans ____.",
+    "correctAnswer": "at the drop of a hat",
+    "explanation": "The idiom is frozen: 'at the drop of a hat', with the indefinite article obligatory. Candidates often write 'at the drop of the hat' or 'in the drop of a hat', both of which are marked wrong."
+  },
+  {
+    "id": "p4-233",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The announcement of the merger came as a complete surprise to the entire workforce.",
+    "options": null,
+    "baseWord": "BLUE",
+    "targetSentence": "The announcement of the merger came ____ to the entire workforce.",
+    "correctAnswer": "out of the blue",
+    "explanation": "'Out of the blue' is adverbial and needs no noun after it, which is what makes it hard to retrieve. The common error is 'out of the blue sky', an over-literal expansion that breaks the fixed phrase."
+  },
+  {
+    "id": "p4-234",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "When the sponsor withdrew, the organisers were abandoned without any support whatsoever.",
+    "options": null,
+    "baseWord": "LURCH",
+    "targetSentence": "When the sponsor withdrew, the organisers ____.",
+    "correctAnswer": "were left in the lurch",
+    "explanation": "The passive is required because the organisers are the affected party, and 'lurch' occurs in no other modern context. Candidates who keep the active 'left the organisers in the lurch' lose the subject the target sentence has already fixed."
+  },
+  {
+    "id": "p4-235",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Management deliberately gave the staff no information at all about the restructuring.",
+    "options": null,
+    "baseWord": "DARK",
+    "targetSentence": "Management deliberately ____ the restructuring.",
+    "correctAnswer": "kept the staff in the dark about",
+    "explanation": "'Keep someone in the dark about something' needs both the object and the preposition, since the target sentence supplies neither. Learners frequently drop 'about' and produce an ungrammatical string before the noun phrase."
+  },
+  {
+    "id": "p4-236",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Please make sure I am told about any developments while I am away next week.",
+    "options": null,
+    "baseWord": "LOOP",
+    "targetSentence": "Please make sure you ____ about any developments while I am away next week.",
+    "correctAnswer": "keep me in the loop",
+    "explanation": "'Keep someone in the loop' is the fixed frame; the definite article is obligatory. The usual slip is 'in loop' or 'on the loop', the latter borrowed from 'on the list'."
+  },
+  {
+    "id": "p4-237",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "Summarised very briefly indeed, the argument is that the whole policy has failed.",
+    "options": null,
+    "baseWord": "NUTSHELL",
+    "targetSentence": "____, the argument is that the whole policy has failed.",
+    "correctAnswer": "In a nutshell",
+    "explanation": "'In a nutshell' is a sentence adverbial that replaces a whole participial clause, and it takes the indefinite article. Candidates commonly write 'In the nutshell' on the model of 'in the end'."
+  },
+  {
+    "id": "p4-238",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I did not follow every word, but I understood the general sense of her argument.",
+    "options": null,
+    "baseWord": "GIST",
+    "targetSentence": "I did not follow every word, but I ____ her argument.",
+    "correctAnswer": [
+      "got the gist of",
+      "grasped the gist of"
+    ],
+    "explanation": "'The gist' is always definite and always followed by 'of'. Learners often omit the article, producing 'got gist of', or select 'catch', which collocates with 'drift' rather than 'gist'."
+  },
+  {
+    "id": "p4-239",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It took Pau a fortnight to become genuinely competent at using the new software.",
+    "options": null,
+    "baseWord": "HANG",
+    "targetSentence": "It took Pau a fortnight to ____ the new software.",
+    "correctAnswer": "get the hang of",
+    "explanation": "'Get the hang of' is fixed with the definite article and 'of'. The verb cannot be varied to 'take' or 'catch', and the noun has no plural in this use."
+  },
+  {
+    "id": "p4-240",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ana is remarkably good at putting nervous candidates at their ease.",
+    "options": null,
+    "baseWord": "KNACK",
+    "targetSentence": "Ana ____ putting nervous candidates at their ease.",
+    "correctAnswer": [
+      "has a knack for",
+      "has a real knack for"
+    ],
+    "explanation": "'Have a knack for' takes the indefinite article and is followed by a gerund, which the target sentence already supplies. Candidates often write 'has knack in', losing both the article and the preposition."
+  },
+  {
+    "id": "p4-241",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The director has always been rather fond of extremely long takes.",
+    "options": null,
+    "baseWord": "PENCHANT",
+    "targetSentence": "The director has always ____ extremely long takes.",
+    "correctAnswer": [
+      "had a penchant for",
+      "had a marked penchant for"
+    ],
+    "explanation": "'Have a penchant for' is the fixed frame, and the perfect 'has always had' is forced by the adverb already in the target sentence. The preposition is 'for', never 'to' or 'of'."
+  },
+  {
+    "id": "p4-242",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Marc strongly dislikes being photographed at social occasions.",
+    "options": null,
+    "baseWord": "AVERSION",
+    "targetSentence": "Marc ____ being photographed at social occasions.",
+    "correctAnswer": [
+      "has a strong aversion to",
+      "has a marked aversion to"
+    ],
+    "explanation": "'Aversion' takes 'to', not 'of' or 'for', and the following gerund is already in place. Spanish 'aversión a' happens to agree, but learners still default to 'aversion of' by analogy with 'fear of'."
+  },
+  {
+    "id": "p4-243",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The old professor was always rather indulgent towards students who argued with him.",
+    "options": null,
+    "baseWord": "SOFT",
+    "targetSentence": "The old professor always ____ students who argued with him.",
+    "correctAnswer": "had a soft spot for",
+    "explanation": "'Have a soft spot for' is fixed, with 'for' rather than 'towards' despite the lead sentence. The noun 'spot' cannot be pluralised even when the object is plural."
+  },
+  {
+    "id": "p4-244",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The inspectors deliberately ignored the safety violations for years on end.",
+    "options": null,
+    "baseWord": "BLIND",
+    "targetSentence": "The inspectors deliberately ____ the safety violations for years on end.",
+    "correctAnswer": "turned a blind eye to",
+    "explanation": "The idiom requires the indefinite article and the preposition 'to'; 'eye' stays singular however many things are ignored. Candidates often write 'closed their eyes to', which is a different, weaker expression."
+  },
+  {
+    "id": "p4-245",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The council completely ignored the residents' repeated complaints about the noise.",
+    "options": null,
+    "baseWord": "DEAF",
+    "targetSentence": "The council ____ the residents' repeated complaints about the noise.",
+    "correctAnswer": "turned a deaf ear to",
+    "explanation": "Parallel to the blind-eye idiom, this one takes 'a deaf ear' in the singular plus 'to'. The frequent error is the plural 'deaf ears', which occurs only in the passive 'fell on deaf ears'."
+  },
+  {
+    "id": "p4-246",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Rather than planning anything now, we will decide what to do as the situation develops.",
+    "options": null,
+    "baseWord": "EAR",
+    "targetSentence": "Rather than planning anything now, we will ____ as the situation develops.",
+    "correctAnswer": "play it by ear",
+    "explanation": "'Play it by ear' keeps the dummy object 'it', which candidates routinely delete, and takes no article before 'ear'. The idiom is intransitive in effect, so nothing may follow it."
+  },
+  {
+    "id": "p4-247",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I know the author's name perfectly well but simply cannot bring it to mind.",
+    "options": null,
+    "baseWord": "TONGUE",
+    "targetSentence": "The author's name is ____ but I simply cannot bring it to mind.",
+    "correctAnswer": "on the tip of my tongue",
+    "explanation": "The idiom is locative and needs both definite articles plus the possessive determiner. Learners frequently omit 'the' before 'tip' or use 'in' instead of 'on'."
+  },
+  {
+    "id": "p4-248",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Diego said something tactless and caused considerable embarrassment at dinner.",
+    "options": null,
+    "baseWord": "FOOT",
+    "targetSentence": "Diego really ____ at dinner.",
+    "correctAnswer": [
+      "put his foot in it",
+      "put his foot in his mouth"
+    ],
+    "explanation": "Both variants are current, and both keep 'foot' singular. The commonest error is the plural 'put his feet in it', which destroys the idiom entirely."
+  },
+  {
+    "id": "p4-249",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Her parents ended up paying for the entire wedding themselves.",
+    "options": null,
+    "baseWord": "BILL",
+    "targetSentence": "Her parents ended up ____ the entire wedding themselves.",
+    "correctAnswer": "footing the bill for",
+    "explanation": "'Foot the bill' is the fixed verb-noun pair, and 'for' is needed before the thing paid for. The gerund is forced by 'ended up', and candidates often supply the infinitive instead."
+  },
+  {
+    "id": "p4-250",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After a disastrous first half, the home side completely reversed the situation.",
+    "options": null,
+    "baseWord": "TABLES",
+    "targetSentence": "After a disastrous first half, the home side ____ their opponents.",
+    "correctAnswer": "turned the tables on",
+    "explanation": "'Turn the tables on someone' requires the plural noun and the preposition 'on'. Candidates writing 'turned the table' or 'turned the tables against' lose the mark on a single word."
+  },
+  {
+    "id": "p4-251",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ever since the argument, Nuria has been pointedly unfriendly towards him.",
+    "options": null,
+    "baseWord": "SHOULDER",
+    "targetSentence": "Ever since the argument, Nuria has ____ him.",
+    "correctAnswer": "given him the cold shoulder",
+    "explanation": "'Give someone the cold shoulder' needs the definite article and the indirect object before it. Candidates often write 'given the cold shoulder to him', which is possible but wastes a word and frequently breaks the limit."
+  },
+  {
+    "id": "p4-252",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "At the last minute the buyer became too nervous to go through with the purchase.",
+    "options": null,
+    "baseWord": "FEET",
+    "targetSentence": "At the last minute the buyer ____ and pulled out of the purchase.",
+    "correctAnswer": [
+      "got cold feet",
+      "developed cold feet"
+    ],
+    "explanation": "'Get cold feet' takes no article and no possessive, and 'feet' is invariably plural. The frequent error is 'got cold foot' or the insertion of 'his'."
+  },
+  {
+    "id": "p4-253",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The unpredictable questions from the audience kept the panel alert all evening.",
+    "options": null,
+    "baseWord": "TOES",
+    "targetSentence": "The unpredictable questions from the audience ____ all evening.",
+    "correctAnswer": "kept the panel on their toes",
+    "explanation": "'Keep someone on their toes' requires the possessive determiner agreeing with the object, not the subject. Learners commonly write 'on the toes' or 'in their toes'."
+  },
+  {
+    "id": "p4-254",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "As a rough general principle, you should allow an hour for each section.",
+    "options": null,
+    "baseWord": "THUMB",
+    "targetSentence": "____, you should allow an hour for each section.",
+    "correctAnswer": "As a rule of thumb",
+    "explanation": "'As a rule of thumb' is a frozen sentence adverbial with the indefinite article. Candidates writing 'As the rule of thumb' or 'By a rule of thumb' lose the mark despite conveying the meaning."
+  },
+  {
+    "id": "p4-255",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "There is something wrong with the recording, but I cannot identify exactly what it is.",
+    "options": null,
+    "baseWord": "FINGER",
+    "targetSentence": "There is something wrong with the recording, but I cannot ____.",
+    "correctAnswer": [
+      "put my finger on it",
+      "quite put my finger on it"
+    ],
+    "explanation": "'Put one's finger on it' retains the object pronoun, which candidates routinely delete because the target sentence ends there. The possessive must agree with the subject."
+  },
+  {
+    "id": "p4-256",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The demonstration became completely impossible to control within minutes.",
+    "options": null,
+    "baseWord": "HAND",
+    "targetSentence": "The demonstration ____ within minutes.",
+    "correctAnswer": [
+      "got completely out of hand",
+      "got totally out of hand"
+    ],
+    "explanation": "'Get out of hand' takes no article before 'hand', which is what distinguishes it from the literal 'out of the hand'. The adverb carries 'completely' across from the lead sentence."
+  },
+  {
+    "id": "p4-257",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The repairs to the roof turned out to be extremely expensive indeed.",
+    "options": null,
+    "baseWord": "ARM",
+    "targetSentence": "The repairs to the roof ____.",
+    "correctAnswer": "cost an arm and a leg",
+    "explanation": "The idiom is frozen with both indefinite articles; omitting the second gives the ungrammatical 'an arm and leg'. 'Cost' is unchanged in the past tense, which candidates sometimes over-correct to 'costed'."
+  },
+  {
+    "id": "p4-258",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Do not take him seriously — he is only joking with you.",
+    "options": null,
+    "baseWord": "LEG",
+    "targetSentence": "Do not take him seriously — he is only ____.",
+    "correctAnswer": "pulling your leg",
+    "explanation": "'Pull someone's leg' requires the possessive determiner and keeps 'leg' singular. The continuous form is fixed by 'is only' already in the target sentence."
+  },
+  {
+    "id": "p4-259",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "My supervisor has been monitoring my every move all week.",
+    "options": null,
+    "baseWord": "NECK",
+    "targetSentence": "My supervisor has been ____ all week.",
+    "correctAnswer": "breathing down my neck",
+    "explanation": "'Breathe down someone's neck' takes the possessive of the person being watched, not the watcher. Candidates often reverse it and write 'breathing down his neck'."
+  },
+  {
+    "id": "p4-260",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The funding fell through, so the team had to start again from the very beginning.",
+    "options": null,
+    "baseWord": "SQUARE",
+    "targetSentence": "The funding fell through, so the team was ____.",
+    "correctAnswer": "back to square one",
+    "explanation": "'Back to square one' takes the numeral, not the article: 'square one', never 'the first square'. No preposition follows, which is what makes the three-word answer complete."
+  },
+  {
+    "id": "p4-261",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After months of simmering tension, the dispute finally reached a crisis point.",
+    "options": null,
+    "baseWord": "HEAD",
+    "targetSentence": "After months of simmering tension, the dispute finally ____.",
+    "correctAnswer": "came to a head",
+    "explanation": "'Come to a head' takes the indefinite article and is intransitive, so nothing follows it. Learners often write 'came to the head', which reads as a literal movement."
+  },
+  {
+    "id": "p4-262",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The police were following the suspects extremely closely at that point.",
+    "options": null,
+    "baseWord": "HEELS",
+    "targetSentence": "At that point the police were ____ the suspects.",
+    "correctAnswer": "hot on the heels of",
+    "explanation": "'Hot on the heels of' is fixed and requires the plural 'heels' plus 'of' before the noun phrase. Candidates frequently drop 'hot', which leaves a phrase meaning simply 'behind'."
+  },
+  {
+    "id": "p4-263",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It took Marta a whole term to overcome her shyness and start talking in class.",
+    "options": null,
+    "baseWord": "SHELL",
+    "targetSentence": "It took Marta a whole term to ____ and start talking in class.",
+    "correctAnswer": "come out of her shell",
+    "explanation": "'Come out of one's shell' needs the possessive agreeing with the subject. The commonest slip is 'come out of the shell', which turns a metaphor about character into a literal statement."
+  },
+  {
+    "id": "p4-264",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After a decade in the same post, Xavier felt his career had become utterly monotonous.",
+    "options": null,
+    "baseWord": "RUT",
+    "targetSentence": "After a decade in the same post, Xavier felt he ____.",
+    "correctAnswer": [
+      "was stuck in a rut",
+      "had got stuck in a rut"
+    ],
+    "explanation": "'In a rut' takes the indefinite article and follows 'stuck' or 'get'. Candidates often write 'in the rut', which loses the idiomatic reading of stagnation."
+  },
+  {
+    "id": "p4-265",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "By hesitating for a fortnight, they lost their opportunity entirely.",
+    "options": null,
+    "baseWord": "BOAT",
+    "targetSentence": "By hesitating for a fortnight, they ____ entirely.",
+    "correctAnswer": [
+      "missed the boat",
+      "had missed the boat"
+    ],
+    "explanation": "'Miss the boat' takes the definite article and is fixed in the singular. The verb cannot be replaced by 'lose', which is what the Spanish 'perder' invites."
+  },
+  {
+    "id": "p4-266",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The second goal completely reversed the momentum of the match.",
+    "options": null,
+    "baseWord": "TIDE",
+    "targetSentence": "The second goal completely ____ the match.",
+    "correctAnswer": "turned the tide of",
+    "explanation": "'Turn the tide of something' needs the definite article and 'of' before the noun. Learners regularly omit 'of' and produce an ungrammatical juxtaposition of two noun phrases."
+  },
+  {
+    "id": "p4-267",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Their old quarrel is no longer of the slightest importance to anyone.",
+    "options": null,
+    "baseWord": "WATER",
+    "targetSentence": "As far as anyone is concerned, their old quarrel is ____ now.",
+    "correctAnswer": "water under the bridge",
+    "explanation": "The idiom takes no article at all before 'water', which is uncountable here. Candidates writing 'the water under the bridge' turn a set phrase into a literal description."
+  },
+  {
+    "id": "p4-268",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "We will deal with that particular problem when it actually arises.",
+    "options": null,
+    "baseWord": "BRIDGE",
+    "targetSentence": "We will ____ when we come to it.",
+    "correctAnswer": "cross that bridge",
+    "explanation": "The proverb is fixed as 'cross that bridge when we come to it', with the demonstrative rather than the definite article. Candidates who write 'cross the bridge' lose the idiomatic force."
+  },
+  {
+    "id": "p4-269",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The minister has been severely criticised over the leaked documents.",
+    "options": null,
+    "baseWord": "FIRE",
+    "targetSentence": "The minister has ____ over the leaked documents.",
+    "correctAnswer": [
+      "come under fire",
+      "come under heavy fire"
+    ],
+    "explanation": "'Come under fire' takes no article, and the preposition governing the cause is 'over' or 'for'. The frequent error is 'come under the fire', which reads literally."
+  },
+  {
+    "id": "p4-270",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Someone had to say something to relieve the awkwardness at the start of the evening.",
+    "options": null,
+    "baseWord": "ICE",
+    "targetSentence": "Someone had to ____ at the start of the evening.",
+    "correctAnswer": "break the ice",
+    "explanation": "'Break the ice' is fixed with the definite article and no following complement. Candidates sometimes write 'broke the ices' or add 'up', neither of which exists."
+  },
+  {
+    "id": "p4-271",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Campaigners fear the exemption is only the first step towards far wider deregulation.",
+    "options": null,
+    "baseWord": "WEDGE",
+    "targetSentence": "Campaigners fear the exemption is ____ far wider deregulation.",
+    "correctAnswer": "the thin end of the wedge",
+    "explanation": "The idiom needs both definite articles and the adjective 'thin'; without it the phrase means nothing. Note that no preposition follows in this frame, since the wedge itself stands for what is coming."
+  },
+  {
+    "id": "p4-272",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The company survived the financial crisis remarkably well.",
+    "options": null,
+    "baseWord": "STORM",
+    "targetSentence": "The company ____ remarkably well.",
+    "correctAnswer": "weathered the financial storm",
+    "explanation": "'Weather the storm' is the fixed verb-noun pair, and the modifier from the lead sentence must be carried inside it. Learners often reach for 'survived', which is precisely the word the transformation is replacing."
+  },
+  {
+    "id": "p4-273",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "However bad the setback, there is usually something positive to be found in it.",
+    "options": null,
+    "baseWord": "LINING",
+    "targetSentence": "However bad the setback, there is usually ____ to be found in it.",
+    "correctAnswer": "a silver lining",
+    "explanation": "'A silver lining' takes the indefinite article; the full proverb 'every cloud has a silver lining' is not needed here. Candidates often supply the whole saying and exceed the word limit."
+  },
+  {
+    "id": "p4-274",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Somehow the press found out about the resignation before it was announced.",
+    "options": null,
+    "baseWord": "WIND",
+    "targetSentence": "Somehow the press ____ the resignation before it was announced.",
+    "correctAnswer": "got wind of",
+    "explanation": "'Get wind of' takes no article before 'wind' and requires 'of'. The frequent error is 'got the wind of', which sounds literal and is marked wrong."
+  },
+  {
+    "id": "p4-275",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The unexpected apology completely deflated his indignation.",
+    "options": null,
+    "baseWord": "SAILS",
+    "targetSentence": "The unexpected apology completely ____.",
+    "correctAnswer": "took the wind out of his sails",
+    "explanation": "The idiom is long but frozen: definite article, 'out of', and the possessive before the plural 'sails'. At seven words it sits near the limit, so any added word makes the answer unmarkable."
+  },
+  {
+    "id": "p4-276",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The reform programme gradually lost its momentum during the second year.",
+    "options": null,
+    "baseWord": "STEAM",
+    "targetSentence": "The reform programme gradually ____ during the second year.",
+    "correctAnswer": "ran out of steam",
+    "explanation": "'Run out of steam' takes no article before the uncountable noun. Candidates often write 'ran out of the steam' or choose 'lost steam', which is possible but does not use the required frame."
+  },
+  {
+    "id": "p4-277",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The two sides eventually discovered a number of things they could both agree on.",
+    "options": null,
+    "baseWord": "GROUND",
+    "targetSentence": "The two sides eventually ____.",
+    "correctAnswer": [
+      "found considerable common ground",
+      "found a good deal of common ground"
+    ],
+    "explanation": "'Common ground' is uncountable and takes no article, so the quantifier must be adverbial. Learners frequently write 'found common grounds', where the plural shifts the meaning to 'reasons'."
+  },
+  {
+    "id": "p4-278",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The new rules are intended to give every competitor an equal chance.",
+    "options": null,
+    "baseWord": "FIELD",
+    "targetSentence": "The new rules are intended to create ____ for every competitor.",
+    "correctAnswer": "a level playing field",
+    "explanation": "The idiom is a three-word noun phrase with the indefinite article; both modifiers are obligatory. Candidates often write 'an equal playing field', substituting the word the transformation exists to replace."
+  },
+  {
+    "id": "p4-279",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After the scandal, the politician promised to change his behaviour completely.",
+    "options": null,
+    "baseWord": "LEAF",
+    "targetSentence": "After the scandal, the politician promised to ____.",
+    "correctAnswer": "turn over a new leaf",
+    "explanation": "'Turn over a new leaf' requires the particle 'over' and the indefinite article. The noun stays singular, and 'leaves' would be read literally."
+  },
+  {
+    "id": "p4-280",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "If the auditors suspect the sales team, they are pursuing entirely the wrong people.",
+    "options": null,
+    "baseWord": "TREE",
+    "targetSentence": "If the auditors suspect the sales team, they are ____.",
+    "correctAnswer": "barking up the wrong tree",
+    "explanation": "The idiom is fixed as 'bark up the wrong tree', with the definite article and 'wrong' obligatory. Candidates writing 'barking at the wrong tree' change the preposition and lose the mark."
+  },
+  {
+    "id": "p4-281",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Instead of coming to the point, the witness kept avoiding the issue.",
+    "options": null,
+    "baseWord": "BUSH",
+    "targetSentence": "Instead of coming to the point, the witness kept ____.",
+    "correctAnswer": [
+      "beating about the bush",
+      "beating around the bush"
+    ],
+    "explanation": "Both the British 'about' and the American 'around' are accepted, with the definite article obligatory. The gerund is forced by 'kept', which candidates sometimes ignore in favour of the infinitive."
+  },
+  {
+    "id": "p4-282",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The patient is improving, but the danger has certainly not passed yet.",
+    "options": null,
+    "baseWord": "WOODS",
+    "targetSentence": "The patient is improving, but is certainly ____ yet.",
+    "correctAnswer": "not out of the woods",
+    "explanation": "'Out of the woods' requires the definite article and the plural noun. The negation belongs inside the answer here, since the target sentence supplies none of its own."
+  },
+  {
+    "id": "p4-283",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The head teacher stopped the rumour before it had any chance to spread.",
+    "options": null,
+    "baseWord": "BUD",
+    "targetSentence": "The head teacher ____ before it had any chance to spread.",
+    "correctAnswer": "nipped the rumour in the bud",
+    "explanation": "'Nip something in the bud' places the object between verb and preposition, and 'bud' takes the definite article. Candidates frequently write 'nipped in the bud the rumour', which is not possible with a short object."
+  },
+  {
+    "id": "p4-284",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Last month, years of patient negotiation finally produced concrete results.",
+    "options": null,
+    "baseWord": "FRUIT",
+    "targetSentence": "Last month, years of patient negotiation ____.",
+    "correctAnswer": [
+      "finally bore fruit",
+      "at last bore fruit"
+    ],
+    "explanation": "'Bear fruit' takes no article, and the past tense is the irregular 'bore', which candidates regularly regularise to 'beared'. The noun is uncountable in this metaphorical sense."
+  },
+  {
+    "id": "p4-285",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "You should treat everything he says with a certain amount of scepticism.",
+    "options": null,
+    "baseWord": "SALT",
+    "targetSentence": "You should take everything he says ____.",
+    "correctAnswer": [
+      "with a pinch of salt",
+      "with a grain of salt"
+    ],
+    "explanation": "The British 'pinch' and American 'grain' are both accepted; the indefinite article is obligatory. Note the verb changes from 'treat' to 'take', which the target sentence has already fixed."
+  },
+  {
+    "id": "p4-286",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Since the price rises, families on low incomes have been suffering financially.",
+    "options": null,
+    "baseWord": "PINCH",
+    "targetSentence": "Since the price rises, families on low incomes ____.",
+    "correctAnswer": [
+      "have felt the pinch",
+      "have really felt the pinch"
+    ],
+    "explanation": "'Feel the pinch' takes the definite article and needs no complement. The present perfect is carried over from the lead sentence, so a simple past would lose the continuing sense."
+  },
+  {
+    "id": "p4-287",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ignacio cannot take on anything else, as he already has far too much to do.",
+    "options": null,
+    "baseWord": "PLATE",
+    "targetSentence": "Ignacio cannot take on anything else, as he already ____.",
+    "correctAnswer": [
+      "has a lot on his plate",
+      "has far too much on his plate"
+    ],
+    "explanation": "'Have a lot on one's plate' needs the possessive agreeing with the subject and the preposition 'on'. Candidates often write 'in his plate' under the influence of Spanish 'en'."
+  },
+  {
+    "id": "p4-288",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Each department blamed the other rather than accepting responsibility itself.",
+    "options": null,
+    "baseWord": "BUCK",
+    "targetSentence": "Each department ____ rather than accepting responsibility itself.",
+    "correctAnswer": "passed the buck",
+    "explanation": "'Pass the buck' is fixed with the definite article and takes no object. Where the person is named, the preposition is 'to', but nothing follows in this frame."
+  },
+  {
+    "id": "p4-289",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The offer looks generous and involves no hidden conditions whatsoever.",
+    "options": null,
+    "baseWord": "STRINGS",
+    "targetSentence": "The offer looks generous and comes ____.",
+    "correctAnswer": "with no strings attached",
+    "explanation": "The fixed phrase is 'with no strings attached', where the participle follows the noun. Candidates often write 'without strings attached', which is acceptable in speech but less idiomatic in a written C2 answer."
+  },
+  {
+    "id": "p4-290",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It is the finance director, not the board, who really makes all the decisions.",
+    "options": null,
+    "baseWord": "SHOTS",
+    "targetSentence": "It is the finance director, not the board, who really ____.",
+    "correctAnswer": "calls the shots",
+    "explanation": "'Call the shots' is fixed in the plural with the definite article. The third-person 's' is required by 'who', and candidates frequently drop it after the relative pronoun."
+  },
+  {
+    "id": "p4-291",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The consultant's estimate of the costs turned out to be completely inaccurate.",
+    "options": null,
+    "baseWord": "MARK",
+    "targetSentence": "The consultant's estimate of the costs turned out to be ____.",
+    "correctAnswer": [
+      "wide of the mark",
+      "well wide of the mark"
+    ],
+    "explanation": "'Wide of the mark' takes the definite article and cannot be intensified with 'very', only with 'well' or 'way'. Learners often write 'far of the mark', confusing it with 'far from'."
+  },
+  {
+    "id": "p4-292",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "The pay increase will apply to every grade of staff without a single exception.",
+    "options": null,
+    "baseWord": "BOARD",
+    "targetSentence": "The pay increase will apply ____.",
+    "correctAnswer": "right across the board",
+    "explanation": "'Across the board' is adverbial and needs the definite article; 'right' carries over the emphasis of 'without a single exception'. Candidates writing 'across board' or 'in the board' lose the mark."
+  },
+  {
+    "id": "p4-293",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The prototype failed, so the engineers had to start designing all over again.",
+    "options": null,
+    "baseWord": "DRAWING",
+    "targetSentence": "The prototype failed, so the engineers had to go ____.",
+    "correctAnswer": "back to the drawing board",
+    "explanation": "'Back to the drawing board' is frozen with the definite article. The commonest error is 'to the drawing table', substituting a near-synonym that destroys the idiom."
+  },
+  {
+    "id": "p4-294",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The translation the agency delivered was not of an acceptable standard.",
+    "options": null,
+    "baseWord": "SCRATCH",
+    "targetSentence": "The translation the agency delivered was not ____.",
+    "correctAnswer": "up to scratch",
+    "explanation": "'Up to scratch' takes no article and functions predicatively. It must not be confused with 'from scratch', which means 'from the very beginning' and would reverse the sense."
+  },
+  {
+    "id": "p4-295",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "A general election before the summer now looks quite likely.",
+    "options": null,
+    "baseWord": "CARDS",
+    "targetSentence": "A general election before the summer now seems ____.",
+    "correctAnswer": "to be on the cards",
+    "explanation": "'On the cards' requires the plural and the definite article, and 'seems' forces the infinitive 'to be'. The American variant 'in the cards' is not credited in a British paper."
+  },
+  {
+    "id": "p4-296",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "A great deal of money depends on the outcome of the appeal.",
+    "options": null,
+    "baseWord": "STAKE",
+    "targetSentence": "A great deal of money ____ in the outcome of the appeal.",
+    "correctAnswer": "is at stake",
+    "explanation": "'At stake' takes no article and 'stake' stays singular however much is involved. Candidates often write 'is at stakes' or 'is in stake' by analogy with 'in danger'."
+  },
+  {
+    "id": "p4-297",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Having made our offer, it is now for them to decide what happens next.",
+    "options": null,
+    "baseWord": "BALL",
+    "targetSentence": "Having made our offer, ____ now.",
+    "correctAnswer": "the ball is in their court",
+    "explanation": "The idiom is a complete clause and needs both the definite article and the possessive. Candidates often write 'the ball is on their court', importing the preposition from the literal sport."
+  },
+  {
+    "id": "p4-298",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "Let me state publicly and unambiguously that I never authorised the payment.",
+    "options": null,
+    "baseWord": "RECORD",
+    "targetSentence": "Let me say ____ that I never authorised the payment.",
+    "correctAnswer": "for the record",
+    "explanation": "'For the record' is a fixed adverbial with the definite article, signalling an official statement. Its opposite, 'off the record', means the reverse, so the preposition carries the entire meaning."
+  },
+  {
+    "id": "p4-299",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ainhoa invariably does exactly what she has promised she will do.",
+    "options": null,
+    "baseWord": "WORD",
+    "targetSentence": "Ainhoa is invariably ____.",
+    "correctAnswer": [
+      "as good as her word",
+      "true to her word"
+    ],
+    "explanation": "Both fixed frames exist and both keep 'word' singular with a possessive. Candidates often write 'as good as her words' or 'of her word', neither of which is idiomatic."
+  },
+  {
+    "id": "p4-300",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I have been unable to stop thinking about that conversation ever since.",
+    "options": null,
+    "baseWord": "MIND",
+    "targetSentence": "That conversation ____ ever since.",
+    "correctAnswer": [
+      "has been on my mind",
+      "has been preying on my mind"
+    ],
+    "explanation": "'On one's mind' takes the possessive and the preposition 'on', not 'in', which is the direct calque of Spanish 'en mi mente'. The present perfect is required by 'ever since'."
+  },
+  {
+    "id": "p4-301",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I simply could not summon the courage to tell her the truth.",
+    "options": null,
+    "baseWord": "NERVE",
+    "targetSentence": "I simply could not ____ to tell her the truth.",
+    "correctAnswer": [
+      "get up the nerve",
+      "work up the nerve"
+    ],
+    "explanation": "'Get' or 'work up the nerve' both take the definite article and are followed by the infinitive. Candidates often write 'get up the nerves', where the plural means 'anxiety' rather than 'courage'."
+  },
+  {
+    "id": "p4-302",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The question caught the spokesman completely unprepared.",
+    "options": null,
+    "baseWord": "GUARD",
+    "targetSentence": "The question caught the spokesman completely ____.",
+    "correctAnswer": "off his guard",
+    "explanation": "'Catch someone off guard' takes the possessive in this longer form, and the preposition is 'off', never 'out of'. The noun is uncountable here and cannot be pluralised."
+  },
+  {
+    "id": "p4-303",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I have completely lost any awareness of how much we have already spent.",
+    "options": null,
+    "baseWord": "TRACK",
+    "targetSentence": "I have completely ____ how much we have already spent.",
+    "correctAnswer": "lost track of",
+    "explanation": "'Lose track of' takes no article before 'track' and requires 'of'. Learners frequently write 'lost the track of', which reads as a literal path."
+  },
+  {
+    "id": "p4-304",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The company kept the design entirely secret until the day of the launch.",
+    "options": null,
+    "baseWord": "WRAPS",
+    "targetSentence": "The company ____ until the day of the launch.",
+    "correctAnswer": "kept the design under wraps",
+    "explanation": "'Under wraps' is fixed in the plural with no article, and the object sits between the verb and the phrase. Candidates writing 'under wrap' or 'under the wraps' lose the mark."
+  },
+  {
+    "id": "p4-305",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The committee decided not to hold the contractor responsible after all.",
+    "options": null,
+    "baseWord": "HOOK",
+    "targetSentence": "After all, the committee decided to ____.",
+    "correctAnswer": "let the contractor off the hook",
+    "explanation": "'Let someone off the hook' separates the verb and particle around the object, and 'hook' takes the definite article. The frequent error is 'let off the contractor', which misplaces the object."
+  },
+  {
+    "id": "p4-306",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Few economists were prepared to take such a risky public position.",
+    "options": null,
+    "baseWord": "LIMB",
+    "targetSentence": "Few economists were prepared to ____ so publicly.",
+    "correctAnswer": "go out on a limb",
+    "explanation": "'Go out on a limb' requires both the particle 'out' and the indefinite article. Candidates often drop 'out', which leaves a phrase with no idiomatic meaning at all."
+  },
+  {
+    "id": "p4-307",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Criticising the chairman publicly could easily cost you your job.",
+    "options": null,
+    "baseWord": "LINE",
+    "targetSentence": "Criticising the chairman publicly could easily ____.",
+    "correctAnswer": "put your job on the line",
+    "explanation": "'Put something on the line' places the object before the preposition and needs the definite article. Learners often write 'put on the line your job', which is not possible with a short object."
+  },
+  {
+    "id": "p4-308",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "She made the remark without intending it to be taken at all seriously.",
+    "options": null,
+    "baseWord": "CHEEK",
+    "targetSentence": "She made the remark entirely ____.",
+    "correctAnswer": [
+      "with her tongue in cheek",
+      "with her tongue in her cheek"
+    ],
+    "explanation": "Both the bare and the possessive forms are current after 'in'. The idiom takes no article before 'tongue' when the possessive is present, and 'on cheek' is never possible."
+  },
+  {
+    "id": "p4-309",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ramon was completely unable to cope with the demands of the new post.",
+    "options": null,
+    "baseWord": "DEPTH",
+    "targetSentence": "Ramon was completely ____ in the new post.",
+    "correctAnswer": "out of his depth",
+    "explanation": "'Out of one's depth' takes the possessive and keeps 'depth' singular. Candidates often write 'out of depth' without the determiner, or pluralise it on the model of 'the depths'."
+  },
+  {
+    "id": "p4-310",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Clara feels entirely comfortable and confident whenever she is teaching.",
+    "options": null,
+    "baseWord": "ELEMENT",
+    "targetSentence": "Clara is entirely ____ whenever she is teaching.",
+    "correctAnswer": "in her element",
+    "explanation": "'In one's element' takes the possessive and no article, and 'element' is always singular. The Spanish 'en su salsa' offers no formal parallel, so the phrase must be learned whole."
+  },
+  {
+    "id": "p4-311",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "By nine o'clock the party had reached its liveliest point.",
+    "options": null,
+    "baseWord": "SWING",
+    "targetSentence": "By nine o'clock the party was ____.",
+    "correctAnswer": "in full swing",
+    "explanation": "'In full swing' takes no article and cannot be modified further. Candidates frequently write 'in the full swing' or 'at full swing', both of which are marked wrong."
+  },
+  {
+    "id": "p4-312",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The whole documentary was produced with almost no money at all.",
+    "options": null,
+    "baseWord": "SHOESTRING",
+    "targetSentence": "The whole documentary was produced ____.",
+    "correctAnswer": [
+      "on a shoestring budget",
+      "on a very tight shoestring"
+    ],
+    "explanation": "'On a shoestring' takes the indefinite article and the preposition 'on'. Learners often write 'with a shoestring', importing the instrumental preposition from the lead sentence."
+  },
+  {
+    "id": "p4-313",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Fernando bought the motorbike without giving the matter any thought at all.",
+    "options": null,
+    "baseWord": "WHIM",
+    "targetSentence": "Fernando bought the motorbike ____.",
+    "correctAnswer": [
+      "on a sudden whim",
+      "purely on a whim"
+    ],
+    "explanation": "'On a whim' requires 'on' plus the indefinite article. Candidates often write 'by a whim' or 'in a whim', neither of which is idiomatic in English."
+  },
+  {
+    "id": "p4-314",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It was the junior staff who suffered most from the criticism.",
+    "options": null,
+    "baseWord": "RECEIVING",
+    "targetSentence": "The junior staff were ____ most of the criticism.",
+    "correctAnswer": "on the receiving end of",
+    "explanation": "'On the receiving end of' is a fixed nominal frame requiring both the definite article and 'of'. Candidates often omit 'end', which leaves a participle with no idiomatic force."
+  },
+  {
+    "id": "p4-315",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "I heard unofficially that the branch is going to close in the spring.",
+    "options": null,
+    "baseWord": "GRAPEVINE",
+    "targetSentence": "I heard ____ that the branch is going to close in the spring.",
+    "correctAnswer": [
+      "through the grapevine",
+      "on the grapevine"
+    ],
+    "explanation": "Both 'through' and 'on the grapevine' are current, always with the definite article. The noun is singular and cannot be replaced by 'vine'."
+  },
+  {
+    "id": "p4-316",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "It took the new arrivals a week to work out how everything functioned.",
+    "options": null,
+    "baseWord": "BEARINGS",
+    "targetSentence": "It took the new arrivals a week to ____.",
+    "correctAnswer": [
+      "get their bearings",
+      "find their bearings"
+    ],
+    "explanation": "'Get one's bearings' is fixed in the plural with a possessive determiner. The singular 'bearing' means 'demeanour' and would make the sentence incoherent."
+  },
+  {
+    "id": "p4-317",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ignasi dealt with the criticism calmly and without appearing at all upset.",
+    "options": null,
+    "baseWord": "STRIDE",
+    "targetSentence": "Ignasi simply ____ without appearing at all upset.",
+    "correctAnswer": "took the criticism in his stride",
+    "explanation": "'Take something in one's stride' places the object before the preposition and requires the possessive. The American variant uses 'strides', which is not credited here."
+  },
+  {
+    "id": "p4-318",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The lawyer still had one clever argument that nobody else knew about.",
+    "options": null,
+    "baseWord": "SLEEVE",
+    "targetSentence": "The lawyer still had one clever argument ____.",
+    "correctAnswer": "up his sleeve",
+    "explanation": "'Up one's sleeve' takes the possessive and the preposition 'up', not 'in'. The singular is fixed even when several things are being concealed."
+  },
+  {
+    "id": "p4-319",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "In the end the government had to accept an unpleasant necessity and raise taxes.",
+    "options": null,
+    "baseWord": "BULLET",
+    "targetSentence": "In the end the government had to ____ and raise taxes.",
+    "correctAnswer": "bite the bullet",
+    "explanation": "'Bite the bullet' is fixed with the definite article and takes no complement. Candidates sometimes write 'bite the bullet of raising taxes', which breaks the frame the target sentence has set up."
+  },
+  {
+    "id": "p4-320",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "After years of feuding, the two families finally made peace with each other.",
+    "options": null,
+    "baseWord": "HATCHET",
+    "targetSentence": "After years of feuding, the two families finally ____.",
+    "correctAnswer": "buried the hatchet",
+    "explanation": "'Bury the hatchet' takes the definite article and no complement, since the reciprocal sense is built in. Candidates often add 'with each other', which is redundant and can breach the word limit."
+  },
+  {
+    "id": "p4-321",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "The speech resonated strongly with a great many of those listening.",
+    "options": null,
+    "baseWord": "CHORD",
+    "targetSentence": "The speech ____ with a great many of those listening.",
+    "correctAnswer": [
+      "struck a chord",
+      "really struck a chord"
+    ],
+    "explanation": "'Strike a chord' takes the indefinite article and 'with' before the audience. The homophone 'cord' is the single most frequent spelling error in this idiom."
+  },
+  {
+    "id": "p4-322",
+    "part": 4,
+    "category": "Preposition",
+    "questionText": "The real negotiations were conducted in private, well away from public view.",
+    "options": null,
+    "baseWord": "SCENES",
+    "targetSentence": "The real negotiations were conducted ____, well away from public view.",
+    "correctAnswer": "behind the scenes",
+    "explanation": "'Behind the scenes' is adverbial, fixed in the plural with the definite article. The singular 'behind the scene' refers literally to stage scenery and is not idiomatic."
+  },
+  {
+    "id": "p4-323",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Ever since the incident, Pere has been out of favour with the director.",
+    "options": null,
+    "baseWord": "BOOKS",
+    "targetSentence": "Ever since the incident, Pere has been ____ the director.",
+    "correctAnswer": [
+      "in the bad books of",
+      "in the black books of"
+    ],
+    "explanation": "'In someone's bad books' is normally possessive, but the 'of' frame is required here because the target sentence puts the person last. The noun is always plural."
+  },
+  {
+    "id": "p4-324",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Your analysis of the problem is exactly right in every respect.",
+    "options": null,
+    "baseWord": "NAIL",
+    "targetSentence": "Your analysis of the problem ____ in every respect.",
+    "correctAnswer": "hits the nail on the head",
+    "explanation": "The idiom is frozen: definite article before both nouns and the preposition 'on'. Candidates often write 'hits the nail in the head', a direct calque of the Spanish 'dar en el clavo'."
+  },
+  {
+    "id": "p4-325",
+    "part": 4,
+    "category": "Lexical",
+    "questionText": "Marina had no idea at all what to say when they announced the award.",
+    "options": null,
+    "baseWord": "LOSS",
+    "targetSentence": "Marina was completely ____ when they announced the award.",
+    "correctAnswer": "at a loss for words",
+    "explanation": "'At a loss for words' takes the indefinite article and 'for', not 'of'. Candidates frequently write 'in a loss' or 'at a loss of words', both of which are marked wrong."
   }
 ]
