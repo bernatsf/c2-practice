@@ -1,16 +1,14 @@
 import type { Part, PartDueCounts, PartFilter, Question, SessionMode, SrsItem } from "./types";
 import { SEED_BANK, withShuffledOptions } from "./seed";
-import { localRepository } from "./localRepository";
+import { localRepository, seenQuestionIds } from "./localRepository";
+import { partitionBySeen, weightedSample } from "./selection";
 import { isDue, selectNextSrsId } from "./srs";
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+// How many items each refill draws. The unseen quota is applied per refill, so
+// this has to be a SESSION-SIZED chunk rather than the whole pool: weighting a
+// batch the size of the bank is a no-op, because 75% of 1800 items exceeds the
+// unseen bucket and the sampler just falls back to taking everything.
+const REFILL_SIZE = 30;
 
 function partsForMode(mode: SessionMode): Part[] {
   switch (mode) {
@@ -36,6 +34,7 @@ export class QuestionQueue {
   private byId: Map<string, Question>;
   private pool: Question[] = [];
   private buffer: Question[] = [];
+  private served = new Set<string>(); // ids issued since the last full pass
   private lastId: string | null = null;
   private srsPart: PartFilter = "all";
 
@@ -50,8 +49,23 @@ export class QuestionQueue {
     }
   }
 
+  // Draw the next chunk, over-weighted towards items with no attempt history.
+  //
+  // `served` preserves the property the previous full-pool shuffle gave for
+  // free: nothing repeats until the whole pool has been worked through. Without
+  // it, weighting each chunk independently would let a small unseen bucket
+  // resurface every refill while most of the bank went untouched.
+  //
+  // The seen set is re-read on every refill rather than cached, so items
+  // answered earlier in this session correctly stop counting as unseen.
   private refill() {
-    this.buffer = shuffle(this.pool);
+    let source = this.pool.filter((q) => !this.served.has(q.id));
+    if (source.length === 0) {
+      this.served.clear();
+      source = this.pool;
+    }
+    const { unseenItems, seenItems } = partitionBySeen(source, seenQuestionIds());
+    this.buffer = weightedSample(unseenItems, seenItems, Math.min(REFILL_SIZE, source.length));
   }
 
   // Restrict review mode to a single exam part (or "all"). `SrsItem` stores only
@@ -108,6 +122,7 @@ export class QuestionQueue {
       q = this.buffer.pop()!;
     }
     this.lastId = q.id;
+    this.served.add(q.id);
     return withShuffledOptions(q);
   }
 

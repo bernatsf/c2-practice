@@ -9075,7 +9075,7 @@
     "questionText": "The argument breaks down at this point.",
     "options": null,
     "baseWord": "WHERE",
-    "targetSentence": "This is ____ down.",
+    "targetSentence": "This is the point ____ down.",
     "correctAnswer": "where the argument breaks",
     "explanation": "A locative cleft with 'this' as the fronted element. The present simple must be retained from the original."
   },

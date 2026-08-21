@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Question } from "@/lib/types";
 import type { ExamResult } from "@/lib/exam";
 import { buildExamPaper, EXAM_DURATION_MS, scoreExam, TOTAL_QUESTIONS } from "@/lib/exam";
-import { localRepository } from "@/lib/localRepository";
+import { localRepository, seenQuestionIds } from "@/lib/localRepository";
 import { appendTestEntry, entryFromExamResult } from "@/lib/history";
 import { freshSrsItem, reviewSrs } from "@/lib/srs";
 
@@ -39,7 +39,9 @@ export function useExamSession() {
     if (builtRef.current) return;
     builtRef.current = true;
     startedAtRef.current = Date.now();
-    setPaper(buildExamPaper());
+    // Read inside the effect, not at module scope: this runs after mount, so
+    // localStorage is available and the set reflects everything answered so far.
+    setPaper(buildExamPaper(undefined, seenQuestionIds()));
     setReady(true);
   }, []);
 

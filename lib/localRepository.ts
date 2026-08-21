@@ -64,3 +64,25 @@ export const localRepository: StatsRepository = {
     Object.values(KEYS).forEach((k) => window.localStorage.removeItem(k));
   },
 };
+
+/**
+ * Every question id the learner has already met, for unseen-first selection
+ * (`lib/selection.ts`).
+ *
+ * Two sources, because neither is complete on its own:
+ *   - `cpe.attempts` is the full answer log, but it is a ring buffer capped at
+ *     ATTEMPT_CAP, so the oldest attempts are evicted and their items would
+ *     otherwise look new again;
+ *   - `cpe.srs` is keyed by question id and never trimmed, so it remembers items
+ *     whose attempts have aged out.
+ * The union is therefore a strictly better "seen" signal than either alone.
+ *
+ * Returns an empty set during SSR, which makes every item count as unseen —
+ * harmless, since selection only ever runs client-side.
+ */
+export function seenQuestionIds(): Set<string> {
+  const ids = new Set<string>();
+  for (const attempt of localRepository.getAttempts()) ids.add(attempt.questionId);
+  for (const questionId of Object.keys(localRepository.getSrs())) ids.add(questionId);
+  return ids;
+}

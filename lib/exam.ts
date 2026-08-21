@@ -1,6 +1,7 @@
 import type { Part, Question } from "./types";
 import { grade } from "./grading";
 import { SEED_BANK, withShuffledOptions } from "./seed";
+import { sampleUnseenFirst } from "./selection";
 
 // ── C2 exam simulation ─────────────────────────────────────────────────────
 //
@@ -102,23 +103,26 @@ export function bandFor(marks: number): GradeBand {
 
 // ── Paper construction ─────────────────────────────────────────────────────
 
-function sample<T>(arr: T[], n: number): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a.slice(0, n);
-}
-
 // Draw a fresh paper: `count` distinct questions per part, in part order, with
 // Part 1 option positions randomised so the correct choice isn't always first.
 // Must be called client-side only — it uses Math.random(), so running it during
 // SSR would produce a different paper than the client hydrates with.
-export function buildExamPaper(bank: Question[] = SEED_BANK): Question[] {
+//
+// `seenIds` biases each part towards questions the learner has not met (see
+// lib/selection.ts). It is a PARAMETER rather than a localStorage read so this
+// module keeps its no-persistence guarantee; useExamSession supplies it. The
+// default empty set means "everything is unseen", which reduces to the uniform
+// random draw this function performed before.
+//
+// The quota is applied per part, not across the paper, so a part whose items
+// are all exhausted cannot eat another part's unseen allowance.
+export function buildExamPaper(
+  bank: Question[] = SEED_BANK,
+  seenIds: ReadonlySet<string> = new Set()
+): Question[] {
   return EXAM_BLUEPRINT.flatMap((spec) => {
     const pool = bank.filter((q) => q.part === spec.part);
-    return sample(pool, spec.count).map(withShuffledOptions);
+    return sampleUnseenFirst(pool, seenIds, spec.count).map(withShuffledOptions);
   });
 }
 
