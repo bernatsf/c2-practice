@@ -105,7 +105,7 @@ Constants: `DAY = 86_400_000 ms`, `MIN_EASE 1.3`, `MAX_EASE 3.0`, `START_EASE 2.
 
 - `freshSrsItem(id, now)`: `ease 2.5, reps 0, intervalDays 0, dueAt now, failCount 0, lapses 0, lastResult null`.
 - `reviewSrs(item, correct, now)` returns a new record:
-  - **Correct:** `reps+1`; `intervalDays` = `1` if reps was 0, `3` if reps was 1, else `round(intervalDays * ease)`; `ease = clamp(ease + 0.1)`; `dueAt = now + intervalDays*DAY`.
+  - **Correct:** `reps+1`; `intervalDays` by the reps the item had *before* this review — `0 → 1`, `1 → 3`, `2` or `3` → `round(intervalDays * ease)`, `4 → 100` (graduation), `>= 5 → 150` (mastery, flat thereafter); `ease = clamp(ease + 0.1)`; `dueAt = now + intervalDays*DAY`. The two hardcoded caps replace the old unbounded geometric growth, which reached ~64 days by the 5th correct and tripled from there.
   - **Incorrect (lapse):** `reps→0`, `intervalDays→0`, `ease = clamp(ease − 0.2)`, `failCount+1`, `lapses += (reps>0 ? 1 : 0)` (lapse only counts if item was previously learned), `dueAt = now` (**immediately due**).
 - `isDue` = `dueAt <= now`; `dueCount` filters.
 - **`selectNextSrsId(items, now, excludeId)`** — priority queue: filter to due; sort by (1) most "trouble" = `failCount + lapses` desc, (2) most overdue = lowest `dueAt`, (3) lowest `ease` (hardest). If the top item equals `excludeId` and there's >1 due, return the second. Returns `null` if nothing due.

@@ -33,7 +33,15 @@ export function reviewSrs(item: SrsItem, correct: boolean, now = Date.now()): Sr
   if (correct) {
     const reps = item.reps + 1;
     const intervalDays =
-      item.reps === 0 ? 1 : item.reps === 1 ? 3 : Math.round(item.intervalDays * item.ease);
+      item.reps === 0
+        ? 1
+        : item.reps === 1
+          ? 3
+          : item.reps >= 5
+            ? 150 // mastery: the item stops growing and parks at ~5 months
+            : item.reps === 4
+              ? 100 // graduation: skip the geometric blow-up and pin to ~3 months
+              : Math.round(item.intervalDays * item.ease);
     return {
       ...item,
       reps,
