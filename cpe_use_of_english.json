@@ -8860,8 +8860,14 @@
     "options": null,
     "baseWord": "CHANCE",
     "targetSentence": "____ my keys, could you let me know?",
-    "correctAnswer": "Should you chance to find",
-    "explanation": "'Chance to do something' is a formal synonym of 'happen to', and combines with the inverted 'Should you' conditional."
+    "correctAnswer": [
+      "Should you chance to find",
+      "If you chance to find",
+      "If by chance you find",
+      "If you by chance find",
+      "Should you by chance find"
+    ],
+    "explanation": "'Chance to do something' is a formal synonym of 'happen to' and combines with the inverted 'Should you' or standard 'If you' conditional. Alternatively, the adverbial phrase 'by chance' is equally valid and can be placed before or after the pronoun (e.g., 'If by chance you find')."
   },
   {
     "id": "p4-134",
