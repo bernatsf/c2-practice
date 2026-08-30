@@ -9410,8 +9410,11 @@
     "options": null,
     "baseWord": "BEARING",
     "targetSentence": "____ that the deadline cannot be extended.",
-    "correctAnswer": "Bearing in mind",
-    "explanation": "'Bearing in mind (that)' = remembering, taking into consideration. The participial form opens the sentence adverbially."
+    "correctAnswer": [
+      "It is worth bearing in mind",
+      "It needs bearing in mind"
+    ],
+    "explanation": "'It is worth bearing in mind' or 'It needs bearing in mind' are the fixed C2 impersonal structures used to express 'You must remember'. The previous answer 'Bearing in mind' dropped the subject and verb entirely, creating an ungrammatical sentence fragment."
   },
   {
     "id": "p4-182",
