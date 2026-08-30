@@ -89,7 +89,21 @@ export class PhrasalQueue {
   private nextDue(): PhrasalVerb | null {
     if (this.consecutiveDue >= MAX_CONSECUTIVE_DUE) return null;
     const id = selectNextSrsId(this.srsCandidates(), Date.now(), this.lastId);
-    return id ? (PHRASAL_BY_ID.get(id) ?? null) : null;
+
+    // `selectNextSrsId` treats excludeId as a preference, not a rule: it honours
+    // it only when something else is also due (`due.length > 1`), otherwise it
+    // returns the excluded item anyway. A miss sets dueAt to now, so just after
+    // one the failed verb is frequently the ONLY due record — and came back as
+    // the very next question, sometimes several times running.
+    //
+    // Rejecting it here and falling through to a fresh draw fixes that exactly,
+    // rather than probabilistically: the verb stays due and resurfaces on a
+    // later call, once something else has been in between. The alternative —
+    // offsetting a failed item's dueAt — would have to change `reviewSrs`,
+    // which the Parts 1–4 review queue shares, and would still break for a
+    // learner who takes longer than the offset to answer.
+    if (id === null || id === this.lastId) return null;
+    return PHRASAL_BY_ID.get(id) ?? null;
   }
 
   private nextFresh(): PhrasalVerb | null {
