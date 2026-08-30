@@ -8,6 +8,7 @@ import { RatingSparkline } from "@/components/dashboard/RatingSparkline";
 import { CategoryBreakdown } from "@/components/dashboard/CategoryBreakdown";
 import { SessionConfigurator } from "@/components/dashboard/SessionConfigurator";
 import { SimulationHistory } from "@/components/dashboard/SimulationHistory";
+import { PhrasalDrillCard } from "@/components/dashboard/PhrasalDrillCard";
 import { clearTestHistory } from "@/lib/history";
 import { TOTAL_MARKS } from "@/lib/exam";
 
@@ -32,7 +33,7 @@ export default function DashboardPage() {
           onClick={() => {
             if (
               confirm(
-                "Reset all progress? This clears your rating, streak, attempt history and simulation history."
+                "Reset all progress? This clears your rating, streak, attempt history, simulation history and phrasal-verb drill progress."
               )
             ) {
               stats.reset();
@@ -121,6 +122,8 @@ export default function DashboardPage() {
           Start 45-min exam →
         </Link>
       </section>
+
+      <PhrasalDrillCard key={`phrasal-${historyKey}`} />
 
       <SimulationHistory key={historyKey} />
 

@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run validate:json && next build",
+    "build": "npm test && next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "npm run validate:json",
+    "test": "npm run validate:json && npm run validate:phrasal",
     "validate:json": "tsx scripts/validate_question_bank.ts",
+    "validate:phrasal": "tsx scripts/validate_phrasal_verbs.ts",
+    "build:phrasal": "tsx scripts/build_phrasal_verbs.ts",
     "audit:p4": "tsx scripts/audit_part4_context.ts"
   },
   "dependencies": {

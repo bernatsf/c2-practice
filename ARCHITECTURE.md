@@ -17,6 +17,8 @@ app/
   layout.tsx           Root layout: <html lang="en">, metadata, centered max-w-5xl container, globals.css
   page.tsx             "/"  Dashboard (client component)
   practice/page.tsx    "/practice"  Session route (client component)
+  exam/page.tsx        "/exam"  Timed mock paper
+  phrasal/page.tsx     "/phrasal"  Phrasal-verb drill (standalone, see §15)
 ```
 
 - **`/` (Dashboard)** — `"use client"`. Renders stat cards (rating/peak, rolling accuracy, streak, all-time accuracy), a rating sparkline, an SRS status strip (due/tracked/lapses with a "Review N due" link to `/practice?mode=srs`), the `SessionConfigurator`, and `CategoryBreakdown`. Has a "Reset progress" button (`confirm()` → `stats.reset()`).
@@ -24,7 +26,8 @@ app/
   - `mode` ∈ `{part1, part2, part3, part4, mixed, srs}` (default/fallback `mixed`).
   - `timer`: `"question"` → `per_question`, `"session"` → `per_session`, else `null`.
   - Renders `<PracticeSession key={`${mode}:${timerMode}`} …>`. **The `key` forces a full remount (fresh queue + session state) whenever mode or timer changes.**
-- Navigation is via `next/link` and `useRouter().push()` (from `SessionConfigurator`). There are only these two routes today.
+- **`/phrasal`** — also `<Suspense>`-wrapped for `useSearchParams`. Reads `root` (e.g. `?root=GET`, folded to uppercase; anything unrecognised falls back to the whole bank) and renders `<PhrasalDrill key={root} …>`. See §15.
+- Navigation is via `next/link` and `useRouter().push()` (from `SessionConfigurator`).
 
 ## 3. Domain model (`lib/types.ts`)
 
@@ -105,7 +108,7 @@ Constants: `DAY = 86_400_000 ms`, `MIN_EASE 1.3`, `MAX_EASE 3.0`, `START_EASE 2.
 
 - `freshSrsItem(id, now)`: `ease 2.5, reps 0, intervalDays 0, dueAt now, failCount 0, lapses 0, lastResult null`.
 - `reviewSrs(item, correct, now)` returns a new record:
-  - **Correct:** `reps+1`; `intervalDays` by the reps the item had *before* this review — `0 → 1`, `1 → 3`, `2` or `3` → `round(intervalDays * ease)`, `4 → 100` (graduation), `>= 5 → 150` (mastery, flat thereafter); `ease = clamp(ease + 0.1)`; `dueAt = now + intervalDays*DAY`. The two hardcoded caps replace the old unbounded geometric growth, which reached ~64 days by the 5th correct and tripled from there.
+  - **Correct:** `reps+1`; `intervalDays` by the reps the item had *before* this review — `0 → 1`, `1 → 3`, `2 → round(intervalDays * ease)`, `3 → 100` (graduation), `>= 4 → 150` (mastery, flat thereafter); `ease = clamp(ease + 0.1)`; `dueAt = now + intervalDays*DAY`. **Because `reps` is read before it increments, each branch is one behind the answer it describes:** counted in consecutive correct answers the schedule is `1 → 3 → 8 → 100 → 150 → 150…`, i.e. graduation lands on the **4th** correct answer and mastery on the **5th**. The two hardcoded caps replace the old unbounded geometric growth, which reached ~64 days by the 5th correct and tripled from there.
   - **Incorrect (lapse):** `reps→0`, `intervalDays→0`, `ease = clamp(ease − 0.2)`, `failCount+1`, `lapses += (reps>0 ? 1 : 0)` (lapse only counts if item was previously learned), `dueAt = now` (**immediately due**).
 - `isDue` = `dueAt <= now`; `dueCount` filters.
 - **`selectNextSrsId(items, now, excludeId)`** — priority queue: filter to due; sort by (1) most "trouble" = `failCount + lapses` desc, (2) most overdue = lowest `dueAt`, (3) lowest `ease` (hardest). If the top item equals `excludeId` and there's >1 due, return the second. Returns `null` if nothing due.
@@ -134,6 +137,8 @@ Constants: `DAY = 86_400_000 ms`, `MIN_EASE 1.3`, `MAX_EASE 3.0`, `START_EASE 2.
   - `cpe.attempts` → `Attempt[]` (**ring buffer capped at `ATTEMPT_CAP = 2000`**; oldest spliced off)
   - `cpe.categoryStats` → `Record<string, CategoryStat>` (**defined & cleared but never written by current code** — category stats are derived on the fly in `useStats`, see §11)
   - `cpe.srs` → `Record<questionId, SrsItem>`
+  - `cpe.phrasal.srs` → `Record<phrasalId, SrsItem>` (drill only — see §15)
+  - `cpe.phrasal.profile` → `PhrasalProfile` (drill totals/streak; no ELO)
 - `read`/`write` are SSR-safe (`typeof window === "undefined"` guard) and swallow JSON/quota errors. `reset()` removes all four keys.
 - `freshProfile()` seeds rating/peak at 1700, zeros streaks/counts.
 
@@ -180,3 +185,63 @@ Constants: `DAY = 86_400_000 ms`, `MIN_EASE 1.3`, `MAX_EASE 3.0`, `START_EASE 2.
 - `Category` union has 10 members; `mapCategory` only ever emits 5 (`false_friend, phrasal_verb, preposition, lexical, grammar`) from current data. `l1Trap`/`l1Note` are typed and rendered but **not populated** by `toQuestion` (no source fields in the JSON), so the L1-note feedback line never shows with current data.
 - Seed bank is deliberately small (50 items) pending core-mechanic finalization.
 - All randomness/persistence is client-only; pages are `"use client"`; `/practice` needs the `Suspense` boundary for `useSearchParams`.
+
+## 15. Phrasal-verb rapid-fire drill (`/phrasal`)
+
+A **production** drill, not a cloze: the learner is shown a meaning and must
+type the verb. Standalone — it runs none of the Parts 1–4 session machinery.
+
+**Bank** — `data/phrasal_verbs.json`, 190 items over 24 roots, shape
+`{ id, root, target, definition, translation }` (`PhrasalVerb`, `lib/phrasal.ts`).
+Ids are sequential (`pv-001`…) and **must only ever be appended**: the SRS
+schedule is keyed by id, so inserting would reassign a learner's progress to the
+wrong verb. `scripts/build_phrasal_verbs.ts` regenerates the file from its
+authored ROWS table; `scripts/validate_phrasal_verbs.ts` is the gate (`npm test`,
+and `npm run build`).
+
+**Answer notation** (`lib/phrasal.ts`). Targets carry two markers, and
+`acceptedForms(target)` expands both into every accepted spelling:
+
+- `[ ... ]` — an argument slot, **optional** when typing. `get [sb] down` accepts
+  both `get down` and `get sb down`.
+- `a / b` — interchangeable particles. `call on / upon [sb] to do [sth]` accepts
+  `call on to do` and `call upon to do`. A slash **inside** brackets
+  (`[sb/sth]`, `[an idea / point of view]`) is prose, not notation, and is never
+  split.
+
+Everything else is required verbatim, including the grammatical markers the bank
+keeps deliberately (`doing` in `set about doing [sth]`, `to do` in
+`set out to do [sth]`).
+
+`gradePhrasal` runs the **learner's input through the same expander as the
+target** rather than a one-sided normalization, so someone who types the
+notation back (`come round / around`, `get [sb] down`) is graded on what they
+meant. On top of `normalize()` from `lib/grading.ts` it also drops bracket
+characters, strips a leading infinitive `to `, and folds `someone`/`something`
+to `sb`/`sth`.
+
+`coreForm()` is a **checking** aid used by the validator to prove every item is
+answerable with markers stripped. It is not a display string: `look to [sb] for
+[sth]` reduces to `look to for`. The UI instead reveals the authored target with
+its optional slots dimmed.
+
+**Scheduling** — `lib/phrasalQueue.ts` reuses `lib/srs.ts` wholesale (same SM-2,
+same 100/150-day graduation caps) and `lib/selection.ts` for unseen-first
+weighting, against `cpe.phrasal.srs`. `next()` prefers the highest-priority due
+item, but forces a fresh draw after `MAX_CONSECUTIVE_DUE = 3`: a failed item
+becomes due immediately, so without that a learner missing two or three verbs
+would be locked into re-testing only those.
+
+**Isolation** — separate bank, separate localStorage keys, no `Attempt` log and
+no ELO. The drill deliberately does **not** move the CPE rating: it is a
+different task type with no item difficulty, so folding it in would distort the
+rating. `localRepository.reset()` clears both drill keys along with the exam
+ones. The independence is visible in the bundle: `/phrasal` is ~112 kB first
+load against `/practice`'s ~325 kB, because the 1874-item question bank is never
+imported.
+
+**UI** — `components/phrasal/PhrasalDrill.tsx` (session shell, reusing
+`TextAnswer` from the practice parts) and `RootMatrix.tsx` (all-roots or one
+root, with item counts and a warn badge for due items).
+`components/dashboard/PhrasalDrillCard.tsx` is the dashboard entry point.
+`/phrasal?root=GET` deep-links into a single root.

@@ -84,6 +84,17 @@ export interface Attempt {
   createdAt: number;
 }
 
+// Lightweight progress record for the phrasal-verb drill. Deliberately NOT the
+// exam `Profile`: the drill is a production task with no ELO item difficulty,
+// so folding its answers into the CPE rating would distort it.
+export interface PhrasalProfile {
+  totalAttempts: number;
+  totalCorrect: number;
+  currentStreak: number;
+  bestStreak: number;
+  updatedAt: number;
+}
+
 export interface CategoryStat {
   category: Category;
   attempts: number;
@@ -98,7 +109,12 @@ export interface GradeResult {
   message?: string; // e.g. constraint violation note (Part 4)
 }
 
-// Spaced-repetition state, one record per question ever attempted.
+// Spaced-repetition state, one record per item ever attempted.
+//
+// Used by two independent schedules that share the SM-2 code in `lib/srs.ts`
+// but never share storage: the Parts 1–4 question bank (`cpe.srs`) and the
+// phrasal-verb drill (`cpe.phrasal.srs`). `questionId` therefore holds a
+// question id in the first and a phrasal-verb id in the second.
 export interface SrsItem {
   questionId: string;
   ease: number; // SM-2 ease factor

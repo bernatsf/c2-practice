@@ -32,15 +32,19 @@ function clampEase(e: number): number {
 export function reviewSrs(item: SrsItem, correct: boolean, now = Date.now()): SrsItem {
   if (correct) {
     const reps = item.reps + 1;
+    // `item.reps` is the count BEFORE this review, so each branch is one less
+    // than the answer it describes: `reps === 3` is the 4th consecutive correct
+    // answer, `reps >= 4` the 5th and beyond. Counted in answers, the schedule
+    // is 1 → 3 → 8 → 100 → 150 → 150…
     const intervalDays =
       item.reps === 0
         ? 1
         : item.reps === 1
           ? 3
-          : item.reps >= 5
-            ? 150 // mastery: the item stops growing and parks at ~5 months
-            : item.reps === 4
-              ? 100 // graduation: skip the geometric blow-up and pin to ~3 months
+          : item.reps >= 4
+            ? 150 // mastery (5th correct on): stops growing, parks at ~5 months
+            : item.reps === 3
+              ? 100 // graduation (4th correct): skip the geometric blow-up
               : Math.round(item.intervalDays * item.ease);
     return {
       ...item,

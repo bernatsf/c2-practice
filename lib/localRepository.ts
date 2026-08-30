@@ -1,11 +1,17 @@
-import type { Attempt, CategoryStat, Profile, SrsItem } from "./types";
-import { freshProfile, StatsRepository } from "./repository";
+import type { Attempt, CategoryStat, PhrasalProfile, Profile, SrsItem } from "./types";
+import { freshPhrasalProfile, freshProfile, StatsRepository } from "./repository";
 
 const KEYS = {
   profile: "cpe.profile",
   attempts: "cpe.attempts",
   category: "cpe.categoryStats",
   srs: "cpe.srs",
+  // Phrasal-verb drill. Separate keys, so the drill's schedule and progress sit
+  // alongside the exam ones without ever mixing with them. Both are listed here
+  // so `reset()` clears them together — a half-wiped profile would leave the
+  // drill claiming mastery of items the learner no longer has any history for.
+  phrasalSrs: "cpe.phrasal.srs",
+  phrasalProfile: "cpe.phrasal.profile",
 } as const;
 
 const ATTEMPT_CAP = 2000; // ring buffer
@@ -59,6 +65,20 @@ export const localRepository: StatsRepository = {
     all[item.questionId] = item;
     write(KEYS.srs, all);
   },
+  getPhrasalSrs() {
+    return read<Record<string, SrsItem>>(KEYS.phrasalSrs, {});
+  },
+  savePhrasalSrsItem(item: SrsItem) {
+    const all = read<Record<string, SrsItem>>(KEYS.phrasalSrs, {});
+    all[item.questionId] = item;
+    write(KEYS.phrasalSrs, all);
+  },
+  getPhrasalProfile() {
+    return read<PhrasalProfile>(KEYS.phrasalProfile, freshPhrasalProfile());
+  },
+  savePhrasalProfile(p: PhrasalProfile) {
+    write(KEYS.phrasalProfile, p);
+  },
   reset() {
     if (typeof window === "undefined") return;
     Object.values(KEYS).forEach((k) => window.localStorage.removeItem(k));
@@ -85,4 +105,15 @@ export function seenQuestionIds(): Set<string> {
   for (const attempt of localRepository.getAttempts()) ids.add(attempt.questionId);
   for (const questionId of Object.keys(localRepository.getSrs())) ids.add(questionId);
   return ids;
+}
+
+/**
+ * Every phrasal-verb id the learner has already drilled.
+ *
+ * Unlike `seenQuestionIds` there is only one source: the drill keeps no attempt
+ * log, so an SRS record IS the record of having met an item. That map is never
+ * trimmed, so nothing ages back into looking new.
+ */
+export function seenPhrasalIds(): Set<string> {
+  return new Set(Object.keys(localRepository.getPhrasalSrs()));
 }

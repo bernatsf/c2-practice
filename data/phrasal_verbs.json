@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "pv-001",
+    "root": "GET",
+    "target": "get across [sth]",
+    "definition": "To convey an idea or message so that it is properly understood.",
+    "translation": "hacer entender algo, transmitir una idea / fer entendre alguna cosa"
+  },
+  {
+    "id": "pv-002",
+    "root": "GET",
+    "target": "get along / on with [sb]",
+    "definition": "To have a harmonious relationship with someone.",
+    "translation": "llevarse bien con alguien / avenir-se amb algú"
+  },
+  {
+    "id": "pv-003",
+    "root": "GET",
+    "target": "get at [sb]",
+    "definition": "To criticize someone persistently and unfairly.",
+    "translation": "meterse con alguien / ficar-se amb algú"
+  },
+  {
+    "id": "pv-004",
+    "root": "GET",
+    "target": "get at [sth]",
+    "definition": "To imply something indirectly; also, to manage to reach or access it.",
+    "translation": "insinuar algo, acceder a algo / insinuar alguna cosa, accedir-hi"
+  },
+  {
+    "id": "pv-005",
+    "root": "GET",
+    "target": "get away with [doing sth]",
+    "definition": "To escape punishment or criticism for something you have done.",
+    "translation": "salirse con la suya, quedar impune / sortir-se'n impunement"
+  },
+  {
+    "id": "pv-006",
+    "root": "GET",
+    "target": "get [sb] down",
+    "definition": "To make someone feel dispirited or depressed over time.",
+    "translation": "desanimar, deprimir a alguien / desanimar algú"
+  },
+  {
+    "id": "pv-007",
+    "root": "GET",
+    "target": "get [sth] down",
+    "definition": "To write something down quickly; also, to swallow with difficulty.",
+    "translation": "apuntar algo, tragar algo / apuntar alguna cosa, empassar-se-la"
+  },
+  {
+    "id": "pv-008",
+    "root": "GET",
+    "target": "get down to doing [sth]",
+    "definition": "To begin applying yourself seriously to a task after delay.",
+    "translation": "ponerse en serio a hacer algo / posar-se de debò a fer alguna cosa"
+  },
+  {
+    "id": "pv-009",
+    "root": "GET",
+    "target": "get in on [sth]",
+    "definition": "To become involved in something advantageous that is already under way.",
+    "translation": "apuntarse a algo, meterse en algo / apuntar-se a alguna cosa"
+  },
+  {
+    "id": "pv-010",
+    "root": "GET",
+    "target": "get in with [sb]",
+    "definition": "To ingratiate yourself with a person or group in order to gain advantage.",
+    "translation": "congraciarse con alguien, hacerse amigo de / congraciar-se amb algú"
+  },
+  {
+    "id": "pv-011",
+    "root": "GET",
+    "target": "get off on [sth]",
+    "definition": "To derive intense, often illicit, pleasure or excitement from something.",
+    "translation": "disfrutar morbosamente con algo / gaudir morbosament d'alguna cosa"
+  },
+  {
+    "id": "pv-012",
+    "root": "GET",
+    "target": "get [sb] off",
+    "definition": "To secure someone's acquittal or spare them a punishment.",
+    "translation": "librar a alguien del castigo, lograr su absolución / lliurar algú del càstig"
+  },
+  {
+    "id": "pv-013",
+    "root": "GET",
+    "target": "get on for [age / time]",
+    "definition": "To be approaching a particular age, time or quantity.",
+    "translation": "rondar, acercarse a (una edad u hora) / vorejar, atansar-se a"
+  },
+  {
+    "id": "pv-014",
+    "root": "GET",
+    "target": "get out of doing [sth]",
+    "definition": "To avoid an obligation you were expected to fulfil.",
+    "translation": "librarse de hacer algo, escaquearse / escapolir-se de fer alguna cosa"
+  },
+  {
+    "id": "pv-015",
+    "root": "GET",
+    "target": "get round / around [sb]",
+    "definition": "To persuade someone by cajoling or flattering them.",
+    "translation": "engatusar, camelar a alguien / entabanar algú"
+  },
+  {
+    "id": "pv-016",
+    "root": "GET",
+    "target": "get round / around [a problem]",
+    "definition": "To find a way of circumventing an obstacle or restriction.",
+    "translation": "sortear, eludir un problema / esquivar un problema"
+  },
+  {
+    "id": "pv-017",
+    "root": "GET",
+    "target": "get round / around to doing [sth]",
+    "definition": "To finally find the time to do something long postponed.",
+    "translation": "encontrar por fin el momento de hacer algo / trobar per fi el moment de fer-ho"
+  },
+  {
+    "id": "pv-018",
+    "root": "GET",
+    "target": "get through to [sb]",
+    "definition": "To make someone finally understand; also, to reach them by telephone.",
+    "translation": "hacerse entender por alguien, contactar por teléfono / fer-se entendre, contactar per telèfon"
+  },
+  {
+    "id": "pv-019",
+    "root": "GET",
+    "target": "get through [an exam / an ordeal]",
+    "definition": "To pass a test or survive a difficult experience.",
+    "translation": "aprobar, superar (una prueba o un trance) / aprovar, superar"
+  },
+  {
+    "id": "pv-020",
+    "root": "GET",
+    "target": "get up to [sth]",
+    "definition": "To do something mischievous or of which others would disapprove.",
+    "translation": "hacer travesuras, andar metido en algo / fer entremaliadures"
+  },
+  {
+    "id": "pv-021",
+    "root": "SET",
+    "target": "set about doing [sth]",
+    "definition": "To begin a task in an energetic and purposeful way.",
+    "translation": "empezar a hacer algo, ponerse a / posar-se a fer alguna cosa"
+  },
+  {
+    "id": "pv-022",
+    "root": "SET",
+    "target": "set [sb/sth] apart from [sb/sth]",
+    "definition": "To be the quality that distinguishes one person or thing from another.",
+    "translation": "distinguir, diferenciar de / distingir de"
+  },
+  {
+    "id": "pv-023",
+    "root": "SET",
+    "target": "set [sth] aside",
+    "definition": "To reserve something for later use; also, to annul or disregard it.",
+    "translation": "reservar algo, dejar de lado, anular / reservar, deixar de banda"
+  },
+  {
+    "id": "pv-024",
+    "root": "SET",
+    "target": "set [sb] back [an amount]",
+    "definition": "To cost someone a specified, usually large, sum of money.",
+    "translation": "costarle a alguien (una suma) / costar (una quantitat) a algú"
+  },
+  {
+    "id": "pv-025",
+    "root": "SET",
+    "target": "set [sth] back",
+    "definition": "To delay the progress of something.",
+    "translation": "retrasar algo / endarrerir alguna cosa"
+  },
+  {
+    "id": "pv-026",
+    "root": "SET",
+    "target": "set in",
+    "definition": "Of weather, decay or an unwelcome condition: to begin and show every sign of persisting.",
+    "translation": "instalarse, empezar (mal tiempo, deterioro) / instal·lar-se, començar (mal temps)"
+  },
+  {
+    "id": "pv-027",
+    "root": "SET",
+    "target": "set off [sth]",
+    "definition": "To trigger something, especially an alarm, a reaction or a chain of events.",
+    "translation": "desencadenar algo, hacer saltar (una alarma) / desencadenar, fer saltar"
+  },
+  {
+    "id": "pv-028",
+    "root": "SET",
+    "target": "set out to do [sth]",
+    "definition": "To begin an undertaking with a specific aim in mind.",
+    "translation": "proponerse hacer algo / proposar-se fer alguna cosa"
+  },
+  {
+    "id": "pv-029",
+    "root": "SET",
+    "target": "set out [sth]",
+    "definition": "To arrange things systematically, or to explain ideas in an ordered way.",
+    "translation": "exponer algo ordenadamente, disponer / exposar, disposar"
+  },
+  {
+    "id": "pv-030",
+    "root": "SET",
+    "target": "set [sb] up",
+    "definition": "To frame someone for a crime; also, to establish them financially.",
+    "translation": "tender una trampa a alguien, montarle un negocio / parar un parany a algú, establir algú"
+  },
+  {
+    "id": "pv-031",
+    "root": "SET",
+    "target": "set upon / on [sb]",
+    "definition": "To attack someone suddenly and violently.",
+    "translation": "abalanzarse sobre alguien, atacar / abraonar-se sobre algú"
+  },
+  {
+    "id": "pv-032",
+    "root": "COME",
+    "target": "come about",
+    "definition": "To happen or come to pass, especially in a way that was not planned.",
+    "translation": "suceder, producirse / esdevenir-se"
+  },
+  {
+    "id": "pv-033",
+    "root": "COME",
+    "target": "come across [sb/sth]",
+    "definition": "To encounter someone or something by chance.",
+    "translation": "toparse con, encontrar por casualidad / topar amb"
+  },
+  {
+    "id": "pv-034",
+    "root": "COME",
+    "target": "come across as [adj / noun]",
+    "definition": "To give a particular impression to other people.",
+    "translation": "dar la impresión de, parecer / fer l'efecte de"
+  },
+  {
+    "id": "pv-035",
+    "root": "COME",
+    "target": "come by [sth]",
+    "definition": "To obtain something, usually with some difficulty.",
+    "translation": "conseguir algo, hacerse con / aconseguir alguna cosa"
+  },
+  {
+    "id": "pv-036",
+    "root": "COME",
+    "target": "come down to [sth]",
+    "definition": "To be reducible, in the end, to one essential factor.",
+    "translation": "reducirse a algo, ser cuestión de / reduir-se a"
+  },
+  {
+    "id": "pv-037",
+    "root": "COME",
+    "target": "come down with [an illness]",
+    "definition": "To start suffering from an illness, usually a mild one.",
+    "translation": "caer enfermo de, pillar (una enfermedad) / agafar (una malaltia)"
+  },
+  {
+    "id": "pv-038",
+    "root": "COME",
+    "target": "come in for [criticism / praise]",
+    "definition": "To be the object of a particular reaction, especially criticism.",
+    "translation": "recibir, ser objeto de (críticas) / rebre, ser objecte de (crítiques)"
+  },
+  {
+    "id": "pv-039",
+    "root": "COME",
+    "target": "come off",
+    "definition": "Of a plan or attempt: to succeed.",
+    "translation": "salir bien, cuajar / sortir bé, reeixir"
+  },
+  {
+    "id": "pv-040",
+    "root": "COME",
+    "target": "come out with [a statement / remark]",
+    "definition": "To say something unexpected or startling.",
+    "translation": "soltar (un comentario) / amollar (un comentari)"
+  },
+  {
+    "id": "pv-041",
+    "root": "COME",
+    "target": "come round / around to [an idea / point of view]",
+    "definition": "To be gradually won over to an opinion you first resisted.",
+    "translation": "acabar aceptando (una idea) / acabar acceptant (una idea)"
+  },
+  {
+    "id": "pv-042",
+    "root": "COME",
+    "target": "come round / around",
+    "definition": "To regain consciousness after fainting or an anaesthetic.",
+    "translation": "volver en sí / tornar en si"
+  },
+  {
+    "id": "pv-043",
+    "root": "COME",
+    "target": "come through [a crisis / difficult period]",
+    "definition": "To survive a dangerous or difficult period.",
+    "translation": "superar (una crisis), salir adelante / superar (una crisi)"
+  },
+  {
+    "id": "pv-044",
+    "root": "COME",
+    "target": "come to terms with [sth]",
+    "definition": "To reach acceptance of something painful or unwelcome.",
+    "translation": "aceptar, asumir, hacerse a la idea de / assumir, fer-se a la idea de"
+  },
+  {
+    "id": "pv-045",
+    "root": "COME",
+    "target": "come up against [an obstacle / opposition]",
+    "definition": "To be confronted by a difficulty or by resistance.",
+    "translation": "tropezar con, enfrentarse a (un obstáculo) / topar amb (un obstacle)"
+  },
+  {
+    "id": "pv-046",
+    "root": "COME",
+    "target": "come up to [expectations / scratch]",
+    "definition": "To reach the expected or required standard.",
+    "translation": "estar a la altura de / estar a l'altura de"
+  },
+  {
+    "id": "pv-047",
+    "root": "COME",
+    "target": "come up with [an idea / solution]",
+    "definition": "To devise or produce an idea, plan or answer.",
+    "translation": "idear, dar con (una idea) / idear, trobar (una idea)"
+  },
+  {
+    "id": "pv-048",
+    "root": "COME",
+    "target": "come into [money / property]",
+    "definition": "To inherit money or property.",
+    "translation": "heredar (dinero, bienes) / heretar (diners, béns)"
+  },
+  {
+    "id": "pv-049",
+    "root": "BRING",
+    "target": "bring [sth] about",
+    "definition": "To cause something to happen.",
+    "translation": "provocar, ocasionar algo / provocar alguna cosa"
+  },
+  {
+    "id": "pv-050",
+    "root": "BRING",
+    "target": "bring [sth] around / round to [a topic]",
+    "definition": "To steer a conversation towards a particular subject.",
+    "translation": "llevar (la conversación) hacia (un tema) / menar (la conversa) cap a (un tema)"
+  },
+  {
+    "id": "pv-051",
+    "root": "BRING",
+    "target": "bring [sb] around / round",
+    "definition": "To persuade someone to change their mind; also, to revive them.",
+    "translation": "convencer a alguien, hacerlo volver en sí / convèncer algú, fer-lo tornar en si"
+  },
+  {
+    "id": "pv-052",
+    "root": "BRING",
+    "target": "bring [sth] back",
+    "definition": "To evoke a memory; also, to reinstate something abolished.",
+    "translation": "traer a la memoria, reinstaurar / fer venir a la memòria, restablir"
+  },
+  {
+    "id": "pv-053",
+    "root": "BRING",
+    "target": "bring [sth] down",
+    "definition": "To topple a government; also, to reduce prices or levels.",
+    "translation": "derribar (un gobierno), bajar (precios) / enderrocar (un govern), abaixar (preus)"
+  },
+  {
+    "id": "pv-054",
+    "root": "BRING",
+    "target": "bring [sth] forward",
+    "definition": "To put forward a proposal; also, to reschedule something to an earlier date.",
+    "translation": "presentar (una propuesta), adelantar (una fecha) / presentar (una proposta), avançar (una data)"
+  },
+  {
+    "id": "pv-055",
+    "root": "BRING",
+    "target": "bring [sth] in",
+    "definition": "To introduce a law or measure; also, to earn or generate income.",
+    "translation": "introducir (una ley), generar (ingresos) / introduir (una llei), generar (ingressos)"
+  },
+  {
+    "id": "pv-056",
+    "root": "BRING",
+    "target": "bring [sth] off",
+    "definition": "To succeed in doing something difficult.",
+    "translation": "sacar adelante algo, lograrlo / reeixir en alguna cosa difícil"
+  },
+  {
+    "id": "pv-057",
+    "root": "BRING",
+    "target": "bring [sth] on",
+    "definition": "To trigger an illness or a crisis.",
+    "translation": "provocar (una enfermedad, una crisis) / provocar (una malaltia, una crisi)"
+  },
+  {
+    "id": "pv-058",
+    "root": "BRING",
+    "target": "bring [sth] out",
+    "definition": "To publish or release something; also, to make a quality more evident.",
+    "translation": "sacar, publicar, resaltar (una cualidad) / publicar, fer ressaltar"
+  },
+  {
+    "id": "pv-059",
+    "root": "BRING",
+    "target": "bring [sb] up",
+    "definition": "To raise and educate a child.",
+    "translation": "criar, educar a alguien / criar, educar algú"
+  },
+  {
+    "id": "pv-060",
+    "root": "BRING",
+    "target": "bring [sth] up",
+    "definition": "To mention a subject; also, to vomit.",
+    "translation": "sacar (un tema), vomitar / treure (un tema), vomitar"
+  },
+  {
+    "id": "pv-061",
+    "root": "PUT",
+    "target": "put [sth] across / over",
+    "definition": "To communicate an idea clearly and convincingly.",
+    "translation": "transmitir, comunicar algo con claridad / transmetre amb claredat"
+  },
+  {
+    "id": "pv-062",
+    "root": "PUT",
+    "target": "put [sth] aside / by",
+    "definition": "To save money for later; also, to disregard differences.",
+    "translation": "ahorrar (dinero), dejar de lado (diferencias) / estalviar (diners), deixar de banda"
+  },
+  {
+    "id": "pv-063",
+    "root": "PUT",
+    "target": "put [sb] down",
+    "definition": "To belittle or humiliate someone, especially in public.",
+    "translation": "menospreciar, humillar a alguien / menysprear algú"
+  },
+  {
+    "id": "pv-064",
+    "root": "PUT",
+    "target": "put [sth] down to [sth]",
+    "definition": "To attribute something to a particular cause.",
+    "translation": "atribuir algo a / atribuir alguna cosa a"
+  },
+  {
+    "id": "pv-065",
+    "root": "PUT",
+    "target": "put forward [a proposal / candidate]",
+    "definition": "To propose an idea or nominate a person for consideration.",
+    "translation": "presentar, proponer (una propuesta, un candidato) / presentar, proposar"
+  },
+  {
+    "id": "pv-066",
+    "root": "PUT",
+    "target": "put [sth] off",
+    "definition": "To postpone something; also, to deter or repel.",
+    "translation": "aplazar algo, disuadir / ajornar, dissuadir"
+  },
+  {
+    "id": "pv-067",
+    "root": "PUT",
+    "target": "put [sb] off doing [sth]",
+    "definition": "To make someone lose the desire to do something.",
+    "translation": "quitarle a alguien las ganas de hacer algo / llevar-li a algú les ganes de fer alguna cosa"
+  },
+  {
+    "id": "pv-068",
+    "root": "PUT",
+    "target": "put [sth] on",
+    "definition": "To stage a production; also, to gain weight, or to feign an attitude.",
+    "translation": "montar (un espectáculo), engordar, fingir / muntar (un espectacle), engreixar-se, fingir"
+  },
+  {
+    "id": "pv-069",
+    "root": "PUT",
+    "target": "put [sb] out",
+    "definition": "To inconvenience or trouble someone.",
+    "translation": "causar molestias a alguien, incomodarlo / amoïnar, molestar algú"
+  },
+  {
+    "id": "pv-070",
+    "root": "PUT",
+    "target": "put [a fire / light] out",
+    "definition": "To extinguish a fire or a light.",
+    "translation": "apagar (un fuego, una luz) / apagar (un foc, un llum)"
+  },
+  {
+    "id": "pv-071",
+    "root": "PUT",
+    "target": "put [sb] through to [sb]",
+    "definition": "To connect a caller to another person on the telephone.",
+    "translation": "pasarle a alguien (una llamada) / passar (una trucada) a algú"
+  },
+  {
+    "id": "pv-072",
+    "root": "PUT",
+    "target": "put [sb] through [an ordeal / college]",
+    "definition": "To make someone endure an ordeal; also, to fund their studies.",
+    "translation": "hacer pasar a alguien por (un trance), pagarle los estudios / fer passar algú per (un tràngol), pagar-li els estudis"
+  },
+  {
+    "id": "pv-073",
+    "root": "PUT",
+    "target": "put up with [sb/sth]",
+    "definition": "To tolerate something unpleasant without complaining.",
+    "translation": "aguantar, soportar / aguantar, suportar"
+  },
+  {
+    "id": "pv-074",
+    "root": "PUT",
+    "target": "put [sb] up",
+    "definition": "To provide someone with accommodation.",
+    "translation": "alojar a alguien / allotjar algú"
+  },
+  {
+    "id": "pv-075",
+    "root": "TAKE",
+    "target": "take [sb] aback",
+    "definition": "To startle and disconcert someone.",
+    "translation": "desconcertar, pillar por sorpresa a alguien / desconcertar, agafar de sorpresa algú"
+  },
+  {
+    "id": "pv-076",
+    "root": "TAKE",
+    "target": "take after [sb]",
+    "definition": "To resemble an older relative in looks or character.",
+    "translation": "parecerse a, salir a (un familiar) / assemblar-se a (un familiar)"
+  },
+  {
+    "id": "pv-077",
+    "root": "TAKE",
+    "target": "take [sth] back",
+    "definition": "To retract a statement you now regret.",
+    "translation": "retirar lo dicho, retractarse / retirar el que s'ha dit"
+  },
+  {
+    "id": "pv-078",
+    "root": "TAKE",
+    "target": "take [sth] down",
+    "definition": "To dismantle a structure; also, to write something down.",
+    "translation": "desmontar, anotar / desmuntar, anotar"
+  },
+  {
+    "id": "pv-079",
+    "root": "TAKE",
+    "target": "take [sb] in",
+    "definition": "To deceive someone completely.",
+    "translation": "engañar, embaucar a alguien / enganyar algú"
+  },
+  {
+    "id": "pv-080",
+    "root": "TAKE",
+    "target": "take [sth] in",
+    "definition": "To absorb and comprehend information; also, to make a garment narrower.",
+    "translation": "asimilar, comprender, meter (una prenda) / assimilar, comprendre, estrènyer (una peça)"
+  },
+  {
+    "id": "pv-081",
+    "root": "TAKE",
+    "target": "take off",
+    "definition": "To succeed suddenly and rapidly; also, to imitate someone mockingly.",
+    "translation": "despegar, triunfar de golpe, imitar / enlairar-se, triomfar de cop, imitar"
+  },
+  {
+    "id": "pv-082",
+    "root": "TAKE",
+    "target": "take [sb] on",
+    "definition": "To employ someone; also, to compete against them.",
+    "translation": "contratar a alguien, enfrentarse a él / contractar algú, enfrontar-s'hi"
+  },
+  {
+    "id": "pv-083",
+    "root": "TAKE",
+    "target": "take [sth] on",
+    "definition": "To assume a responsibility or workload.",
+    "translation": "asumir (una responsabilidad) / assumir (una responsabilitat)"
+  },
+  {
+    "id": "pv-084",
+    "root": "TAKE",
+    "target": "take [sth] out on [sb]",
+    "definition": "To vent your frustration on someone who is not to blame.",
+    "translation": "pagarlo con alguien, desahogarse con él / pagar-ho amb algú"
+  },
+  {
+    "id": "pv-085",
+    "root": "TAKE",
+    "target": "take to [sb/sth]",
+    "definition": "To develop a liking for someone or something.",
+    "translation": "cogerle cariño a, gustarle a uno / agafar-hi afecte"
+  },
+  {
+    "id": "pv-086",
+    "root": "TAKE",
+    "target": "take to doing [sth]",
+    "definition": "To adopt something as a habit.",
+    "translation": "darle a uno por hacer algo / donar-li a algú per fer alguna cosa"
+  },
+  {
+    "id": "pv-087",
+    "root": "TAKE",
+    "target": "take up [a hobby / space / time]",
+    "definition": "To start a pursuit; also, to occupy space or time.",
+    "translation": "empezar (una afición), ocupar (espacio, tiempo) / començar (una afició), ocupar (espai, temps)"
+  },
+  {
+    "id": "pv-088",
+    "root": "TAKE",
+    "target": "take [sb] up on [an offer]",
+    "definition": "To accept an offer someone has made.",
+    "translation": "aceptarle a alguien (una oferta) / acceptar-li a algú (una oferta)"
+  },
+  {
+    "id": "pv-089",
+    "root": "RUN",
+    "target": "run across / into [sb]",
+    "definition": "To meet someone by chance.",
+    "translation": "toparse con alguien, encontrárselo por casualidad / topar amb algú"
+  },
+  {
+    "id": "pv-090",
+    "root": "RUN",
+    "target": "run after [sb]",
+    "definition": "To chase someone; also, to pursue them romantically.",
+    "translation": "perseguir a alguien, ir detrás de él / perseguir algú, anar-li al darrere"
+  },
+  {
+    "id": "pv-091",
+    "root": "RUN",
+    "target": "run against [sb]",
+    "definition": "To stand against someone in an election.",
+    "translation": "presentarse contra alguien (en unas elecciones) / presentar-se contra algú"
+  },
+  {
+    "id": "pv-092",
+    "root": "RUN",
+    "target": "run [sb/sth] down",
+    "definition": "To disparage someone; also, to knock someone down with a vehicle.",
+    "translation": "criticar, menospreciar, atropellar / criticar, menysprear, atropellar"
+  },
+  {
+    "id": "pv-093",
+    "root": "RUN",
+    "target": "run down",
+    "definition": "Of a battery or an institution: to lose power or fall into decline.",
+    "translation": "descargarse (una batería), venirse abajo / descarregar-se, decaure"
+  },
+  {
+    "id": "pv-094",
+    "root": "RUN",
+    "target": "run into [difficulties / debt]",
+    "definition": "To encounter trouble, or to fall into debt.",
+    "translation": "tropezar con (dificultades), endeudarse / topar amb (dificultats), endeutar-se"
+  },
+  {
+    "id": "pv-095",
+    "root": "RUN",
+    "target": "run out of [sth]",
+    "definition": "To exhaust your supply of something.",
+    "translation": "quedarse sin algo / quedar-se sense alguna cosa"
+  },
+  {
+    "id": "pv-096",
+    "root": "RUN",
+    "target": "run through [sth]",
+    "definition": "To rehearse or review something quickly; also, to squander money.",
+    "translation": "repasar algo, dilapidar (dinero) / repassar, dilapidar"
+  },
+  {
+    "id": "pv-097",
+    "root": "RUN",
+    "target": "run to [an amount / length]",
+    "definition": "To amount to a figure, or to extend to a given length.",
+    "translation": "ascender a, alcanzar (una cifra, una extensión) / ascendir a, arribar a"
+  },
+  {
+    "id": "pv-098",
+    "root": "RUN",
+    "target": "run up [debts / a bill]",
+    "definition": "To accumulate debts or charges.",
+    "translation": "acumular (deudas), dejar a deber / acumular (deutes)"
+  },
+  {
+    "id": "pv-099",
+    "root": "RUN",
+    "target": "run up against [resistance / a problem]",
+    "definition": "To come up against opposition or an unforeseen difficulty.",
+    "translation": "topar con (resistencia, un problema) / topar amb (resistència, un problema)"
+  },
+  {
+    "id": "pv-100",
+    "root": "CALL",
+    "target": "call for [sth]",
+    "definition": "To demand or require something; also, to collect someone on the way.",
+    "translation": "exigir, requerir algo, pasar a recoger a alguien / exigir, requerir, passar a recollir algú"
+  },
+  {
+    "id": "pv-101",
+    "root": "CALL",
+    "target": "call forth [sth]",
+    "definition": "To evoke a reaction or response.",
+    "translation": "suscitar, provocar (una reacción) / suscitar, provocar (una reacció)"
+  },
+  {
+    "id": "pv-102",
+    "root": "CALL",
+    "target": "call [sth] in",
+    "definition": "To summon an expert; also, to demand repayment of a loan.",
+    "translation": "llamar a (un experto), reclamar (un préstamo) / cridar (un expert), reclamar (un préstec)"
+  },
+  {
+    "id": "pv-103",
+    "root": "CALL",
+    "target": "call in on [sb]",
+    "definition": "To pay someone a brief visit.",
+    "translation": "pasar a ver a alguien / passar a veure algú"
+  },
+  {
+    "id": "pv-104",
+    "root": "CALL",
+    "target": "call [sth] off",
+    "definition": "To cancel an event or abandon a course of action.",
+    "translation": "cancelar, suspender algo / cancel·lar, suspendre alguna cosa"
+  },
+  {
+    "id": "pv-105",
+    "root": "CALL",
+    "target": "call on / upon [sb] to do [sth]",
+    "definition": "To formally request or urge someone to act.",
+    "translation": "instar a alguien a hacer algo / instar algú a fer alguna cosa"
+  },
+  {
+    "id": "pv-106",
+    "root": "CALL",
+    "target": "call [sb] out on [sth]",
+    "definition": "To challenge someone publicly over something they have said or done.",
+    "translation": "reprochar públicamente a alguien, ponerlo en evidencia / retreure públicament a algú"
+  },
+  {
+    "id": "pv-107",
+    "root": "CALL",
+    "target": "call [sb] up",
+    "definition": "To telephone someone; also, to conscript them into the armed forces.",
+    "translation": "llamar por teléfono a alguien, llamarlo a filas / trucar algú, cridar-lo a files"
+  },
+  {
+    "id": "pv-108",
+    "root": "FALL",
+    "target": "fall back on [sth]",
+    "definition": "To resort to something kept in reserve when other options fail.",
+    "translation": "recurrir a algo como último recurso / recórrer a alguna cosa com a darrer recurs"
+  },
+  {
+    "id": "pv-109",
+    "root": "FALL",
+    "target": "fall behind with [payments / schedule]",
+    "definition": "To fail to keep up with payments or a timetable.",
+    "translation": "atrasarse con (los pagos, el calendario) / endarrerir-se amb (els pagaments)"
+  },
+  {
+    "id": "pv-110",
+    "root": "FALL",
+    "target": "fall for [sb]",
+    "definition": "To fall in love with someone.",
+    "translation": "enamorarse de alguien, colarse por él / enamorar-se d'algú"
+  },
+  {
+    "id": "pv-111",
+    "root": "FALL",
+    "target": "fall for [a trick / scam]",
+    "definition": "To be taken in by a deception.",
+    "translation": "picar, tragarse (un engaño) / picar, empassar-se (un engany)"
+  },
+  {
+    "id": "pv-112",
+    "root": "FALL",
+    "target": "fall in with [a crowd / a suggestion]",
+    "definition": "To take up with a group; also, to agree to a proposal.",
+    "translation": "juntarse con (malas compañías), aceptar (una sugerencia) / ajuntar-se amb, acceptar"
+  },
+  {
+    "id": "pv-113",
+    "root": "FALL",
+    "target": "fall out with [sb] over [sth]",
+    "definition": "To quarrel with someone and break off relations.",
+    "translation": "pelearse, enemistarse con alguien por algo / barallar-se amb algú per alguna cosa"
+  },
+  {
+    "id": "pv-114",
+    "root": "FALL",
+    "target": "fall through",
+    "definition": "Of a plan or deal: to collapse before completion.",
+    "translation": "irse al traste, fracasar (un plan) / anar-se'n en orris, fracassar"
+  },
+  {
+    "id": "pv-115",
+    "root": "FALL",
+    "target": "fall to [sb] to do [sth]",
+    "definition": "To become someone's duty or responsibility.",
+    "translation": "corresponderle a alguien hacer algo, tocarle / correspondre a algú fer alguna cosa"
+  },
+  {
+    "id": "pv-116",
+    "root": "HOLD",
+    "target": "hold [sth] against [sb]",
+    "definition": "To continue to resent someone for something they did.",
+    "translation": "tenerle algo en cuenta a alguien, guardarle rencor / tenir en compte alguna cosa a algú"
+  },
+  {
+    "id": "pv-117",
+    "root": "HOLD",
+    "target": "hold back from doing [sth]",
+    "definition": "To restrain yourself from doing something.",
+    "translation": "abstenerse, contenerse de hacer algo / abstenir-se de fer alguna cosa"
+  },
+  {
+    "id": "pv-118",
+    "root": "HOLD",
+    "target": "hold [sth] down",
+    "definition": "To keep a job over time; also, to suppress or restrain something.",
+    "translation": "conservar (un empleo), reprimir / conservar (una feina), reprimir"
+  },
+  {
+    "id": "pv-119",
+    "root": "HOLD",
+    "target": "hold forth on [a topic]",
+    "definition": "To speak at tedious length about a subject.",
+    "translation": "perorar, explayarse sobre (un tema) / perorar sobre (un tema)"
+  },
+  {
+    "id": "pv-120",
+    "root": "HOLD",
+    "target": "hold [sth] off",
+    "definition": "To delay something, or to keep a threat at bay.",
+    "translation": "aplazar algo, mantenerlo a raya / ajornar, mantenir a ratlla"
+  },
+  {
+    "id": "pv-121",
+    "root": "HOLD",
+    "target": "hold out for [better terms]",
+    "definition": "To refuse to settle until you get the terms you want.",
+    "translation": "aguantar, insistir hasta lograr (mejores condiciones) / aguantar fins a obtenir (millors condicions)"
+  },
+  {
+    "id": "pv-122",
+    "root": "HOLD",
+    "target": "hold out on [sb]",
+    "definition": "To withhold information or help from someone.",
+    "translation": "ocultarle información a alguien / amagar informació a algú"
+  },
+  {
+    "id": "pv-123",
+    "root": "HOLD",
+    "target": "hold [sth] over [sb]",
+    "definition": "To use knowledge of something as leverage against someone.",
+    "translation": "usar algo como amenaza contra alguien, tenerlo cogido / fer servir alguna cosa com a amenaça contra algú"
+  },
+  {
+    "id": "pv-124",
+    "root": "HOLD",
+    "target": "hold [sb/sth] up",
+    "definition": "To delay someone or something; also, to rob at gunpoint.",
+    "translation": "retrasar, atracar / endarrerir, atracar"
+  },
+  {
+    "id": "pv-125",
+    "root": "HOLD",
+    "target": "hold up under [scrutiny / pressure]",
+    "definition": "To withstand examination or pressure without failing.",
+    "translation": "resistir, aguantar (el escrutinio, la presión) / resistir (l'escrutini, la pressió)"
+  },
+  {
+    "id": "pv-126",
+    "root": "HOLD",
+    "target": "hold with [an idea]",
+    "definition": "To approve of an idea — almost always used in the negative.",
+    "translation": "estar de acuerdo con, aprobar (una idea) / estar d'acord amb (una idea)"
+  },
+  {
+    "id": "pv-127",
+    "root": "LOOK",
+    "target": "look down on [sb]",
+    "definition": "To regard someone as inferior.",
+    "translation": "mirar por encima del hombro a alguien, despreciarlo / mirar algú per damunt de l'espatlla"
+  },
+  {
+    "id": "pv-128",
+    "root": "LOOK",
+    "target": "look in on [sb]",
+    "definition": "To visit someone briefly, especially to check on them.",
+    "translation": "pasar a ver a alguien / passar a veure algú"
+  },
+  {
+    "id": "pv-129",
+    "root": "LOOK",
+    "target": "look into [sth]",
+    "definition": "To investigate a matter.",
+    "translation": "investigar, estudiar algo / investigar alguna cosa"
+  },
+  {
+    "id": "pv-130",
+    "root": "LOOK",
+    "target": "look on / upon [sb/sth] as [sth]",
+    "definition": "To regard someone or something in a particular way.",
+    "translation": "considerar a alguien o algo como / considerar algú o alguna cosa com a"
+  },
+  {
+    "id": "pv-131",
+    "root": "LOOK",
+    "target": "look out for [sb/sth]",
+    "definition": "To keep watch for something; also, to protect someone's interests.",
+    "translation": "estar atento a, velar por / estar a l'aguait de, vetllar per"
+  },
+  {
+    "id": "pv-132",
+    "root": "LOOK",
+    "target": "look over / through [sth]",
+    "definition": "To examine something quickly.",
+    "translation": "revisar, echar un vistazo a algo / revisar, fer una ullada a alguna cosa"
+  },
+  {
+    "id": "pv-133",
+    "root": "LOOK",
+    "target": "look to [sb] for [sth]",
+    "definition": "To rely on someone to provide something.",
+    "translation": "recurrir a alguien en busca de algo, contar con él / recórrer a algú per obtenir alguna cosa"
+  },
+  {
+    "id": "pv-134",
+    "root": "LOOK",
+    "target": "look up to [sb]",
+    "definition": "To admire and respect someone.",
+    "translation": "admirar a alguien, tenerlo como modelo / admirar algú"
+  },
+  {
+    "id": "pv-135",
+    "root": "MAKE",
+    "target": "make away / off with [sth]",
+    "definition": "To steal something and escape with it.",
+    "translation": "llevarse algo, largarse con el botín / endur-se alguna cosa, fugir amb el botí"
+  },
+  {
+    "id": "pv-136",
+    "root": "MAKE",
+    "target": "make for [a place]",
+    "definition": "To head towards a place.",
+    "translation": "dirigirse a (un lugar) / dirigir-se a (un lloc)"
+  },
+  {
+    "id": "pv-137",
+    "root": "MAKE",
+    "target": "make of [sb/sth]",
+    "definition": "To form an opinion about, or interpret, someone or something.",
+    "translation": "opinar de, entender de (algo o alguien) / opinar de, entendre de"
+  },
+  {
+    "id": "pv-138",
+    "root": "MAKE",
+    "target": "make [sth] out",
+    "definition": "To discern something faintly; also, to claim falsely, or to write out a cheque.",
+    "translation": "distinguir algo, pretender, extender (un cheque) / distingir, pretendre, estendre (un xec)"
+  },
+  {
+    "id": "pv-139",
+    "root": "MAKE",
+    "target": "make [sb] out to be [adj / noun]",
+    "definition": "To portray someone as being something they are not.",
+    "translation": "hacer pasar a alguien por, pintarlo como / fer passar algú per"
+  },
+  {
+    "id": "pv-140",
+    "root": "MAKE",
+    "target": "make over [property / assets] to [sb]",
+    "definition": "To transfer property or assets legally to someone.",
+    "translation": "traspasar, ceder (bienes) a alguien / traspassar (béns) a algú"
+  },
+  {
+    "id": "pv-141",
+    "root": "MAKE",
+    "target": "make up for [sth]",
+    "definition": "To compensate for a loss or a shortcoming.",
+    "translation": "compensar algo, resarcir / compensar alguna cosa"
+  },
+  {
+    "id": "pv-142",
+    "root": "MAKE",
+    "target": "make up to [sb]",
+    "definition": "To flatter someone in order to gain their favour.",
+    "translation": "hacerle la pelota a alguien, congraciarse / fer la pilota a algú"
+  },
+  {
+    "id": "pv-143",
+    "root": "STAND",
+    "target": "stand by [sb]",
+    "definition": "To remain loyal to someone in difficulty.",
+    "translation": "apoyar a alguien, no dejarlo tirado / donar suport a algú"
+  },
+  {
+    "id": "pv-144",
+    "root": "STAND",
+    "target": "stand by [a statement / decision]",
+    "definition": "To adhere to something you have said or decided.",
+    "translation": "mantener (lo dicho, una decisión) / mantenir (una decisió)"
+  },
+  {
+    "id": "pv-145",
+    "root": "STAND",
+    "target": "stand down from [a post]",
+    "definition": "To resign from a position or withdraw a candidacy.",
+    "translation": "dimitir de (un cargo), retirarse / dimitir d'(un càrrec)"
+  },
+  {
+    "id": "pv-146",
+    "root": "STAND",
+    "target": "stand for [sth]",
+    "definition": "To represent or symbolize something; also, to tolerate it.",
+    "translation": "significar, representar, tolerar / significar, representar, tolerar"
+  },
+  {
+    "id": "pv-147",
+    "root": "STAND",
+    "target": "stand in for [sb]",
+    "definition": "To act as a substitute for someone.",
+    "translation": "sustituir a alguien, hacer de suplente / substituir algú"
+  },
+  {
+    "id": "pv-148",
+    "root": "STAND",
+    "target": "stand out against [a policy]",
+    "definition": "To resist a policy or trend openly.",
+    "translation": "oponerse abiertamente a (una política) / oposar-se obertament a (una política)"
+  },
+  {
+    "id": "pv-149",
+    "root": "STAND",
+    "target": "stand out from [the crowd]",
+    "definition": "To be conspicuously better or more noticeable than others.",
+    "translation": "destacar entre (la multitud) / destacar entre (la multitud)"
+  },
+  {
+    "id": "pv-150",
+    "root": "STAND",
+    "target": "stand up for [sb/sth]",
+    "definition": "To defend a person or a principle.",
+    "translation": "defender a, dar la cara por / defensar, donar la cara per"
+  },
+  {
+    "id": "pv-151",
+    "root": "STAND",
+    "target": "stand up to [scrutiny / bullying]",
+    "definition": "To withstand examination; also, to confront someone intimidating.",
+    "translation": "resistir (el escrutinio), plantar cara a / resistir, plantar cara a"
+  },
+  {
+    "id": "pv-152",
+    "root": "TURN",
+    "target": "turn [sb] away",
+    "definition": "To refuse someone entry or assistance.",
+    "translation": "rechazar a alguien, negarle la entrada / rebutjar algú, negar-li l'entrada"
+  },
+  {
+    "id": "pv-153",
+    "root": "TURN",
+    "target": "turn [sth] down",
+    "definition": "To reject an offer; also, to reduce the volume or heat.",
+    "translation": "rechazar algo, bajar (el volumen) / rebutjar, abaixar (el volum)"
+  },
+  {
+    "id": "pv-154",
+    "root": "TURN",
+    "target": "turn [sb] in",
+    "definition": "To hand someone over to the police.",
+    "translation": "entregar a alguien a la policía, delatarlo / lliurar algú a la policia, delatar-lo"
+  },
+  {
+    "id": "pv-155",
+    "root": "TURN",
+    "target": "turn in",
+    "definition": "To go to bed.",
+    "translation": "irse a la cama, acostarse / anar-se'n al llit"
+  },
+  {
+    "id": "pv-156",
+    "root": "TURN",
+    "target": "turn out",
+    "definition": "To attend an event in numbers; also, to produce or manufacture.",
+    "translation": "acudir, presentarse, producir / acudir, presentar-se, produir"
+  },
+  {
+    "id": "pv-157",
+    "root": "TURN",
+    "target": "turn out to be [sth]",
+    "definition": "To prove to be the case in the end.",
+    "translation": "resultar ser algo / resultar ser alguna cosa"
+  },
+  {
+    "id": "pv-158",
+    "root": "TURN",
+    "target": "turn to [sb] for [help / advice]",
+    "definition": "To seek help or advice from someone.",
+    "translation": "acudir a alguien en busca de (ayuda) / acudir a algú a la recerca d'(ajuda)"
+  },
+  {
+    "id": "pv-159",
+    "root": "TURN",
+    "target": "turn up",
+    "definition": "To arrive unexpectedly; also, to increase the volume or heat.",
+    "translation": "aparecer, presentarse, subir (el volumen) / aparèixer, presentar-se, apujar (el volum)"
+  },
+  {
+    "id": "pv-160",
+    "root": "PULL",
+    "target": "pull [sth] off",
+    "definition": "To succeed in something difficult against the odds.",
+    "translation": "lograr algo difícil, sacarlo adelante / reeixir en alguna cosa difícil"
+  },
+  {
+    "id": "pv-161",
+    "root": "PULL",
+    "target": "pull out of [a deal / competition]",
+    "definition": "To withdraw from an agreement or a contest.",
+    "translation": "retirarse de (un acuerdo, una competición) / retirar-se d'(un acord, una competició)"
+  },
+  {
+    "id": "pv-162",
+    "root": "PULL",
+    "target": "pull through [an illness / crisis]",
+    "definition": "To survive a serious illness or crisis.",
+    "translation": "recuperarse de, salir adelante / recuperar-se de, sortir-se'n"
+  },
+  {
+    "id": "pv-163",
+    "root": "PULL",
+    "target": "pull together",
+    "definition": "To cooperate in a common effort.",
+    "translation": "arrimar el hombro, trabajar unidos / arrimar l'espatlla, treballar plegats"
+  },
+  {
+    "id": "pv-164",
+    "root": "PULL",
+    "target": "pull [sb] up on [a mistake]",
+    "definition": "To reprimand someone for an error.",
+    "translation": "llamarle la atención a alguien por (un error) / cridar l'atenció a algú per (un error)"
+  },
+  {
+    "id": "pv-165",
+    "root": "BEAR",
+    "target": "bear [sth] out",
+    "definition": "To corroborate a claim with evidence.",
+    "translation": "corroborar, confirmar algo / corroborar alguna cosa"
+  },
+  {
+    "id": "pv-166",
+    "root": "BEAR",
+    "target": "bear up under [strain / pressure]",
+    "definition": "To endure strain without breaking down.",
+    "translation": "aguantar, resistir (la presión) / aguantar (la pressió)"
+  },
+  {
+    "id": "pv-167",
+    "root": "BEAR",
+    "target": "bear with [sb]",
+    "definition": "To be patient with someone.",
+    "translation": "tener paciencia con alguien / tenir paciència amb algú"
+  },
+  {
+    "id": "pv-168",
+    "root": "CARRY",
+    "target": "carry [sth] off",
+    "definition": "To handle something demanding successfully.",
+    "translation": "salir airoso de algo, lograrlo / sortir-se'n amb èxit"
+  },
+  {
+    "id": "pv-169",
+    "root": "CARRY",
+    "target": "carry [sth] out",
+    "definition": "To execute an order, a plan or a piece of research.",
+    "translation": "llevar a cabo, realizar algo / dur a terme alguna cosa"
+  },
+  {
+    "id": "pv-170",
+    "root": "CARRY",
+    "target": "carry [sth] over into [sth]",
+    "definition": "To transfer something into a later period or another context.",
+    "translation": "trasladar algo a, arrastrarlo hasta / traslladar alguna cosa a"
+  },
+  {
+    "id": "pv-171",
+    "root": "CAST",
+    "target": "cast about / around for [a solution / excuse]",
+    "definition": "To search anxiously for something, especially an idea or a pretext.",
+    "translation": "buscar desesperadamente (una solución, una excusa) / cercar desesperadament (una solució)"
+  },
+  {
+    "id": "pv-172",
+    "root": "CAST",
+    "target": "cast [sth] aside",
+    "definition": "To discard something or someone as no longer of use.",
+    "translation": "desechar algo, dejarlo de lado / descartar alguna cosa"
+  },
+  {
+    "id": "pv-173",
+    "root": "DRAW",
+    "target": "draw on / upon [experience / resources]",
+    "definition": "To make use of a store of experience or resources.",
+    "translation": "recurrir a, servirse de (la experiencia) / recórrer a (l'experiència)"
+  },
+  {
+    "id": "pv-174",
+    "root": "DRAW",
+    "target": "draw [sth] out",
+    "definition": "To prolong something beyond its natural length.",
+    "translation": "alargar, prolongar algo / allargar alguna cosa"
+  },
+  {
+    "id": "pv-175",
+    "root": "DRAW",
+    "target": "draw [a contract / document] up",
+    "definition": "To draft a formal document.",
+    "translation": "redactar (un contrato, un documento) / redactar (un contracte)"
+  },
+  {
+    "id": "pv-176",
+    "root": "LAY",
+    "target": "lay [sth] down",
+    "definition": "To establish a rule or principle; also, to relinquish arms.",
+    "translation": "establecer (una norma), deponer (las armas) / establir (una norma), deposar (les armes)"
+  },
+  {
+    "id": "pv-177",
+    "root": "LAY",
+    "target": "lay into [sb]",
+    "definition": "To attack someone verbally or physically.",
+    "translation": "arremeter contra alguien, ponerlo a caldo / envestir contra algú"
+  },
+  {
+    "id": "pv-178",
+    "root": "LAY",
+    "target": "lay off [workers]",
+    "definition": "To make employees redundant.",
+    "translation": "despedir a (trabajadores) / acomiadar (treballadors)"
+  },
+  {
+    "id": "pv-179",
+    "root": "LAY",
+    "target": "lay off doing [sth]",
+    "definition": "To stop doing something irritating.",
+    "translation": "dejar de hacer algo, parar / deixar de fer alguna cosa"
+  },
+  {
+    "id": "pv-180",
+    "root": "LAY",
+    "target": "lay [sth] out",
+    "definition": "To explain something clearly and in order; also, to spend money.",
+    "translation": "exponer algo con claridad, desembolsar / exposar amb claredat, desemborsar"
+  },
+  {
+    "id": "pv-181",
+    "root": "LET",
+    "target": "let [sb] down",
+    "definition": "To disappoint someone by failing to do what they expected.",
+    "translation": "defraudar a alguien, fallarle / decebre algú, fallar-li"
+  },
+  {
+    "id": "pv-182",
+    "root": "LET",
+    "target": "let [sb] in on [a secret]",
+    "definition": "To share a secret or plan with someone.",
+    "translation": "contarle a alguien (un secreto), hacerlo partícipe / fer partícip algú d'(un secret)"
+  },
+  {
+    "id": "pv-183",
+    "root": "LET",
+    "target": "let [sb] off with [a warning / light sentence]",
+    "definition": "To punish someone leniently or not at all.",
+    "translation": "dejar a alguien con (un aviso), no castigarlo / deixar-ho estar amb (un advertiment)"
+  },
+  {
+    "id": "pv-184",
+    "root": "STRIKE",
+    "target": "strike out at [sb]",
+    "definition": "To lash out at someone, verbally or physically.",
+    "translation": "arremeter contra alguien / envestir contra algú"
+  },
+  {
+    "id": "pv-185",
+    "root": "STRIKE",
+    "target": "strike up [a conversation / friendship]",
+    "definition": "To begin a conversation or friendship, often with a stranger.",
+    "translation": "entablar (una conversación, una amistad) / entaular (una conversa, una amistat)"
+  },
+  {
+    "id": "pv-186",
+    "root": "CATCH",
+    "target": "catch on",
+    "definition": "To become popular; also, to grasp what is going on.",
+    "translation": "cuajar, ponerse de moda, pillarlo / quallar, posar-se de moda, entendre-ho"
+  },
+  {
+    "id": "pv-187",
+    "root": "CATCH",
+    "target": "catch up with [sb]",
+    "definition": "Of past actions: to have consequences for someone at last.",
+    "translation": "pasarle factura a alguien, alcanzarlo / passar factura a algú"
+  },
+  {
+    "id": "pv-188",
+    "root": "PASS",
+    "target": "pass for [sb/sth]",
+    "definition": "To be accepted as something or someone you are not.",
+    "translation": "pasar por (algo o alguien) / passar per"
+  },
+  {
+    "id": "pv-189",
+    "root": "PASS",
+    "target": "pass [sth] off as [sth]",
+    "definition": "To misrepresent something as being something else.",
+    "translation": "hacer pasar algo por (otra cosa) / fer passar alguna cosa per"
+  },
+  {
+    "id": "pv-190",
+    "root": "PASS",
+    "target": "pass [an opportunity] up",
+    "definition": "To decline or miss an opportunity.",
+    "translation": "dejar pasar (una oportunidad) / deixar passar (una oportunitat)"
+  }
+]

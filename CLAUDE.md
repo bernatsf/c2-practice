@@ -11,6 +11,9 @@ or engine code.
   source of truth for all items. It is imported directly as a module
   (`resolveJsonModule`) and adapted to the internal `Question` shape in
   `lib/seed.ts`.
+- **Phrasal-verb database:** `data/phrasal_verbs.json` — a **separate** bank for
+  the standalone drill at `/phrasal`. Different shape, different storage keys,
+  no ELO. See §7 before touching it.
 - **No backend, no database, no auth.** All user state lives in browser
   `localStorage` via `lib/localRepository.ts`.
 - **No test framework and no ESLint config.** Do not run `next lint` — it drops
@@ -34,9 +37,10 @@ npm run build
 Both must exit 0 before committing. `npm run build` also catches prerender
 failures that `tsc` alone will not.
 
-`npm run build` now runs `npm run validate:json` first, so a structurally
-broken bank fails the build before Next.js starts. To check the bank on its
-own, without a full build:
+`npm run build` now runs `npm test` first, so a structurally broken bank fails
+the build before Next.js starts. `npm test` validates **both** banks — the
+question bank and the phrasal-verb bank. To check them on their own, without a
+full build:
 
 ```bash
 npm test
@@ -216,3 +220,44 @@ the data — write the clean answer and let the grader normalise.
   the JSON in isolation misses mapping bugs like the fallback in §3.
 - Commit only after the §2 gate passes. Report failures with their output;
   never describe unverified work as verified.
+
+## 7. The phrasal-verb drill bank — `data/phrasal_verbs.json`
+
+A **separate** bank powering the standalone drill at `/phrasal`. It is not part
+of the exam paper: no `part`, no `category`, no ELO difficulty, and it must
+never be merged into `cpe_use_of_english.json` or served by `lib/queue.ts`.
+
+```json
+{
+  "id": "pv-021",
+  "root": "SET",
+  "target": "set about doing [sth]",
+  "definition": "To begin a task in an energetic and purposeful way.",
+  "translation": "empezar a hacer algo, ponerse a / posar-se a fer alguna cosa"
+}
+```
+
+- **IDs** are sequential (`pv-001`…) and **append-only**. `cpe.phrasal.srs` is
+  keyed by id, so inserting an item mid-list silently reassigns the learner's
+  schedule to the wrong verb. Never renumber, never reuse.
+- **`root`** is uppercase and **must be the first word of `target`** — the Root
+  Matrix files items by it. The validator enforces this.
+- **`target`** keeps its markers. `[sth]`, `[sb]`, `[an amount]` mark optional
+  argument slots; `a / b` marks interchangeable particles. Grammatical markers
+  that are part of the pattern (`doing`, `to do`) stay **outside** brackets,
+  because they are required. A slash **inside** brackets (`[sb/sth]`) is prose
+  and is never treated as alternation.
+- **`definition`** is a concise C2 English gloss. Sense disambiguators from the
+  source list (`(criticize)`, `(imply / reach)`) belong here, not in `target`.
+- **`translation`** is `castellano / català`, in that order, separated by `" / "`.
+  The validator rejects a missing half — a one-language translation is invisible
+  in the UI.
+
+**Never duplicate the answer-matching rules in the data.** `lib/phrasal.ts`
+already handles bracket-optionality, slash alternation, case, punctuation, a
+leading `to `, and `someone`/`something` → `sb`/`sth`. Write the clean target
+and let `acceptedForms()` expand it.
+
+Regenerate the whole file from its authored table with `npm run build:phrasal`;
+validate it on its own with `npm run validate:phrasal`. Both banks are gated by
+`npm test`.
