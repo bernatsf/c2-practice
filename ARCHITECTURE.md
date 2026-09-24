@@ -125,8 +125,9 @@ Constants: `DAY = 86_400_000 ms`, `MIN_EASE 1.3`, `MAX_EASE 3.0`, `START_EASE 2.
 
 - `normalize(s)`: lowercase, trim, strip `.,;:!?"`, collapse whitespace.
 - **Part 1:** answer is an option key; accepts either the key or the option text (normalizes both). Builds `accepted` display string as `"A — text"`.
-- **Part 4:** matches normalized user input against any `answers`. On mismatch, returns exam-relevant `message`: if the `keyWord` is absent → "Must use the key word … unchanged."; if word count outside `min–max` → "Answer must be M–N words (you used X)." Word count uses `normalize` then split on spaces.
-- **Parts 2 & 3:** `accepted.some(a => normalize(a) === user)`.
+- **Comparison forms:** `matchForms(s)` = `normalize` + contraction expansion + dialect folding. Ambiguous contractions yield every reading (`'d` → would/had, `'s` → is/has), and two answers match if any of their forms coincide. `normalizeForMatch(s)` is the first (canonical) form, used for word counting.
+- **Part 4:** the key word gate runs **first, on every submission**: `containsKeyWord(raw, keyWord)` must hold (whole word, case-insensitive, contractions count as their full form) or the answer fails with "Must use the key word … unchanged." — even if it equals a stored answer. Then matches user input against any `answers` permutation; a word count outside `min–max` → "Answer must be M–N words (you used X)." The validator uses the same `containsKeyWord`.
+- **Parts 2 & 3:** match if any `matchForms` of the input equals any form of an accepted permutation.
 - Returns `GradeResult { correct, accepted, message? }`.
 
 ## 10. Persistence (`lib/repository.ts` + `lib/localRepository.ts`)

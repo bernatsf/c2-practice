@@ -13,9 +13,8 @@ export function normalize(s: string): string {
 // Common English contractions → full-text expansions. Used ONLY to compare
 // answers: per Cambridge marking, "didn't" and "did not" are equivalent, so a
 // user typing either form should match an accepted answer stored in either form.
-// Ambiguous forms ('s, 'd) are mapped to their most frequent expansion; because
-// the map is applied to both the user input and the accepted answer, the match
-// stays correct as long as both sides resolve the same way.
+// Every entry here has exactly one reading; ambiguous forms live in
+// AMBIGUOUS_CONTRACTIONS below.
 const CONTRACTIONS: Record<string, string> = {
   "didn't": "did not",
   "don't": "do not",
@@ -39,14 +38,6 @@ const CONTRACTIONS: Record<string, string> = {
   "mightn't": "might not",
   "oughtn't": "ought not",
   "daren't": "dare not",
-  "it's": "it is",
-  "he's": "he is",
-  "she's": "she is",
-  "that's": "that is",
-  "there's": "there is",
-  "here's": "here is",
-  "what's": "what is",
-  "who's": "who is",
   "let's": "let us",
   "i'm": "i am",
   "you're": "you are",
@@ -62,23 +53,47 @@ const CONTRACTIONS: Record<string, string> = {
   "she'll": "she will",
   "we'll": "we will",
   "they'll": "they will",
-  "i'd": "i would",
-  "you'd": "you would",
-  "he'd": "he would",
-  "she'd": "she would",
-  "we'd": "we would",
-  "they'd": "they would",
 };
 
-// Expand contractions token-by-token. Expects an already-normalized string
-// (lowercase, single-spaced); apostrophes are preserved by normalize(), and
-// curly apostrophes are folded to straight ones first.
-function expandContractions(s: string): string {
-  return s
-    .replace(/[’‘`]/g, "'")
-    .split(" ")
-    .map((token) => CONTRACTIONS[token] ?? token)
-    .join(" ");
+// Contractions with more than one full form. "'d" is "would" OR "had" ("we'd
+// reserved" is past perfect, "we'd rather" is not); "'s" is "is" OR "has"
+// ("he's gone"). Forcing one reading turned "we'd reserved" into the
+// ungrammatical "we would reserved", so a candidate who contracted "had" could
+// never match "we had reserved". Instead every reading is kept as a candidate
+// form and an answer matches if ANY reading does. The first reading is the
+// canonical one used by normalizeForMatch(); all readings have the same word
+// count, so word-limit checks are unaffected by which one is chosen.
+const AMBIGUOUS_CONTRACTIONS: Record<string, string[]> = {};
+for (const subject of ["i", "you", "he", "she", "it", "we", "they", "who", "that", "there"]) {
+  AMBIGUOUS_CONTRACTIONS[`${subject}'d`] = [`${subject} would`, `${subject} had`];
+}
+for (const subject of ["he", "she", "it", "that", "there", "here", "what", "who"]) {
+  AMBIGUOUS_CONTRACTIONS[`${subject}'s`] = [`${subject} is`, `${subject} has`];
+}
+
+// Hard cap on readings per answer, so a pathological input full of ambiguous
+// contractions cannot blow up combinatorially (2^n). Real answers have ≤ 2.
+const MAX_CONTRACTION_READINGS = 16;
+
+// Expand contractions token-by-token into every possible reading. Expects an
+// already-normalized string (lowercase, single-spaced); apostrophes are
+// preserved by normalize(), and curly apostrophes are folded to straight ones
+// first. The first element is always the canonical reading.
+function expandContractions(s: string): string[] {
+  let readings = [""];
+  for (const token of s.replace(/[’‘`]/g, "'").split(" ")) {
+    const options = AMBIGUOUS_CONTRACTIONS[token] ?? [CONTRACTIONS[token] ?? token];
+    const next: string[] = [];
+    for (const prefix of readings) {
+      for (const option of options) {
+        if (next.length < MAX_CONTRACTION_READINGS) {
+          next.push(prefix === "" ? option : `${prefix} ${option}`);
+        }
+      }
+    }
+    readings = next;
+  }
+  return readings;
 }
 
 // Cambridge treats certain dialect/spelling variants as interchangeable. Each
@@ -102,11 +117,36 @@ function applyDialectEquivalents(s: string): string {
   return out;
 }
 
-// Comparison-only normalization: normalize() plus contraction expansion plus
-// dialect folding. Order matters — contraction expansion runs first so its
-// output (e.g. "cannot") is visible to the dialect rules.
+// Every comparison form of a string: normalize() plus contraction expansion
+// (one entry per reading of an ambiguous contraction) plus dialect folding.
+// Order matters — contraction expansion runs first so its output (e.g.
+// "cannot") is visible to the dialect rules. The first entry is canonical.
+export function matchForms(s: string): string[] {
+  return Array.from(new Set(expandContractions(normalize(s)).map(applyDialectEquivalents)));
+}
+
+// The single canonical comparison form (first reading of any ambiguous
+// contraction). Fine for word counting, where every reading has the same
+// length; use matchForms()/formsOverlap() when deciding whether two answers
+// are equal, so "we'd" can match both "we would" and "we had".
 export function normalizeForMatch(s: string): string {
-  return applyDialectEquivalents(expandContractions(normalize(s)));
+  return matchForms(s)[0];
+}
+
+function formsOverlap(a: string[], b: string[]): boolean {
+  return a.some((form) => b.includes(form));
+}
+
+// Cambridge Part 4 rule: the key word must appear in the answer UNCHANGED.
+// True when some reading of the answer contains the key word as a whole word.
+// Case-insensitive (an answer may start a sentence), and a contraction counts
+// as its full form, so "wish we'd reserved" contains key word HAD. An inflected
+// or absent key word ("wished", "hads") fails.
+export function containsKeyWord(answer: string, keyWord: string): boolean {
+  // Padding with spaces gives whole-word matching that also works when the key
+  // itself expands to two words (WON'T → "will not").
+  const keyForms = matchForms(keyWord).map((key) => ` ${key} `);
+  return matchForms(answer).some((form) => keyForms.some((key) => ` ${form} `.includes(key)));
 }
 
 // Expand a stored answer's optional bracketed words into every concrete
@@ -157,9 +197,9 @@ export function grade(q: Question, raw: string): GradeResult {
 
   // Part 1: answer is an option key (A–D). Accept either the key or the text.
   if (q.part === 1) {
-    const userMatch = normalizeForMatch(raw);
+    const userForms = matchForms(raw);
     const correctKey = normalize(accepted[0]);
-    const opt = q.options?.find((o) => normalizeForMatch(o.text) === userMatch);
+    const opt = q.options?.find((o) => formsOverlap(matchForms(o.text), userForms));
     const correct = user === correctKey || (opt ? normalize(opt.key) === correctKey : false);
     const correctText = q.options?.find((o) => normalize(o.key) === correctKey)?.text;
     return {
@@ -172,14 +212,21 @@ export function grade(q: Question, raw: string): GradeResult {
   if (q.part === 4) {
     const min = q.minWords ?? 3;
     const max = q.maxWords ?? 8;
-    const key = q.keyWord ? normalize(q.keyWord) : null;
 
-    const userMatch = normalizeForMatch(raw);
+    // The key word gate runs FIRST and applies to every submission, matched or
+    // not. It checks the user's own text, and a matched answer is by
+    // definition equal to that text, so a stored answer that omits or inflects
+    // the key word can never be credited either.
+    if (q.keyWord && !containsKeyWord(raw, q.keyWord)) {
+      return { correct: false, accepted, message: `Must use the key word "${q.keyWord}" unchanged.` };
+    }
+
+    const userForms = matchForms(raw);
 
     // Expand any optional bracketed words so each accepted answer contributes
     // all of its concrete permutations, then find the one the user matched.
     const permutations = accepted.flatMap(expandOptionalWords);
-    const matched = permutations.find((p) => normalizeForMatch(p) === userMatch);
+    const matched = permutations.find((p) => formsOverlap(matchForms(p), userForms));
 
     if (matched) {
       // The word limit is enforced against the permutation that actually
@@ -191,9 +238,6 @@ export function grade(q: Question, raw: string): GradeResult {
 
     // No match → give the most exam-relevant feedback, based on the raw input.
     const n = wordCount(raw);
-    if (key && !user.split(" ").includes(key)) {
-      return { correct: false, accepted, message: `Must use the key word "${q.keyWord}" unchanged.` };
-    }
     if (n < min || n > max) {
       return { correct: false, accepted, message: `Answer must be ${min}–${max} words (you used ${n}).` };
     }
@@ -203,8 +247,8 @@ export function grade(q: Question, raw: string): GradeResult {
   // Parts 2 & 3: the accepted array holds spelling/variant forms. Expand any
   // optional bracketed words too, so "(...)" notation works uniformly across
   // every part and every string in the array.
-  const userMatch = normalizeForMatch(raw);
+  const userForms = matchForms(raw);
   const permutations = accepted.flatMap(expandOptionalWords);
-  const correct = permutations.some((a) => normalizeForMatch(a) === userMatch);
+  const correct = permutations.some((a) => formsOverlap(matchForms(a), userForms));
   return { correct, accepted };
 }

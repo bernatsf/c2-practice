@@ -34,7 +34,7 @@
 import { readFileSync } from "node:fs";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { expandOptionalWords, normalizeForMatch } from "../lib/grading";
+import { containsKeyWord, expandOptionalWords, normalizeForMatch } from "../lib/grading";
 
 // Defaults declared on `Question` in lib/types.ts. `lib/seed.ts` does not map
 // per-item overrides out of the JSON, so these apply to every Part 4 item.
@@ -251,7 +251,8 @@ function checkPart4(items: RawItem[], out: Violation[]): number {
           out.push({ check: "PART 4", id, lines });
         }
 
-        if (key !== "" && !normalised.split(" ").includes(key)) {
+        // The same predicate grade() gates every Part 4 submission on.
+        if (key !== "" && !containsKeyWord(permutation, rawKey)) {
           const lines = [`answer "${answer}"`];
           if (permutation !== answer) lines.push(`permutation "${permutation}"`);
           lines.push(`does not contain the key word "${rawKey}" as a whole word`);

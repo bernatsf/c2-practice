@@ -22,8 +22,12 @@ interface RawItem {
 const OPTION_KEYS = ["A", "B", "C", "D", "E", "F"];
 
 // Normalise the string|array correctAnswer shape to the internal answers array.
+// Always returns a FLAT string[]: an answer that is already an array is used
+// as-is, never wrapped again, and any accidental nesting in the JSON is
+// flattened — a string[][] would make every multi-answer item unmatchable.
 function asAnswerArray(correctAnswer: string | string[]): string[] {
-  return Array.isArray(correctAnswer) ? correctAnswer : [correctAnswer];
+  const list: unknown[] = Array.isArray(correctAnswer) ? correctAnswer : [correctAnswer];
+  return list.flat(Infinity).filter((a): a is string => typeof a === "string");
 }
 
 function mapCategory(raw: string): Category {
